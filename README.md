@@ -1,0 +1,2 @@
+# BrainDump
+Obsidian Brain Dump
