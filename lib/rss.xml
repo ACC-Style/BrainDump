@@ -1,4 +1,77 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 18:17:45 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 18:17:43 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 18:54:11 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 18:54:09 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[2024 Week 36]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br>
+summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
+| <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>About ACC
+<br><br>
+<br>About ACC and the Root Branching Page Problem
+<br>CCKE  completionSeptember 06, 2024
+<br><a data-href="NCD Academy" href="https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a>  completionSeptember 06, 2024
+<br>Presenting at EDSC Meeting  completionSeptember 06, 2024
+<br>Pain Points - ACC.org  completionSeptember 06, 2024
+<br><br>
+<br>Gala Button Paths <a data-href="75th Gala" href="https://acc-style.github.io/BrainDump/work/acc/projects/75th-gala.html" class="internal-link" target="_self" rel="noopener">75th Gala</a>
+<br>ECSD Meeting Collateral
+<br>Taxonomy Use Cases
+<br>Error Handling on ACC <a data-href="Error Handling" href="https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html" class="internal-link" target="_self" rel="noopener">Error Handling</a>
+<br><a data-href="AI and the ACC" href="https://acc-style.github.io/BrainDump/work/acc/projects/ai-and-the-acc.html" class="internal-link" target="_self" rel="noopener">AI and the ACC</a>
+<br><br>
+<br><a data-href="Member Sections" href="https://acc-style.github.io/BrainDump/work/acc/projects/member-sections.html" class="internal-link" target="_self" rel="noopener">Member Sections</a> |  Deep Dive into Evergreen Pages
+<br>Guideline <a data-href="Algorithm Design System" href="https://acc-style.github.io/BrainDump/work/acc/projects/algorithm-design-system.html" class="internal-link" target="_self" rel="noopener">Algorithm Design System</a>
+<br>Current Member | Hypothesis 2
+<br><br>
+<br><a data-href="Member Sections" href="https://acc-style.github.io/BrainDump/work/acc/projects/member-sections.html" class="internal-link" target="_self" rel="noopener">Member Sections</a> |  Deep Dive into Evergreen Pages
+<br>Guideline Algorithms
+<br>Current Member | Hypothesis 2
+<br><a data-href="75th Gala" href="https://acc-style.github.io/BrainDump/work/acc/projects/75th-gala.html" class="internal-link" target="_self" rel="noopener">75th Gala</a> Buttons
+<br>Tickets Need to be Made in JIRA
+
+<br>Accordion Improvement
+<br>Personalization of Sections &amp; Can this be a Product Based Feature?
+<br>
+
+
+<br><br>
+<br><a data-href="CCKE" href="https://acc-style.github.io/BrainDump/work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener">CCKE</a> - Waiting on Email Notifications, and the BL Touch Base
+<br><a data-href="NCD Academy" href="https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a> - Finished work ready to represent
+<br><a data-href="Advocacy" href="https://acc-style.github.io/BrainDump/work/acc/projects/advocacy.html" class="internal-link" target="_self" rel="noopener">Advocacy</a> - with <a data-href="Jackie Pysarchuk" href="https://acc-style.github.io/BrainDump/_coworkers/jackie-pysarchuk.html" class="internal-link" target="_self" rel="noopener">Jackie Pysarchuk</a> I have passed off a starting point with this document <a data-tooltip-position="top" aria-label="https://whimsical.com/acc-advocacy-website-site-map-5EgCrw9PesBw4JuqQYgZxb" rel="noopener" class="external-link" href="https://whimsical.com/acc-advocacy-website-site-map-5EgCrw9PesBw4JuqQYgZxb" target="_blank">Whimsical</a> she wants to go through the sub pages and work through the next part for strategic reason before collaborating again. 
+<br>CMP - Waiting for BL
+<br>Careers - Waiting on Green Light to start building out patterns 
+<br><br><br>
+<br>Meetings Got in the way
+<br>Worked on NCD Academy with Rowena and Jackie made good progress and finished up the Grey box designs on the Project. <a data-href="NCD Academy" href="https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a>
+<br>Did a brain dump with <a data-href="Diana H." href="https://acc-style.github.io/BrainDump/Diana H." class="internal-link" target="_self" rel="noopener">Diana H.</a> on the topic of ACC redesign and shared the <a data-href="PainPoints" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/painpoints.html" class="internal-link" target="_self" rel="noopener">PainPoints</a>
+<br>Did a small look at how to shape the site for consumption for AI <a data-tooltip-position="top" aria-label="%5Bhttps://enterprise-knowledge.com/how-to-prepare-content-for-ai/%5D(https://enterprise-knowledge.com/how-to-prepare-content-for-ai/)" rel="noopener" class="external-link" href="https://acc-style.github.io/BrainDump/[https://enterprise-knowledge.com/how-to-prepare-content-for-ai/](https://enterprise-knowledge.com/how-to-prepare-content-for-ai/)" target="_blank">AI Building Guidance</a>
+<br>Read some great Articles from <a data-href="Rowena Enatsky" href="https://acc-style.github.io/BrainDump/_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener">Rowena Enatsky</a> from our new favorite product Whimsical
+
+<br><a data-tooltip-position="top" aria-label="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html" rel="noopener" class="external-link" href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html" target="_blank">The product discovery process</a>
+
+
+<br>
+“If Henry Ford had asked people what they wanted, they would have said faster horses.” - Steve Jobs
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024,-week-36.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024, Week 36.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:53:50 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ The site is getting old time for a new coat of paint.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:41:46 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>How should the College start looking at and embracing AI<br><br>AI is not going anywhere and members want to know where we can go with AI. <br><br>
+<br>Outline: 
+<br><br><a rel="noopener" class="external-link" href="https://enterprise-knowledge.com/how-to-prepare-content-for-ai/" target="_blank">https://enterprise-knowledge.com/how-to-prepare-content-for-ai/</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ai-and-the-acc.html</link><guid isPermaLink="false">Work/ACC/Projects/AI and the ACC.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:30:26 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>The Algorithms built from our Guidelines have no current standard. After some UX research we have discovered our members are starting to turn to other offerings and we want to apply some a Design System to attempt to modernize our Algorithms.<br><br>
+<br>Improving the overall Design principles of our algorithms will make our designs more useful and also win back some users.
+<br><br>
+<br>Research
+<br>Surveys with Users
+<br>Establish a basic Framing of the design system
+
+<br>Framing
+<br>Legends
+<br>how to represent different decisions and qualitative data on the design
+<br>citing the document and branding it.
+
+
+<br><br>
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/algorithm-design-system.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm Design System.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:53:08 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:24:48 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Working toward a consistent offering of content and features for the Member Section]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:36:17 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  build a landing page to the 75th Gala]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/75th-gala.html</link><guid isPermaLink="false">Work/ACC/Projects/75th Gala.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/about-acc.html</link><guid isPermaLink="false">Work/ACC/Projects/About ACC.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  <br><br>
@@ -10,43 +83,8 @@
 <br><br>
 <br>Additional Notes: 
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/advocacy.html</link><guid isPermaLink="false">Work/ACC/Projects/Advocacy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  WIth 19k closing down we need to look at Error Handling]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- A sponsor of the product wants to hit a certain number of video watches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:17:25 GMT</pubDate></item><item><title><![CDATA[2024 Week 36]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br>
-summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
-| <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>About ACC
-<br><br>
-<br>About ACC and the Root Branching Page Problem
-<br><br>
-<br>Gala Button Paths <a data-href="75th Gala" href="https://acc-style.github.io/BrainDump/work/acc/projects/75th-gala.html" class="internal-link" target="_self" rel="noopener">75th Gala</a>
-<br>ECSD Meeting Collateral
-<br>Taxonomy Use Cases
-<br>Error Handling on ACC <a data-href="Error Handling" href="https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html" class="internal-link" target="_self" rel="noopener">Error Handling</a>
-<br><br>
-<br>CCKE - Pre Phase 1 Changes 
-<br>Member Sections |  Deep Dive into Evergreen Pages
-<br>Guidline Algorithms
-<br>Current Member | Hypothesis 2
-<br><br>
-<br>NCD Academy
-<br>Advocacy
-<br>CMP
-<br>Careers
-<br><br><br>
-<br>Meetings Got in the way
-<br>Worked on NCD Academy with Rowena and Jackie made good progress and finished up the Grey box designs on the Project. <a data-href="NCD Academy" href="https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a>
-<br>Did a brain dump with <a data-href="Diana H." href="https://acc-style.github.io/BrainDump/_sponsor/diana-h..html" class="internal-link" target="_self" rel="noopener">Diana H.</a> on the topic of ACC redesign and shared the <a data-href="PainPoints" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/painpoints.html" class="internal-link" target="_self" rel="noopener">PainPoints</a>
-<br>Did a small look at how to shape the site for consumption for AI <a data-tooltip-position="top" aria-label="%5Bhttps://enterprise-knowledge.com/how-to-prepare-content-for-ai/%5D(https://enterprise-knowledge.com/how-to-prepare-content-for-ai/)" rel="noopener" class="external-link" href="https://acc-style.github.io/BrainDump/[https://enterprise-knowledge.com/how-to-prepare-content-for-ai/](https://enterprise-knowledge.com/how-to-prepare-content-for-ai/)" target="_blank">AI Building Guidance</a>
-<br>Read some great Articles from <a data-href="Rowena Enatsky" href="https://acc-style.github.io/BrainDump/_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener">Rowena Enatsky</a> from our new favorite product Whimsical
-
-<br><a data-tooltip-position="top" aria-label="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html" rel="noopener" class="external-link" href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html" target="_blank">The product discovery process</a>
-
-
-<br>
-“If Henry Ford had asked people what they wanted, they would have said faster horses.” - Steve Jobs
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024,-week-36.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024, Week 36.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:07:45 GMT</pubDate></item><item><title><![CDATA[Branding Controls]]></title><description><![CDATA[ 
+ A sponsor of the product wants to hit a certain number of video watches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:17:25 GMT</pubDate></item><item><title><![CDATA[Branding Controls]]></title><description><![CDATA[ 
  <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/branding-controls.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Branding Controls.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:50:58 GMT</pubDate></item><item><title><![CDATA[Donations]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/donations.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Donations.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:42:26 GMT</pubDate></item><item><title><![CDATA[Member Directory]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/member-directory.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Member Directory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:45:09 GMT</pubDate></item><item><title><![CDATA[Membership Renewal]]></title><description><![CDATA[ 
@@ -1424,8 +1462,7 @@ References for Article Types: <a data-tooltip-position="top" aria-label="https:/
 <br>Your exam will be open for 31.5 hours from when you started.<br>
 (7.5 hours of test plus a max of 24 hours of break). 
 <br>Your exam must completed within  the exam window
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke/content-rewrite.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/Content Rewrite.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:21 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- The site is getting old time for a new coat of paint.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:28 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke/content-rewrite.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/Content Rewrite.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:21 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
  Mobile App with 3D rendered videos of the heart]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 360.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:51:17 GMT</pubDate></item><item><title><![CDATA[Current Working Projects]]></title><description><![CDATA[ 
  <br><br><br><br><br><br>Metadata
 
