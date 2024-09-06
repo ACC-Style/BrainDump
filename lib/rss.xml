@@ -1,152 +1,52 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 15:38:05 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 15:38:04 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- A sponsor of the product wants to hit a certain number of video watches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 15:37:55 GMT</pubDate></item><item><title><![CDATA[PainPoints]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 18:17:45 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 18:17:43 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ build a landing page to the 75th Gala]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/75th-gala.html</link><guid isPermaLink="false">Work/ACC/Projects/75th Gala.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/about-acc.html</link><guid isPermaLink="false">Work/ACC/Projects/About ACC.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  <br><br>
-<br>Hard to find
-<br>Slow to load
-<br>Not up to date
-<br>Login 
-<br>Product Life Cycle from a user point of view (buy, use, renew, extract credits)
+<br>Pages before Leg Conf
 <br><br>
-<br>How useful is the Main Nav (Clinical Topics)
-<br>Latest in Cardiology (Doesn't Mean anything it is a junk drawer)
-<br>how useful is  Search on Site if everyone is using google
-<br>Lack of enforcement of member value with out pay wall. 
-<br>Personalization - Give value to login in!!!!
-<br>Content is written a dated and not directed way when dealing with brochureware, products any that is not science
-
-<br>We speak to everyone which means our voice is not compelling to anyone.
-
-
-<br>Not Mobile Friendly
-<br>Duplicative Content (Confusing for users and a drain on resources)
-
-<br>Articles, Content, Products, and Derivatives
-<br>Confusing "Like" Products.
-
-<br>CCKE
-<br>Webinar vs Online Course
-<br>Key Points vs Top Ten
-<br>ASCVD RISK (Apps, Excel, CardioSmart HHRC, tools.acc.org )
-
-
-
-
-<br>Not Accessible 
-
-<br>Structure Aria
-<br>Brand Color Issues
-<br>Image Usage with Text
-<br>SEM/SEO
-<br>Find-ability
-<br>Promotion
-<br>STRUCTURED Data &amp; Content
-<br>Analytics Funneling
-
-
-<br>No clear division between Enterprise Domains.
-
-<br>Clear Usage, Focus of Efforts, Reasons to Deploy within each Domain. 
-
-<br>Why should something be found in JACC and not ACC or CardioSmart. 
-
-
-
-
-<br>Central Login with our Family of Products. 
-
-<br>Cross walking our Enterprise is a jarring. 
-
-
-<br>No structural plans for how to scale content onto the site. 
-<br>Disjointed implementation of Design. (Lack of Creative Direction Enforcement) 
-
-<br>Need ACC to have enough built out so we don't run into "it needs to be NEW UI"
-<br>Need a process to "Accept new UI"
-<br>Need to know who and what is being built so we can police it. (UX and CS)
-<br>Need the power to enforce. We can be overruled.
-
-
-<br>Maintenance Issue (slow to fix, slow to change)
-
-<br>Resources limitations causes errors and fixes to languish for weeks to even years.
-
-<br>Grid Box Error
-<br>Membership Section Announcements
-<br>SWG improvements
-<br>Arches Conversion
-<br>Forsee errors should make a jira hot fix.
-
-
-
-
-<br>Pain Points are training users to alter their behavior. 
-
-<br>Mobile is painful so they use desktops
-<br>Purchased Product Entry Points are hard to find so users go back to the original purchase page
-<br>Nothing changes when I login so why should I.
-<br>Science is hard to find so they go somewhere else....
-
-
-<br>Load Times
-
-<br>Optimization of Code, Loaded Content to Page, Slow to Paint Page.  
-
-<br>Still looking at 4-6 seconds to load official standard of the web is .1
-
-
-
-
-<br>Back End Editing is Painful
-
-<br>Components are hard to find, organization is confused and mixed with legacy and arches and never use.
-<br>Components need a combination of Experience Editor and Detail View
-<br>SiteCore likes to alter and "lint" html between Source and WYSIWYG
-<br>I don't know if this is a sitecore problem or an us problem.
-
-
-<br>No real way to test (from a base setup)
-
-<br>A/B
-<br>Funnel Tracking 
-
-
-<br>We have branching pages that give no value besides wiring the pages together
-<br>Orphan Pages from the site experience
-<br>FIX All Foresee Bugs
-<br>Phase 2 and Maintenance is a Unicorn.
-<br>Out of the list above what is a Content, Design, Process, Technical issues?<br><br><br>
-<br>A|B Testing with content and design
-<br>Back End/ Editing
-<br>Loading Times
-<br>Dev Time
-<br>Personalization
+<br>Hypothesis: 
 <br><br>
-<br>Duplicative
-<br>Writing Style
-<br>Accessibility
+<br>**Outline
 <br><br>
-<br>Personalization
-<br>Member Benefits
-<br>Guided Experience based on Purchase Life Cycle.
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/advocacy.html</link><guid isPermaLink="false">Work/ACC/Projects/Advocacy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ WIth 19k closing down we need to look at Error Handling]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:15:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ A sponsor of the product wants to hit a certain number of video watches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:17:25 GMT</pubDate></item><item><title><![CDATA[2024 Week 36]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br>
+summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
+| <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>About ACC
 <br><br>
-<br>Changes are are jarring
-<br>Consistency is good
-<br>New experience is always hated by someone
-<br>What is the scope of the Redesign. Are we just starting over? are we keeping with best patterns and applying consistency? Are we just removing the dead weight and fixing problems?
+<br>About ACC and the Root Branching Page Problem
 <br><br>
-<br>Duplicity
-<br>SEO/SEM
+<br>Gala Button Paths <a data-href="75th Gala" href="https://acc-style.github.io/BrainDump/work/acc/projects/75th-gala.html" class="internal-link" target="_self" rel="noopener">75th Gala</a>
+<br>ECSD Meeting Collateral
+<br>Taxonomy Use Cases
+<br>Error Handling on ACC <a data-href="Error Handling" href="https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html" class="internal-link" target="_self" rel="noopener">Error Handling</a>
 <br><br>
-<br>interviews with staff (member care, IT, etc.)
-<br>MI surveys
-<br>Foresee
-<br>interviews with non member users
-<br><br>Change management historically is weak at the ACC<br>
-<br>Silos are real and we are not a flat organization!
-<br>Push back from Silos, Stakeholders, Members
-<br>Traditions are hard to break
-<br>ACC is not an enforcer - how you need to work
-<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/painpoints.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/PainPoints.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 15:30:04 GMT</pubDate></item><item><title><![CDATA[Branding Controls]]></title><description><![CDATA[ 
+<br>CCKE - Pre Phase 1 Changes 
+<br>Member Sections |  Deep Dive into Evergreen Pages
+<br>Guidline Algorithms
+<br>Current Member | Hypothesis 2
+<br><br>
+<br>NCD Academy
+<br>Advocacy
+<br>CMP
+<br>Careers
+<br><br><br>
+<br>Meetings Got in the way
+<br>Worked on NCD Academy with Rowena and Jackie made good progress and finished up the Grey box designs on the Project. <a data-href="NCD Academy" href="https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a>
+<br>Did a brain dump with <a data-href="Diana H." href="https://acc-style.github.io/BrainDump/_sponsor/diana-h..html" class="internal-link" target="_self" rel="noopener">Diana H.</a> on the topic of ACC redesign and shared the <a data-href="PainPoints" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/painpoints.html" class="internal-link" target="_self" rel="noopener">PainPoints</a>
+<br>Did a small look at how to shape the site for consumption for AI <a data-tooltip-position="top" aria-label="%5Bhttps://enterprise-knowledge.com/how-to-prepare-content-for-ai/%5D(https://enterprise-knowledge.com/how-to-prepare-content-for-ai/)" rel="noopener" class="external-link" href="https://acc-style.github.io/BrainDump/[https://enterprise-knowledge.com/how-to-prepare-content-for-ai/](https://enterprise-knowledge.com/how-to-prepare-content-for-ai/)" target="_blank">AI Building Guidance</a>
+<br>Read some great Articles from <a data-href="Rowena Enatsky" href="https://acc-style.github.io/BrainDump/_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener">Rowena Enatsky</a> from our new favorite product Whimsical
+
+<br><a data-tooltip-position="top" aria-label="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html" rel="noopener" class="external-link" href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html" target="_blank">The product discovery process</a>
+
+
+<br>
+“If Henry Ford had asked people what they wanted, they would have said faster horses.” - Steve Jobs
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024,-week-36.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024, Week 36.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 18:07:45 GMT</pubDate></item><item><title><![CDATA[Branding Controls]]></title><description><![CDATA[ 
  <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/branding-controls.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Branding Controls.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:50:58 GMT</pubDate></item><item><title><![CDATA[Donations]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/donations.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Donations.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:42:26 GMT</pubDate></item><item><title><![CDATA[Member Directory]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/member-directory.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Member Directory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:45:09 GMT</pubDate></item><item><title><![CDATA[Membership Renewal]]></title><description><![CDATA[ 
@@ -1026,30 +926,7 @@ User Story: Format - As a [type of user], I want [an action] so that [a value or
 <br> Launch and Post-Launch Review: Launch the SPA, monitor its performance, gather feedback, and conduct a post-launch review. Set a milestone for the completion of the post-launch review.
 <br><br>🔶 Please fill in the details accordingly, which will greatly assist the development team in understanding and executing the required tasks.<br>🔶 This refined milestone-based checklist offers a comprehensive snapshot of the process needed for the transition of the application to an SPA. For each step, corresponding sub-tickets should be generated under this primary ticket. Each sub-ticket will be added to the appropriate backlog and prioritized based on its criticality and dependencies. This structure will ensure seamless management and clear tracking of progress throughout the project's lifecycle.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/spa-intake.html</link><guid isPermaLink="false">Work/ACC/Jira/SPA Intake.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 26 Jan 2024 16:08:39 GMT</pubDate></item><item><title><![CDATA[Component Library in Vue]]></title><description><![CDATA[ 
  <br>The construction of a boiler plate components project that can be used as a standard for building future products<br><a data-tooltip-position="top" aria-label="https://assets.acc.org/origami/Latest/docs/?path=/story/introduction--page" rel="noopener" class="external-link" href="https://assets.acc.org/origami/Latest/docs/?path=/story/introduction--page" target="_blank">Old Documentations</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/paper-crane/component-library-in-vue.html</link><guid isPermaLink="false">Work/ACC/Paper Crane/Component Library in Vue.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:13 GMT</pubDate></item><item><title><![CDATA[+Weekly Notes]]></title><description><![CDATA[ 
- <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/+Weekly Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:14 GMT</pubDate></item><item><title><![CDATA[2024 Week 36]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br>
-summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
-| <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>About ACC
-<br><br>
-<br>About ACC and the Root Branching Page Problem
-<br><br>
-<br>Gala Button Paths
-<br>ECSD Meeting Collateral
-<br>Taxonomy Use Cases
-<br><br>
-<br>CCKE - Pre Phase 1 Changes 
-<br>Member Sections |  Deep Dive into Evergreen Pages
-<br>Guidline Algorithms
-<br>Current Member | Hypothesis 2
-<br><br>
-<br>NCD Academy
-<br>Advocacy
-<br>CMP
-<br>Careers
-<br><br><br>
-<br>Meetings Got in the way
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024,-week-36.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024, Week 36.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:38 GMT</pubDate></item><item><title><![CDATA[ACC 2024]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/+Weekly Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:14 GMT</pubDate></item><item><title><![CDATA[ACC 2024]]></title><description><![CDATA[ 
  Survey and UX work from the 2024 Conference]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/acc-2024.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/ACC 2024.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 21:00:55 GMT</pubDate></item><item><title><![CDATA[After Conference actions]]></title><description><![CDATA[ 
  <br><br>
 <br>Meet with Lauren &amp; Mindy  dueApril 16, 2024
@@ -1390,7 +1267,154 @@ Notes for Joint Development Meeting:
 References for Article Types: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a>
 
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/children-rendering/ticket.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/TICKET.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[ACC.org Conversion]]></title><description><![CDATA[ 
- Build ACC using Arhces]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/acc.org-conversion.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[Content Rewrite]]></title><description><![CDATA[ 
+ Build ACC using Arhces]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/acc.org-conversion.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[PainPoints]]></title><description><![CDATA[ 
+ <br><br>
+<br>Hard to find
+<br>Slow to load
+<br>Not up to date
+<br>Login 
+<br>Product Life Cycle from a user point of view (buy, use, renew, extract credits)
+<br><br>
+<br>How useful is the Main Nav (Clinical Topics)
+<br>Latest in Cardiology (Doesn't Mean anything it is a junk drawer)
+<br>how useful is  Search on Site if everyone is using google
+<br>Lack of enforcement of member value with out pay wall. 
+<br>Personalization - Give value to login in!!!!
+<br>Content is written a dated and not directed way when dealing with brochureware, products any that is not science
+
+<br>We speak to everyone which means our voice is not compelling to anyone.
+
+
+<br>Not Mobile Friendly
+<br>Duplicative Content (Confusing for users and a drain on resources)
+
+<br>Articles, Content, Products, and Derivatives
+<br>Confusing "Like" Products.
+
+<br>CCKE
+<br>Webinar vs Online Course
+<br>Key Points vs Top Ten
+<br>ASCVD RISK (Apps, Excel, CardioSmart HHRC, tools.acc.org )
+
+
+
+
+<br>Not Accessible 
+
+<br>Structure Aria
+<br>Brand Color Issues
+<br>Image Usage with Text
+<br>SEM/SEO
+<br>Find-ability
+<br>Promotion
+<br>STRUCTURED Data &amp; Content
+<br>Analytics Funneling
+
+
+<br>No clear division between Enterprise Domains.
+
+<br>Clear Usage, Focus of Efforts, Reasons to Deploy within each Domain. 
+
+<br>Why should something be found in JACC and not ACC or CardioSmart. 
+
+
+
+
+<br>Central Login with our Family of Products. 
+
+<br>Cross walking our Enterprise is a jarring. 
+
+
+<br>No structural plans for how to scale content onto the site. 
+<br>Disjointed implementation of Design. (Lack of Creative Direction Enforcement) 
+
+<br>Need ACC to have enough built out so we don't run into "it needs to be NEW UI"
+<br>Need a process to "Accept new UI"
+<br>Need to know who and what is being built so we can police it. (UX and CS)
+<br>Need the power to enforce. We can be overruled.
+
+
+<br>Maintenance Issue (slow to fix, slow to change)
+
+<br>Resources limitations causes errors and fixes to languish for weeks to even years.
+
+<br>Grid Box Error
+<br>Membership Section Announcements
+<br>SWG improvements
+<br>Arches Conversion
+<br>Forsee errors should make a jira hot fix.
+
+
+
+
+<br>Pain Points are training users to alter their behavior. 
+
+<br>Mobile is painful so they use desktops
+<br>Purchased Product Entry Points are hard to find so users go back to the original purchase page
+<br>Nothing changes when I login so why should I.
+<br>Science is hard to find so they go somewhere else....
+
+
+<br>Load Times
+
+<br>Optimization of Code, Loaded Content to Page, Slow to Paint Page.  
+
+<br>Still looking at 4-6 seconds to load official standard of the web is .1
+
+
+
+
+<br>Back End Editing is Painful
+
+<br>Components are hard to find, organization is confused and mixed with legacy and arches and never use.
+<br>Components need a combination of Experience Editor and Detail View
+<br>SiteCore likes to alter and "lint" html between Source and WYSIWYG
+<br>I don't know if this is a sitecore problem or an us problem.
+
+
+<br>No real way to test (from a base setup)
+
+<br>A/B
+<br>Funnel Tracking 
+
+
+<br>We have branching pages that give no value besides wiring the pages together
+<br>Orphan Pages from the site experience
+<br>FIX All Foresee Bugs
+<br>Phase 2 and Maintenance is a Unicorn.
+<br>Out of the list above what is a Content, Design, Process, Technical issues?<br><br><br>
+<br>A|B Testing with content and design
+<br>Back End/ Editing
+<br>Loading Times
+<br>Dev Time
+<br>Personalization
+<br><br>
+<br>Duplicative
+<br>Writing Style
+<br>Accessibility
+<br><br>
+<br>Personalization
+<br>Member Benefits
+<br>Guided Experience based on Purchase Life Cycle.
+<br><br>
+<br>Changes are are jarring
+<br>Consistency is good
+<br>New experience is always hated by someone
+<br>What is the scope of the Redesign. Are we just starting over? are we keeping with best patterns and applying consistency? Are we just removing the dead weight and fixing problems?
+<br><br>
+<br>Duplicity
+<br>SEO/SEM
+<br><br>
+<br>interviews with staff (member care, IT, etc.)
+<br>MI surveys
+<br>Foresee
+<br>interviews with non member users
+<br><br>Change management historically is weak at the ACC<br>
+<br>Silos are real and we are not a flat organization!
+<br>Push back from Silos, Stakeholders, Members
+<br>Traditions are hard to break
+<br>ACC is not an enforcer - how you need to work
+<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/painpoints.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/PainPoints.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 15:30:04 GMT</pubDate></item><item><title><![CDATA[Content Rewrite]]></title><description><![CDATA[ 
  <br><br>The Exam is timed and it is important that you give yourself enough time to finish it during the exam window.<br><br>The test and the questions are timed. The complete test with no breaks is timed to be 7.5 hours<br>
 (Some People have finished it in 4.5 hours)<br><br>Exam window date time x @ GMT to date time y @ GMT<br>
 (this is roughly 4 days)<br><br>
@@ -1401,21 +1425,8 @@ References for Article Types: <a data-tooltip-position="top" aria-label="https:/
 (7.5 hours of test plus a max of 24 hours of break). 
 <br>Your exam must completed within  the exam window
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke/content-rewrite.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/Content Rewrite.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:21 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- build a landing page to the 75th Gala]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/75th-gala.html</link><guid isPermaLink="false">Work/ACC/Projects/75th Gala.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:45:27 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/about-acc.html</link><guid isPermaLink="false">Work/ACC/Projects/About ACC.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:27 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- The site is getting old time for a new coat of paint.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:28 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- <br><br>
-<br>Pages before Leg Conf
-<br><br>
-<br>Hypothesis: 
-<br><br>
-<br>**Outline
-<br><br>
-<br>Additional Notes: 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/advocacy.html</link><guid isPermaLink="false">Work/ACC/Projects/Advocacy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:27 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
- Mobile App with 3D rendered videos of the heart]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 360.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:51:17 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:08:51 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- WIth 19k closing down we need to look at Error Handling]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:26 GMT</pubDate></item><item><title><![CDATA[Current Working Projects]]></title><description><![CDATA[ 
+ The site is getting old time for a new coat of paint.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:28 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
+ Mobile App with 3D rendered videos of the heart]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 360.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:51:17 GMT</pubDate></item><item><title><![CDATA[Current Working Projects]]></title><description><![CDATA[ 
  <br><br><br><br><br><br>Metadata
 
 <br>Created::  2:28 PM - September 04, 2024
