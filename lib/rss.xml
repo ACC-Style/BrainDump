@@ -1,29 +1,260 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 20:31:10 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 20:31:09 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Color Test]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:45a547" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#45a547</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:f0da10" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#f0da10</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:f99b1c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#f99b1c</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:F37321" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#F37321</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:EF3824" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#EF3824</a> 
- <br><br><br><br>Most of the document is based on a white background so it is cheaper to print.  All readable Text needs to be higher then 7:1 for 12pt text proper AAA adherence. The AA adherence is set at 4.5:1.<br>
-So 90% black text on a shaded background of 30% is not with in design acceptability<br>DOCUMENT GREYS&nbsp;<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/algorithm/color-test.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm/Color Test.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:30:59 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- <br><br>The Algorithms built from our Guidelines have no current standard. After some UX research we have discovered our members are starting to turn to other offerings and we want to apply some a Design System to attempt to modernize our Algorithms.<br><br>
-<br>Improving the overall Design principles of our algorithms will make our designs more useful and also win back some users.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 21:19:26 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 21:19:20 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[1CRM]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/vendor" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/vendor</a> 
+ <br><a data-href="Blackout Week" href="https://acc-style.github.io/BrainDump/work/acc/1crm/blackout-week.html" class="internal-link" target="_self" rel="noopener">Blackout Week</a><br>
+<a data-href="OMA Replacement - Membership Join Us" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/oma-replacement-membership-join-us.html" class="internal-link" target="_self" rel="noopener">OMA Replacement - Membership Join Us</a><br>
+<a data-href="My ACC.org Dropdown Menu" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/my-acc.org-dropdown-menu.html" class="internal-link" target="_self" rel="noopener">My ACC.org Dropdown Menu</a><br>
+<a data-href="Dynamic Header &amp; Footer" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/dynamic-header-&amp;-footer.html" class="internal-link" target="_self" rel="noopener">Dynamic Header &amp; Footer</a><br>
+<a data-href="Invoices Pay for some one else" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/invoices-pay-for-some-one-else.html" class="internal-link" target="_self" rel="noopener">Invoices Pay for some one else</a><br>
+<a data-href="Front End" href="https://acc-style.github.io/BrainDump/work/acc/1crm/front-end.html" class="internal-link" target="_self" rel="noopener">Front End</a><br>
+<a data-href="Things are broken or funky list" href="https://acc-style.github.io/BrainDump/work/acc/1crm/things-are-broken-or-funky-list.html" class="internal-link" target="_self" rel="noopener">Things are broken or funky list</a><br><a data-href="First time entry tour" href="https://acc-style.github.io/BrainDump/work/acc/1crm/first-time-entry-tour.html" class="internal-link" target="_self" rel="noopener">First time entry tour</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/vendor" class="tag" target="_blank" rel="noopener">#acc/vendor</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:57:01 GMT</pubDate></item><item><title><![CDATA[Mapping of Converted Components]]></title><description><![CDATA[ 
+ <br><a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener">Arches Conversion</a>/<a data-href="Excel Tables" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel-tables.html" class="internal-link" target="_self" rel="noopener">Excel Tables</a><br><br>The Mapping of Converted Components is a straightforward Excel document that records all components that have been converted. This reference document is crucial when implementing bulk conversion scripts. If the 'converted ID' column contains the term 'compatible', the scripting process should bypass this component. This protocol assumes that no modifications are necessary, as all required work has been completed within the original file. This mechanism helps ensure an efficient and error-free conversion process.<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/mapping-of-converted-components.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Excel/Mapping of Converted Components.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:41:26 GMT</pubDate></item><item><title><![CDATA[Bulk Conversion Outline OLD]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches/conversion" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches/conversion</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
+ <br>← back to <a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener">Arches Conversion</a><br><br>Bulk Conversion Planning&nbsp;<br><br>
+<br>
+Identify a batch of pages as the upcoming candidate batch for conversion. Considerations:&nbsp;
+
+<br>Can we target a good number of pages with the same component composition (they use the same components exclusively)? This lets us control variables.&nbsp;
+<br>Provide a list of the components to UI for conversion.&nbsp;
+<br>Confirm the batch with any interested parties if relevant (editorial, BL, users, etc etc)&nbsp;
+
+
+<br>
+UI analyzes component list conversion and provides LOE.&nbsp;
+
+<br>How complex will the conversions be/How long will it take? Generally, this will hopefully be doable in one sprint assuming there is not any major rebuilding needed. Most importantly we need to determine how many will need to be rebuilt completely.&nbsp; 
+<br><a data-href="Creating A New ACC.org Component" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/components/creating-a-new-acc.org-component.html" class="internal-link" target="_self" rel="noopener">Creating A New ACC.org Component</a>
+<br>Create tickets for each component up for conversion (we may be able to lump some lighter ones together, we can decide that after analysis).&nbsp;
+
+
+<br>
+Groom, add to schedule, etc.&nbsp;
+
 <br><br>
-<br>Research
-<br>Surveys with Users
-<br>Establish a basic Framing of the design system
+<br>
+UI team completes component conversion tickets.&nbsp;
 
-<br>Framing
-<br>Legends
-<br>How to represent different decisions and qualitative data on the design
-<br>Citing the Document
-<br>Branding the Document.
-<br>Accessible Colors - Current Colors fail the AA or AAA standards of contrast on black or white. <a data-href="Color Test" href="https://acc-style.github.io/BrainDump/work/acc/projects/algorithm/color-test.html" class="internal-link" target="_self" rel="noopener">Color Test</a>
+<br>
+QA tests converted components on sample pages in test environments.&nbsp; 
+
+<br>
+Push conversions to production,&nbsp;including deployments steps to make sure the components are available for use on all environments.&nbsp;
+
+<br>
+UI provides list of bulk changes, including&nbsp;
+
+<br>Components that need to be switched to an Arches version in presentation layout.&nbsp;
+<br>If applicable, a list of changes to rich text content where the change can realistically be done with a bulk script (i.e., search and replace)&nbsp;
+<br>A list of issues from conversion that will need manual intervention.&nbsp;
+<br><a data-href="New Component" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/new-component.html" class="internal-link" target="_self" rel="noopener">New Component</a>
 
 
 <br><br>
-<br>Sticky Notes <a data-tooltip-position="top" aria-label="https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1743064928?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" rel="noopener" class="external-link" title="https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1743064928?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" href="https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1743064928?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" target="_blank">Tasks to Complete Figures</a>
-<br>Draft thoughts on Written Design System <a data-tooltip-position="top" aria-label="https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_4252764196?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" rel="noopener" class="external-link" title="https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_4252764196?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" href="https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_4252764196?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" target="_blank">Figure Design Library Notes</a>
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/algorithm-design-system.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm Design System.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:23:52 GMT</pubDate></item><item><title><![CDATA[2024 Week 36]]></title><description><![CDATA[ 
+<br>Audit All Content Areas, and Custom Scripts for uses of In Page and Inline Script and Style Tags<br>
+1. Output to and excel.  <a data-href="Audit of Editorial UI" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/audit-of-editorial-ui.html" class="internal-link" target="_self" rel="noopener">Audit of Editorial UI</a><br>
+2.  Internal Review of Audit<br>
+1. List All Inbound Links and Evaluate Remediation of Links:<br>
+1. Font Awesome  4.x - Delete, find all class names that start with fa- and end in -o and remove -o<br>
+2. Font Awesome 5 or 6 - Delete<br>
+3. Bootstrap JS &amp; CSS - Delete<br>
+4. <a data-href="Remediation" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/remediation.html" class="internal-link" target="_self" rel="noopener">Remediation</a> |  Remediation Document of all editorially created UI and Inclusions<br>
+]]<br>
+2. Review and In Page Script and Styles<br>
+1. Dedupe and Style and Script Tag Blocks and save them outside of Sitecore<br>
+1. Add Items to the <a data-href="Editorial Bulk Change Notice Excel" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/editorial-bulk-change-notice-excel.html" class="internal-link" target="_self" rel="noopener">Editorial Bulk Change Notice Excel</a><br>
+3. Run Clean Up scripts across  Richtext and CustomScript Sitecore components
+<br><br>
+<br>
+Development creates scripts to process changes provided by UI in Sprint B.&nbsp;
+
+<br>Precondition: Components that need to be switched to Arches has already been developed, tested,&nbsp; and pushed to ALL environments (DEV, SPR, STG, RLS, PRD)&nbsp;
+
+
+<br>
+Run script in development environment for specific pages that apply to this batch (i.e., #1) and verify.&nbsp;
+
+<br>
+Review affected pages for discrepancies/bugs for resolution (e.g., code, components, etc.)&nbsp;
+
+<br>If code changes are required, create JIRA tickets for upcoming sprint.&nbsp; Sprint C will be paused until these code changes are made in ALL environment&nbsp;
+
+
+<br>
+Review and identify any content issues (rich text, custom scripts) and work w/ BL on resolution&nbsp;
+
+
+
+<br>
+Run clean up script to identify problematic scripts that need to be&nbsp;remediated&nbsp;(<a rel="noopener" class="external-link" href="https://support.acc.org/browse/AWC-3942" target="_blank">https://support.acc.org/browse/AWC-3942</a>) and push to environments accordingly.&nbsp;
+
+<br>
+Promote to other lower environments (SPR, STG, RLS) and validate in each environment accordingly.&nbsp;
+
+<br>Perform demo for BL to review results of bulk conversion for batch in scope (STG or RLS) and obtain sign-off&nbsp;
+
+
+<br>
+Create a PRD back-up to support a rollback, if needed (requires further discussion around specific rollback tasks/steps)&nbsp;
+
+<br>Take back-ups of both&nbsp;Author and Web DBs&nbsp;
+<br>Need to enforce a&nbsp;content freeze&nbsp;(BL), specifically for a&nbsp;subset of pages/content&nbsp;
+
+
+<br>
+Promote to PRD and run bulk conversion script in Author ONLY, do NOT publish to Delivery.&nbsp;
+
+<br>
+IMPORTANT NOTE: To ensure content is NOT auto-published, there is a need to explore options.&nbsp;
+
+<br>Option 1: Set content items to a DRAFT status when converting content in Author.&nbsp; See Sitecore DRAFT workflow doc&nbsp;<a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:w:/r/sites/tbs/Private/Agile%20Movement/AWC%20Team/Arches%20Conversion/Workflow-in-Sitecore.docx?d=w5e7e42edf5844f03b7be461f5ddc8b43&amp;csf=1&amp;web=1&amp;e=zZKy2Y" rel="noopener" class="external-link" href="https://accorg.sharepoint.com/:w:/r/sites/tbs/Private/Agile%20Movement/AWC%20Team/Arches%20Conversion/Workflow-in-Sitecore.docx?d=w5e7e42edf5844f03b7be461f5ddc8b43&amp;csf=1&amp;web=1&amp;e=zZKy2Y" target="_blank">here</a>.&nbsp; Possible risk is the Original Posted Date may be updated as a result (need confirmation)&nbsp;
+<br>Option 2: -- TBD&nbsp;
+
+
+<br>
+IT to perform spot checks in Author to ensure the conversion script was completed successfully.&nbsp;
+
+<br>
+BL reviews converted pages in Author and as pages are validated, publish in increments (as appropriate)&nbsp;
+
+<br>UI, DEV, &amp; QA teams on standby to field any questions or address any concerns&nbsp;
+
+
+
+
+<br>
+Post Conversion/Clean Up Tasks&nbsp;(once all batches are complete, one-time task)&nbsp;
+
+<br>Once conversion is complete, we will take the Arches presentations and merge them into the current legacy template presentation configurations, and delete the Arches versions, as clean up.&nbsp;
+
+
+<br>QA Approach (DRAFT)&nbsp;<br>NOTE: This approach should be visited as we progress w/ the batches.&nbsp; Also, scheduled sprint content syncs should not adversely affect the Arches QA pages since they will already exist prior to the content sync.&nbsp;<br>
+<br>UI/UX team will create an Arches QA dedicated page (e.g., page name to include '_ArchesQA' suffix&nbsp; in the DEV environment in support of their development &amp; verification process.&nbsp;
+<br>Once the component updates have been verified in the DEV environment, UI/UX to request a Razl content sync to SPR in coordination w/ their updates getting built and deployed to SPR. (Ricky can assist w/ Razl syncs)&nbsp;
+<br>QA will then use the Arches QA dedicated page in SPR to test the target components.&nbsp; Once validated in SPR, QA will work with DEV (Ricky) to sync content to upper environments (STG/RLS) as the changes are promoted.&nbsp;
+<br>PRD deployment (e.g., pre-task) should include a step to sync the Arches QA dedicated page to PRD (Author ONLY, do not publish to Delivery) in order for QA validate in PRD.&nbsp;
+<br>Once validated, need to ensure there is a clean-up process to remove/delete QA dedicated pages, once ready (in ALL environments)&nbsp;
+<br>Notes:&nbsp;&nbsp;<br>It is important that we have a way to roll back our work at any point throughout these cycles and we need to be able to do this in a way that BL can be comfortable with. This plan doesn’t really account for if something goes pear shaped in Sprint C but we should probably iron that out as well, especially if something goes wrong during the push to production.&nbsp;<br>This looks like a three-sprint process, but we may be able to consider identifying the next batch during sprint C to speed up conversion if necessary.<br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/arches" class="tag" target="_blank" rel="noopener">#acc/arches</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc/arches/conversion" class="tag" target="_blank" rel="noopener">#acc/arches/conversion</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a> <br>Metadata
+
+<br>Created::  9:39 AM - July 17, 2023
+<br>Updated::  4:41 PM - September 06, 2024
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/bulk-conversion-outline-old.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Bulk Conversion Outline OLD.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:41:26 GMT</pubDate></item><item><title><![CDATA[Arches Conversion]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches/conversion" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches/conversion</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
+ <br><a data-tooltip-position="top" aria-label="ACC Products" data-href="ACC Products" href="https://acc-style.github.io/BrainDump/work/acc/acc-products.html" class="internal-link" target="_self" rel="noopener">← back to acc products</a><br><a data-tooltip-position="top" aria-label="Scripts" data-href="Scripts" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/scripts.html" class="internal-link" target="_self" rel="noopener">Script Glossary &amp; Categorization</a><br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT A - Define the Batch" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-a-define-the-batch.html" class="internal-link" target="_self" rel="noopener">SPRINT A -&nbsp;Define the Batch</a>&nbsp;<br>---------------------------------------------------------&nbsp;<br>
+<br>Select conversion candidate for the batch&nbsp;and define scope
+<br>Run an Audit Query  against the code base of Sitecore within scope for code components &amp; plan needed conversions
+<br>Run an  Audit Query  against the CMS Content Areas (RichText &amp; CustomScripts) within scope for Editorial Generated UI &amp; start planning for remediation
+<br>Groom&nbsp;
+<br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT B - Component Conversions" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-b-component-conversions.html" class="internal-link" target="_self" rel="noopener">SPRINT B -&nbsp;Component Conversions</a><br>---------------------------------------------------------&nbsp;<br>
+<br>Convert the components&nbsp;
+<br>Deploy to lower environments DEV/SPR&nbsp;
+<br>QA test the converted components&nbsp;
+<br>Promote to PROD&nbsp;
+<br>List of bulk changes - Mapping of changes&nbsp;
+<br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT C - Editorial Created Remediation" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-c-editorial-created-remediation.html" class="internal-link" target="_self" rel="noopener">SPRINT C -&nbsp;Editorial Created Remediation</a>&nbsp;<br>---------------------------------------------------------&nbsp;<br>
+<br>SYNC SPR&nbsp;
+<br>Execute bulk conversion script with a small sample of pages in DEV/SPR - Using Mapping&nbsp;
+<br>Clean up rich text via script (S&amp;D)&nbsp;
+<br>Review effected pages&nbsp;
+<br>Create jira tickets for content issues identified during review&nbsp;
+<br>Work with BL to resolve found issues&nbsp;
+<br>Promote to RLS&nbsp;
+<br>Demo with BL and obtain sign-off&nbsp;
+<br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT D - Batch Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-d-batch-conversion.html" class="internal-link" target="_self" rel="noopener">SPRINT D -&nbsp;Batch Conversion</a><br>---------------------------------------------------------&nbsp;<br>
+<br>Create PRD/Master/Web DBs backup for potential rollback&nbsp;
+<br>Run bulk conversion script in Author only with auto-publishing turned off&nbsp;
+<br>IT performs spot checks&nbsp;
+<br>BL reviews and validates pages, with support from UI, DEV, and QA teams&nbsp;
+<br>Garbage Clean up of Empty Content areas and RichText
+<br>Resync to lower environments?
+<br><a data-href="Editorial training" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/editorial-training/editorial-training.html" class="internal-link" target="_self" rel="noopener">Editorial training</a><br>---------------------------------------------------------&nbsp;<br>SPRINT Z -&nbsp;Done!&nbsp;<br>---------------------------------------------------------&nbsp;<br>
+<br>Garbage cleanup
+<br><a data-href="Bulk Conversion Outline OLD" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/bulk-conversion-outline-old.html" class="internal-link" target="_self" rel="noopener">Bulk Conversion Outline OLD</a><br>
+<a data-href="Excel Tables" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel-tables.html" class="internal-link" target="_self" rel="noopener">Excel Tables</a><br><a data-href="Jira Tickets notes" href="https://acc-style.github.io/BrainDump/work/acc/projects/tickets/jira-tickets-notes.html" class="internal-link" target="_self" rel="noopener">Jira Tickets notes</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/arches/conversion" class="tag" target="_blank" rel="noopener">#acc/arches/conversion</a><br>
+<a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a> <br>Metadata
+
+<br>Created::  11:15 AM - September 11, 2023
+<br>Updated::  4:51 PM - September 06, 2024
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Arches Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:51:46 GMT</pubDate></item><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
+ <br><a data-href="Front End Design at the College" href="https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html" class="internal-link" target="_self" rel="noopener">Front End Design at the College</a><br>
+<a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener">Design System</a><br>
+<a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener">Arches Conversion</a><br>Arches is the foundational design system employed by the American College of Cardiology (ACC). Leveraging advanced compiler techniques, Arches generates a multitude of variations that integrate with different frameworks and product brands. These variations are utilized across an array of products developed by the ACC.<br>In its basic form, Arches serves as a set of utility classes. When incorporated into a project with an existing style sheet, it can introduce new, non-destructive styling features. Additionally, Arches offers variants that seamlessly build on two popular frameworks currently in use at the College: Twitter Bootstrap<br><br><a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener">Design System</a><br>
+<a data-tooltip-position="top" aria-label="Arches Conversion" data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener">Conversion of ACC.org</a><br>
+<a data-href="Syncing CardioSmart with Asset.ACC.org" href="https://acc-style.github.io/BrainDump/work/acc/projects/syncing-cardiosmart-with-asset.acc.org.html" class="internal-link" target="_self" rel="noopener">Syncing CardioSmart with Asset.ACC.org</a><br>
+<a data-href="Component Library in Vue" href="https://acc-style.github.io/BrainDump/work/acc/paper-crane/component-library-in-vue.html" class="internal-link" target="_self" rel="noopener">Component Library in Vue</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/arches.html</link><guid isPermaLink="false">Work/ACC/Arches/Arches.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:12:27 GMT</pubDate></item><item><title><![CDATA[JACC]]></title><description><![CDATA[ 
+ <br><a data-href="JACC Editors at ACC24" href="https://acc-style.github.io/BrainDump/work/acc/jacc/jacc-editors-at-acc24.html" class="internal-link" target="_self" rel="noopener">JACC Editors at ACC24</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jacc/jacc.html</link><guid isPermaLink="false">Work/ACC/JACC/JACC.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:01:46 GMT</pubDate></item><item><title><![CDATA[JACC Editors at ACC24]]></title><description><![CDATA[ 
+ <br>After meeting with the editors of JACC here are some free flowing notes.<br>So many products.<br>
+Derivatives are pipelines to amplify stories<br>
+Central illustration to pull users into the article to buy.<br>
+JACC intervention is a pay walled.<br>
+CME UPON READ<br>
+CARDIOSMART derivatives need to be hooked to articles.<br>
+Cardio smart animation include<br>
+Need storage resource pocket guide.<br>
+No one in the room has gone to the home page.<br>
+Social broadcasting schedules<br>
+Group collaboration<br>
+Al a cart options for social broadcasting<br>
+Jackie@    Edge personalization.<br>
+Jacc and disclosures?<br><a data-href="Annual Meeting" href="https://acc-style.github.io/BrainDump/_domain/annual-meeting.html" class="internal-link" target="_self" rel="noopener">Annual Meeting</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jacc/jacc-editors-at-acc24.html</link><guid isPermaLink="false">Work/ACC/JACC/JACC Editors at ACC24.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:01:03 GMT</pubDate></item><item><title><![CDATA[AI Prompt - Conversion Tickets]]></title><description><![CDATA[ 
+ <br>Comprehensive Prompt Template for ChatGPT Interaction and Backlog Ticket Creation<br>
+<a data-href="KSS Documentation" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/knowledge-base/kss-documentation.html" class="internal-link" target="_self" rel="noopener">KSS Documentation</a><br>Contextual Setup for My Request:<br>I want you to understand and act in the specific context of being a Product Owner on a SCRUM team. Your role is to write backlog tickets for a new feature, considering all aspects typical of a Product Owner's responsibilities in a real-world scenario. I expect the tone and approach of your responses to reflect this role and context. After the prompt please ask up to 3 follow up questions if you any clarifications or supporting details. Here are some key points I want you to consider:<br>
+<br>SCRUM Methodology Awareness: You should demonstrate a clear understanding of SCRUM principles and practices.
+<br>Role-Specific Knowledge: As a Product Owner, your focus is on maximizing the value of the product and the work of the development team.
+<br>Feature-Specific Requirements: The backlog tickets you will create should be for a specific feature, detailed in my request.
+<br>User-Centric Approach: Emphasize the importance of user stories and prioritize tasks based on user needs and project goals.
+<br>Communication Style: Your responses should mirror the communication style of a Product Owner - clear, decisive, and oriented towards actionable items.
+<br>Writing Style: Concise and clear, with a preference for listing items rather than writing out in sentences, to facilitate easy scanning.
+<br>Project Introduction:<br>
+<br>Subject Matter: Tech stack - ASP, Vue, HTML, CSS, JavaScript, CMS Sitecore or Sitefinity
+<br>Internal Terms: [Clarification on terms like ARCHES, PaperCrane, ACC.org, CardioSmart, etc.]
+
+<br>ARCHES is a comprehensive front-end design system by the American College of Cardiology. It uses advanced compiler techniques to generate variations that integrate with different frameworks and brands, making it versatile for various ACC products. ARCHES primarily consists of utility classes that offer a modern approach to CSS, focusing on single-style control and separation of responsibilities between HTML and CSS. This system is flexible and adaptable, used across multiple ACC platforms, including ACC.org and CardioSmart, and supports distinct brand styles while maintaining overall coherence.
+<br>PaperCrane refers to a Component Library specifically designed for Vue.js, a progressive JavaScript framework. This library is utilized in the development of Single Page Applications (SPAs). PaperCrane  contains a collection of pre-built Vue components which can be reused across different parts of the enterprise application, enhancing development speed and ensuring UI consistency.
+<br>ACC.org ACC.org is the official website of the American College of Cardiology. It serves as a comprehensive resource for cardiology professionals, offering a wide range of content including clinical updates, educational materials, guidelines, and information on cardiology conferences and events. The site is designed to support medical professionals in the field of cardiology with the latest scientific research, policy advocacy, and continuous education. It also provides tools and resources for practice support, quality improvement, and patient care in the cardiovascular field. The website caters to the needs of cardiologists, providing them with essential information to advance their knowledge and practice.
+<br>CardioSmart.org is a patient-centered website created by the American College of Cardiology. It provides comprehensive information about heart health and various cardiac conditions. The site is dedicated to educating patients, offering resources on heart diseases, healthy living tips, and tools to manage cardiac health. It includes topics such as heart disease prevention, treatment options, and lifestyle changes. CardioSmart.org is designed to empower patients with knowledge and tools to actively participate in their own heart care and make informed decisions about their health.
+
+
+<br>Backlog Ticket Structure:<br>
+<br>Title: A concise, descriptive title for the feature or issue  
+<br>Description:
+
+<br>Background: Brief context or background information.
+<br>Objective: Clear statement of what the ticket aims to achieve.
+<br>User Story: Format - As a [type of user], I want [an action] so that [a value or result].
+
+
+<br>Acceptance Criteria:
+
+<br>List of conditions that must be met for the ticket to be considered complete.
+<br>Should be specific, measurable, achievable, relevant, and time-bound (SMART).
+
+
+<br>Dependencies: Any dependencies or prerequisites for the ticket.
+<br>Checklist for Components:
+
+<br> Component Definition: Define the zone, providing a screenshot, requirements from an editor's perspective, and the URL location.
+<br> Component Identification: IT to identify and isolate the component.
+<br> Design Implementation: A front-end designer/developer to create an HTML prototype of the component using the Arches design system.
+<br> Group Grooming: Conduct a group grooming session to identify any additional tickets or tasks necessary to complete the story.<br>
+The checklist provides a high-level overview of the steps that need to be taken. More detailed sub-tasks should be created under this main ticket to track the progress of each individual item. This way, it'll be easier to manage and track the progress of this component's transition to the Arches design system.
+
+
+<br>Backlog Ticket Creation:<br>Follow the Updated Backlog Ticket Structure provided above to detail your response for this ticket In the Prompt Details below I will detail the information I have for the ticket.<br>Prompt Details:<br>
+<br>Heading: [Specify the heading for the response.]
+<br>Introduction: [Brief introduction about the request or the aspect of the project being addressed.]
+<br>Main Content: [Detailed response or the created backlog ticket based on the structure provided, presented in a concise, list-based format for easy scanning.]
+<br>Component Name: [A short name of the component to be used in the repo]
+<br>References or Sources: [If required, mention the need for citations or sources.]
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 28 Feb 2024 20:38:25 GMT</pubDate></item><item><title><![CDATA[AI Prompt - Writing Editing]]></title><description><![CDATA[ 
+ <br>Please take the following text and correct any spelling and punctuation errors.   You may also correct verb tense and cognition usage to improve grammatical structure.  Please do not change any of the meaning or tone of the text.  After your first round of corrections  You may prompt me with a suggested changes to improve readability or grammar as a follow-up I will respond to your suggestion with a yes or no if it is yes then you may change the wording scoped to your suggestion.  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-writing-editing.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 18 Jan 2024 14:34:23 GMT</pubDate></item><item><title><![CDATA[Analysis: Component Name Modernization with Arches Design System]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> 
+ <br><a data-tooltip-position="top" aria-label="ACC Products" data-href="ACC Products" href="https://acc-style.github.io/BrainDump/work/acc/acc-products.html" class="internal-link" target="_self" rel="noopener">back to ACC</a><br><br>This is the master ticket for the transition of the [Component Name] into the new Arches design system. This encompasses all the tasks required for the successful analysis, design, and implementation of the component update.<br><br>(To be filled by the product owner or stakeholder)<br><br>(To be filled by the IT team after the initial analysis and discussions)<br><br><br><br><br><br><br>
+<br> Component Definition: Define the zone, providing a screenshot, requirements from an editor's perspective, and the URL location.
+<br> Component Identification: IT to identify and isolate the component.
+<br> Design Implementation: A front-end designer/developer to create an HTML prototype of the component using the Arches design system.
+<br> Group Grooming: Conduct a group grooming session to identify any additional tickets or tasks necessary to complete the story.
+<br><br>The checklist provides a high-level overview of the steps that need to be taken. More detailed sub-tasks should be created under this main ticket to track the progress of each individual item. This way, it'll be easier to manage and track the progress of this component's transition to the Arches design system.<br><a data-href="AI Prompt - Conversion Tickets" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets.html" class="internal-link" target="_self" rel="noopener">AI Prompt - Conversion Tickets</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/jira" class="tag" target="_blank" rel="noopener">#acc/jira</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc" class="tag" target="_blank" rel="noopener">#acc</a> <a href="https://acc-style.github.io/BrainDump?query=tag:work" class="tag" target="_blank" rel="noopener">#work</a> <a href="https://acc-style.github.io/BrainDump?query=tag:requirements" class="tag" target="_blank" rel="noopener">#requirements</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/arches-component-conversion.html</link><guid isPermaLink="false">Work/ACC/Jira/ARCHES Component Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:42:14 GMT</pubDate></item><item><title><![CDATA[2024 Week 36]]></title><description><![CDATA[ 
  <br>tags:: <a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br>
 summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
 | <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-03" data-href="Timestamps/2024/09-September/2024-09-03" href="https://acc-style.github.io/BrainDump/Timestamps/2024/09-September/2024-09-03" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>About ACC
+<br><a data-href="About ACC" href="https://acc-style.github.io/BrainDump/work/acc/projects/about-acc.html" class="internal-link" target="_self" rel="noopener">About ACC</a>
 <br><br>
 <br>About ACC and the Root Branching Page Problem
 <br>Make Jira Tickets
@@ -72,7 +303,228 @@ summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-positio
 
 <br>
 “If Henry Ford had asked people what they wanted, they would have said faster horses.” - Steve Jobs
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024,-week-36.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024, Week 36.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:17:17 GMT</pubDate></item><item><title><![CDATA[ESC Competitive Research]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024,-week-36.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024, Week 36.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:13:38 GMT</pubDate></item><item><title><![CDATA[Annual Meeting 2024]]></title><description><![CDATA[ 
+ Survey and UX work from the 2024 Conference]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/annual-meeting-2024.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/Annual Meeting 2024.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:01:46 GMT</pubDate></item><item><title><![CDATA[Lessons Learned]]></title><description><![CDATA[ 
+ <br><a data-href="Work/ACC/Projects/_Archived/Annual 2024/Annual Meeting 2024" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/annual-meeting-2024.html" class="internal-link" target="_self" rel="noopener">Work/ACC/Projects/_Archived/Annual 2024/Annual Meeting 2024</a><br><br><br>
+<br>Survey monkey scale at the to was sometimes ignored
+<br>Use Engage scales vs pick definition 
+<br>Static QR CODES a bust.  
+<br><br>
+<br>Digital was slower because it is single threaded. Qrcodes could help but with randomize we don't have an option in place.  
+<br>Type in responses (other)are less in digital vs print.  
+<br>Digital was also slow because loading time.  
+
+<br>Explore none internet connected option for survey
+<br>Offline mode.  
+
+<br>Survey monkey enterprise has an offline mode.  It has stored in an app.  
+
+
+
+
+<br><br>
+<br>We deploy multiple surveys from ACC should we review or at least be aware of them before conference.  
+<br><br>
+<br>Don’t go early on first day.   No one is hanging out till past keynote and later.
+<br>Still can't engage older established clinicians.   
+<br>Great exposure for ux to both survey takers and the college as a business.  
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/lessons-learned.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/Lessons Learned.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:01:19 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>If you were going to set up some sturctured data around engagement I think it would include these <a data-href="Engagement - Structured Data" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/member-engage-(current-member)/engagement-structured-data.html" class="internal-link" target="_self" rel="noopener">Engagement - Structured Data</a>
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/member-engage-(current-member)/current-member-(engaged-member).html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Member Engage (Current Member)/Current Member (Engaged Member).md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:18:19 GMT</pubDate></item><item><title><![CDATA[Engagement - Structured Data]]></title><description><![CDATA[ 
+ <br>
+<br>Title of Opportunity
+
+<br>Clear and descriptive title
+
+
+<br>Overview
+
+<br>Brief summary of the opportunity
+
+
+<br>Goals and Objectives
+
+<br>Specific aims and intended outcomes
+
+
+<br>Required Skills and Qualifications
+
+<br>List of necessary skills, experience, and qualifications
+
+
+<br>Time Commitment
+
+<br>Estimated hours per repeatable timing for a total duration
+
+
+<br>Location: Remote, Local, Travel
+<br>Compensation and Benefits
+
+<br>Details on stipends, perks, or other benefits
+
+
+<br>Organization Information
+
+<br>Name, mission, and reputation of the effort
+
+
+<br>Impact and Value
+
+<br>Description of the expected impact and value to participants and the community
+
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/member-engage-(current-member)/engagement-structured-data.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Member Engage (Current Member)/Engagement - Structured Data.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:01 GMT</pubDate></item><item><title><![CDATA[Acc 24]]></title><description><![CDATA[ 
+ work for the 2024 Annual Meeting]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/acc-24.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Acc 24.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:18:49 GMT</pubDate></item><item><title><![CDATA[Join us]]></title><description><![CDATA[ 
+ Refactoring the Join Pages so we can set a new standard of page design]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/join-us.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Join us.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:05:01 GMT</pubDate></item><item><title><![CDATA[Article Children Rendering]]></title><description><![CDATA[ 
+ <br>Backlog Ticket: Article "Children Renderings" Conversion to Arches<br>
+<br>
+Title: Convert Article Subtypes to Arches Format
+
+<br>
+Description:
+
+<br>Background: Currently, the Sitecore renderings for article subtypes are not compatible with our ARCHES system. These subtypes include ClinicalTrial, GuidelineHub, JournalScan, PressRelease, Recommendation, TenPoints, and potentially others not listed.
+<br>Objective: To successfully convert the "children renderings" of articles into the ARCHES format, ensuring seamless integration with the CMS and maintaining consistency across ACC platforms.
+<br>User Story: As a developer, I want to convert the Sitecore renderings for article subtypes into the ARCHES format, so that articles can be more efficiently managed and displayed across ACC's digital platforms.
+
+
+<br>
+Acceptance Criteria:
+
+<br>A working version of all article children types is established in a local environment.
+<br>The conversion of all identified children renderings into the ARCHES format is completed.
+<br>Ensure that the new ARCHES renderings are fully functional and compatible with existing CMS infrastructure.
+<br>Maintain visual and functional consistency with the overall design and layout standards of ACC platforms.
+<br>The conversion process and final output should be documented for future reference and maintenance.
+<br>The conversion should be completed without causing any downtime or disruption to live services.
+
+
+<br>
+Dependencies: 
+
+<br>The ticket depends on the successful setup of a local development environment for the joint development effort.
+<br>This ticket blocks the work for <a data-tooltip-position="top" aria-label="https://accorg.atlassian.net/browse/APPSUPPORT-22095" rel="noopener" class="external-link" href="https://accorg.atlassian.net/browse/APPSUPPORT-22095" target="_blank">APPSUPPORT-22095</a>.
+<br>Coordination with the team members (Ling, Matt, Rowena, Jacob, and ASP Dev) for a 3-hour joint development meeting is crucial.
+
+
+<br>
+Notes for Joint Development Meeting:
+
+<br>Confirm attendance and availability of all required team members.
+<br>Ensure all necessary tools and resources are accessible during the meeting.
+<br>Set clear objectives for the meeting to maximize productivity.
+<br>Allocate time for discussion, development, and troubleshooting.
+
+
+<br>
+References for Article Types: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a>
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/tickets/article-children-rendering.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Article Children Rendering.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[Carousel]]></title><description><![CDATA[ 
+ ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/tickets/carousel.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Carousel.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 13:45:29 GMT</pubDate></item><item><title><![CDATA[Hero Banners & Micro Banner]]></title><description><![CDATA[ 
+ Component needed for the Microsite]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/tickets/hero-banners-&amp;-micro-banner.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Hero Banners &amp; Micro Banner.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[Jira Tickets notes]]></title><description><![CDATA[ 
+ <br>components?<br>
+background image with text<br>
+feedwind - remediation need to wrap in a component]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/tickets/jira-tickets-notes.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Jira Tickets notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 26 Jun 2024 15:02:12 GMT</pubDate></item><item><title><![CDATA[Show Hide Text]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> 
+ <br>Editorial team makes use of a Show/Hide UI feature frequently. As part of the Arches conversion, the individual instances of this will be stripped. We need to rebuild this functionality in a way that makes it easy for editors to add these expand/collapse blocks.&nbsp;<br>Attached is a version of the current code for reference.<br>
+`<br>
+&lt;script language="javascript" type="text/javascript"&gt;
+
+   function showHide(shID) {
+
+      if (document.getElementById(shID)) {
+
+         if (document.getElementById(shID + '-show').style.display != 'none') {
+
+            document.getElementById(shID + '-show').style.display = 'none';
+
+            document.getElementById(shID).style.display = 'block';
+
+         }
+
+         else {
+
+            document.getElementById(shID + '-show').style.display = 'inline';
+
+            document.getElementById(shID).style.display = 'none';
+
+         }
+
+      }
+
+   }
+
+&lt;/script&gt;
+Copy<br><br>
+<br>Create Component  priority  createdJuly 10, 2023
+<br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/jira" class="tag" target="_blank" rel="noopener">#acc/jira</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/tickets/show-hide-text.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Show Hide Text.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 14:02:00 GMT</pubDate></item><item><title><![CDATA[Current Working Projects]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>Metadata
+
+<br>Created::  2:28 PM - September 04, 2024
+<br>Updated::  4:58 PM - September 04, 2024
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/__-full-project-list.html</link><guid isPermaLink="false">Work/ACC/Projects/__ Full Project List.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:58:40 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>Stay on top of the process of tickets that need to go into the pipeline to be fixed.<br>
+<br>
+<br>Micro banner 
+<br>Grid Bug
+<br>Article Pages
+<br><a data-href="Article Children Rendering" href="https://acc-style.github.io/BrainDump/work/acc/projects/tickets/article-children-rendering.html" class="internal-link" target="_self" rel="noopener">Article Children Rendering</a>
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>**Additional Notes: <a data-href="Jira Tickets notes" href="https://acc-style.github.io/BrainDump/work/acc/projects/tickets/jira-tickets-notes.html" class="internal-link" target="_self" rel="noopener">Jira Tickets notes</a>
+<br><a data-href="Carousel" href="https://acc-style.github.io/BrainDump/work/acc/projects/tickets/carousel.html" class="internal-link" target="_self" rel="noopener">Carousel</a>
+<br><a data-href="Show Hide Text" href="https://acc-style.github.io/BrainDump/work/acc/projects/tickets/show-hide-text.html" class="internal-link" target="_self" rel="noopener">Show Hide Text</a>
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/jira-tickets-arches.html</link><guid isPermaLink="false">Work/ACC/Projects/Jira Tickets Arches.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:56:27 GMT</pubDate></item><item><title><![CDATA[ACC Products]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> 
+ <br><br><a data-href="CardioSmart Explorer App - Re-engineering" href="https://acc-style.github.io/BrainDump/CardioSmart Explorer App - Re-engineering" class="internal-link" target="_self" rel="noopener">CardioSmart Explorer App - Re-engineering</a><br>
+<a data-href="Syncing CardioSmart with Asset.ACC.org" href="https://acc-style.github.io/BrainDump/work/acc/projects/syncing-cardiosmart-with-asset.acc.org.html" class="internal-link" target="_self" rel="noopener">Syncing CardioSmart with Asset.ACC.org</a><br>
+<a data-href="__ Full Project List" href="https://acc-style.github.io/BrainDump/work/acc/projects/__-full-project-list.html" class="internal-link" target="_self" rel="noopener">__ Full Project List</a><br>
+<a data-href="Product Page Model" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/product-page-model.html" class="internal-link" target="_self" rel="noopener">Product Page Model</a><br><br><a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener">Arches Conversion</a><br>
+<a data-href="1CRM" href="https://acc-style.github.io/BrainDump/work/acc/1crm/1crm.html" class="internal-link" target="_self" rel="noopener">1CRM</a><br><br><a data-href="Page Creation Guidance" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/page-creation-guidance.html" class="internal-link" target="_self" rel="noopener">Page Creation Guidance</a><br>
+<a data-href="Page Creation Guidance" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/page-creation-guidance.html" class="internal-link" target="_self" rel="noopener">Page Creation Guidance</a><br>
+<a data-href="Microsites" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/microsites/microsites.html" class="internal-link" target="_self" rel="noopener">Microsites</a><br>
+<a data-href="Arches" href="https://acc-style.github.io/BrainDump/work/acc/arches/arches.html" class="internal-link" target="_self" rel="noopener">Arches</a><br><br><a data-href="Science and Quality" href="https://acc-style.github.io/BrainDump/Science and Quality" class="internal-link" target="_self" rel="noopener">Science and Quality</a><br>
+<a data-href="Edu Blocks" href="https://acc-style.github.io/BrainDump/Edu Blocks" class="internal-link" target="_self" rel="noopener">Edu Blocks</a><br>
+<a data-href="_Domain/JACC" href="https://acc-style.github.io/BrainDump/_domain/jacc.html" class="internal-link" target="_self" rel="noopener">_Domain/JACC</a><br><br><a data-href="Bug Ticket Template" href="https://acc-style.github.io/BrainDump/work/acc/jira/bug-ticket-template.html" class="internal-link" target="_self" rel="noopener">Bug Ticket Template</a><br>
+<a data-href="ARCHES Component Conversion" href="https://acc-style.github.io/BrainDump/work/acc/jira/arches-component-conversion.html" class="internal-link" target="_self" rel="noopener">ARCHES Component Conversion</a><br>
+<a data-href="SPA Intake" href="https://acc-style.github.io/BrainDump/work/acc/jira/spa-intake.html" class="internal-link" target="_self" rel="noopener">SPA Intake</a><br>
+<a data-href="AI Prompt - SCRUM TICKET" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-scrum-ticket.html" class="internal-link" target="_self" rel="noopener">AI Prompt - SCRUM TICKET</a><br>
+<a data-href="AI Prompt - Writing Editing" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-writing-editing.html" class="internal-link" target="_self" rel="noopener">AI Prompt - Writing Editing</a><br>
+<a data-href="AI Prompt - Conversion Tickets" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets.html" class="internal-link" target="_self" rel="noopener">AI Prompt - Conversion Tickets</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a> <a href="https://acc-style.github.io/BrainDump?query=tag:requirements" class="tag" target="_blank" rel="noopener">#requirements</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc" class="tag" target="_blank" rel="noopener">#acc</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/acc-products.html</link><guid isPermaLink="false">Work/ACC/ACC Products.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:02:45 GMT</pubDate></item><item><title><![CDATA[ACC]]></title><description><![CDATA[ 
+ <br>[Full Project List](<a data-href="__ Full Project List" href="https://acc-style.github.io/BrainDump/work/acc/projects/__-full-project-list.html" class="internal-link" target="_self" rel="noopener">__ Full Project List</a>)<br>
+<a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br>
+<a data-href="Structure &amp; Guidance" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/structure-&amp;-guidance.html" class="internal-link" target="_self" rel="noopener">Structure &amp; Guidance</a><br>
+<a data-href="JIRA Helpers" href="https://acc-style.github.io/BrainDump/work/acc/jira/jira-helpers.html" class="internal-link" target="_self" rel="noopener">JIRA Helpers</a>]]></description><link>https://acc-style.github.io/BrainDump/acc.html</link><guid isPermaLink="false">ACC.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 21:07:05 GMT</pubDate></item><item><title><![CDATA[Color Test]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:45a547" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#45a547</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:f0da10" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#f0da10</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:f99b1c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#f99b1c</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:F37321" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#F37321</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:EF3824" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#EF3824</a> 
+ <br><br><br><br>Most of the document is based on a white background so it is cheaper to print.  All readable Text needs to be higher then 7:1 for 12pt text proper AAA adherence. The AA adherence is set at 4.5:1.<br>
+So 90% black text on a shaded background of 30% is not with in design acceptability<br>DOCUMENT GREYS&nbsp;<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/algorithm/color-test.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm/Color Test.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:30:59 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>The Algorithms built from our Guidelines have no current standard. After some UX research we have discovered our members are starting to turn to other offerings and we want to apply some a Design System to attempt to modernize our Algorithms.<br><br>
+<br>Improving the overall Design principles of our algorithms will make our designs more useful and also win back some users.
+<br><br>
+<br>Research
+<br>Surveys with Users
+<br>Establish a basic Framing of the design system
+
+<br>Framing
+<br>Legends
+<br>How to represent different decisions and qualitative data on the design
+<br>Citing the Document
+<br>Branding the Document.
+<br>Accessible Colors - Current Colors fail the AA or AAA standards of contrast on black or white. <a data-href="Color Test" href="https://acc-style.github.io/BrainDump/work/acc/projects/algorithm/color-test.html" class="internal-link" target="_self" rel="noopener">Color Test</a>
+
+
+<br><br>
+<br>Sticky Notes <a data-tooltip-position="top" aria-label="https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1743064928?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" rel="noopener" class="external-link" title="https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1743064928?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" href="https://teams.microsoft.com/l/entity/95de633a-083e-42f5-b444-a4295d8e9314/_djb2_msteams_prefix_1743064928?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" target="_blank">Tasks to Complete Figures</a>
+<br>Draft thoughts on Written Design System <a data-tooltip-position="top" aria-label="https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_4252764196?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" rel="noopener" class="external-link" title="https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_4252764196?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" href="https://teams.microsoft.com/l/entity/0d820ecd-def2-4297-adad-78056cde7c78/_djb2_msteams_prefix_4252764196?context=%7B%22chatId%22%3A%2219%3A05994573f9474c3ca5da0612a2836c61%40thread.v2%22%2C%22contextType%22%3A%22chat%22%7D&amp;tenantId=bdf854f3-a6c3-4c69-b46c-68dc94dbd55b" target="_blank">Figure Design Library Notes</a>
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/algorithm-design-system.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm Design System.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:23:52 GMT</pubDate></item><item><title><![CDATA[ESC Competitive Research]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/esc-competitive-research.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/ESC Competitive Research.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 20:07:45 GMT</pubDate></item><item><title><![CDATA[Pain Points]]></title><description><![CDATA[ 
  <br><br>
 <br>Hard to find
@@ -244,56 +696,12 @@ summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-positio
  <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/branding-controls.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Branding Controls.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:50:58 GMT</pubDate></item><item><title><![CDATA[Donations]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/donations.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Donations.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:42:26 GMT</pubDate></item><item><title><![CDATA[Member Directory]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/member-directory.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Member Directory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:45:09 GMT</pubDate></item><item><title><![CDATA[Membership Renewal]]></title><description><![CDATA[ 
- ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/membership-renewal.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Membership Renewal.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:47:16 GMT</pubDate></item><item><title><![CDATA[Oahu day one]]></title><description><![CDATA[ 
- <br>Slow going getting out of the house.   No surprise considering we hadn't been on the island for 10 hours and we had barely unpacked when we landed with our internal clocks at 3am<br>The island clearly has a parking problem and a whole economic system has sprouted around charging everyone for a parking spot.   <br>Diamond head was a treat but our legs did question why we didn't move 24 hours earlier and now we're taking the stairs to breach a volcano crater.   <br>We then slowly ate our way across the island.   Farmers Market for a mango Ginger beer mocktail then samples some tropical “butters” which are what I would call a curd.  So a stashed passion fruit and coconut lime jar in our bag we headed to the north island with a quick stop to pick up a dole pineapple soft serve and the finally lunch with some kahlua pork sliders and garlic shrimp on the north coast.   It is now 11am and maybe we should move around so we can find a shaved ice.   ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/oahu-day-one.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Oahu day one.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:00 GMT</pubDate></item><item><title><![CDATA[Online Membership Application]]></title><description><![CDATA[ 
+ ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/membership-renewal.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Membership Renewal.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:47:16 GMT</pubDate></item><item><title><![CDATA[Online Membership Application]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/online-membership-application.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Online Membership Application.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 20:09:53 GMT</pubDate></item><item><title><![CDATA[Profile Tour]]></title><description><![CDATA[ 
  <br><img alt="Pasted image 20240412115026.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240412115026.png"><br><br>We recently made some changes to how you manage your personal information. Take a quick tour of these updates to enhance your experience and make it more intuitive.&nbsp;<br><br>Manage your email, phone and address details more easily and get a more comprehensive view of your ACC.org profile.&nbsp;<br><br>Our new shopping cart system, makes payments a breeze. You can easily manage and save your payment methods here, making purchases faster and more seamless. &nbsp;<br><br>Under "Current Membership," you can view your membership status or reprint your membership card. In "Manage Membership," you can renew your membership or alter any add-ons to your membership.&nbsp;<br><br>Personalize the types of content you receive from ACC, including your regular digest email newsletter, under "Personalize ACC.org." Additionally, the new “Communication &amp; Privacy” page, allows you to control the content you receive and share only the data you are comfortable with. Never miss an update while maintaining control over your ACC communications.&nbsp;<br><br>Are you in possession of an exclusive product access code? Use the “Access Codes” page to unlock your savings on specific ACC programs or products. &nbsp;<br><br>Access the “Purchas History” page for a detailed list of your past purchases of ACC programs and products. &nbsp;<br><br>Saved an article on ACC.org? You can find it under the “Library” page for quick access to read again or reference later. &nbsp;<br><br>Locate, view and print claimed credits and certificates on your personalized “Transcript” page.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/profile-tour.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Profile Tour.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:00 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240412115026.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240412115026.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Shopping Cart]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/shopping-cart.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Shopping Cart.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:53:37 GMT</pubDate></item><item><title><![CDATA[Sign In]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/sign-in.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Sign In.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:39:51 GMT</pubDate></item><item><title><![CDATA[Dynamic Header & Footer]]></title><description><![CDATA[ 
- <br><br>Working through the pages that need to have the new header and footer. Double check this listed page to clean<a data-tooltip-position="top" aria-label="https://support.acc.org/browse/ONECRM-1680" rel="noopener" class="external-link" href="https://support.acc.org/browse/ONECRM-1680" target="_blank">  List of Pages </a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/dynamic-header-&amp;-footer.html</link><guid isPermaLink="false">Work/ACC/1CRM/Efforts/Dynamic Header &amp; Footer.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 20:44:19 GMT</pubDate></item><item><title><![CDATA[Engagement]]></title><description><![CDATA[ 
- <br>
-<br>Title of Opportunity
-
-<br>Clear and descriptive title
-
-
-<br>Overview
-
-<br>Brief summary of the opportunity
-
-
-<br>Goals and Objectives
-
-<br>Specific aims and intended outcomes
-
-
-<br>Required Skills and Qualifications
-
-<br>List of necessary skills, experience, and qualifications
-
-
-<br>Time Commitment
-
-<br>Estimated hours per repeatable timing for a total duration
-
-
-<br>Location: Remote, Local, Travel
-<br>Compensation and Benefits
-
-<br>Details on stipends, perks, or other benefits
-
-
-<br>Organization Information
-
-<br>Name, mission, and reputation of the effort
-
-
-<br>Impact and Value
-
-<br>Description of the expected impact and value to participants and the community
-
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/engagement.html</link><guid isPermaLink="false">Work/ACC/1CRM/Efforts/Engagement.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:01 GMT</pubDate></item><item><title><![CDATA[Paths to Payment]]></title><description><![CDATA[ 
+ <br><br>Working through the pages that need to have the new header and footer. Double check this listed page to clean<a data-tooltip-position="top" aria-label="https://support.acc.org/browse/ONECRM-1680" rel="noopener" class="external-link" href="https://support.acc.org/browse/ONECRM-1680" target="_blank">  List of Pages </a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/dynamic-header-&amp;-footer.html</link><guid isPermaLink="false">Work/ACC/1CRM/Efforts/Dynamic Header &amp; Footer.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 20:44:19 GMT</pubDate></item><item><title><![CDATA[Paths to Payment]]></title><description><![CDATA[ 
  <br><br>
 <br>Auto login - single payment to an attachment of invoice of a member ID ONECRM-1695
 
@@ -355,13 +763,7 @@ main:Work/ACC/1CRM/OMA Replacement - Membership Join Us.md
 
 
 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/oma-replacement-membership-join-us.html</link><guid isPermaLink="false">Work/ACC/1CRM/Efforts/OMA Replacement - Membership Join Us.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 18 Jul 2023 20:54:15 GMT</pubDate></item><item><title><![CDATA[1CRM]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/vendor" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/vendor</a> 
- <br><a data-href="Blackout Week" href="https://acc-style.github.io/BrainDump/work/acc/1crm/blackout-week.html" class="internal-link" target="_self" rel="noopener">Blackout Week</a><br>
-<a data-href="OMA Replacement - Membership Join Us" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/oma-replacement-membership-join-us.html" class="internal-link" target="_self" rel="noopener">OMA Replacement - Membership Join Us</a><br>
-<a data-href="My ACC.org Dropdown Menu" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/my-acc.org-dropdown-menu.html" class="internal-link" target="_self" rel="noopener">My ACC.org Dropdown Menu</a><br>
-<a data-href="Dynamic Header &amp; Footer" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/dynamic-header-&amp;-footer.html" class="internal-link" target="_self" rel="noopener">Dynamic Header &amp; Footer</a><br>
-<a data-href="Invoices Pay for some one else" href="https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/invoices-pay-for-some-one-else.html" class="internal-link" target="_self" rel="noopener">Invoices Pay for some one else</a><br>
-<a data-href="Front End" href="https://acc-style.github.io/BrainDump/work/acc/1crm/front-end.html" class="internal-link" target="_self" rel="noopener">Front End</a><br><a data-href="First time entry tour" href="https://acc-style.github.io/BrainDump/work/acc/1crm/first-time-entry-tour.html" class="internal-link" target="_self" rel="noopener">First time entry tour</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/vendor" class="tag" target="_blank" rel="noopener">#acc/vendor</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:02 GMT</pubDate></item><item><title><![CDATA[Blackout Week]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/efforts/oma-replacement-membership-join-us.html</link><guid isPermaLink="false">Work/ACC/1CRM/Efforts/OMA Replacement - Membership Join Us.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 18 Jul 2023 20:54:15 GMT</pubDate></item><item><title><![CDATA[Blackout Week]]></title><description><![CDATA[ 
  <br>Editorial Changes<br>
 <br>Donation Links
 
@@ -403,40 +805,7 @@ The rub is that the subscriptions types show up on the renew page.<br>
 <img alt="Pasted image 20240424073644.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240424073644.png"><br>
 I get this error when changing the race birthday<br>
 <img alt="Pasted image 20240424075131.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240424075131.png">
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/things-are-broken-or-funky-list.html</link><guid isPermaLink="false">Work/ACC/1CRM/Things are broken or funky list.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 26 Jun 2024 15:01:54 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240424073644.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240424073644.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Carousel]]></title><description><![CDATA[ 
- ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/components/tickets/carousel.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Components/Tickets/Carousel.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 13:45:29 GMT</pubDate></item><item><title><![CDATA[Show Hide Text]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> 
- <br>Editorial team makes use of a Show/Hide UI feature frequently. As part of the Arches conversion, the individual instances of this will be stripped. We need to rebuild this functionality in a way that makes it easy for editors to add these expand/collapse blocks.&nbsp;<br>Attached is a version of the current code for reference.<br>
-`<br>
-&lt;script language="javascript" type="text/javascript"&gt;
-
-   function showHide(shID) {
-
-      if (document.getElementById(shID)) {
-
-         if (document.getElementById(shID + '-show').style.display != 'none') {
-
-            document.getElementById(shID + '-show').style.display = 'none';
-
-            document.getElementById(shID).style.display = 'block';
-
-         }
-
-         else {
-
-            document.getElementById(shID + '-show').style.display = 'inline';
-
-            document.getElementById(shID).style.display = 'none';
-
-         }
-
-      }
-
-   }
-
-&lt;/script&gt;
-Copy<br><br>
-<br>Create Component  priority  createdJuly 10, 2023
-<br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/jira" class="tag" target="_blank" rel="noopener">#acc/jira</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/components/tickets/show-hide-text.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Components/Tickets/Show Hide Text.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 14:02:00 GMT</pubDate></item><item><title><![CDATA[Component Conversion Approach]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/things-are-broken-or-funky-list.html</link><guid isPermaLink="false">Work/ACC/1CRM/Things are broken or funky list.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 26 Jun 2024 15:01:54 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240424073644.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240424073644.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Component Conversion Approach]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> 
  <br><br>
 <br> Only built with HTML and ASP with minimal JavaScript <a href="https://acc-style.github.io/BrainDump?query=tag:checklist" class="tag" target="_blank" rel="noopener">#checklist</a> 
 <br>The JavaScript function can be isolated to just the component <a href="https://acc-style.github.io/BrainDump?query=tag:checklist" class="tag" target="_blank" rel="noopener">#checklist</a> 
@@ -500,138 +869,8 @@ Copy<br><br>
 <br>The tab character, also represented by _0009_, should be replaced with a few spaces for clarity.
 <br>Finally, the Unicode for less than and greater than symbols, &amp;lt; and &amp;gt;, can be converted to their actual "&lt;" and "&gt;" symbols.
 <br>By transforming these Unicode characters into their corresponding visual representations, we significantly enhance the comprehensibility of the document, thus facilitating easier identification of different elements and their spacing.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/audit-of-editorial-ui.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Excel/Audit of Editorial UI.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 21 Jul 2023 17:47:02 GMT</pubDate></item><item><title><![CDATA[Editorial Bulk Change Notice Excel]]></title><description><![CDATA[ 
- <br>The process of bulk conversion is a nuanced operation that significantly depends on the scope of the pages being converted. Each bulk conversion task is unique, and while insights and learnings from previous conversions inform the process, it's important to note that a bespoke report is produced after each conversion. This report, presented in an Excel document, is a crucial tool that outlines the User Interface (UI) items within the editorial scope - including Rich Text and Custom Scripts - that require remediation following the conversion. The items are neatly categorized by sheet, each containing the Item ID, URL, and proposed remediation notes. This systematic approach provides a comprehensive view of the areas within the CMS that may need review, adjustments, or those indicating a potential function failure. Typical remediation steps include actions like "let fail," "add classes," "remove," and "replace with components," but this list is not exhaustive. If more complex actions are needed, additional notes may be added for clarity. This meticulous process ensures an efficient and methodical approach to addressing changes and potential issues post-conversion.<br><br>A listing of all pages effected by the conversion<br><br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/editorial-bulk-change-notice-excel.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Excel/Editorial Bulk Change Notice Excel.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 15:22:27 GMT</pubDate></item><item><title><![CDATA[Mapping of Converted Components]]></title><description><![CDATA[ 
- <br><a data-href="Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/conversion.html" class="internal-link" target="_self" rel="noopener">Conversion</a>/<a data-href="Excel Tables" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel-tables.html" class="internal-link" target="_self" rel="noopener">Excel Tables</a><br><br>The Mapping of Converted Components is a straightforward Excel document that records all components that have been converted. This reference document is crucial when implementing bulk conversion scripts. If the 'converted ID' column contains the term 'compatible', the scripting process should bypass this component. This protocol assumes that no modifications are necessary, as all required work has been completed within the original file. This mechanism helps ensure an efficient and error-free conversion process.<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/mapping-of-converted-components.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Excel/Mapping of Converted Components.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 19 Jul 2023 17:15:47 GMT</pubDate></item><item><title><![CDATA[Remediation]]></title><description><![CDATA[ 
- <br><br><br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/remediation.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Excel/Remediation.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 18 Jul 2023 19:04:23 GMT</pubDate></item><item><title><![CDATA[Bulk Conversion Outline OLD]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches/conversion" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches/conversion</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
- <br>← back to <a data-href="Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/conversion.html" class="internal-link" target="_self" rel="noopener">Conversion</a><br><br>Bulk Conversion Planning&nbsp;<br><br>
-<br>
-Identify a batch of pages as the upcoming candidate batch for conversion. Considerations:&nbsp;
-
-<br>Can we target a good number of pages with the same component composition (they use the same components exclusively)? This lets us control variables.&nbsp;
-<br>Provide a list of the components to UI for conversion.&nbsp;
-<br>Confirm the batch with any interested parties if relevant (editorial, BL, users, etc etc)&nbsp;
-
-
-<br>
-UI analyzes component list conversion and provides LOE.&nbsp;
-
-<br>How complex will the conversions be/How long will it take? Generally, this will hopefully be doable in one sprint assuming there is not any major rebuilding needed. Most importantly we need to determine how many will need to be rebuilt completely.&nbsp; 
-<br><a data-href="Creating A New ACC.org Component" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/components/creating-a-new-acc.org-component.html" class="internal-link" target="_self" rel="noopener">Creating A New ACC.org Component</a>
-<br>Create tickets for each component up for conversion (we may be able to lump some lighter ones together, we can decide that after analysis).&nbsp;
-
-
-<br>
-Groom, add to schedule, etc.&nbsp;
-
-<br><br>
-<br>
-UI team completes component conversion tickets.&nbsp;
-
-<br>
-QA tests converted components on sample pages in test environments.&nbsp; 
-
-<br>
-Push conversions to production,&nbsp;including deployments steps to make sure the components are available for use on all environments.&nbsp;
-
-<br>
-UI provides list of bulk changes, including&nbsp;
-
-<br>Components that need to be switched to an Arches version in presentation layout.&nbsp;
-<br>If applicable, a list of changes to rich text content where the change can realistically be done with a bulk script (i.e., search and replace)&nbsp;
-<br>A list of issues from conversion that will need manual intervention.&nbsp;
-<br><a data-href="New Component" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/new-component.html" class="internal-link" target="_self" rel="noopener">New Component</a>
-
-
-<br><br>
-<br>Audit All Content Areas, and Custom Scripts for uses of In Page and Inline Script and Style Tags<br>
-1. Output to and excel.  <a data-href="Audit of Editorial UI" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/audit-of-editorial-ui.html" class="internal-link" target="_self" rel="noopener">Audit of Editorial UI</a><br>
-2.  Internal Review of Audit<br>
-1. List All Inbound Links and Evaluate Remediation of Links:<br>
-1. Font Awesome  4.x - Delete, find all class names that start with fa- and end in -o and remove -o<br>
-2. Font Awesome 5 or 6 - Delete<br>
-3. Bootstrap JS &amp; CSS - Delete<br>
-4. <a data-href="Remediation" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/remediation.html" class="internal-link" target="_self" rel="noopener">Remediation</a> |  Remediation Document of all editorially created UI and Inclusions<br>
-]]<br>
-2. Review and In Page Script and Styles<br>
-1. Dedupe and Style and Script Tag Blocks and save them outside of Sitecore<br>
-1. Add Items to the <a data-href="Editorial Bulk Change Notice Excel" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/editorial-bulk-change-notice-excel.html" class="internal-link" target="_self" rel="noopener">Editorial Bulk Change Notice Excel</a><br>
-3. Run Clean Up scripts across  Richtext and CustomScript Sitecore components
-<br><br>
-<br>
-Development creates scripts to process changes provided by UI in Sprint B.&nbsp;
-
-<br>Precondition: Components that need to be switched to Arches has already been developed, tested,&nbsp; and pushed to ALL environments (DEV, SPR, STG, RLS, PRD)&nbsp;
-
-
-<br>
-Run script in development environment for specific pages that apply to this batch (i.e., #1) and verify.&nbsp;
-
-<br>
-Review affected pages for discrepancies/bugs for resolution (e.g., code, components, etc.)&nbsp;
-
-<br>If code changes are required, create JIRA tickets for upcoming sprint.&nbsp; Sprint C will be paused until these code changes are made in ALL environment&nbsp;
-
-
-<br>
-Review and identify any content issues (rich text, custom scripts) and work w/ BL on resolution&nbsp;
-
-
-
-<br>
-Run clean up script to identify problematic scripts that need to be&nbsp;remediated&nbsp;(<a rel="noopener" class="external-link" href="https://support.acc.org/browse/AWC-3942" target="_blank">https://support.acc.org/browse/AWC-3942</a>) and push to environments accordingly.&nbsp;
-
-<br>
-Promote to other lower environments (SPR, STG, RLS) and validate in each environment accordingly.&nbsp;
-
-<br>Perform demo for BL to review results of bulk conversion for batch in scope (STG or RLS) and obtain sign-off&nbsp;
-
-
-<br>
-Create a PRD back-up to support a rollback, if needed (requires further discussion around specific rollback tasks/steps)&nbsp;
-
-<br>Take back-ups of both&nbsp;Author and Web DBs&nbsp;
-<br>Need to enforce a&nbsp;content freeze&nbsp;(BL), specifically for a&nbsp;subset of pages/content&nbsp;
-
-
-<br>
-Promote to PRD and run bulk conversion script in Author ONLY, do NOT publish to Delivery.&nbsp;
-
-<br>
-IMPORTANT NOTE: To ensure content is NOT auto-published, there is a need to explore options.&nbsp;
-
-<br>Option 1: Set content items to a DRAFT status when converting content in Author.&nbsp; See Sitecore DRAFT workflow doc&nbsp;<a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:w:/r/sites/tbs/Private/Agile%20Movement/AWC%20Team/Arches%20Conversion/Workflow-in-Sitecore.docx?d=w5e7e42edf5844f03b7be461f5ddc8b43&amp;csf=1&amp;web=1&amp;e=zZKy2Y" rel="noopener" class="external-link" href="https://accorg.sharepoint.com/:w:/r/sites/tbs/Private/Agile%20Movement/AWC%20Team/Arches%20Conversion/Workflow-in-Sitecore.docx?d=w5e7e42edf5844f03b7be461f5ddc8b43&amp;csf=1&amp;web=1&amp;e=zZKy2Y" target="_blank">here</a>.&nbsp; Possible risk is the Original Posted Date may be updated as a result (need confirmation)&nbsp;
-<br>Option 2: -- TBD&nbsp;
-
-
-<br>
-IT to perform spot checks in Author to ensure the conversion script was completed successfully.&nbsp;
-
-<br>
-BL reviews converted pages in Author and as pages are validated, publish in increments (as appropriate)&nbsp;
-
-<br>UI, DEV, &amp; QA teams on standby to field any questions or address any concerns&nbsp;
-
-
-
-
-<br>
-Post Conversion/Clean Up Tasks&nbsp;(once all batches are complete, one-time task)&nbsp;
-
-<br>Once conversion is complete, we will take the Arches presentations and merge them into the current legacy template presentation configurations, and delete the Arches versions, as clean up.&nbsp;
-
-
-<br>QA Approach (DRAFT)&nbsp;<br>NOTE: This approach should be visited as we progress w/ the batches.&nbsp; Also, scheduled sprint content syncs should not adversely affect the Arches QA pages since they will already exist prior to the content sync.&nbsp;<br>
-<br>UI/UX team will create an Arches QA dedicated page (e.g., page name to include '_ArchesQA' suffix&nbsp; in the DEV environment in support of their development &amp; verification process.&nbsp;
-<br>Once the component updates have been verified in the DEV environment, UI/UX to request a Razl content sync to SPR in coordination w/ their updates getting built and deployed to SPR. (Ricky can assist w/ Razl syncs)&nbsp;
-<br>QA will then use the Arches QA dedicated page in SPR to test the target components.&nbsp; Once validated in SPR, QA will work with DEV (Ricky) to sync content to upper environments (STG/RLS) as the changes are promoted.&nbsp;
-<br>PRD deployment (e.g., pre-task) should include a step to sync the Arches QA dedicated page to PRD (Author ONLY, do not publish to Delivery) in order for QA validate in PRD.&nbsp;
-<br>Once validated, need to ensure there is a clean-up process to remove/delete QA dedicated pages, once ready (in ALL environments)&nbsp;
-<br>Notes:&nbsp;&nbsp;<br>It is important that we have a way to roll back our work at any point throughout these cycles and we need to be able to do this in a way that BL can be comfortable with. This plan doesn’t really account for if something goes pear shaped in Sprint C but we should probably iron that out as well, especially if something goes wrong during the push to production.&nbsp;<br>This looks like a three-sprint process, but we may be able to consider identifying the next batch during sprint C to speed up conversion if necessary.<br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/arches" class="tag" target="_blank" rel="noopener">#acc/arches</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc/arches/conversion" class="tag" target="_blank" rel="noopener">#acc/arches/conversion</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a> <br>Metadata
-
-<br>Created::  9:39 AM - July 17, 2023
-<br>Updated::  4:55 PM - July 20, 2023
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/bulk-conversion-outline-old.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Bulk Conversion Outline OLD.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 20:55:31 GMT</pubDate></item><item><title><![CDATA[Script Process]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches/conversion" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches/conversion</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
+ <br>The process of bulk conversion is a nuanced operation that significantly depends on the scope of the pages being converted. Each bulk conversion task is unique, and while insights and learnings from previous conversions inform the process, it's important to note that a bespoke report is produced after each conversion. This report, presented in an Excel document, is a crucial tool that outlines the User Interface (UI) items within the editorial scope - including Rich Text and Custom Scripts - that require remediation following the conversion. The items are neatly categorized by sheet, each containing the Item ID, URL, and proposed remediation notes. This systematic approach provides a comprehensive view of the areas within the CMS that may need review, adjustments, or those indicating a potential function failure. Typical remediation steps include actions like "let fail," "add classes," "remove," and "replace with components," but this list is not exhaustive. If more complex actions are needed, additional notes may be added for clarity. This meticulous process ensures an efficient and methodical approach to addressing changes and potential issues post-conversion.<br><br>A listing of all pages effected by the conversion<br><br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/editorial-bulk-change-notice-excel.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Excel/Editorial Bulk Change Notice Excel.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 15:22:27 GMT</pubDate></item><item><title><![CDATA[Remediation]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel/remediation.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/Excel/Remediation.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 18 Jul 2023 19:04:23 GMT</pubDate></item><item><title><![CDATA[Script Process]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches/conversion" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches/conversion</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
  <br><br>
 <br>Change page layout to ArchesMainView or Arches variation Template (Article...)
 <br>Change legacy components to Arches components using the master component mapping document as reference.
@@ -778,47 +1017,7 @@ Building upon the audit excel the team will augment that excel to produce a repo
 <br>Created::  4:30 PM - July 19, 2023
 <br>Updated::  5:16 PM - July 20, 2023
 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-d-batch-conversion.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/SPRINT D - Batch Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 21:16:06 GMT</pubDate></item><item><title><![CDATA[Acc 24]]></title><description><![CDATA[ 
- <br>Vanity url for UX survey jump points.<br>
-JACC<br>
-ACC<br>RANDOM BUTTON TO IPAD QUESTION S]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/projects/acc-24.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Projects/Acc 24.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:09 GMT</pubDate></item><item><title><![CDATA[Conversion]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches/conversion" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches/conversion</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
- <br><a data-tooltip-position="top" aria-label="ACC Products" data-href="ACC Products" href="https://acc-style.github.io/BrainDump/work/acc/acc-products.html" class="internal-link" target="_self" rel="noopener">← back to acc products</a><br><a data-tooltip-position="top" aria-label="Scripts" data-href="Scripts" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/scripts.html" class="internal-link" target="_self" rel="noopener">Script Glossary &amp; Categorization</a><br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT A - Define the Batch" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-a-define-the-batch.html" class="internal-link" target="_self" rel="noopener">SPRINT A -&nbsp;Define the Batch</a>&nbsp;<br>---------------------------------------------------------&nbsp;<br>
-<br>Select conversion candidate for the batch&nbsp;and define scope
-<br>Run an Audit Query  against the code base of Sitecore within scope for code components &amp; plan needed conversions
-<br>Run an  Audit Query  against the CMS Content Areas (RichText &amp; CustomScripts) within scope for Editorial Generated UI &amp; start planning for remediation
-<br>Groom&nbsp;
-<br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT B - Component Conversions" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-b-component-conversions.html" class="internal-link" target="_self" rel="noopener">SPRINT B -&nbsp;Component Conversions</a><br>---------------------------------------------------------&nbsp;<br>
-<br>Convert the components&nbsp;
-<br>Deploy to lower environments DEV/SPR&nbsp;
-<br>QA test the converted components&nbsp;
-<br>Promote to PROD&nbsp;
-<br>List of bulk changes - Mapping of changes&nbsp;
-<br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT C - Editorial Created Remediation" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-c-editorial-created-remediation.html" class="internal-link" target="_self" rel="noopener">SPRINT C -&nbsp;Editorial Created Remediation</a>&nbsp;<br>---------------------------------------------------------&nbsp;<br>
-<br>SYNC SPR&nbsp;
-<br>Execute bulk conversion script with a small sample of pages in DEV/SPR - Using Mapping&nbsp;
-<br>Clean up rich text via script (S&amp;D)&nbsp;
-<br>Review effected pages&nbsp;
-<br>Create jira tickets for content issues identified during review&nbsp;
-<br>Work with BL to resolve found issues&nbsp;
-<br>Promote to RLS&nbsp;
-<br>Demo with BL and obtain sign-off&nbsp;
-<br>---------------------------------------------------------&nbsp;<br><a data-href="SPRINT D - Batch Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-d-batch-conversion.html" class="internal-link" target="_self" rel="noopener">SPRINT D -&nbsp;Batch Conversion</a><br>---------------------------------------------------------&nbsp;<br>
-<br>Create PRD/Master/Web DBs backup for potential rollback&nbsp;
-<br>Run bulk conversion script in Author only with auto-publishing turned off&nbsp;
-<br>IT performs spot checks&nbsp;
-<br>BL reviews and validates pages, with support from UI, DEV, and QA teams&nbsp;
-<br>Garbage Clean up of Empty Content areas and RichText
-<br>Resync to lower environments?
-<br><a data-href="Editorial training" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/editorial-training/editorial-training.html" class="internal-link" target="_self" rel="noopener">Editorial training</a><br>---------------------------------------------------------&nbsp;<br>SPRINT Z -&nbsp;Done!&nbsp;<br>---------------------------------------------------------&nbsp;<br>
-<br>Garbage cleanup
-<br><a data-href="Bulk Conversion Outline OLD" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/bulk-conversion-outline-old.html" class="internal-link" target="_self" rel="noopener">Bulk Conversion Outline OLD</a><br>
-<a data-href="Excel Tables" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/excel-tables.html" class="internal-link" target="_self" rel="noopener">Excel Tables</a><br><a data-href="notes" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/notes.html" class="internal-link" target="_self" rel="noopener">notes</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/arches/conversion" class="tag" target="_blank" rel="noopener">#acc/arches/conversion</a><br>
-<a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a> <br>Metadata
-
-<br>Created::  11:15 AM - September 11, 2023
-<br>Updated::  9:38 AM - January 18, 2024
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/conversion.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 18 Jan 2024 14:38:58 GMT</pubDate></item><item><title><![CDATA[New Component]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/process/sprint-d-batch-conversion.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Process/SPRINT D - Batch Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 21:16:06 GMT</pubDate></item><item><title><![CDATA[New Component]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/arches" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/arches</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> 
  <br>
 <br>ticket <a data-href="ARCHES Component Conversion" href="https://acc-style.github.io/BrainDump/work/acc/jira/arches-component-conversion.html" class="internal-link" target="_self" rel="noopener">ARCHES Component Conversion</a>
 <br>build
@@ -829,10 +1028,7 @@ ACC<br>RANDOM BUTTON TO IPAD QUESTION S]]></description><link>https://acc-style.
 <br>Created::  9:39 AM - July 17, 2023
 <br>Updated::  4:56 PM - July 20, 2023
 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/new-component.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/New Component.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 20:56:59 GMT</pubDate></item><item><title><![CDATA[notes]]></title><description><![CDATA[ 
- <br>components?<br>
-background image with text<br>
-feedwind - remediation need to wrap in a component]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/notes.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 26 Jun 2024 15:02:12 GMT</pubDate></item><item><title><![CDATA[Outstanding Tickets in ACC.org]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:1b" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1b</a> 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/new-component.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/New Component.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 20:56:59 GMT</pubDate></item><item><title><![CDATA[Outstanding Tickets in ACC.org]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:1b" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#1b</a> 
  <br><br>
 <br>Unfinished implementation of Articles.  <a data-tooltip-position="top" aria-label="https://accorg.atlassian.net/jira/software/c/projects/AWC/boards/23/backlog?selectedIssue=APPSUPPORT-23590" rel="noopener" class="external-link" href="https://accorg.atlassian.net/jira/software/c/projects/AWC/boards/23/backlog?selectedIssue=APPSUPPORT-23590" target="_blank">23590 Update ARCHES Article Template to Remove the "Search" tab, so it Defaults to "Content"</a>
 <br><a data-tooltip-position="top" aria-label="https://accorg.atlassian.net/jira/software/c/projects/AWC/boards/23/backlog?selectedIssue=AWC-4003" rel="noopener" class="external-link" href="https://accorg.atlassian.net/jira/software/c/projects/AWC/boards/23/backlog?selectedIssue=AWC-4003" target="_blank">AWC-4003 Structural (1col2colRight &amp; 1col) Remediation &amp; Clean up</a>
@@ -870,8 +1066,7 @@ feedwind - remediation need to wrap in a component]]></description><link>https:/
 <br><a data-tooltip-position="top" aria-label="https://accorg.atlassian.net/browse/AWC-3857" rel="noopener" class="external-link" href="https://accorg.atlassian.net/browse/AWC-3857" target="_blank">Arches Bulk Conversion | Article Pages (Batch #2 Parent)</a>
 <br><br>
 <br>Microstie Hero and Miro Header
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/outstanding-tickets-in-acc.org.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Outstanding Tickets in ACC.org.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 26 Jun 2024 21:04:38 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
- ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/untitled.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 23 Jul 2024 14:53:33 GMT</pubDate></item><item><title><![CDATA[Container Query Sizing]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/outstanding-tickets-in-acc.org.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Outstanding Tickets in ACC.org.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 26 Jun 2024 21:04:38 GMT</pubDate></item><item><title><![CDATA[Container Query Sizing]]></title><description><![CDATA[ 
  <br>Would it be beneficial to only alter the CSS var in breakpoint for containers <br>Nope this would fuck up with inheritance  .<br>
 :root{
 
@@ -911,12 +1106,7 @@ In their own stylesheet for now and load it after the CSS of UC.css<br>
 <br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/design" class="tag" target="_blank" rel="noopener">#acc/design</a><br>
 <a href="https://acc-style.github.io/BrainDump?query=tag:acc" class="tag" target="_blank" rel="noopener">#acc</a><br>
 <a href="https://acc-style.github.io/BrainDump?query=tag:acc/arches" class="tag" target="_blank" rel="noopener">#acc/arches</a><br>
-<a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html</link><guid isPermaLink="false">Work/ACC/Arches/Design System/Design System.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:01:25 GMT</pubDate></item><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
- <br><a data-href="Front End Design at the College" href="https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html" class="internal-link" target="_self" rel="noopener">Front End Design at the College</a><br>
-<a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener">Design System</a><br>
-<a data-href="Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/conversion.html" class="internal-link" target="_self" rel="noopener">Conversion</a><br>Arches is the foundational design system employed by the American College of Cardiology (ACC). Leveraging advanced compiler techniques, Arches generates a multitude of variations that integrate with different frameworks and product brands. These variations are utilized across an array of products developed by the ACC.<br>In its basic form, Arches serves as a set of utility classes. When incorporated into a project with an existing style sheet, it can introduce new, non-destructive styling features. Additionally, Arches offers variants that seamlessly build on two popular frameworks currently in use at the College: Twitter Bootstrap<br><br><a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener">Design System</a><br>
-<a data-tooltip-position="top" aria-label="Conversion" data-href="Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/conversion.html" class="internal-link" target="_self" rel="noopener">Conversion of ACC.org</a><br>
-<a data-href="Syncing CardioSmart with Asset.ACC.org" href="https://acc-style.github.io/BrainDump/work/acc/projects/syncing-cardiosmart-with-asset.acc.org.html" class="internal-link" target="_self" rel="noopener">Syncing CardioSmart with Asset.ACC.org</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/arches.html</link><guid isPermaLink="false">Work/ACC/Arches/Arches.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 26 Jan 2024 16:03:39 GMT</pubDate></item><item><title><![CDATA[Front End Design at the College]]></title><description><![CDATA[ 
+<a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html</link><guid isPermaLink="false">Work/ACC/Arches/Design System/Design System.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:01:25 GMT</pubDate></item><item><title><![CDATA[Front End Design at the College]]></title><description><![CDATA[ 
  <br>Frontend development continues to expand as a percentage of project coding to the point that some of our products, such as the clinical applications, are 100% frontend code. Over the past year, I have been putting work together to support a massive shift in how we do frontend and, in the long run, how we develop, support, and release our college software solutions.&nbsp;<br>The most significant issue I continually see in IT is decentralized coding efforts. Decentralization leads to repetitive solutions, inconsistent behaviors, extended regression testing, bloated packages, complicated deployments, and potential code errors as we try to make security patches or upgrades.&nbsp;&nbsp;<br>Focusing on improving how we execute frontend for the college and not just for a project, I have tackled four pillars.&nbsp;&nbsp;<br>
 <br>Unification of design but building for flexibility
 <br>Shifting to the CFD (component first development )
@@ -924,8 +1114,7 @@ In their own stylesheet for now and load it after the CSS of UC.css<br>
 <br>Centralizing everything for everyone
 <br>The unification of design was the first place I started. "Arches" is the current solution that enforces a Design Opps procedure to streamline requests and deliver a college-wide design system. This design system has two tenants. First, it can replicate its styles influenced by the brand and frameworks from its product space. It now covers QII, ACC, Cardiosmart, and Mobile and can be further scaled. Second is its utility framework that ensures a highly flexible practice to allow countless UI permutations without CSS mutations. Utility styling is also known as "scopeless" styling because you can build out many UI patterns without ever altering the original styles.&nbsp; &nbsp;<br><a rel="noopener" class="external-link" href="https://assets.acc.org/Arches/Latest/docs/" target="_blank">https://assets.acc.org/Arches/Latest/docs/</a><br>Shifting to CFD (component first development) embraces an architecture for our frontend products and alters how we develop. CFD, as a pattern, has been around since 2012 with bootstrap. In its infancy, CFD could only capture minor token UI. Still, with the introduction of javascript models like Web Components, React, Vue CFD can now capture business logic, complicated interface interactions, and data mutations. Vue has been my primary focus as it builds on the collective knowledge of the department. Vue has the capabilities to make obsolete Jquery UI, Pager, Knockout, Angular, JqueryMobile, and many other libraries that are currently in use. IT streamlining to a single dependency allows for universal software patching for frontend security issues.&nbsp;<br>Currently, we are creating documentation that is utilized and not just ignored. As we shift to CFD, we can use Storybook which allows for documentation around a living singular component with artificial data. This type of documentation gives a single point of Design, Development, and QA. The effort on a single element can be attached to countless projects through version control. Centralized development and QA can give us a feasible path to automated unit testing and regression testing. As new projects come online, utilizing the global-version-controlled components would benefit from standards, consistency, and quality control. Preliminary work done with Storybook around a future product under the ACC.org "Home Page Redesign." Projects could include the transcript, CSTool, GL Search, Coveo Search, and FIT Management. <br>Vue 2 component for reference<br>
 <a rel="noopener" class="external-link" href="https://acc-style.github.io/Origami/?path=/story/welcome--to-storybook" target="_blank">https://acc-style.github.io/Origami/?path=/story/welcome--to-storybook</a><br>Vue 3 component for all new work<br>
-<a rel="noopener" class="external-link" title="https://assets.acc.org/papercrane/latest/docs/" href="https://assets.acc.org/papercrane/Latest/docs/" target="_blank">https://assets.acc.org/papercrane/Latest/docs/</a><br>Centralizing everything for everyone. I have conversations  GM, Josh G, and Micheal M, and the great work of Ling C on creating a path forward with using assets.acc.org and also moving the newly used submodule features from GIT  within current and future products. Submodules empower the component work to be checked in and out from both the centralized-version-control and from projects, these efforts can be kept in sync. The vision for this project is to be controlled by ACC but utilizable by vendors.  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html</link><guid isPermaLink="false">Work/ACC/Arches/Front End Design at the College.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 21:31:14 GMT</pubDate></item><item><title><![CDATA[Digital Portfolio]]></title><description><![CDATA[ 
- <br>So many products.  <br>Derivatives are pipelines to amplify stories<br>Central illustration to pull users into the article to buy.  <br>JACC intervention is a pay walled.  <br>CME UPON READ<br>CARDIOSMART derivatives need to be hooked to articles.  <br>Cardio smart animation include <br>Need storage resource pocket guide.  <br>No one in the room has gone to the home page.  <br>Social broadcasting schedules<br>Group collaboration <br>Al cart options for social broadcasting <br>Jackie@    Edge personalization.   <br>Jacc and disclosures?<br>What ONE CRM CINNECTION TO SUBMITION?]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jacc/digital-portfolio.html</link><guid isPermaLink="false">Work/ACC/JACC/Digital Portfolio.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:40:13 GMT</pubDate></item><item><title><![CDATA[KSS Documentation]]></title><description><![CDATA[ 
+<a rel="noopener" class="external-link" title="https://assets.acc.org/papercrane/latest/docs/" href="https://assets.acc.org/papercrane/Latest/docs/" target="_blank">https://assets.acc.org/papercrane/Latest/docs/</a><br>Centralizing everything for everyone. I have conversations  GM, Josh G, and Micheal M, and the great work of Ling C on creating a path forward with using assets.acc.org and also moving the newly used submodule features from GIT  within current and future products. Submodules empower the component work to be checked in and out from both the centralized-version-control and from projects, these efforts can be kept in sync. The vision for this project is to be controlled by ACC but utilizable by vendors.  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html</link><guid isPermaLink="false">Work/ACC/Arches/Front End Design at the College.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 20 Jul 2023 21:31:14 GMT</pubDate></item><item><title><![CDATA[KSS Documentation]]></title><description><![CDATA[ 
  <br>KSS, or Knyle Style Sheets, is a documentation syntax for CSS that allows developers to create a living style guide from CSS comments. It's structured to be both human-readable and machine-parsable, enabling automated tools to generate style guides from your CSS files. Here's an example of a comprehensive KSS comment block for a CSS stylesheet, including all the main options it can have:<br>/*
 A button suitable for giving a user a call to action.
 
@@ -984,57 +1173,7 @@ Copy<br>This example includes:<br>
 <br>Dependencies: Other CSS files or assets this component depends on.
 <br>Requires: Additional resources or files that are required for this component.
 <br>Implementations: Links or references to implementations of the component in different technologies or platforms.
-<br>This structured comment allows developers and designers to understand the purpose, usage, and variations of a component at a glance. It can be processed by tools like KSS Node to generate a living style guide, ensuring documentation stays up-to-date with the code.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/knowledge-base/kss-documentation.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 28 Feb 2024 20:37:35 GMT</pubDate></item><item><title><![CDATA[AI Prompt - Conversion Tickets 1 1 1]]></title><description><![CDATA[ 
- <br>Comprehensive Prompt Template for ChatGPT Interaction and Backlog Ticket Creation<br>
-<a data-href="KSS Documentation" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/knowledge-base/kss-documentation.html" class="internal-link" target="_self" rel="noopener">KSS Documentation</a><br>Contextual Setup for My Request:<br>I want you to understand and act in the specific context of being a Product Owner on a SCRUM team. Your role is to write backlog tickets for a new feature, considering all aspects typical of a Product Owner's responsibilities in a real-world scenario. I expect the tone and approach of your responses to reflect this role and context. After the prompt please ask up to 3 follow up questions if you any clarifications or supporting details. Here are some key points I want you to consider:<br>
-<br>SCRUM Methodology Awareness: You should demonstrate a clear understanding of SCRUM principles and practices.
-<br>Role-Specific Knowledge: As a Product Owner, your focus is on maximizing the value of the product and the work of the development team.
-<br>Feature-Specific Requirements: The backlog tickets you will create should be for a specific feature, detailed in my request.
-<br>User-Centric Approach: Emphasize the importance of user stories and prioritize tasks based on user needs and project goals.
-<br>Communication Style: Your responses should mirror the communication style of a Product Owner - clear, decisive, and oriented towards actionable items.
-<br>Writing Style: Concise and clear, with a preference for listing items rather than writing out in sentences, to facilitate easy scanning.
-<br>Project Introduction:<br>
-<br>Subject Matter: Tech stack - ASP, Vue, HTML, CSS, JavaScript, CMS Sitecore or Sitefinity
-<br>Internal Terms: [Clarification on terms like ARCHES, PaperCrane, ACC.org, CardioSmart, etc.]
-
-<br>ARCHES is a comprehensive front-end design system by the American College of Cardiology. It uses advanced compiler techniques to generate variations that integrate with different frameworks and brands, making it versatile for various ACC products. ARCHES primarily consists of utility classes that offer a modern approach to CSS, focusing on single-style control and separation of responsibilities between HTML and CSS. This system is flexible and adaptable, used across multiple ACC platforms, including ACC.org and CardioSmart, and supports distinct brand styles while maintaining overall coherence.
-<br>PaperCrane refers to a Component Library specifically designed for Vue.js, a progressive JavaScript framework. This library is utilized in the development of Single Page Applications (SPAs). PaperCrane  contains a collection of pre-built Vue components which can be reused across different parts of the enterprise application, enhancing development speed and ensuring UI consistency.
-<br>ACC.org ACC.org is the official website of the American College of Cardiology. It serves as a comprehensive resource for cardiology professionals, offering a wide range of content including clinical updates, educational materials, guidelines, and information on cardiology conferences and events. The site is designed to support medical professionals in the field of cardiology with the latest scientific research, policy advocacy, and continuous education. It also provides tools and resources for practice support, quality improvement, and patient care in the cardiovascular field. The website caters to the needs of cardiologists, providing them with essential information to advance their knowledge and practice.
-<br>CardioSmart.org is a patient-centered website created by the American College of Cardiology. It provides comprehensive information about heart health and various cardiac conditions. The site is dedicated to educating patients, offering resources on heart diseases, healthy living tips, and tools to manage cardiac health. It includes topics such as heart disease prevention, treatment options, and lifestyle changes. CardioSmart.org is designed to empower patients with knowledge and tools to actively participate in their own heart care and make informed decisions about their health.
-
-
-<br>Backlog Ticket Structure:<br>
-<br>Title: A concise, descriptive title for the feature or issue  
-<br>Description:
-
-<br>Background: Brief context or background information.
-<br>Objective: Clear statement of what the ticket aims to achieve.
-<br>User Story: Format - As a [type of user], I want [an action] so that [a value or result].
-
-
-<br>Acceptance Criteria:
-
-<br>List of conditions that must be met for the ticket to be considered complete.
-<br>Should be specific, measurable, achievable, relevant, and time-bound (SMART).
-
-
-<br>Dependencies: Any dependencies or prerequisites for the ticket.
-<br>Checklist for Components:
-
-<br> Component Definition: Define the zone, providing a screenshot, requirements from an editor's perspective, and the URL location.
-<br> Component Identification: IT to identify and isolate the component.
-<br> Design Implementation: A front-end designer/developer to create an HTML prototype of the component using the Arches design system.
-<br> Group Grooming: Conduct a group grooming session to identify any additional tickets or tasks necessary to complete the story.<br>
-The checklist provides a high-level overview of the steps that need to be taken. More detailed sub-tasks should be created under this main ticket to track the progress of each individual item. This way, it'll be easier to manage and track the progress of this component's transition to the Arches design system.
-
-
-<br>Backlog Ticket Creation:<br>Follow the Updated Backlog Ticket Structure provided above to detail your response for this ticket In the Prompt Details below I will detail the information I have for the ticket.<br>Prompt Details:<br>
-<br>Heading: [Specify the heading for the response.]
-<br>Introduction: [Brief introduction about the request or the aspect of the project being addressed.]
-<br>Main Content: [Detailed response or the created backlog ticket based on the structure provided, presented in a concise, list-based format for easy scanning.]
-<br>Component Name: [A short name of the component to be used in the repo]
-<br>References or Sources: [If required, mention the need for citations or sources.]
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets-1-1-1.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets 1 1 1.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 28 Feb 2024 20:38:25 GMT</pubDate></item><item><title><![CDATA[AI Prompt - SCRUM TICKET]]></title><description><![CDATA[ 
+<br>This structured comment allows developers and designers to understand the purpose, usage, and variations of a component at a glance. It can be processed by tools like KSS Node to generate a living style guide, ensuring documentation stays up-to-date with the code.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/knowledge-base/kss-documentation.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 28 Feb 2024 20:37:35 GMT</pubDate></item><item><title><![CDATA[AI Prompt - SCRUM TICKET]]></title><description><![CDATA[ 
  <br>Comprehensive Prompt Template for ChatGPT Interaction and Backlog Ticket Creation<br>Contextual Setup for My Request:<br>I want you to understand and act in the specific context of being a Product Owner on a SCRUM team. Your role is to write backlog tickets for a new feature, considering all aspects typical of a Product Owner's responsibilities in a real-world scenario. I expect the tone and approach of your responses to reflect this role and context. After the prompt please ask up to 3 follow up questions if you any clarifications or supporting details. Here are some key points I want you to consider:<br>
 <br>SCRUM Methodology Awareness: You should demonstrate a clear understanding of SCRUM principles and practices.
 <br>Role-Specific Knowledge: As a Product Owner, your focus is on maximizing the value of the product and the work of the development team.
@@ -1076,14 +1215,7 @@ User Story: Format - As a [type of user], I want [an action] so that [a value or
 <br>Introduction: [Brief introduction about the request or the aspect of the project being addressed.]
 <br>Main Content: [Detailed response or the created backlog ticket based on the structure provided, presented in a concise, list-based format for easy scanning.]
 <br>References or Sources: [If required, mention the need for citations or sources. This could be optional]
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-scrum-ticket.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 22 Feb 2024 16:30:45 GMT</pubDate></item><item><title><![CDATA[AI Prompt - Writing Editing 1 1 1]]></title><description><![CDATA[ 
- <br>Please take the following text and correct any spelling and punctuation errors.   You may also correct verb tense and cognition usage to improve grammatical structure.  Please do not change any of the meaning or tone of the text.  After your first round of corrections  You may prompt me with a suggested changes to improve readability or grammar as a follow-up I will respond to your suggestion with a yes or no if it is yes then you may change the wording scoped to your suggestion.  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-writing-editing-1-1-1.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing 1 1 1.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 18 Jan 2024 14:34:23 GMT</pubDate></item><item><title><![CDATA[Analysis: Component Name Modernization with Arches Design System]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> 
- <br><a data-tooltip-position="top" aria-label="ACC Products" data-href="ACC Products" href="https://acc-style.github.io/BrainDump/work/acc/acc-products.html" class="internal-link" target="_self" rel="noopener">back to ACC</a><br><br>This is the master ticket for the transition of the [Component Name] into the new Arches design system. This encompasses all the tasks required for the successful analysis, design, and implementation of the component update.<br><br>(To be filled by the product owner or stakeholder)<br><br>(To be filled by the IT team after the initial analysis and discussions)<br><br><br><br><br><br><br>
-<br> Component Definition: Define the zone, providing a screenshot, requirements from an editor's perspective, and the URL location.
-<br> Component Identification: IT to identify and isolate the component.
-<br> Design Implementation: A front-end designer/developer to create an HTML prototype of the component using the Arches design system.
-<br> Group Grooming: Conduct a group grooming session to identify any additional tickets or tasks necessary to complete the story.
-<br><br>The checklist provides a high-level overview of the steps that need to be taken. More detailed sub-tasks should be created under this main ticket to track the progress of each individual item. This way, it'll be easier to manage and track the progress of this component's transition to the Arches design system.<br><a data-href="AI Prompt - Conversion Tickets 1 1 1" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets-1-1-1.html" class="internal-link" target="_self" rel="noopener">AI Prompt - Conversion Tickets 1 1 1</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/jira" class="tag" target="_blank" rel="noopener">#acc/jira</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc" class="tag" target="_blank" rel="noopener">#acc</a> <a href="https://acc-style.github.io/BrainDump?query=tag:work" class="tag" target="_blank" rel="noopener">#work</a> <a href="https://acc-style.github.io/BrainDump?query=tag:requirements" class="tag" target="_blank" rel="noopener">#requirements</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/arches-component-conversion.html</link><guid isPermaLink="false">Work/ACC/Jira/ARCHES Component Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 26 Jan 2024 16:25:47 GMT</pubDate></item><item><title><![CDATA[Analysis: Component {Name} for ACC.org]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-scrum-ticket.html</link><guid isPermaLink="false">Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 22 Feb 2024 16:30:45 GMT</pubDate></item><item><title><![CDATA[Analysis: Component {Name} for ACC.org]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> 
  <br><a data-tooltip-position="top" aria-label="ACC Products" data-href="ACC Products" href="https://acc-style.github.io/BrainDump/work/acc/acc-products.html" class="internal-link" target="_self" rel="noopener">back to ACC</a><br><br>This is the master ticket  of the [Component Name]. This encompasses all the tasks required for the successful analysis, design, and implementation of the component update.<br><br>(To be filled by the product owner or stakeholder)<br><br>
 <br>Arches Design System
 <br>.... 
@@ -1120,8 +1252,7 @@ User Story: Format - As a [type of user], I want [an action] so that [a value or
 <br> Launch and Post-Launch Review: Launch the SPA, monitor its performance, gather feedback, and conduct a post-launch review. Set a milestone for the completion of the post-launch review.
 <br><br>🔶 Please fill in the details accordingly, which will greatly assist the development team in understanding and executing the required tasks.<br>🔶 This refined milestone-based checklist offers a comprehensive snapshot of the process needed for the transition of the application to an SPA. For each step, corresponding sub-tickets should be generated under this primary ticket. Each sub-ticket will be added to the appropriate backlog and prioritized based on its criticality and dependencies. This structure will ensure seamless management and clear tracking of progress throughout the project's lifecycle.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/spa-intake.html</link><guid isPermaLink="false">Work/ACC/Jira/SPA Intake.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 26 Jan 2024 16:08:39 GMT</pubDate></item><item><title><![CDATA[Component Library in Vue]]></title><description><![CDATA[ 
  <br>The construction of a boiler plate components project that can be used as a standard for building future products<br><a data-tooltip-position="top" aria-label="https://assets.acc.org/origami/Latest/docs/?path=/story/introduction--page" rel="noopener" class="external-link" href="https://assets.acc.org/origami/Latest/docs/?path=/story/introduction--page" target="_blank">Old Documentations</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/paper-crane/component-library-in-vue.html</link><guid isPermaLink="false">Work/ACC/Paper Crane/Component Library in Vue.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:13 GMT</pubDate></item><item><title><![CDATA[+Weekly Notes]]></title><description><![CDATA[ 
- <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/+Weekly Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:14 GMT</pubDate></item><item><title><![CDATA[ACC 2024]]></title><description><![CDATA[ 
- Survey and UX work from the 2024 Conference]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/acc-2024.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/ACC 2024.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 21:00:55 GMT</pubDate></item><item><title><![CDATA[After Conference actions]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/+Weekly Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:14 GMT</pubDate></item><item><title><![CDATA[After Conference actions]]></title><description><![CDATA[ 
  <br><br>
 <br>Meet with Lauren &amp; Mindy  dueApril 16, 2024
 
@@ -1168,31 +1299,7 @@ User Story: Format - As a [type of user], I want [an action] so that [a value or
 <br>Do a digital run through with Mary Anne.  priority  dueMay 01, 2024
 <br>Do a dry run explore with Lauren and Mindy. How to present and run a BAD Workshop  dueApril 23, 2024
 <br>Run a variation of a roadmap exploration for Heart Explorer with Michele Areil.  dueMay 01, 2024
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/after-conference-actions.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/After Conference actions.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:37:42 GMT</pubDate></item><item><title><![CDATA[Lessons Learned]]></title><description><![CDATA[ 
- <br><a data-href="ACC 2024" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/acc-2024.html" class="internal-link" target="_self" rel="noopener">ACC 2024</a><br><br><br>
-<br>Survey monkey scale at the to was sometimes ignored
-<br>Use Engage scales vs pick definition 
-<br>Static QR CODES a bust.  
-<br><br>
-<br>Digital was slower because it is single threaded. Qrcodes could help but with randomize we don't have an option in place.  
-<br>Type in responses (other)are less in digital vs print.  
-<br>Digital was also slow because loading time.  
-
-<br>Explore none internet connected option for survey
-<br>Offline mode.  
-
-<br>Survey monkey enterprise has an offline mode.  It has stored in an app.  
-
-
-
-
-<br><br>
-<br>We deploy multiple surveys from ACC should we review or at least be aware of them before conference.  
-<br><br>
-<br>Don’t go early on first day.   No one is hanging out till past keynote and later.
-<br>Still can't engage older established clinicians.   
-<br>Great exposure for ux to both survey takers and the college as a business.  
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/lessons-learned.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/Lessons Learned.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:29 GMT</pubDate></item><item><title><![CDATA[Channels]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/annual-2024/after-conference-actions.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/After Conference actions.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:37:42 GMT</pubDate></item><item><title><![CDATA[Channels]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> 
  <br>Channels are an advanced variation of a <a data-href="Collections" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/collections/collections.html" class="internal-link" target="_self" rel="noopener">Collections</a> of the data type sessions.  <br>Besides categorization   and auto sorting established by the timing from the sessions the channel further establishes timing events like with the session shows up in coming soon or when the page becomes active or stays active after the scheduled ending time of the session.   <br>Sessions may be included in overlapping channels but the navigation and page of the session player will consolidate all traffic to the highest priority channel.  <br><a href="https://acc-style.github.io/BrainDump?query=tag:requirements" class="tag" target="_blank" rel="noopener">#requirements</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/collections/channels.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Virtual/Collections/Channels.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:14 GMT</pubDate></item><item><title><![CDATA[Collections]]></title><description><![CDATA[ 
  <br>Collections are any set of <a data-href="Structured Data Items" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/structured-data-items/structured-data-items.html" class="internal-link" target="_self" rel="noopener">Structured Data Items</a>.    Certain collections are directly paired with widgets which render UI or power certain functionality.  <br>Most collections are basic with <a data-href="System establishing data" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/system/system-establishing-data.html" class="internal-link" target="_self" rel="noopener">System establishing data</a> but collections may have data manipulations applied to them like  and sort and <a data-href="Categories  &amp; Tags" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/system/categories-&amp;-tags.html" class="internal-link" target="_self" rel="noopener">Categories  &amp; Tags</a><br><a data-href="Channels" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/collections/channels.html" class="internal-link" target="_self" rel="noopener">Channels</a> are a variation of collections that have an advanced level of data manipulation to construct agendas.  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/collections/collections.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Virtual/Collections/Collections.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:15 GMT</pubDate></item><item><title><![CDATA[Layouts & Blocks]]></title><description><![CDATA[ 
  <br><br>This is a crud mechanism <a data-href="Basic CRUD" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/system/basic-crud.html" class="internal-link" target="_self" rel="noopener">Basic CRUD</a>  the layouts have <a data-href="System establishing data" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/virtual/system/system-establishing-data.html" class="internal-link" target="_self" rel="noopener">System establishing data</a>   Layouts can be stacked and sorted within the structure of a page.<br>
@@ -1330,23 +1437,7 @@ act - link to something will come later.<br>
 partners - logos company names links<br>
 footer - copywrite and link to terms of service. <br>What we will need<br>
 <br>Webinars: Hold coming soon.
-<br><a data-href="+Project Archived" href="https://acc-style.github.io/BrainDump/+Project Archived" class="internal-link" target="_self" rel="noopener">+Project Archived</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/cv-board-website-brochureware.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/CV Board Website Brochureware.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:01:38 GMT</pubDate></item><item><title><![CDATA[Hero Banners & Micro Banner]]></title><description><![CDATA[ 
- Component needed for the Microsite]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/hero-banners-&amp;-micro-banner.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Hero Banners &amp; Micro Banner.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[Join us]]></title><description><![CDATA[ 
- <br><br>
-<br>Prototype delivery October 6th
-<br>Content progress review October 26th
-
-<br>Removal of any road blocks or get any approvals
-<br>Check on imagery requests &amp; possibly include into prototype to see if alterations are needed
-
-
-<br>Final content November 13th.  
-<br>Nov 15- 4 build pages in author with Incremental review of pages as they are finished.   
-<br>Review of  all new pages  collect any corrections and last minute alterations December 4th
-<br>Last minute corrections review December 7th
-<br>Launch delivery December 8th<br>
-<a data-href="+Project Archived" href="https://acc-style.github.io/BrainDump/+Project Archived" class="internal-link" target="_self" rel="noopener">+Project Archived</a>
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/join-us.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Join us.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:19 GMT</pubDate></item><item><title><![CDATA[AI REQUEST for this Ticket]]></title><description><![CDATA[ 
+<br><a data-href="+Project Archived" href="https://acc-style.github.io/BrainDump/+Project Archived" class="internal-link" target="_self" rel="noopener">+Project Archived</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/_archived/cv-board-website-brochureware.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/CV Board Website Brochureware.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:01:38 GMT</pubDate></item><item><title><![CDATA[AI REQUEST for this Ticket]]></title><description><![CDATA[ 
  <br>Contextual Setup for My Request:<br>I want you to understand and act in the specific context of being a Product Owner on a SCRUM team. Your role is to write backlog tickets for a new feature, considering all aspects typical of a Product Owner's responsibilities in a real-world scenario. I expect the tone and approach of your responses to reflect this role and context. After the prompt please ask up to 3 follow up questions if you any clarifications or supporting details. Here are some key points I want you to consider:<br>
 <br>SCRUM Methodology Awareness: You should demonstrate a clear understanding of SCRUM principles and practices.
 <br>Role-Specific Knowledge: As a Product Owner, your focus is on maximizing the value of the product and the work of the development team.
@@ -1416,51 +1507,7 @@ Sample of all of these types to work on a local environment and local working fo
 - TenPoints<br>
 - This might not be a complete list<br>
 To complete this ticket we suggest work with a collection of people because it requires BL intervention, UX guidance, UI Devolpemmt and also ASP Dev work.<br>First Step Setup environment for JOINT DEVELOPMENT<br>
-Sample of all of these types to work on a local environment and local working for Ling to run the Joint Dev meetings<br>Joint Dev Meeting: that includes ASP Dev, Ling, Matt, Rowena, Editorial(Jacob) and should be roughly 3 hours on a single day where everyone partipates.<br>Blocks Ticket <a data-tooltip-position="top" aria-label="https://accorg.atlassian.net/browse/APPSUPPORT-22095" rel="noopener" class="external-link" title="https://accorg.atlassian.net/browse/appsupport-22095" href="https://accorg.atlassian.net/browse/APPSUPPORT-22095" target="_blank">APPSUPPORT-22095</a><br>Resources: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a><br><a data-href="AI REQUEST for this Ticket" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/children-rendering/ai-request-for-this-ticket.html" class="internal-link" target="_self" rel="noopener">AI REQUEST for this Ticket</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/children-rendering/children-rendering-rough-notes.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/Children Rendering Rough Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:19 GMT</pubDate></item><item><title><![CDATA[TICKET]]></title><description><![CDATA[ 
- <br>Backlog Ticket: Article "Children Renderings" Conversion to Arches<br>
-<br>
-Title: Convert Article Subtypes to Arches Format
-
-<br>
-Description:
-
-<br>Background: Currently, the Sitecore renderings for article subtypes are not compatible with our ARCHES system. These subtypes include ClinicalTrial, GuidelineHub, JournalScan, PressRelease, Recommendation, TenPoints, and potentially others not listed.
-<br>Objective: To successfully convert the "children renderings" of articles into the ARCHES format, ensuring seamless integration with the CMS and maintaining consistency across ACC platforms.
-<br>User Story: As a developer, I want to convert the Sitecore renderings for article subtypes into the ARCHES format, so that articles can be more efficiently managed and displayed across ACC's digital platforms.
-
-
-<br>
-Acceptance Criteria:
-
-<br>A working version of all article children types is established in a local environment.
-<br>The conversion of all identified children renderings into the ARCHES format is completed.
-<br>Ensure that the new ARCHES renderings are fully functional and compatible with existing CMS infrastructure.
-<br>Maintain visual and functional consistency with the overall design and layout standards of ACC platforms.
-<br>The conversion process and final output should be documented for future reference and maintenance.
-<br>The conversion should be completed without causing any downtime or disruption to live services.
-
-
-<br>
-Dependencies: 
-
-<br>The ticket depends on the successful setup of a local development environment for the joint development effort.
-<br>This ticket blocks the work for <a data-tooltip-position="top" aria-label="https://accorg.atlassian.net/browse/APPSUPPORT-22095" rel="noopener" class="external-link" href="https://accorg.atlassian.net/browse/APPSUPPORT-22095" target="_blank">APPSUPPORT-22095</a>.
-<br>Coordination with the team members (Ling, Matt, Rowena, Jacob, and ASP Dev) for a 3-hour joint development meeting is crucial.
-
-
-<br>
-Notes for Joint Development Meeting:
-
-<br>Confirm attendance and availability of all required team members.
-<br>Ensure all necessary tools and resources are accessible during the meeting.
-<br>Set clear objectives for the meeting to maximize productivity.
-<br>Allocate time for discussion, development, and troubleshooting.
-
-
-<br>
-References for Article Types: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a>
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/children-rendering/ticket.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/TICKET.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[ACC.org Conversion]]></title><description><![CDATA[ 
+Sample of all of these types to work on a local environment and local working for Ling to run the Joint Dev meetings<br>Joint Dev Meeting: that includes ASP Dev, Ling, Matt, Rowena, Editorial(Jacob) and should be roughly 3 hours on a single day where everyone partipates.<br>Blocks Ticket <a data-tooltip-position="top" aria-label="https://accorg.atlassian.net/browse/APPSUPPORT-22095" rel="noopener" class="external-link" title="https://accorg.atlassian.net/browse/appsupport-22095" href="https://accorg.atlassian.net/browse/APPSUPPORT-22095" target="_blank">APPSUPPORT-22095</a><br>Resources: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a><br><a data-href="AI REQUEST for this Ticket" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/children-rendering/ai-request-for-this-ticket.html" class="internal-link" target="_self" rel="noopener">AI REQUEST for this Ticket</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/children-rendering/children-rendering-rough-notes.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/Children Rendering Rough Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:19 GMT</pubDate></item><item><title><![CDATA[ACC.org Conversion]]></title><description><![CDATA[ 
  Build ACC using Arhces]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/acc.org-conversion.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[Content Rewrite]]></title><description><![CDATA[ 
  <br><br>The Exam is timed and it is important that you give yourself enough time to finish it during the exam window.<br><br>The test and the questions are timed. The complete test with no breaks is timed to be 7.5 hours<br>
 (Some People have finished it in 4.5 hours)<br><br>Exam window date time x @ GMT to date time y @ GMT<br>
@@ -1472,13 +1519,7 @@ References for Article Types: <a data-tooltip-position="top" aria-label="https:/
 (7.5 hours of test plus a max of 24 hours of break). 
 <br>Your exam must completed within  the exam window
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ccke/content-rewrite.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/Content Rewrite.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:21 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
- Mobile App with 3D rendered videos of the heart]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 360.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:51:17 GMT</pubDate></item><item><title><![CDATA[Current Working Projects]]></title><description><![CDATA[ 
- <br><br><br><br><br><br>Metadata
-
-<br>Created::  2:28 PM - September 04, 2024
-<br>Updated::  4:58 PM - September 04, 2024
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/full-project-list.html</link><guid isPermaLink="false">Work/ACC/Projects/Full Project List.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:58:40 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Mobile App with 3D rendered videos of the heart]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 360.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:51:17 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  Building Landing Pages to better connect Marketing to the ask.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:59:52 GMT</pubDate></item><item><title><![CDATA[Syncing CardioSmart with Asset.ACC.org]]></title><description><![CDATA[ 
  CardioSmart is on Bifurcated versions of Arches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/syncing-cardiosmart-with-asset.acc.org.html</link><guid isPermaLink="false">Work/ACC/Projects/Syncing CardioSmart with Asset.ACC.org.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:49:15 GMT</pubDate></item><item><title><![CDATA[Full Page Splashes]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
  <br>Full Page Splashes,  orphan pages, or  marketing landing pages are isolated pages within our website's architecture that are not linked from the homepage and should be used sparingly and strategically. These pages exist outside of our website's primary navigation and can inadvertently disrupt a user's browsing experience. As a rule, these pages should only be created in specific scenarios - such as part of a well-defined marketing campaign with a predetermined lifespan.<br><br>Before implementing a Full Page Splash, ensure all of the following criteria are met:<br>
@@ -1776,23 +1817,4 @@ Recycle- The title of the page you are linking to is usually not enough to be en
 <a data-href="Page Content" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/page-content/page-content.html" class="internal-link" target="_self" rel="noopener">Page Content</a><br>
 <a data-href="SPA Intake" href="https://acc-style.github.io/BrainDump/work/acc/jira/spa-intake.html" class="internal-link" target="_self" rel="noopener">SPA Intake</a><br>
 <a data-href="Story First Content" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/story-writing/story-first-content.html" class="internal-link" target="_self" rel="noopener">Story First Content</a><br>
-<a data-href="Product Page Model" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/product-page-model.html" class="internal-link" target="_self" rel="noopener">Product Page Model</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/structure-&amp;-guidance.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Structure &amp; Guidance.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:42:01 GMT</pubDate></item><item><title><![CDATA[ACC Products]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> 
- <br><br><a data-href="Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/conversion.html" class="internal-link" target="_self" rel="noopener">Conversion</a><br>
-<a data-href="1CRM" href="https://acc-style.github.io/BrainDump/work/acc/1crm/1crm.html" class="internal-link" target="_self" rel="noopener">1CRM</a><br>
-<a data-href="CardioSmart Explorer App - Re-engineering" href="https://acc-style.github.io/BrainDump/CardioSmart Explorer App - Re-engineering" class="internal-link" target="_self" rel="noopener">CardioSmart Explorer App - Re-engineering</a><br>
-<a data-href="Syncing CardioSmart with Asset.ACC.org" href="https://acc-style.github.io/BrainDump/work/acc/projects/syncing-cardiosmart-with-asset.acc.org.html" class="internal-link" target="_self" rel="noopener">Syncing CardioSmart with Asset.ACC.org</a><br>
-<a data-href="Full Project List" href="https://acc-style.github.io/BrainDump/work/acc/projects/full-project-list.html" class="internal-link" target="_self" rel="noopener">Full Project List</a><br>
-<a data-href="Product Page Model" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/product-page-model.html" class="internal-link" target="_self" rel="noopener">Product Page Model</a><br><br><a data-href="Page Creation Guidance" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/page-creation-guidance.html" class="internal-link" target="_self" rel="noopener">Page Creation Guidance</a><br>
-<a data-href="Page Creation Guidance" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/page-creation-guidance.html" class="internal-link" target="_self" rel="noopener">Page Creation Guidance</a><br>
-<a data-href="Microsites" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/microsites/microsites.html" class="internal-link" target="_self" rel="noopener">Microsites</a><br>
-<a data-href="Arches" href="https://acc-style.github.io/BrainDump/work/acc/arches/arches.html" class="internal-link" target="_self" rel="noopener">Arches</a><br><br><a data-href="Science and Quality" href="https://acc-style.github.io/BrainDump/work/acc/science-and-quality.html" class="internal-link" target="_self" rel="noopener">Science and Quality</a><br>
-<a data-href="Edu Blocks" href="https://acc-style.github.io/BrainDump/Edu Blocks" class="internal-link" target="_self" rel="noopener">Edu Blocks</a><br><br><a data-href="Bug Ticket Template" href="https://acc-style.github.io/BrainDump/work/acc/jira/bug-ticket-template.html" class="internal-link" target="_self" rel="noopener">Bug Ticket Template</a><br>
-<a data-href="ARCHES Component Conversion" href="https://acc-style.github.io/BrainDump/work/acc/jira/arches-component-conversion.html" class="internal-link" target="_self" rel="noopener">ARCHES Component Conversion</a><br>
-<a data-href="SPA Intake" href="https://acc-style.github.io/BrainDump/work/acc/jira/spa-intake.html" class="internal-link" target="_self" rel="noopener">SPA Intake</a><br>
-<a data-href="AI Prompt - SCRUM TICKET" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-scrum-ticket.html" class="internal-link" target="_self" rel="noopener">AI Prompt - SCRUM TICKET</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener">#acc/guidance</a> <a href="https://acc-style.github.io/BrainDump?query=tag:requirements" class="tag" target="_blank" rel="noopener">#requirements</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc" class="tag" target="_blank" rel="noopener">#acc</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/acc-products.html</link><guid isPermaLink="false">Work/ACC/ACC Products.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:36:13 GMT</pubDate></item><item><title><![CDATA[ChatGPT]]></title><description><![CDATA[ 
- <br><a data-href="AI Prompt - Writing Editing 1 1 1" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-writing-editing-1-1-1.html" class="internal-link" target="_self" rel="noopener">AI Prompt - Writing Editing 1 1 1</a><br>
-<a data-href="AI Prompt - Conversion Tickets 1 1 1" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets-1-1-1.html" class="internal-link" target="_self" rel="noopener">AI Prompt - Conversion Tickets 1 1 1</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/chatgpt.html</link><guid isPermaLink="false">Work/ACC/ChatGPT.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 26 Jan 2024 16:25:47 GMT</pubDate></item><item><title><![CDATA[Science and Quality]]></title><description><![CDATA[ 
- ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/science-and-quality.html</link><guid isPermaLink="false">Work/ACC/Science and Quality.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:41:11 GMT</pubDate></item><item><title><![CDATA[ACC]]></title><description><![CDATA[ 
- <br><a data-href="Full Project List" href="https://acc-style.github.io/BrainDump/work/acc/projects/full-project-list.html" class="internal-link" target="_self" rel="noopener">Full Project List</a><br>
-<a data-href="Structure &amp; Guidance" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/structure-&amp;-guidance.html" class="internal-link" target="_self" rel="noopener">Structure &amp; Guidance</a><br>
-<a data-href="JIRA Helpers" href="https://acc-style.github.io/BrainDump/work/acc/jira/jira-helpers.html" class="internal-link" target="_self" rel="noopener">JIRA Helpers</a>]]></description><link>https://acc-style.github.io/BrainDump/acc.html</link><guid isPermaLink="false">ACC.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:36:14 GMT</pubDate></item></channel></rss>
+<a data-href="Product Page Model" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/product-page-model.html" class="internal-link" target="_self" rel="noopener">Product Page Model</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/structure-&amp;-guidance.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Structure &amp; Guidance.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:42:01 GMT</pubDate></item></channel></rss>
