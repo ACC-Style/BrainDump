@@ -1,4 +1,152 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 15:11:23 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 15:10:47 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Branding Controls]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>SecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 15:33:36 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 15:33:35 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[PainPoints]]></title><description><![CDATA[ 
+ <br><br>
+<br>Hard to find
+<br>Slow to load
+<br>Not up to date
+<br>Login 
+<br>Product Life Cycle from a user point of view (buy, use, renew, extract credits)
+<br><br>
+<br>How useful is the Main Nav (Clinical Topics)
+<br>Latest in Cardiology (Doesn't Mean anything it is a junk drawer)
+<br>how useful is  Search on Site if everyone is using google
+<br>Lack of enforcement of member value with out pay wall. 
+<br>Personalization - Give value to login in!!!!
+<br>Content is written a dated and not directed way when dealing with brochureware, products any that is not science
+
+<br>We speak to everyone which means our voice is not compelling to anyone.
+
+
+<br>Not Mobile Friendly
+<br>Duplicative Content (Confusing for users and a drain on resources)
+
+<br>Articles, Content, Products, and Derivatives
+<br>Confusing "Like" Products.
+
+<br>CCKE
+<br>Webinar vs Online Course
+<br>Key Points vs Top Ten
+<br>ASCVD RISK (Apps, Excel, CardioSmart HHRC, tools.acc.org )
+
+
+
+
+<br>Not Accessible 
+
+<br>Structure Aria
+<br>Brand Color Issues
+<br>Image Usage with Text
+<br>SEM/SEO
+<br>Find-ability
+<br>Promotion
+<br>STRUCTURED Data &amp; Content
+<br>Analytics Funneling
+
+
+<br>No clear division between Enterprise Domains.
+
+<br>Clear Usage, Focus of Efforts, Reasons to Deploy within each Domain. 
+
+<br>Why should something be found in JACC and not ACC or CardioSmart. 
+
+
+
+
+<br>Central Login with our Family of Products. 
+
+<br>Cross walking our Enterprise is a jarring. 
+
+
+<br>No structural plans for how to scale content onto the site. 
+<br>Disjointed implementation of Design. (Lack of Creative Direction Enforcement) 
+
+<br>Need ACC to have enough built out so we don't run into "it needs to be NEW UI"
+<br>Need a process to "Accept new UI"
+<br>Need to know who and what is being built so we can police it. (UX and CS)
+<br>Need the power to enforce. We can be overruled.
+
+
+<br>Maintenance Issue (slow to fix, slow to change)
+
+<br>Resources limitations causes errors and fixes to languish for weeks to even years.
+
+<br>Grid Box Error
+<br>Membership Section Announcements
+<br>SWG improvements
+<br>Arches Conversion
+<br>Forsee errors should make a jira hot fix.
+
+
+
+
+<br>Pain Points are training users to alter their behavior. 
+
+<br>Mobile is painful so they use desktops
+<br>Purchased Product Entry Points are hard to find so users go back to the original purchase page
+<br>Nothing changes when I login so why should I.
+<br>Science is hard to find so they go somewhere else....
+
+
+<br>Load Times
+
+<br>Optimization of Code, Loaded Content to Page, Slow to Paint Page.  
+
+<br>Still looking at 4-6 seconds to load official standard of the web is .1
+
+
+
+
+<br>Back End Editing is Painful
+
+<br>Components are hard to find, organization is confused and mixed with legacy and arches and never use.
+<br>Components need a combination of Experience Editor and Detail View
+<br>SiteCore likes to alter and "lint" html between Source and WYSIWYG
+<br>I don't know if this is a sitecore problem or an us problem.
+
+
+<br>No real way to test (from a base setup)
+
+<br>A/B
+<br>Funnel Tracking 
+
+
+<br>We have branching pages that give no value besides wiring the pages together
+<br>Orphan Pages from the site experience
+<br>FIX All Foresee Bugs
+<br>Phase 2 and Maintenance is a Unicorn.
+<br>Out of the list above what is a Content, Design, Process, Technical issues?<br><br><br>
+<br>A|B Testing with content and design
+<br>Back End/ Editing
+<br>Loading Times
+<br>Dev Time
+<br>Personalization
+<br><br>
+<br>Duplicative
+<br>Writing Style
+<br>Accessibility
+<br><br>
+<br>Personalization
+<br>Member Benefits
+<br>Guided Experience based on Purchase Life Cycle.
+<br><br>
+<br>Changes are are jarring
+<br>Consistency is good
+<br>New experience is always hated by someone
+<br>What is the scope of the Redesign. Are we just starting over? are we keeping with best patterns and applying consistency? Are we just removing the dead weight and fixing problems?
+<br><br>
+<br>Duplicity
+<br>SEO/SEM
+<br><br>
+<br>interviews with staff (member care, IT, etc.)
+<br>MI surveys
+<br>Foresee
+<br>interviews with non member users
+<br><br>Change management historically is weak at the ACC<br>
+<br>Silos are real and we are not a flat organization!
+<br>Push back from Silos, Stakeholders, Members
+<br>Traditions are hard to break
+<br>ACC is not an enforcer - how you need to work
+<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/painpoints.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/PainPoints.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 15:30:04 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ A sponsor of the product wants to hit a certain number of video watches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 15:33:02 GMT</pubDate></item><item><title><![CDATA[Branding Controls]]></title><description><![CDATA[ 
  <br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/branding-controls.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Branding Controls.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:50:58 GMT</pubDate></item><item><title><![CDATA[Donations]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/donations.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Donations.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:42:26 GMT</pubDate></item><item><title><![CDATA[Member Directory]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/1crm/1crm/member-directory.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Member Directory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 Feb 2024 19:45:09 GMT</pubDate></item><item><title><![CDATA[Membership Renewal]]></title><description><![CDATA[ 
@@ -1242,173 +1390,7 @@ Notes for Joint Development Meeting:
 References for Article Types: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a>
 
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/children-rendering/ticket.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/TICKET.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[ACC.org Conversion]]></title><description><![CDATA[ 
- Build ACC using Arhces]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/acc.org-conversion.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[PainPoints]]></title><description><![CDATA[ 
- <br><br>
-<br>Hard to find
-<br>Slow to load
-<br>Not up to date
-<br>Login 
-<br>Product Life Cycle from a user point of view (buy, use, renew, extract credits)
-<br><br>
-<br>How useful is the Main Nav (Clinical Topics)
-<br>Latest in Cardiology (Doesn't Mean anything it is a junk drawer)
-<br>how useful is  Search on Site if everyone is using google
-<br>Lack of enforcement of member value with out pay wall. 
-<br>Personalization - Give value to login in!!!!
-<br>Content is written a dated and not directed way when dealing with brochureware, products any that is not science
-
-<br>We speak to everyone which means our voice is not compelling to anyone.
-
-
-<br>Not Mobile Friendly
-<br>Duplicative Content (Confusing for users and a drain on resources)
-
-<br>Articles, Content, Products, and Derivatives
-<br>Confusing "Like" Products.
-
-<br>CCKE
-<br>Webinar vs Online Course
-<br>Key Points vs Top Ten
-<br>ASCVD RISK (Apps, Excel, CardioSmart HHRC, tools.acc.org )
-
-
-
-
-<br>Not Accessible 
-
-<br>Structure Aria
-<br>Brand Color Issues
-<br>Image Usage with Text
-<br>SEM/SEO
-<br>Find-ability
-<br>Promotion
-<br>STRUCTURED Data &amp; Content
-<br>Analytics Funneling
-
-
-<br>No clear division between Enterprise Domains.
-
-<br>Clear Usage, Focus of Efforts, Reasons to Deploy within each Domain. 
-
-<br>Why should something be found in JACC and not ACC or CardioSmart. 
-
-
-
-
-<br>Central Login with our Family of Products. 
-
-<br>Cross walking our Enterprise is a jarring. 
-
-
-<br>No structural plans for how to scale content onto the site. 
-<br>Disjointed implementation of Design. (Lack of Creative Direction Enforcement) 
-
-<br>Need ACC to have enough built out so we don't run into "it needs to be NEW UI"
-<br>Need a process to "Accept new UI"
-<br>Need to know who and what is being built so we can police it. (UX and CS)
-<br>Need the power to enforce. We can be overruled.
-
-
-<br>Maintenance Issue (slow to fix, slow to change)
-
-<br>Resources limitations causes errors and fixes to languish for weeks to even years.
-
-<br>Grid Box Error
-<br>Membership Section Announcements
-<br>SWG improvements
-<br>Arches Conversion
-<br>Forsee errors should make a jira hot fix.
-
-
-
-
-<br>Pain Points are training users to alter their behavior. 
-
-<br>Mobile is painful so they use desktops
-<br>Purchased Product Entry Points are hard to find so users go back to the original purchase page
-<br>Nothing changes when I login so why should I.
-<br>Science is hard to find so they go somewhere else....
-
-
-<br>Load Times
-
-<br>Optimization of Code, Loaded Content to Page, Slow to Paint Page.  
-
-<br>Still looking at 4-6 seconds to load official standard of the web is .1
-
-
-
-
-<br>Back End Editing is Painful
-
-<br>Components are hard to find, organization is confused and mixed with legacy and arches and never use.
-<br>Components need a combination of Experience Editor and Detail View
-<br>SiteCore likes to alter and "lint" html between Source and WYSIWYG
-<br>I don't know if this is a sitecore problem or an us problem.
-
-
-<br>No real way to test (from a base setup)
-
-<br>A/B
-<br>Funnel Tracking 
-
-
-<br>We have branching pages that give no value besides wiring the pages together
-<br>Orphan Pages from the site experience
-<br>FIX All Foresee Bugs
-<br>Phase 2 and Maintenance is a Unicorn.
-<br>Out of the list above what is a Content, Design, Process, Technical issues?<br><br>
-<br>Does Cloud SiteCore solve some of the above Technical Issues?
-
-<br>A/B Testing with content and design
-<br>Back End/ Editing
-<br>Loading Times
-<br>Dev Time
-<br>Personalization
-
-
-<br>Does reduction of content solve the above Content and Design?
-
-<br>Duplicative
-<br>Writing Style
-<br>Accessibility
-
-
-<br>How should, can, will we leverage 1CRM?
-
-<br>Personalization
-<br>Member Benefits
-<br>Guided Experience based on Purchase Life Cycle.
-
-
-<br>How does restyling the site benefit our users "does moving around the deck chairs help a sinking ship?"
-
-<br>Changes are are jarring
-<br>Consistency is good
-<br>New experience is always hated by someone
-
-
-<br>How does enforcing our Enterprise Strategic Division of offerings between Domains help the user?
-
-<br>Duplicity
-<br>SEO/SEM
-
-
-<br><br>
-<br>interviews with staff (member care, IT, etc.)
-<br>MI surveys
-<br>Foresee
-<br>interviews with non member users
-<br><br>
-<br>Change management historically is weak at the ACC
-
-<br>Silos are real and we are not a flat organization!
-<br>Push back from Silos, Stakeholders, Members
-<br>Traditions are hard to break
-<br>ACC is not an enforcer - how you need to work
-
-
-<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/painpoints.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/PainPoints.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 15:03:30 GMT</pubDate></item><item><title><![CDATA[Content Rewrite]]></title><description><![CDATA[ 
+ Build ACC using Arhces]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-conversion-to-arches/acc.org-conversion.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:25:20 GMT</pubDate></item><item><title><![CDATA[Content Rewrite]]></title><description><![CDATA[ 
  <br><br>The Exam is timed and it is important that you give yourself enough time to finish it during the exam window.<br><br>The test and the questions are timed. The complete test with no breaks is timed to be 7.5 hours<br>
 (Some People have finished it in 4.5 hours)<br><br>Exam window date time x @ GMT to date time y @ GMT<br>
 (this is roughly 4 days)<br><br>
@@ -1440,8 +1422,7 @@ References for Article Types: <a data-tooltip-position="top" aria-label="https:/
 <br>Updated::  4:58 PM - September 04, 2024
 
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/full-project-list.html</link><guid isPermaLink="false">Work/ACC/Projects/Full Project List.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 20:58:40 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Building Landing Pages to better connect Marketing to the ask.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:59:52 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- A sponsor of the product wants to hit a certain number of video watches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 06 Sep 2024 14:43:33 GMT</pubDate></item><item><title><![CDATA[Syncing CardioSmart with Asset.ACC.org]]></title><description><![CDATA[ 
+ Building Landing Pages to better connect Marketing to the ask.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:59:52 GMT</pubDate></item><item><title><![CDATA[Syncing CardioSmart with Asset.ACC.org]]></title><description><![CDATA[ 
  CardioSmart is on Bifurcated versions of Arches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/syncing-cardiosmart-with-asset.acc.org.html</link><guid isPermaLink="false">Work/ACC/Projects/Syncing CardioSmart with Asset.ACC.org.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 04 Sep 2024 19:49:15 GMT</pubDate></item><item><title><![CDATA[Full Page Splashes]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:checklist" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#checklist</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> 
  <br>Full Page Splashes,  orphan pages, or  marketing landing pages are isolated pages within our website's architecture that are not linked from the homepage and should be used sparingly and strategically. These pages exist outside of our website's primary navigation and can inadvertently disrupt a user's browsing experience. As a rule, these pages should only be created in specific scenarios - such as part of a well-defined marketing campaign with a predetermined lifespan.<br><br>Before implementing a Full Page Splash, ensure all of the following criteria are met:<br>
 <br>The page is directly tied to a specific marketing campaign. <a href="https://acc-style.github.io/BrainDump?query=tag:checklist" class="tag" target="_blank" rel="noopener">#checklist</a> 
