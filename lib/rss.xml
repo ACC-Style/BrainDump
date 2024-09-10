@@ -1,4 +1,70 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Sep 2024 18:44:29 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Sep 2024 18:44:28 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Sep 2024 19:15:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Sep 2024 19:15:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Page List]]></title><description><![CDATA[ 
+ <br><br>
+<br>Solution: Provide a custom 404 page that clearly explains the page is not found, includes a search bar, and links to popular or important pages like the homepage or contact page.
+<br>Tip: Add humorous or lighthearted content to ease frustration.
+<br><br><br>
+<br>Solution: Display a clear message explaining the request was incorrect or malformed. Suggest actions the user can take, such as reloading the page or checking for errors in the URL.
+<br>Tip: Guide users to report the issue if it persists.
+<br><br><br>
+<br>Solution: Redirect users to a login page with a clear explanation that access requires authentication. Offer a link to reset passwords if needed.
+<br>Tip: Keep the login process simple and user-friendly, avoiding unnecessary steps.
+<br><br><br>
+<br>Solution: Inform the user that they don’t have permission to access the requested page, and suggest contacting support if they believe this is an error.
+<br>Tip: If the user is logged out, consider prompting them to log in, if applicable.
+<br><br><br>
+<br>Solution: Display a friendly error message stating that something went wrong on the server. Provide a link to the homepage or suggest the user try again later.
+<br>Tip: Include an option to report the issue directly to the support team.
+<br><br><br>
+<br>Solution: Explain that the server encountered an issue while acting as a gateway. Inform users this is likely a temporary issue and suggest trying again later.
+<br>Tip: Offer a status page or contact option in case the problem persists.
+<br><br><br>
+<br>Solution: Notify users that the service is temporarily unavailable due to server overload or maintenance. Include an estimated time for when the service will be back online, if possible.
+<br>Tip: Add a subscription or notification option so users can be alerted when the site is back up.
+<br><br><br>
+<br>Solution: Display a message indicating the server took too long to respond, and suggest refreshing the page or trying again later.
+<br>Tip: Offer a link to check the site's status or provide a more interactive error page (e.g., FAQ section) that users can explore while waiting.
+<br><br>(Suppress for Security only available non production)<br>
+<br>Solution: Inform users that the request method they used is not allowed. Clearly state what methods are allowed (e.g., GET, POST) and offer navigation back to valid pages.
+<br>Tip: Offer a clear explanation or auto-redirect to the homepage or main section of the site.
+<br><br>
+<br>Solution: Show users a message indicating their connection was too slow or the request took too long. Encourage them to check their internet connection or retry the action.
+<br>Tip: Add a "Retry" button that automatically resubmits the request.
+<br><br><br>
+<br>Solution: Politely inform users they’ve made too many requests in a short time and suggest waiting a few minutes before trying again.
+<br>Tip: Include a countdown or time estimate for when they can try again.
+<br><br>
+<br>Solution: Clearly state that the requested page has been permanently removed and won’t be available again. Offer a search bar or links to other similar content.
+<br>Tip: If the content has been moved, provide the new link or page.
+<br><br><br>
+<br>Solution: Inform the user that the media format they tried to upload or access isn’t supported. Provide information on the types of media that are accepted.
+<br>Tip: Offer a link to a help or FAQ page explaining how to format files for uploading.
+<br><br><br>
+<br>Solution: Notify users that the requested functionality is not supported. Provide a suggestion for alternative actions or contact support if they require the missing feature.
+<br>Tip: If it’s a planned feature, provide an option for users to sign up for updates on its development.
+<br><br>
+<br>Make It Easy to Navigate Away: Always include a clear path back to the homepage, a search bar, or popular sections so users can easily recover.
+<br>Human-Friendly Language: Avoid using technical jargon in error messages. Use conversational language that’s easy to understand.
+<br>Maintain Branding: Keep the error pages visually consistent with your site’s overall design and tone to maintain a cohesive experience.
+<br>Track Errors for Improvement: Log and monitor these error codes to identify recurring issues and improve site performance over time.
+<br>Here’s a list of critical error pages that should be suppressed or sanitized to improve security protection:<br><br>These errors can still be shown to the user but should be cleaned up to avoid exposing sensitive information.<br>
+<br>500 - Internal Server Error
+<br>400 - Bad Request
+<br>502 - Bad Gateway
+<br>503 - Service Unavailable
+<br>504 - Gateway Timeout
+<br>429 - Too Many Requests
+<br><br>These errors should be replaced with generic messages to avoid disclosing details about access restrictions, authentication, or supported methods.<br>
+<br>403 - Forbidden
+<br>401 - Unauthorized
+<br>405 - Method Not Allowed
+<br><br>
+<br>404
+<br>500
+<br>401
+<br>410
+<br>429
+]]></description><link>work/acc/projects/error-handling/page-list.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling/Page List.md</guid><pubDate>Tue, 10 Sep 2024 19:15:02 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ WIth 19k closing down we need to look at Error Handling]]></description><link>work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><pubDate>Tue, 10 Sep 2024 19:03:07 GMT</pubDate></item><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
  <br><a href=".?query=tag:acc/ux" class="tag" target="_blank" rel="noopener">#acc/ux</a><br>
 Before I start this, I want to ask you to "love this for 5 minutes," then you can react.<br>In the act of working with clients, we often take the content documents we are offered, and our reaction to doing IA is to take that content and shoehorn it into UI to satisfy the client.<br><br>For years and possibly decades, I have taken content documents and shaved off a word or two. However, I have come to realize the immense detriment I have been doing to the strategic approach to content creation by skipping to the UI answer. Instead of merely using 'Styled UI' to reshape, mutate, and hide content, we should focus on enhancing the content to bolster the user experience by solving the underlying issues that users might face with the content that was initially delivered.<br><br>I have a different opinion on why we shouldn't create wireframes this early in a project. For the sake of speed, we, myself included, often skip the IA step, rushing to return to the client with wireframes. We then cleverly force their content into blocks and hidden areas on the page. The downside of internalizing the IA within the team and applying layouts and UI to content is that it directs our conversations with business lines toward solutions, rather than focusing on improving the content on the site. This undermines the value that IA discussions can bring. Jumping straight to UI wires limits our ability to challenge how we receive and refine raw content. We should at least help them transform it before we start applying UI.<br>I want to ensure there is a moment when clients are encouraged and guided to evaluate the provided content. Content strategists can have the greatest impact by unlocking the potential for more effective and engaging content.<br><br>Here is an example of what happens when we skip straight to UI. The wireframes react to the content as it is provided. In the team's review of overwhelming content, we responded by using accordions in the UI to hide excess information. This was a superficial fix that masked the issue—that the content was too lengthy and not concise. No changes were made to the content itself because we had already hidden it.<br>Now we have introduced a situation where our users are forced into a discovery mode, and we haven't solved the problem that the content was too much or not aligned with the actual goals of the page.<br><br>To maximize the effectiveness of content, we need to change our approach. Instead of rushing into UI design, we should follow a structured process:<br>
 <br>Content Evaluation: Review the content before doing any design work. Understand the purpose of the content and whether it aligns with the project's goals.
@@ -703,8 +769,7 @@ References for Article Types: <a data-tooltip-position="top" aria-label="https:/
  <br><br>How should the College start looking at and embracing AI<br><br>AI is not going anywhere and members want to know where we can go with AI. <br><br>
 <br>Outline: 
 <br><br><a rel="noopener" class="external-link" href="https://enterprise-knowledge.com/how-to-prepare-content-for-ai/" target="_blank">https://enterprise-knowledge.com/how-to-prepare-content-for-ai/</a>]]></description><link>work/acc/projects/ai-and-the-acc.html</link><guid isPermaLink="false">Work/ACC/Projects/AI and the ACC.md</guid><pubDate>Mon, 09 Sep 2024 12:51:42 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Mon, 09 Sep 2024 12:51:42 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- WIth 19k closing down we need to look at Error Handling]]></description><link>work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><pubDate>Mon, 09 Sep 2024 12:51:42 GMT</pubDate></item><item><title><![CDATA[Current Working Projects]]></title><description><![CDATA[ 
+ Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Mon, 09 Sep 2024 12:51:42 GMT</pubDate></item><item><title><![CDATA[Current Working Projects]]></title><description><![CDATA[ 
  <br><br><br><br><br><br>Metadata
 
 <br>Created::  (disabled; enable in settings)
