@@ -1,4 +1,186 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Sep 2024 19:15:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Sep 2024 19:15:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Page List]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 11 Sep 2024 15:59:18 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 11 Sep 2024 15:59:18 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024 Week 37]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-09" data-href="Timestamps/2024/09-September/2024-09-09" href="Timestamps/2024/09-September/2024-09-09" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
+| <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-09" data-href="Timestamps/2024/09-September/2024-09-09" href="Timestamps/2024/09-September/2024-09-09" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>Current Member | Hypothesis 2
+<br><br>
+<br> About ACC and the Root Branching Page Problem
+<br>Gala Button Paths <a data-href="75th Gala" href="work/acc/projects/75th-gala.html" class="internal-link" target="_self" rel="noopener">75th Gala</a> ✅ 2024-09-09
+<br>Error Handling on ACC <a data-href="Error Handling" href="work/acc/projects/error-handling.html" class="internal-link" target="_self" rel="noopener">Error Handling</a>
+<br><a data-href="Member Sections" href="work/acc/projects/member-sections.html" class="internal-link" target="_self" rel="noopener">Member Sections</a> |  Present to <a data-href="Laura Bicicchi" href="_sponsor/laura-bicicchi.html" class="internal-link" target="_self" rel="noopener">Laura Bicicchi</a>
+<br>Guideline Algorithms ✅ 2024-09-09
+
+<br>Accessible color charts current vs new arches ✅ 2024-09-09
+
+
+<br>Join Micro and Hero Banner ✅ 2024-09-09
+<br>Tickets Need to be Made in JIRA
+<br><br>
+<br>make a presentation slides for Current Memberships
+<br>CardioSmart 2025 UX work
+<br>Third team run by Kate Bell is working on Member Sections
+<br><br>
+<br>
+<br><br>
+<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener">CCKE</a> - Waiting on BL 
+<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a> - Waiting on Meeting - Thu 9/19/2024 10:00 AM
+<br><a data-href="Advocacy" href="work/acc/projects/advocacy.html" class="internal-link" target="_self" rel="noopener">Advocacy</a> - waiting on Jackie and starting 
+<br>CMP - Waiting for BL
+<br>Careers -  Waiting for BL and <a data-href="Rowena Enatsky" href="_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener">Rowena Enatsky</a>
+<br>Gala 75th- Waiting on <a data-href="Laura Bicicchi" href="_sponsor/laura-bicicchi.html" class="internal-link" target="_self" rel="noopener">Laura Bicicchi</a> ✅ 2024-09-09
+<br><br><br>
+<br>Guideline Color Chart - <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/arches/ColorSettings/" rel="noopener" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/ColorSettings/" target="_blank">CORs Proposed Shift</a>
+<br><a data-href="Not Using UI but Word Documents" href="work/acc/thoughts/not-using-ui-but-word-documents.html" class="internal-link" target="_self" rel="noopener">Not Using UI but Word Documents</a>
+<br><a data-href="Section Personas" href="work/acc/thoughts/section-personas.html" class="internal-link" target="_self" rel="noopener">Section Personas</a>
+]]></description><link>work/acc/project-weekly-notes/2024-week-37.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 37.md</guid><pubDate>Wed, 11 Sep 2024 15:58:54 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><a data-href="ACC Redesign" href="work/acc/projects/acc-redesign.html" class="internal-link" target="_self" rel="noopener">ACC Redesign</a><br><br>Looking at the competition will give us insights on how we will can can shift our site to be competitive. <br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+<br><a rel="noopener" class="external-link" href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" target="_blank">https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/</a>
+<br><a rel="noopener" class="external-link" href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a>
+<br><a data-href="Web Based Heuristics" href="work/acc/projects/acc-redesign/discovery/web-based-heuristics.html" class="internal-link" target="_self" rel="noopener">Web Based Heuristics</a>
+<br><a data-tooltip-position="top" aria-label="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" rel="noopener" class="external-link" href="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" target="_blank">Evaluation WorkBook</a>
+]]></description><link>work/acc/projects/acc-redesign/discovery/ecs-competitive-research.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/ECS Competitive Research.md</guid><pubDate>Tue, 10 Sep 2024 19:17:34 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Working toward a consistent offering of content and features for the Member Section]]></description><link>work/acc/projects/member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Wed, 11 Sep 2024 15:59:08 GMT</pubDate></item><item><title><![CDATA[Section Personas]]></title><description><![CDATA[ 
+ <br>Here are all four personas, incorporating the updated preferences:<br><br><br>
+<br>
+Name: Emma Wright  
+
+<br>
+Demographics: 42, Cardiologist, Busy Practitioner  
+
+<br>
+Engagement Style:<br>
+Emma frequently visits the member section but rarely interacts. She uses the platform to gain exposure to new ideas and practices outside the confines of her immediate professional environment. Though she doesn't contribute to discussions, she values the ability to access diverse perspectives and knowledge that she might not encounter in her day-to-day practice.
+
+<br>
+Motivations:  
+
+<br>Access to a broader range of insights and innovations outside her specialized work environment  
+<br>Exposure to emerging trends and interdisciplinary practices without the pressure to engage  
+<br>Staying up-to-date on best practices in cardiovascular care across a wide professional spectrum
+
+
+<br>
+Frustrations:  
+
+<br>Feels disconnected from the broader community, as she does not actively contribute  
+<br>Finds the structure of the member section limiting in how it presents different perspectives
+
+
+<br>
+Opportunities for Engagement:  
+
+<br>Tailored content that highlights interdisciplinary approaches and innovations  
+<br>Encouraging passive participation through features like recommended reading based on emerging trends  
+<br>Exposure to discussions and webinars that broaden her view outside her regular practice area
+
+
+<br><br><br>
+<br>
+Name: David Chen  
+
+<br>
+Demographics: 34, Nurse Practitioner, Cardiovascular Specialty  
+
+<br>
+Engagement Style:<br>
+David sees the member section as a much-needed space where he can connect with like-minded professionals who share his focus on cardiovascular care. In his current professional environment, he often feels isolated due to the niche nature of his specialty. The member section provides him with a sense of belonging, allowing him to engage in meaningful discussions, contribute his expertise, and exchange ideas with others who understand his field.
+
+<br>
+Motivations:  
+
+<br>Building connections with professionals who share his specialty and interests  
+<br>Participating in discussions and sharing his experiences to contribute to the collective knowledge of his "tribe"  
+<br>Seeking out a supportive community that is not readily available in his current work environment
+
+
+<br>
+Frustrations:  
+
+<br>Lacks opportunities for collaboration and shared experiences within his immediate workplace  
+<br>Difficulty finding deeper engagement in discussions that go beyond surface-level topics
+
+
+<br>
+Opportunities for Engagement:  
+
+<br>Dedicated spaces or groups within the platform that focus specifically on his specialty, fostering a "tribe" mentality  
+<br>Opportunities for collaboration on case studies or joint projects with other specialists  
+<br>Recognition for contributing to niche discussions, further building a sense of community and validation
+
+
+<br><br><br>
+<br>
+Name: Lisa Patel  
+
+<br>
+Demographics: 48, Physician Assistant, Balancing Multiple Roles  
+
+<br>
+Engagement Style:<br>
+Lisa uses the member section to break free from the professional silos of her work. When she engages, she actively seeks out networking opportunities with peers from diverse backgrounds. These connections help her gain insights and ideas outside the boundaries of her current professional setting. Her engagement comes in bursts, focused primarily on meeting new people and exchanging knowledge.
+
+<br>
+Motivations:  
+
+<br>Networking with professionals from various specialties to broaden her perspective  
+<br>Engaging with peers to exchange innovative ideas and learn from different fields  
+<br>Building relationships that provide exposure to new methods, outside of her regular clinical environment
+
+
+<br>
+Frustrations:  
+
+<br>Difficulty maintaining new contacts and finding ongoing opportunities to interact  
+<br>Feels her access to new ideas is limited during inactive periods, making her engagement feel sporadic and siloed
+
+
+<br>
+Opportunities for Engagement:  
+
+<br>Networking events or peer-matching features that introduce her to professionals from outside her usual circles  
+<br>Opportunities to connect with members who share interdisciplinary expertise and experiences  
+<br>Features to maintain relationships, such as saved connections or discussion prompts that encourage ongoing dialogue
+
+
+<br><br><br>
+<br>
+Name: Dr. Marcus Johnson  
+
+<br>
+Demographics: 55, Senior Cardiologist, Thought Leader  
+
+<br>
+Engagement Style:<br>
+Marcus is deeply invested in shaping the future of the member section. He not only contributes content but also actively influences how the site is structured and enriched. His vision is to create a space that fosters professional growth and collaboration. Marcus collaborates with the website's administrators, suggesting improvements and helping steer the development of new features that benefit all members.
+
+<br>
+Motivations:  
+
+<br>Helping guide the direction of the section to better serve the community  
+<br>Mentoring others and enriching the knowledge base with high-quality content  
+<br>Developing a collaborative space that encourages deeper member engagement and professional growth
+
+
+<br>
+Frustrations:  
+
+<br>Limited ability to influence strategic decisions about the section’s development  
+<br>Lacks advanced tools for proposing or implementing changes to the website structure and content curation
+
+
+<br>
+Opportunities for Engagement:  
+
+<br>Opportunities to join advisory boards or task forces that influence the site’s growth and development  
+<br>Advanced content management tools that allow him to contribute strategically and enrich the member experience  
+<br>Leadership roles in shaping and curating specific content areas or discussion threads
+
+
+]]></description><link>work/acc/thoughts/section-personas.html</link><guid isPermaLink="false">Work/ACC/Thoughts/Section Personas.md</guid><pubDate>Wed, 11 Sep 2024 15:56:42 GMT</pubDate></item><item><title><![CDATA[Page List]]></title><description><![CDATA[ 
  <br><br>
 <br>Solution: Provide a custom 404 page that clearly explains the page is not found, includes a search bar, and links to popular or important pages like the homepage or contact page.
 <br>Tip: Add humorous or lighthearted content to ease frustration.
@@ -109,49 +291,7 @@ Before I start this, I want to ask you to "love this for 5 minutes," then you ca
 <br>If something goes wrong, provide a clear explanation and actionable steps to resolve the issue, such as payment problems or content loading errors.
 <br><br>
 <br>Ensure that users can quickly find help through FAQs, support articles, or a contact option, especially when they are having trouble with their membership, accessing courses, or reading content.
-]]></description><link>work/acc/projects/acc-redesign/discovery/web-based-heuristics.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md</guid><pubDate>Tue, 10 Sep 2024 18:43:03 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- <br><a data-href="ACC Redesign" href="work/acc/projects/acc-redesign.html" class="internal-link" target="_self" rel="noopener">ACC Redesign</a><br><br>Looking at the competition will give us insights on how we will can can shift our site to be competitive. <br><br>
-<br>Hypothesis: 
-<br><br>
-<br>Outline: 
-<br><br>
-<br>Additional Notes: 
-<br><a rel="noopener" class="external-link" href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" target="_blank">https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/</a>
-<br><a rel="noopener" class="external-link" href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a>
-<br><a data-href="Web Based Heuristics" href="work/acc/projects/acc-redesign/discovery/web-based-heuristics.html" class="internal-link" target="_self" rel="noopener">Web Based Heuristics</a>
-]]></description><link>work/acc/projects/acc-redesign/discovery/ecs-competitive-research.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/ECS Competitive Research.md</guid><pubDate>Tue, 10 Sep 2024 18:42:47 GMT</pubDate></item><item><title><![CDATA[2024 Week 37]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-09" data-href="Timestamps/2024/09-September/2024-09-09" href="Timestamps/2024/09-September/2024-09-09" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
-| <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-09" data-href="Timestamps/2024/09-September/2024-09-09" href="Timestamps/2024/09-September/2024-09-09" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>Current Member | Hypothesis 2
-<br><br>
-<br> About ACC and the Root Branching Page Problem
-<br>Gala Button Paths <a data-href="75th Gala" href="work/acc/projects/75th-gala.html" class="internal-link" target="_self" rel="noopener">75th Gala</a> ✅ 2024-09-09
-<br>Error Handling on ACC <a data-href="Error Handling" href="work/acc/projects/error-handling.html" class="internal-link" target="_self" rel="noopener">Error Handling</a>
-<br><a data-href="Member Sections" href="work/acc/projects/member-sections.html" class="internal-link" target="_self" rel="noopener">Member Sections</a> |  Present to <a data-href="Laura Bicicchi" href="_sponsor/laura-bicicchi.html" class="internal-link" target="_self" rel="noopener">Laura Bicicchi</a>
-<br>Guideline Algorithms ✅ 2024-09-09
-
-<br>Accessible color charts current vs new arches ✅ 2024-09-09
-
-
-<br>Join Micro and Hero Banner ✅ 2024-09-09
-<br>Tickets Need to be Made in JIRA
-<br><br>
-<br>make a presentation slides for Current Memberships
-<br>CardioSmart 2025 UX work
-<br>Third team run by Kate Bell is working on Member Sections
-<br><br>
-<br>
-<br><br>
-<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener">CCKE</a> - Waiting on BL 
-<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a> - Waiting on Meeting - Thu 9/19/2024 10:00 AM
-<br><a data-href="Advocacy" href="work/acc/projects/advocacy.html" class="internal-link" target="_self" rel="noopener">Advocacy</a> - waiting on Jackie and starting 
-<br>CMP - Waiting for BL
-<br>Careers -  Waiting for BL and <a data-href="Rowena Enatsky" href="_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener">Rowena Enatsky</a>
-<br>Gala 75th- Waiting on <a data-href="Laura Bicicchi" href="_sponsor/laura-bicicchi.html" class="internal-link" target="_self" rel="noopener">Laura Bicicchi</a> ✅ 2024-09-09
-<br><br><br>
-<br>Guideline Color Chart - <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/arches/ColorSettings/" rel="noopener" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/ColorSettings/" target="_blank">CORs Proposed Shift</a>
-<br><a data-href="Not Using UI but Word Documents" href="work/acc/thoughts/not-using-ui-but-word-documents.html" class="internal-link" target="_self" rel="noopener">Not Using UI but Word Documents</a>
-]]></description><link>work/acc/project-weekly-notes/2024-week-37.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 37.md</guid><pubDate>Tue, 10 Sep 2024 18:24:08 GMT</pubDate></item><item><title><![CDATA[Oahu day one]]></title><description><![CDATA[ 
+]]></description><link>work/acc/projects/acc-redesign/discovery/web-based-heuristics.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md</guid><pubDate>Tue, 10 Sep 2024 18:43:03 GMT</pubDate></item><item><title><![CDATA[Oahu day one]]></title><description><![CDATA[ 
  <br>Slow going getting out of the house.   No surprise considering we hadn't been on the island for 10 hours and we had barely unpacked when we landed with our internal clocks at 3am<br>The island clearly has a parking problem and a whole economic system has sprouted around charging everyone for a parking spot.   <br>Diamond head was a treat but our legs did question why we didn't move 24 hours earlier and now we're taking the stairs to breach a volcano crater.   <br>We then slowly ate our way across the island.   Farmers Market for a mango Ginger beer mocktail then samples some tropical “butters” which are what I would call a curd.  So a stashed passion fruit and coconut lime jar in our bag we headed to the north island with a quick stop to pick up a dole pineapple soft serve and the finally lunch with some kahlua pork sliders and garlic shrimp on the north coast.   It is now 11am and maybe we should move around so we can find a shaved ice.   ]]></description><link>work/acc/1crm/1crm/oahu-day-one.html</link><guid isPermaLink="false">Work/ACC/1CRM/1CRM/Oahu day one.md</guid><pubDate>Mon, 15 Apr 2024 14:04:10 GMT</pubDate></item><item><title><![CDATA[Engagement]]></title><description><![CDATA[ 
  <br>
 <br>Title of Opportunity
@@ -776,7 +916,6 @@ References for Article Types: <a data-tooltip-position="top" aria-label="https:/
 <br>Updated::  (disabled; enable in settings)
 
 ]]></description><link>work/acc/projects/full-project-list.html</link><guid isPermaLink="false">Work/ACC/Projects/Full Project List.md</guid><pubDate>Fri, 06 Sep 2024 13:27:02 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Working toward a consistent offering of content and features for the Member Section]]></description><link>work/acc/projects/member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Mon, 09 Sep 2024 12:51:42 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  A sponsor of the product wants to hit a certain number of video watches.]]></description><link>work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><pubDate>Mon, 09 Sep 2024 12:51:42 GMT</pubDate></item><item><title><![CDATA[ACC Products]]></title><description><![CDATA[<a class="tag" href="?query=tag:acc/guidance" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/guidance</a> <a class="tag" href="?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> <a class="tag" href="?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> 
  <br><br><a data-href="Conversion" href="work/acc/arches/conversion/conversion.html" class="internal-link" target="_self" rel="noopener">Conversion</a><br>
 <a data-href="1CRM" href="work/acc/1crm/1crm.html" class="internal-link" target="_self" rel="noopener">1CRM</a><br>
