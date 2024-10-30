@@ -1,22 +1,51 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 25 Oct 2024 20:14:49 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 25 Oct 2024 20:14:46 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/10-October/2024-10-24" data-href="Timestamps/2024/10-October/2024-10-24" href="https://acc-style.github.io/BrainDump/timestamps/2024/10-october/2024-10-24.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a><br>
-| <a data-tooltip-position="top" aria-label="Timestamps/2024/10-October/2024-10-24" data-href="Timestamps/2024/10-October/2024-10-24" href="https://acc-style.github.io/BrainDump/timestamps/2024/10-october/2024-10-24.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 30 Oct 2024 21:08:36 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 30 Oct 2024 21:08:33 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024 Week 41]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 40" data-href="2024 Week 40" href="\work\acc\project-weekly-notes\2024-week-40.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="\work\acc\project-weekly-notes\2024-week-42.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>About Page and Generators from CSV for complicated UI Patterns
+<br>Japan
+<br><br>
+<br>Jekyll patterns for <a data-href="About Us &amp; Support Us Pages" href="\work\acc\projects\about-us-&amp;-support-us-pages.html" class="internal-link" target="_self" rel="noopener nofollow">About Us &amp; Support Us Pages</a>, and Careers.  completionOctober 09, 2024
+
+<br><a rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/About/" target="_blank">https://acc-style.github.io/PrototypingACCorg/arches/About/</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/CareerBlocks/" target="_blank">https://acc-style.github.io/PrototypingACCorg/arches/CareerBlocks/</a>
+
+
+<br>Looking to standardize the patterns that have slightly muted on ACC.org from our new arches pages. 
+<br>Putting in Journal Scans for updates on acc.org
+<br><br>
+<br>VDI breaking on Friday and making every thing harder and going rouge with our security policy. 
+<br><br>
+<br>NCD Academy
+<br>Member Sections
+<br>Error Pages - Sadly learned we can not use Artie (Legal Reasons) on the website so we will have to come to a different approach for the images for the Error page.
+<br><br>
+<br>CCKE - Gone Dark
+<br>CMP - Gone Dark
+<br>About - Waiting on content updates
+<br>Home Page Button -IT
+<br>Arches Article
+<br>Map List - Waiting on Agendas
+<br>Advocacy - Waiting on feed back and first draft of content that aligns to design
+<br><br><br>
+<br>About page i have shown Jacob where to get the latest design for the project and put in all connections to SiteCore.  The project is as done as it can be with out the final content documents from <a data-href="Laura Bicicchi" href="\_sponsor\laura-bicicchi.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="FasUser" aria-label="FasUser" data-icon="FasUser" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="18px" height="18px"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z"></path></svg></span>Laura Bicicchi</a>
+]]></description><link>work\acc\project-weekly-notes\2024-week-41.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 41.md</guid><pubDate>Wed, 30 Oct 2024 21:08:34 GMT</pubDate></item><item><title><![CDATA[2024 Week 42]]></title><description><![CDATA[ 
+ <br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 41" data-href="2024 Week 41" href="\work\acc\project-weekly-notes\2024-week-41.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="\work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br>]]></description><link>work\acc\project-weekly-notes\2024-week-42.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 42.md</guid><pubDate>Wed, 30 Oct 2024 21:08:34 GMT</pubDate></item><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="\work\acc\project-weekly-notes\2024-week-42.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="\work\acc\project-weekly-notes\2024-week-44.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
 <br>Naps, catching up on emails
 <br><br>
 <br>Getting back in the groove.
 <br>State Chapter BOG POC  completionOctober 25, 2024
 <br><br>
-<br><a data-href="ACC 75th Gala" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-75th-gala.html" class="internal-link" target="_self" rel="noopener nofollow">ACC 75th Gala</a> - NEW FAQ page new way to pay.
+<br><a data-href="ACC 75th Gala" href="\work\acc\projects\acc-75th-gala.html" class="internal-link" target="_self" rel="noopener nofollow">ACC 75th Gala</a> - NEW FAQ page new way to pay.
 <br><br>
-<br><a data-href="CardioSmart 360" href="https://acc-style.github.io/BrainDump/work/acc/projects/cardiosmart-360.html" class="internal-link" target="_self" rel="noopener nofollow">CardioSmart 360</a> QA
+<br><a data-href="CardioSmart 360" href="\work\acc\projects\cardiosmart-360.html" class="internal-link" target="_self" rel="noopener nofollow">CardioSmart 360</a> QA
 <br>SWG UAT 
 <br>Picking back up:
 
-<br><a data-href="CCKE" href="https://acc-style.github.io/BrainDump/work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
-<br><a data-href="CMP" href="https://acc-style.github.io/BrainDump/CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
-<br><a data-href="Advocacy" href="https://acc-style.github.io/BrainDump/work/acc/projects/advocacy.html" class="internal-link" target="_self" rel="noopener nofollow">Advocacy</a>
-<br><a data-href="NCD Academy" href="https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
-<br><a data-href="State Chapters for BOG" href="https://acc-style.github.io/BrainDump/work/acc/projects/state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a> - Got Agenda and Pass it back to Miriam to Approve and Collect all Agendas.
+<br><a data-href="CCKE" href="\work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
+<br><a data-href="CMP" href="\CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
+<br><a data-href="Advocacy" href="\work\acc\projects\advocacy.html" class="internal-link" target="_self" rel="noopener nofollow">Advocacy</a>
+<br><a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
+<br><a data-href="State Chapters for BOG" href="\work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a> - Got Agenda and Pass it back to Miriam to Approve and Collect all Agendas.
 
 
 <br><br>
@@ -24,7 +53,84 @@
 <br>
 <br><br><br>
 <br>Created <a data-tooltip-position="top" aria-label="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" rel="noopener nofollow" class="external-link" href="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" target="_blank">Structured Data</a> and <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" target="_blank">Prototype</a>
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024-week-43.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 43.md</guid><pubDate>Fri, 25 Oct 2024 14:20:19 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
+]]></description><link>work\acc\project-weekly-notes\2024-week-43.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 43.md</guid><pubDate>Mon, 28 Oct 2024 19:23:30 GMT</pubDate></item><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="\work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="\2024 Week 45" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br>
+<br>Review and talk to Jae Brite about play book. 
+<br>Review the <a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Work. Improve the data points for the catalogue and create a render for it.  completionOctober 30, 2024
+<br><a data-href="ACC 75th Gala" href="\work\acc\projects\acc-75th-gala.html" class="internal-link" target="_self" rel="noopener nofollow">ACC 75th Gala</a> - NEW FAQ page &amp; a new way to pay.
+<br><br>
+<br>Not Fire Fighting but taking up cycles is the Open Enrollment
+<br><br>
+<br><a data-href="CCKE" href="\work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
+<br><a data-href="CMP" href="\CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
+<br><a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="\work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="\work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-44.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 44.md</guid><pubDate>Wed, 30 Oct 2024 16:04:54 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work\acc\projects\ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Wed, 30 Oct 2024 20:59:54 GMT</pubDate></item><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
+ <br><br>This is an audit of the two Product Pages that currently have overlapping content. Below is a numbered list of the two pages, and how they will be referred to thereafter:<br>
+<br>Certified Cardiovascular Knowledge Examination (CCKE) For NPs/PAs Practicing in the U.S.:<br>
+a. Referred to as CVTeam.
+<br>Certified Cardiovascular Knowledge Examination (CCKE) For Physicians Practicing Outside the U.S.:<br>
+a. Referred to as Clinician-OUS.
+<br>The two pages—"CVTEAM" and "Clinician-OUS"—contain significant overlap and some type-specific content. The recommendations below aim to streamline and unify both pages for clarity and ease of navigation for users. Content can be categorized into three groups: identical, very similar, and type-specific. The goal is to consolidate identical content, modify the similar content to fit both groups where applicable, and keep type-specific information targeted to the specific audience.<br><br>
+<br>
+Unify Duplicate Sections: Many sections across both pages have the same or nearly identical content, such as "How Will the Exam be Administered?", "What is the Reliability of This Exam?", and "What Topics Are Included on This Exam?". Consolidate these into one central resource (such as a FAQ) that is shared between both audiences.
+
+<br>
+Keep Persona-Specific Details Separate: Type-specific content should be kept separate where necessary to ensure that information remains relevant and directly applicable to each audience, e.g., "Who's Eligible to Take ACC's Certified Cardiovascular Knowledge Examination (CCKE)?" where eligibility criteria differ for NPs/PAs versus physicians.
+
+<br>
+Create Cross-References to Simplify Navigation: Provide hyperlinks between shared sections and persona-specific pages to make it easier for users to navigate between general and specific content. This will improve the overall user journey by reducing the likelihood of confusion between similar content.
+
+<br><br><br><br><img alt="Pasted image 20241030170446.png" src="\lib\media\pasted-image-20241030170446.png"><br>The proposed AI structure helps streamline the content by focusing each page's role to enhance user experience, reduce redundancy, and provide clear navigation pathways even when users arrive at the wrong page variant.<br>
+<br>Product Page: Centralizes key exam-related content, making it the first point of reference for all users. It focuses on eligibility, application processes, exam administration, and a general overview, ensuring consistency and reducing noise by keeping shared content unified.
+<br>Persona Detail Pages: Targeted at specific roles, these pages provide tailored details for eligibility, exam dates, preparation resources, and other specifics. By keeping type-specific information on dedicated pages, users can easily navigate to content relevant to their background without sifting through unrelated details.
+<br>FAQ Page: Acts as a shared resource for questions that apply to both personas. This page will address common concerns, minimizing redundancy and providing a quick, centralized place for users to find general information. Hyperlinks will be used to direct users to persona-specific details where necessary.
+<br>This structure is designed to help users who might have arrived at the wrong variant by guiding them to the right section, thus reducing user frustration and improving satisfaction.<br><br>Consolidation of Identical and Very Similar Content: Move sections that are largely duplicated to a shared FAQ or product page. These sections include "How Will the Exam be Administered?", "What is the Reliability of This Exam?", and "Does the CCKE Offer a Credential?" Doing so will help reduce maintenance efforts while also improving consistency for users.<br>
+<br>
+Maintaining Persona-Specific Content: For sections that are specific to either "Clinician-OUS" or "CVTeam," create separate Persona Detail Pages. For instance, eligibility requirements, submission details, and exam dates vary between the two audiences. Keeping these sections separate but cross-referencing shared content will reduce confusion while allowing both pages to provide specialized information.
+
+<br>
+Use of Accordion Components: Keep the collapsible accordion structure to allow users to access content in manageable portions, making the pages less overwhelming. Ensure that each accordion component has consistent headings and styles across both "CVTeam" and "Clinician-OUS" pages.
+
+<br>
+Navigation Enhancements: To further reduce confusion, provide clear links at the end of shared sections like "How Much Does This Exam Cost?" to direct users to persona-specific details.
+
+<br><br>If the two products cannot be merged, it is recommended to rebrand one or both products to ensure they are distinguishable and reduce confusion. The proposed rebranding involves the following:<br>
+<br>
+Certified Cardiovascular Knowledge Examination (CCKE) for NPs/PAs Practicing in the U.S. (CVTeam): 
+
+<br>Maintain existing branding, but emphasize that this version of the exam is specifically for U.S.-based Nurse Practitioners and Physician Assistants.
+
+
+<br>
+Certified Cardiovascular Knowledge Examination (CCKE) for Physicians Practicing Outside the U.S. (Clinician-OUS):
+
+<br>Rebrand this product to differentiate it more clearly from CVTeam. Consider adding a geographic or professional distinction to the name, such as "International Cardiovascular Knowledge Certification" or "Certified Cardiovascular Competence for International Physicians".
+
+
+<br>
+Visual and Structural Distinction:
+
+<br>Introduce distinct color schemes or visual markers on both product pages to signal the difference at a glance.
+<br>Update headers and footers to clearly mention the audience for each product, e.g., "For Physicians Practicing Outside the U.S." vs. "For U.S.-based Nurse Practitioners and Physician Assistants".
+
+
+<br>
+Clarify Naming Across All Communications:
+
+<br>Update all marketing, email, and support documentation to ensure that users are consistently seeing the rebranded names.
+<br>Ensure that cross-references between the products are explicit about the intended audience to avoid any ambiguity.
+
+
+<br>The goal of the rebranding effort is to reduce confusion, particularly among members who may be unsure which certification is appropriate for their professional background. By creating a stronger distinction between the two certifications, ACC can improve user satisfaction and reduce the potential for misapplication.]]></description><link>work\acc\projects\ccke-content-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE Content Proposal.md</guid><pubDate>Wed, 30 Oct 2024 21:06:54 GMT</pubDate><enclosure url="lib\media\pasted-image-20241030170446.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20241030170446.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ A sponsor of the product wants to hit a certain number of video watches.]]></description><link>work\acc\projects\ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><pubDate>Wed, 30 Oct 2024 16:20:39 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
  <br>Email Marketing<br>Here’s a streamlined process flow for utilizing Direct Marketing Emails, Social Posts, and Web Marketing to drive users to landing pages with single goal CTAs, optimizing for conversion:<br>
 <img alt="Pasted image 20240924173228.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"><br><br>
 <br>Objective: Whether the goal is membership sign-up, promoting a specific product, or encouraging course enrollment, start with a clear and single-focused goal.<br>
@@ -103,8 +209,7 @@ Website Banner Ad:
 
 
 <br>By focusing on single-action CTAs, and maintaining consistent, clear messaging across all communication channels, this process maximizes the chances of conversion from email, social, and web marketing efforts.<br><img alt="Pasted image 20240924173524.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173524.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hubspot-landing-page/maximize-conversions-with-integrated-marketing.html</link><guid isPermaLink="false">Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md</guid><pubDate>Wed, 09 Oct 2024 17:03:45 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Building Landing Pages to better connect Marketing to the ask.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><pubDate>Wed, 09 Oct 2024 17:03:46 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- A sponsor of the product wants to hit a certain number of video watches.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><pubDate>Fri, 25 Oct 2024 18:15:14 GMT</pubDate></item><item><title><![CDATA[State Chapters for BOG]]></title><description><![CDATA[ 
+ Building Landing Pages to better connect Marketing to the ask.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><pubDate>Wed, 09 Oct 2024 17:03:46 GMT</pubDate></item><item><title><![CDATA[State Chapters for BOG]]></title><description><![CDATA[ 
  a centralized viewing area for state chapter agendas.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/state-chapters-for-bog.html</link><guid isPermaLink="false">Work/ACC/Projects/State Chapters for BOG.md</guid><pubDate>Fri, 25 Oct 2024 14:17:11 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
  <br>Email Marketing<br>Here’s a streamlined process flow for utilizing Direct Marketing Emails, Social Posts, and Web Marketing to drive users to landing pages with single goal CTAs, optimizing for conversion:<br>
 <img alt="Pasted image 20240924173228.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"><br><br>
@@ -183,36 +288,6 @@ Website Banner Ad:
 
 
 
-<br>By focusing on single-action CTAs, and maintaining consistent, clear messaging across all communication channels, this process maximizes the chances of conversion from email, social, and web marketing efforts.<br><img alt="Pasted image 20240924173524.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173524.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/thoughts/maximize-conversions-with-integrated-marketing.html</link><guid isPermaLink="false">Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md</guid><pubDate>Wed, 09 Oct 2024 17:03:48 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2024 Week 41]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/10-October/2024-10-08" data-href="Timestamps/2024/10-October/2024-10-08" href="https://acc-style.github.io/BrainDump/Timestamps/2024/10-October/2024-10-08" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
-| <a data-tooltip-position="top" aria-label="Timestamps/2024/10-October/2024-10-08" data-href="Timestamps/2024/10-October/2024-10-08" href="https://acc-style.github.io/BrainDump/Timestamps/2024/10-October/2024-10-08" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>About Page and Generators from CSV for complicated UI Patterns
-<br>Japan
-<br><br>
-<br>Jekyll patterns for <a data-href="About Us &amp; Support Us Pages" href="https://acc-style.github.io/BrainDump/work/acc/projects/about-us-&amp;-support-us-pages.html" class="internal-link" target="_self" rel="noopener">About Us &amp; Support Us Pages</a>, and Careers.  completionOctober 09, 2024
-
-<br><a rel="noopener" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/About/" target="_blank">https://acc-style.github.io/PrototypingACCorg/arches/About/</a>
-<br><a rel="noopener" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/CareerBlocks/" target="_blank">https://acc-style.github.io/PrototypingACCorg/arches/CareerBlocks/</a>
-
-
-<br>Looking to standardize the patterns that have slightly muted on ACC.org from our new arches pages. 
-<br>Putting in Journal Scans for updates on acc.org
-<br><br>
-<br>VDI breaking on Friday and making every thing harder and going rouge with our security policy. 
-<br><br>
-<br>NCD Academy
-<br>Member Sections
-<br>Error Pages - Sadly learned we can not use Artie (Legal Reasons) on the website so we will have to come to a different approach for the images for the Error page.
-<br><br>
-<br>CCKE - Gone Dark
-<br>CMP - Gone Dark
-<br>About - Waiting on content updates
-<br>Home Page Button -IT
-<br>Arches Article
-<br>Map List - Waiting on Agendas
-<br>Advocacy - Waiting on feed back and first draft of content that aligns to design
-<br><br><br>
-<br>About page i have shown Jacob where to get the latest design for the project and put in all connections to SiteCore.  The project is as done as it can be with out the final content documents from <a data-href="Laura Bicicchi" href="https://acc-style.github.io/BrainDump/_sponsor/laura-bicicchi.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="FasUser" aria-label="FasUser" data-icon="FasUser" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="18px" height="18px"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z"></path></svg></span>Laura Bicicchi</a>
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/project-weekly-notes/2024-week-41.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 41.md</guid><pubDate>Wed, 09 Oct 2024 14:08:57 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+<br>By focusing on single-action CTAs, and maintaining consistent, clear messaging across all communication channels, this process maximizes the chances of conversion from email, social, and web marketing efforts.<br><img alt="Pasted image 20240924173524.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173524.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/thoughts/maximize-conversions-with-integrated-marketing.html</link><guid isPermaLink="false">Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md</guid><pubDate>Wed, 09 Oct 2024 17:03:48 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/about-us-&amp;-support-us-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/About Us &amp; Support Us Pages.md</guid><pubDate>Wed, 09 Oct 2024 14:13:48 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  WIth 19k closing down we need to look at Error Handling]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><pubDate>Wed, 09 Oct 2024 14:17:36 GMT</pubDate></item></channel></rss>
