@@ -1,4 +1,24 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 30 Oct 2024 21:08:36 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 30 Oct 2024 21:08:33 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024 Week 41]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 31 Oct 2024 14:13:57 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 31 Oct 2024 14:13:55 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="\work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="\2024 Week 45" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br>
+<br>Review and talk to Jae Brite about play book. 
+<br>Review the <a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Work. Improve the data points for the catalogue and create a render for it.  completionOctober 30, 2024
+<br><a data-href="ACC 75th Gala" href="\work\acc\projects\acc-75th-gala.html" class="internal-link" target="_self" rel="noopener nofollow">ACC 75th Gala</a> - NEW FAQ page &amp; a new way to pay.
+<br><br>
+<br>Not Fire Fighting but taking up cycles is the Open Enrollment
+<br><br>
+<br><a data-href="CCKE" href="\work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
+<br><a data-href="CMP" href="\CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
+<br><a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
+<br><a data-href="Completive Analysis" href="\Completive Analysis" class="internal-link" target="_self" rel="noopener nofollow">Completive Analysis</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="\work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="\work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-44.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 44.md</guid><pubDate>Thu, 31 Oct 2024 13:25:58 GMT</pubDate></item><item><title><![CDATA[2024 Week 42]]></title><description><![CDATA[ 
+ <br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 41" data-href="2024 Week 41" href="\work\acc\project-weekly-notes\2024-week-41.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="\work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br>]]></description><link>work\acc\project-weekly-notes\2024-week-42.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 42.md</guid><pubDate>Wed, 30 Oct 2024 21:08:34 GMT</pubDate></item><item><title><![CDATA[2024 Week 41]]></title><description><![CDATA[ 
  <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 40" data-href="2024 Week 40" href="\work\acc\project-weekly-notes\2024-week-40.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="\work\acc\project-weekly-notes\2024-week-42.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
 <br>About Page and Generators from CSV for complicated UI Patterns
 <br>Japan
@@ -27,8 +47,163 @@
 <br>Advocacy - Waiting on feed back and first draft of content that aligns to design
 <br><br><br>
 <br>About page i have shown Jacob where to get the latest design for the project and put in all connections to SiteCore.  The project is as done as it can be with out the final content documents from <a data-href="Laura Bicicchi" href="\_sponsor\laura-bicicchi.html" class="internal-link" target="_self" rel="noopener nofollow"><span class="iconize-icon-in-link" title="FasUser" aria-label="FasUser" data-icon="FasUser" aria-hidden="true" style="transform: translateY(20%);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="18px" height="18px"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z"></path></svg></span>Laura Bicicchi</a>
-]]></description><link>work\acc\project-weekly-notes\2024-week-41.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 41.md</guid><pubDate>Wed, 30 Oct 2024 21:08:34 GMT</pubDate></item><item><title><![CDATA[2024 Week 42]]></title><description><![CDATA[ 
- <br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 41" data-href="2024 Week 41" href="\work\acc\project-weekly-notes\2024-week-41.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="\work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br>]]></description><link>work\acc\project-weekly-notes\2024-week-42.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 42.md</guid><pubDate>Wed, 30 Oct 2024 21:08:34 GMT</pubDate></item><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
+]]></description><link>work\acc\project-weekly-notes\2024-week-41.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 41.md</guid><pubDate>Wed, 30 Oct 2024 21:08:34 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>work\acc\projects\grey-box-ccke-ous.html</link><guid isPermaLink="false">Work/ACC/Projects/GREY BOX -- CCKE- OUS.md</guid><pubDate>Wed, 30 Oct 2024 21:12:18 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>To effectively explore our competitive landscape, this survey aimed to uncover both direct and indirect competition regarding features and benefits offered by ACC.org. While direct comparison against our field is valuable, we should also consider how we compete on features and user experience beyond the cardiovascular care space. Users are multifaceted, interacting daily with experiences related to education, membership, events, reading articles, and news across various industries. Understanding how these elements are presented on the best platforms across the web will provide insights into expectations and best practices that can elevate ACC.org. This survey will help reveal which competitors are challenging ACC.org regarding user experience across offerings like education, certifications, membership, events, and news engagement.<br><br><br>
+<br>Which organizations come to mind when you think of ACC's direct competitors in cardiovascular care and education?
+
+<br>Text Input    
+
+
+<br>Which websites or platforms do you use to stay informed, get inspiration from, or see what is an industry standard for education and professional development in cardiovascular care?
+
+<br>Text Input    
+
+
+<br>For the platforms you use to "stay informed" what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+
+
+
+
+<br>For the platforms you use to "stay informed" what does ACC.org do better?
+
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>
+
+<br>Performance &amp; Page Speed
+
+
+
+
+
+
+<br>Leave any other comments.- Other (please specify)
+<br><br>
+<br>Education: How do you interact with educational content on different platforms in your daily life, and what is the best example of a platform or website that provides educational content effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Education,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+<br>Maintaining Certification: How do you interact with platforms for maintaining certifications or credentials, and what is the best example of a platform or website that supports maintaining certifications effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Maintaining Certification,' what do they do better than ACC.org?
+
+<br>Checkbox Select All:
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+
+
+<br>Standards &amp; Best Practices Repository: How do you interact with repositories of standards and best practices on different platforms, and what is the best example of a platform or website that serves as a standards and best practices repository?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Standards &amp; Best Practices Repository,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+<br>Membership Organization: How do you interact with membership organizations on different platforms, and what is the best example of a platform or website that provides a great membership experience?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Membership Organization,' what do they do better than ACC.org?
+<br>- `Checkbox Select All`
+Copy<br>
+<br>Event &amp; Conference Hub: How do you interact with platforms for discovering and registering for events or conferences, and what is the best example of a platform or website that effectively manages events and conferences?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Event &amp; Conference Hub,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+
+<br>Staying Up-to-Date on News: How do you interact with news platforms to stay up-to-date, and what is the best example of a platform or website that provides timely and relevant news effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Staying Up-to-Date on News,' what do they do better than ACC.org?
+<br>- `Checkbox Select All`
+Copy]]></description><link>work\acc\projects\acc-redesign\discovery\direct-and-indirect-completive-landscape.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Direct and Indirect Completive Landscape.md</guid><pubDate>Thu, 31 Oct 2024 14:13:44 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><a data-href="ACC Redesign" href="\work\acc\projects\acc-redesign.html" class="internal-link" target="_self" rel="noopener nofollow">ACC Redesign</a><br><br>Looking at the competition will give us insights on how we will can can shift our site to be competitive. <br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: Create a Discovery Staff Survey <a data-href="Direct and Indirect Completive Landscape" href="\work\acc\projects\acc-redesign\discovery\direct-and-indirect-completive-landscape.html" class="internal-link" target="_self" rel="noopener nofollow">Direct and Indirect Completive Landscape</a>
+<br><br>
+<br>Additional Notes: 
+<br><a rel="noopener nofollow" class="external-link" href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" target="_blank">https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a>
+<br><a data-href="Web Based Heuristics" href="\work\acc\projects\acc-redesign\discovery\web-based-heuristics.html" class="internal-link" target="_self" rel="noopener nofollow">Web Based Heuristics</a>
+<br><a data-tooltip-position="top" aria-label="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" rel="noopener nofollow" class="external-link" href="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" target="_blank">Evaluation WorkBook</a>
+]]></description><link>work\acc\projects\acc-redesign\discovery\ecs-competitive-research.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/ECS Competitive Research.md</guid><pubDate>Thu, 31 Oct 2024 13:27:19 GMT</pubDate></item><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
  <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="\work\acc\project-weekly-notes\2024-week-42.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="\work\acc\project-weekly-notes\2024-week-44.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
 <br>Naps, catching up on emails
 <br><br>
@@ -53,25 +228,7 @@
 <br>
 <br><br><br>
 <br>Created <a data-tooltip-position="top" aria-label="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" rel="noopener nofollow" class="external-link" href="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" target="_blank">Structured Data</a> and <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" target="_blank">Prototype</a>
-]]></description><link>work\acc\project-weekly-notes\2024-week-43.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 43.md</guid><pubDate>Mon, 28 Oct 2024 19:23:30 GMT</pubDate></item><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="\work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="\2024 Week 45" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>
-<br><br>
-<br>Review and talk to Jae Brite about play book. 
-<br>Review the <a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Work. Improve the data points for the catalogue and create a render for it.  completionOctober 30, 2024
-<br><a data-href="ACC 75th Gala" href="\work\acc\projects\acc-75th-gala.html" class="internal-link" target="_self" rel="noopener nofollow">ACC 75th Gala</a> - NEW FAQ page &amp; a new way to pay.
-<br><br>
-<br>Not Fire Fighting but taking up cycles is the Open Enrollment
-<br><br>
-<br><a data-href="CCKE" href="\work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
-<br><a data-href="CMP" href="\CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
-<br><a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
-<br><br>
-<br><a data-href="State Chapters for BOG" href="\work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
-<br><a data-href="Arches Conversion" href="\work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
-<br><br><br>
-<br>
-]]></description><link>work\acc\project-weekly-notes\2024-week-44.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 44.md</guid><pubDate>Wed, 30 Oct 2024 16:04:54 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+]]></description><link>work\acc\project-weekly-notes\2024-week-43.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 43.md</guid><pubDate>Mon, 28 Oct 2024 19:23:30 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work\acc\projects\ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Wed, 30 Oct 2024 20:59:54 GMT</pubDate></item><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
  <br><br>This is an audit of the two Product Pages that currently have overlapping content. Below is a numbered list of the two pages, and how they will be referred to thereafter:<br>
 <br>Certified Cardiovascular Knowledge Examination (CCKE) For NPs/PAs Practicing in the U.S.:<br>
