@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 01 Nov 2024 18:38:54 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 01 Nov 2024 18:38:53 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work\acc\projects\ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Fri, 01 Nov 2024 18:00:55 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  <br><br>To effectively explore our competitive landscape, this survey aimed to uncover both direct and indirect competition regarding features and benefits offered by ACC.org. While direct comparison against our field is valuable, we should also consider how we compete on features and user experience beyond the cardiovascular care space. Users are multifaceted, interacting daily with experiences related to education, membership, events, reading articles, and news across various industries. Understanding how these elements are presented on the best platforms across the web will provide insights into expectations and best practices that can elevate ACC.org. This survey will help reveal which competitors are challenging ACC.org regarding user experience across offerings like education, certifications, membership, events, and news engagement.<br><br><br>
@@ -204,11 +205,114 @@
  <br><br>
 <br>Summary: 
 <br><br>
+=======
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 01 Nov 2024 19:10:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 01 Nov 2024 19:10:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024 Week 40]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="Timestamps/2024/09-September/2024-09-30" data-href="Timestamps/2024/09-September/2024-09-30" href="Timestamps/2024/09-September/2024-09-30" class="internal-link" target="_self" rel="noopener">Last Week</a><br>
+| <a data-tooltip-position="top" aria-label="Timestamps/2024/10-October/2024-09-30" data-href="Timestamps/2024/10-October/2024-09-30" href="Timestamps/2024/10-October/2024-09-30" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>ACC redesign what are the Nodes of Content for the site? Is it as simple as "story" vs  "collection"  <a data-href="WhatIf.excalidraw" href="work/acc/projects/acc-redesign/whatif.excalidraw.html" class="internal-link" target="_self" rel="noopener">WhatIf.excalidraw</a>
+<br><br>
+<br>About Page
+<br>Competitive Research Plan
+<br><br>
+<br>Graphics having the wrong dates.
+<br>Touch base with Brian about what is now capable in Hubspot. 
+<br><br>
+<br>Careers - Pattern Work from the new design.
+<br>About Page - Need to make Wireframe of proposed UI.
+<br>NCD academy - we are putting together a plan on how to utilize YouTube as the entry path to Xyleme.
+<br><br>
+<br><a data-href="Error Handling" href="work/acc/projects/error-handling.html" class="internal-link" target="_self" rel="noopener">Error Handling</a> - Can we use Artie
+<br><a data-href="Member Sections" href="work/acc/projects/member-sections.html" class="internal-link" target="_self" rel="noopener">Member Sections</a> - Presentation of what we are proposing
+<br>CCKE - Just not a priority from business.
+<br>CMP - No interest to move on this.
+<br>Interactive Map - Email to gather Sample PDF to make a better plan with details. 
+<br><br>
+<br><a data-href="Hub Spot Landing Pages" href="work/acc/projects/hub-spot-landing-pages.html" class="internal-link" target="_self" rel="noopener">Hub Spot Landing Pages</a>
+<br><br><br>
+<br>
+]]></description><link>work/acc/project-weekly-notes/2024-week-40.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 40.md</guid><pubDate>Wed, 09 Oct 2024 13:04:27 GMT</pubDate></item><item><title><![CDATA[2024 Week 41]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 40" data-href="2024 Week 40" href="work/acc/project-weekly-notes/2024-week-40.html" class="internal-link" target="_self" rel="noopener">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="work/acc/project-weekly-notes/2024-week-42.html" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>About Page and Generators from CSV for complicated UI Patterns
+<br>Japan
+<br><br>
+<br>Jekyll patterns for <a data-href="About Us &amp; Support Us Pages" href="work/acc/projects/about-us-&amp;-support-us-pages.html" class="internal-link" target="_self" rel="noopener">About Us &amp; Support Us Pages</a>, and Careers.  completionOctober 09, 2024
+
+<br><a rel="noopener" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/About/" target="_blank">https://acc-style.github.io/PrototypingACCorg/arches/About/</a>
+<br><a rel="noopener" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/CareerBlocks/" target="_blank">https://acc-style.github.io/PrototypingACCorg/arches/CareerBlocks/</a>
+
+
+<br>Looking to standardize the patterns that have slightly muted on ACC.org from our new arches pages. 
+<br>Putting in Journal Scans for updates on acc.org
+<br><br>
+<br>VDI breaking on Friday and making every thing harder and going rouge with our security policy. 
+<br><br>
+<br>NCD Academy
+<br>Member Sections
+<br>Error Pages - Sadly learned we can not use Artie (Legal Reasons) on the website so we will have to come to a different approach for the images for the Error page.
+<br><br>
+<br>CCKE - Gone Dark
+<br>CMP - Gone Dark
+<br>About - Waiting on content updates
+<br>Home Page Button -IT
+<br>Arches Article
+<br>Map List - Waiting on Agendas
+<br>Advocacy - Waiting on feed back and first draft of content that aligns to design
+<br><br><br>
+<br>About page i have shown Jacob where to get the latest design for the project and put in all connections to SiteCore.  The project is as done as it can be with out the final content documents from <a data-href="Laura Bicicchi" href="_sponsor/laura-bicicchi.html" class="internal-link" target="_self" rel="noopener"><span class="iconize-icon-in-link" title="FasUser" aria-label="FasUser" data-icon="FasUser" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z"></path></svg></span>Laura Bicicchi</a>
+]]></description><link>work/acc/project-weekly-notes/2024-week-41.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 41.md</guid><pubDate>Mon, 28 Oct 2024 14:02:42 GMT</pubDate></item><item><title><![CDATA[2024 Week 42]]></title><description><![CDATA[ 
+ <br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 41" data-href="2024 Week 41" href="work/acc/project-weekly-notes/2024-week-41.html" class="internal-link" target="_self" rel="noopener">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work/acc/project-weekly-notes/2024-week-43.html" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br>]]></description><link>work/acc/project-weekly-notes/2024-week-42.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 42.md</guid><pubDate>Mon, 28 Oct 2024 14:02:10 GMT</pubDate></item><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="work/acc/project-weekly-notes/2024-week-42.html" class="internal-link" target="_self" rel="noopener">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="work/acc/project-weekly-notes/2024-week-44.html" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>Naps, catching up on emails
+<br><br>
+<br>Getting back in the groove.
+<br>State Chapter BOG POC  completionOctober 25, 2024
+<br><br>
+<br><a data-href="ACC 75th Gala" href="work/acc/projects/acc-75th-gala.html" class="internal-link" target="_self" rel="noopener">ACC 75th Gala</a> - NEW FAQ page new way to pay.
+<br><br>
+<br><a data-href="CardioSmart 360" href="work/acc/projects/cardiosmart-360.html" class="internal-link" target="_self" rel="noopener">CardioSmart 360</a> QA
+<br>SWG UAT 
+<br>Picking back up:
+
+<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener">CCKE</a>
+<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener">CMP</a>
+<br><a data-href="Advocacy" href="work/acc/projects/advocacy.html" class="internal-link" target="_self" rel="noopener">Advocacy</a>
+<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a>
+<br><a data-href="State Chapters for BOG" href="work/acc/projects/state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener">State Chapters for BOG</a> - Got Agenda and Pass it back to Miriam to Approve and Collect all Agendas.
+
+
+<br><br>
+<br>Careers Project is in construction with Jacob
+<br>
+<br><br><br>
+<br>Created <a data-tooltip-position="top" aria-label="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" rel="noopener" class="external-link" href="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" target="_blank">Structured Data</a> and <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" rel="noopener" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" target="_blank">Prototype</a>
+]]></description><link>work/acc/project-weekly-notes/2024-week-43.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 43.md</guid><pubDate>Mon, 28 Oct 2024 14:01:30 GMT</pubDate></item><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work/acc/project-weekly-notes/2024-week-43.html" class="internal-link" target="_self" rel="noopener">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="2024 Week 45" class="internal-link" target="_self" rel="noopener">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br>
+<br>Review and talk to Jae Brite about play book. 
+<br>Review the <a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a> Work. Improve the data points for the catalogue and create a render for it.  completionOctober 30, 2024
+<br><a data-href="ACC 75th Gala" href="work/acc/projects/acc-75th-gala.html" class="internal-link" target="_self" rel="noopener">ACC 75th Gala</a> - NEW FAQ page &amp; a new way to pay.
+<br><br>
+<br>Not Fire Fighting but taking up cycles is the Open Enrollment
+<br><br>
+<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener">CCKE</a>
+<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener">CMP</a>
+<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener">NCD Academy</a>
+<br><a data-href="Completive Analysis" href="Completive Analysis" class="internal-link" target="_self" rel="noopener">Completive Analysis</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="work/acc/projects/state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener">Arches Conversion</a>
+<br><br><br>
+<br>
+]]></description><link>work/acc/project-weekly-notes/2024-week-44.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 44.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><a data-href="ACC Redesign" href="work/acc/projects/acc-redesign.html" class="internal-link" target="_self" rel="noopener">ACC Redesign</a><br><br>Looking at the competition will give us insights on how we will can can shift our site to be competitive. <br><br>
+>>>>>>> Stashed changes
 <br>Hypothesis: 
 <br><br>
-<br>Outline: 
+<br>Outline: Create a Discovery Staff Survey <a data-href="Direct and Indirect Completive Landscape" href="work/acc/projects/acc-redesign/discovery/direct-and-indirect-completive-landscape.html" class="internal-link" target="_self" rel="noopener">Direct and Indirect Completive Landscape</a>
 <br><br>
 <br>Additional Notes: 
+<<<<<<< Updated upstream
 ]]></description><link>work\acc\projects\grey-box-ccke-ous.html</link><guid isPermaLink="false">Work/ACC/Projects/GREY BOX -- CCKE- OUS.md</guid><pubDate>Wed, 30 Oct 2024 21:12:18 GMT</pubDate></item><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
  <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="\work\acc\project-weekly-notes\2024-week-42.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="\work\acc\project-weekly-notes\2024-week-44.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
 <br>Naps, catching up on emails
@@ -235,6 +339,154 @@
 <br><br><br>
 <br>Created <a data-tooltip-position="top" aria-label="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" rel="noopener nofollow" class="external-link" href="https://github.com/ACC-Style/PrototypingACCorg/blob/main/_data/state-agenda.csv" target="_blank">Structured Data</a> and <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/arches/StateAgenda/" target="_blank">Prototype</a>
 ]]></description><link>work\acc\project-weekly-notes\2024-week-43.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 43.md</guid><pubDate>Mon, 28 Oct 2024 19:23:30 GMT</pubDate></item><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
+=======
+<br><a rel="noopener" class="external-link" href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" target="_blank">https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/</a>
+<br><a rel="noopener" class="external-link" href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a>
+<br><a data-href="Web Based Heuristics" href="work/acc/projects/acc-redesign/discovery/web-based-heuristics.html" class="internal-link" target="_self" rel="noopener">Web Based Heuristics</a>
+<br><a data-tooltip-position="top" aria-label="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" rel="noopener" class="external-link" href="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" target="_blank">Evaluation WorkBook</a>
+]]></description><link>work/acc/projects/acc-redesign/discovery/competitive-research.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Competitive Research.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>To effectively explore our competitive landscape, this survey aimed to uncover both direct and indirect competition regarding features and benefits offered by ACC.org. While direct comparison against our field is valuable, we should also consider how we compete on features and user experience beyond the cardiovascular care space. Users are multifaceted, interacting daily with experiences related to education, membership, events, reading articles, and news across various industries. Understanding how these elements are presented on the best platforms across the web will provide insights into expectations and best practices that can elevate ACC.org. This survey will help reveal which competitors are challenging ACC.org regarding user experience across offerings like education, certifications, membership, events, and news engagement.<br><br><br>
+<br>Which organizations come to mind when you think of ACC's direct competitors in cardiovascular care and education?
+
+<br>Text Input    
+
+
+<br>Which websites or platforms do you use to stay informed, get inspiration from, or see what is an industry standard for education and professional development in cardiovascular care?
+
+<br>Text Input    
+
+
+<br>For the platforms you use to "stay informed" what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+
+
+
+
+<br>For the platforms you use to "stay informed" what does ACC.org do better?
+
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>
+
+<br>Performance &amp; Page Speed
+
+
+
+
+
+
+<br>Leave any other comments.- Other (please specify)
+<br><br>
+<br>Education: How do you interact with educational content on different platforms in your daily life, and what is the best example of a platform or website that provides educational content effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Education,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+<br>Maintaining Certification: How do you interact with platforms for maintaining certifications or credentials, and what is the best example of a platform or website that supports maintaining certifications effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Maintaining Certification,' what do they do better than ACC.org?
+
+<br>Checkbox Select All:
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+
+
+<br>Standards &amp; Best Practices Repository: How do you interact with repositories of standards and best practices on different platforms, and what is the best example of a platform or website that serves as a standards and best practices repository?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Standards &amp; Best Practices Repository,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+<br>Membership Organization: How do you interact with membership organizations on different platforms, and what is the best example of a platform or website that provides a great membership experience?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Membership Organization,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+
+<br>Event &amp; Conference Hub: How do you interact with platforms for discovering and registering for events or conferences, and what is the best example of a platform or website that effectively manages events and conferences?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Event &amp; Conference Hub,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+
+<br>Staying Up-to-Date on News: How do you interact with news platforms to stay up-to-date, and what is the best example of a platform or website that provides timely and relevant news effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Staying Up-to-Date on News,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+
+]]></description><link>work/acc/projects/acc-redesign/discovery/direct-and-indirect-completive-landscape.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Direct and Indirect Completive Landscape.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
+>>>>>>> Stashed changes
  <br><br>This is an audit of the two Product Pages that currently have overlapping content. Below is a numbered list of the two pages, and how they will be referred to thereafter:<br>
 <br>Certified Cardiovascular Knowledge Examination (CCKE) For NPs/PAs Practicing in the U.S.:<br>
 a. Referred to as CVTeam.
@@ -250,7 +502,11 @@ Keep Persona-Specific Details Separate: Type-specific content should be kept sep
 <br>
 Create Cross-References to Simplify Navigation: Provide hyperlinks between shared sections and persona-specific pages to make it easier for users to navigate between general and specific content. This will improve the overall user journey by reducing the likelihood of confusion between similar content.
 
+<<<<<<< Updated upstream
 <br><br><br><br><img alt="Pasted image 20241030170446.png" src="\lib\media\pasted-image-20241030170446.png"><br>The proposed AI structure helps streamline the content by focusing each page's role to enhance user experience, reduce redundancy, and provide clear navigation pathways even when users arrive at the wrong page variant.<br>
+=======
+<br><br><br><br><img alt="Pasted image 20241030170446.png" src="lib/media/pasted-image-20241030170446.png"><br>The proposed AI structure helps streamline the content by focusing each page's role to enhance user experience, reduce redundancy, and provide clear navigation pathways even when users arrive at the wrong page variant.<br>
+>>>>>>> Stashed changes
 <br>Product Page: Centralizes key exam-related content, making it the first point of reference for all users. It focuses on eligibility, application processes, exam administration, and a general overview, ensuring consistency and reducing noise by keeping shared content unified.
 <br>Persona Detail Pages: Targeted at specific roles, these pages provide tailored details for eligibility, exam dates, preparation resources, and other specifics. By keeping type-specific information on dedicated pages, users can easily navigate to content relevant to their background without sifting through unrelated details.
 <br>FAQ Page: Acts as a shared resource for questions that apply to both personas. This page will address common concerns, minimizing redundancy and providing a quick, centralized place for users to find general information. Hyperlinks will be used to direct users to persona-specific details where necessary.
@@ -291,15 +547,48 @@ Clarify Naming Across All Communications:
 <br>Ensure that cross-references between the products are explicit about the intended audience to avoid any ambiguity.
 
 
+<<<<<<< Updated upstream
 <br>The goal of the rebranding effort is to reduce confusion, particularly among members who may be unsure which certification is appropriate for their professional background. By creating a stronger distinction between the two certifications, ACC can improve user satisfaction and reduce the potential for misapplication.]]></description><link>work\acc\projects\ccke-content-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE Content Proposal.md</guid><pubDate>Wed, 30 Oct 2024 21:06:54 GMT</pubDate><enclosure url="lib\media\pasted-image-20241030170446.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20241030170446.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  A sponsor of the product wants to hit a certain number of video watches.]]></description><link>work\acc\projects\ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><pubDate>Wed, 30 Oct 2024 16:20:39 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
  <br>Email Marketing<br>Here’s a streamlined process flow for utilizing Direct Marketing Emails, Social Posts, and Web Marketing to drive users to landing pages with single goal CTAs, optimizing for conversion:<br>
 <img alt="Pasted image 20240924173228.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"><br><br>
+=======
+<br>The goal of the rebranding effort is to reduce confusion, particularly among members who may be unsure which certification is appropriate for their professional background. By creating a stronger distinction between the two certifications, ACC can improve user satisfaction and reduce the potential for misapplication.]]></description><link>work/acc/projects/ccke/ccke-content-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/CCKE Content Proposal.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate><enclosure url="lib/media/pasted-image-20241030170446.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20241030170446.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[No Content Change Proposal]]></title><description><![CDATA[ 
+ <br><br><br><br><br> The Certified Cardiovascular Knowledge Examination (CCKE) is designed for healthcare professionals who want to demonstrate their expertise in cardiovascular medicine. It is an opportunity for NPs, PAs, and other clinicians to validate their knowledge, enhance their careers, and contribute to the standard of excellence in cardiovascular care.<br> To learn more about the application process, eligibility requirements, and how to apply, continue exploring our resources.<br>
+-- Button Primary | Learn About the Application Process --<br>
+-- Button Secondary | Learn More About the Exam --<br><br>
+<br>Validate your clinical knowledge
+<br>Boost job prospects in cardiology
+<br>Uphold excellence in patient care
+<br>Earn credits towards FACC/AACC
+<br>Advance your career and enhance your reputation
+<br>Be recognized as an expert in CV care
+<br>-- Button Primary | Apply Now to Get Certified --<br><br>  Do you plan to take the CCKE? If so, we have the resources to help you!<br>
+<br>See the <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24054-CCKE-NPPA-Application-Instructions.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24054-CCKE-NPPA-Application-Instructions.pdf" target="_blank">Application Instructions</a>, <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G23121-CCKE-NPPA-Checklist.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G23121-CCKE-NPPA-Checklist.pdf" target="_blank">Checklist</a>, and <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24020-CCKE-NPPA-Tutorial.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24020-CCKE-NPPA-Tutorial.pdf" target="_blank">Exam Tutorial</a> to prepare for Exam Day.
+<br>See the <a class="internal-link" data-href="#faq" href="about:blank#faq" target="_self" rel="noopener">FAQ</a> with resources to prepare.
+<br>-- Button Primary | Register for the CCKE Exam Now --<br><br>  A <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24053-CCKE-NPPA-Test-Prep.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24053-CCKE-NPPA-Test-Prep.pdf" target="_blank">Clinical Review Guide</a> is available for your exam preparation. Examinees can also utilize ACCSAP at a discounted rate along with other resources to prepare. For more information, see the FAQ "What Resources Does ACC Offer to Help Me Prepare For the CCKE?".<br>
+Discover study resources, exam details, and important preparation tips to help you succeed in your certification journey.<br>
+-- Button Primary | Explore Preparation Resources --<br><br>We are proud to celebrate the hard work and dedication of the NPs and PAs who have successfully earned the Certified Cardiovascular Knowledge (CCK) credential. Your commitment to advancing cardiovascular care is an inspiration to others in the field, and we commend your achievement.<br>
+-- Button Primary | Meet the Credential Holders --<br><br><br><br>Learn about the steps you need to take to apply for the CCKE, including eligibility requirements and application submission.<br>
+-- Button Primary | Go to Application Process --<br><br>Get access to study materials, clinical review guides, webinars, and tips to prepare effectively for the exam.<br>
+-- Button Primary | Visit Preparation Resources --<br>Exam Details<br>
+Find out everything you need to know about the exam structure, administration, content, and policies.<br>
+-- Button Primary | View Exam Details --<br>After the Exam<br>
+Learn what to expect after completing the exam, including scoring, certification details, and retake policies.<br>
+-- Button Primary | Learn About What Happens After the Exam --<br><br><br>Explore frequently asked questions and information on special testing accommodations.<br>
+-- Button Primary | See FAQs and Additional Information --]]></description><link>work/acc/projects/ccke/no-content-change-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/No Content Change Proposal.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
+ <br>Email Marketing<br>Here’s a streamlined process flow for utilizing Direct Marketing Emails, Social Posts, and Web Marketing to drive users to landing pages with single goal CTAs, optimizing for conversion:<br>
+<img alt="Pasted image 20240924173228.png" src="lib/media/pasted-image-20240924173228.png"><br><br>
+>>>>>>> Stashed changes
 <br>Objective: Whether the goal is membership sign-up, promoting a specific product, or encouraging course enrollment, start with a clear and single-focused goal.<br>
 
 <br>Audience Segmentation: Use member data to segment your audience (e.g., new vs. existing members, product preferences, or education needs). Tailor your messaging accordingly.<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173258.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173258.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173258.png" src="lib/media/pasted-image-20240924173258.png"><br><br>
+>>>>>>> Stashed changes
 <br>Personalized Messaging: Send segmented, targeted emails based on member interest or product interaction. Use personalized subject lines and content to engage the recipient.<br>
 
 <br>Single CTA Focus: Keep the email concise, focusing on one action—whether it's signing up for membership, taking a course, or learning more about a product.<br>
@@ -312,7 +601,11 @@ Clarify Naming Across All Communications:
 
 <br>Follow-up Emails: If no action is taken, send follow-up reminders, highlighting urgency or limited-time offers.<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173344.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173344.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173344.png" src="lib/media/pasted-image-20240924173344.png"><br><br>
+>>>>>>> Stashed changes
 <br>Awareness &amp; Engagement: Post engaging, relevant content that raises awareness about the specific service or product. Use visuals (images, videos) that catch attention quickly.<br>
 
 <br>Clear CTA in Posts: Always include a direct link to the landing page with a single action goal, such as “Learn More”, “Join Today”, or “Enroll Now”.<br>
@@ -322,7 +615,11 @@ Clarify Naming Across All Communications:
 <br>Boosted Posts &amp; Ads: Use paid promotions on social platforms to target users based on demographics or past interaction, driving them to the dedicated landing page.<br>
 
 <br>Engagement-driven CTAs: Use CTAs like “Get Started” or “Explore More” to reduce friction in the initial click.
+<<<<<<< Updated upstream
   <img alt="Pasted image 20240924173411.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173411.png">
+=======
+  <img alt="Pasted image 20240924173411.png" src="lib/media/pasted-image-20240924173411.png">
+>>>>>>> Stashed changes
 <br><br>
 <br>Banner Ads &amp; Pop-ups: Design targeted ads that appear on key sections of your website. Ensure that these ads promote the single focused CTA (e.g., membership sign-up or course enrollment).<br>
 
@@ -335,14 +632,22 @@ Clarify Naming Across All Communications:
 
 <br>Mobile Optimization: Make sure landing pages are mobile-friendly for users arriving via mobile social posts or email.<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173440.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173440.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173440.png" src="lib/media/pasted-image-20240924173440.png"><br><br>
+>>>>>>> Stashed changes
 <br>Track Conversions: Use tools like Google Analytics, UTM codes, or your CRM to monitor which channels (emails, social posts, or web ads) are driving the most traffic and conversions.<br>
 
 <br>Abandoned Landing Page Follow-Up: If users visit the landing page but don’t convert, trigger automated reminder emails or retargeting ads to bring them back, offering added incentives or urgency.<br>
 
 <br>Next Steps for Conversions: Once a user converts, deliver a thank you email or confirmation page, guiding them to the next step in their member journey (e.g., onboarding for members, product usage tips).<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173458.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173458.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173458.png" src="lib/media/pasted-image-20240924173458.png"><br><br>
+>>>>>>> Stashed changes
 <br>
 Direct Email:
 
@@ -370,16 +675,42 @@ Website Banner Ad:
 
 
 
+<<<<<<< Updated upstream
 <br>By focusing on single-action CTAs, and maintaining consistent, clear messaging across all communication channels, this process maximizes the chances of conversion from email, social, and web marketing efforts.<br><img alt="Pasted image 20240924173524.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173524.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hubspot-landing-page/maximize-conversions-with-integrated-marketing.html</link><guid isPermaLink="false">Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md</guid><pubDate>Wed, 09 Oct 2024 17:03:45 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  Building Landing Pages to better connect Marketing to the ask.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><pubDate>Wed, 09 Oct 2024 17:03:46 GMT</pubDate></item><item><title><![CDATA[State Chapters for BOG]]></title><description><![CDATA[ 
  a centralized viewing area for state chapter agendas.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/state-chapters-for-bog.html</link><guid isPermaLink="false">Work/ACC/Projects/State Chapters for BOG.md</guid><pubDate>Fri, 25 Oct 2024 14:17:11 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
  <br>Email Marketing<br>Here’s a streamlined process flow for utilizing Direct Marketing Emails, Social Posts, and Web Marketing to drive users to landing pages with single goal CTAs, optimizing for conversion:<br>
 <img alt="Pasted image 20240924173228.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"><br><br>
+=======
+<br>By focusing on single-action CTAs, and maintaining consistent, clear messaging across all communication channels, this process maximizes the chances of conversion from email, social, and web marketing efforts.<br><img alt="Pasted image 20240924173524.png" src="lib/media/pasted-image-20240924173524.png">]]></description><link>work/acc/projects/hubspot-landing-page/maximize-conversions-with-integrated-marketing.html</link><guid isPermaLink="false">Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md</guid><pubDate>Mon, 30 Sep 2024 23:54:42 GMT</pubDate><enclosure url="lib/media/pasted-image-20240924173228.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240924173228.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>work/acc/projects/about-us-&amp;-support-us-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/About Us &amp; Support Us Pages.md</guid><pubDate>Sun, 27 Oct 2024 18:56:34 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ The site is getting old time for a new coat of paint.]]></description><link>work/acc/projects/acc-redesign.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign.md</guid><pubDate>Wed, 09 Oct 2024 13:04:27 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Fri, 01 Nov 2024 19:04:09 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ WIth 19k closing down we need to look at Error Handling]]></description><link>work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><pubDate>Sun, 27 Oct 2024 18:56:34 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>work/acc/projects/grey-box-ccke-ous.html</link><guid isPermaLink="false">Work/ACC/Projects/GREY BOX -- CCKE- OUS.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Building Landing Pages to better connect Marketing to the ask.]]></description><link>work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><pubDate>Wed, 25 Sep 2024 02:17:51 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ A sponsor of the product wants to hit a certain number of video watches.]]></description><link>work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[State Chapters for BOG]]></title><description><![CDATA[ 
+ a centralized viewing area for state chapter agendas.]]></description><link>work/acc/projects/state-chapters-for-bog.html</link><guid isPermaLink="false">Work/ACC/Projects/State Chapters for BOG.md</guid><pubDate>Sun, 27 Oct 2024 18:56:34 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
+ <br>Email Marketing<br>Here’s a streamlined process flow for utilizing Direct Marketing Emails, Social Posts, and Web Marketing to drive users to landing pages with single goal CTAs, optimizing for conversion:<br>
+<img alt="Pasted image 20240924173228.png" src="lib/media/pasted-image-20240924173228.png"><br><br>
+>>>>>>> Stashed changes
 <br>Objective: Whether the goal is membership sign-up, promoting a specific product, or encouraging course enrollment, start with a clear and single-focused goal.<br>
 
 <br>Audience Segmentation: Use member data to segment your audience (e.g., new vs. existing members, product preferences, or education needs). Tailor your messaging accordingly.<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173258.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173258.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173258.png" src="lib/media/pasted-image-20240924173258.png"><br><br>
+>>>>>>> Stashed changes
 <br>Personalized Messaging: Send segmented, targeted emails based on member interest or product interaction. Use personalized subject lines and content to engage the recipient.<br>
 
 <br>Single CTA Focus: Keep the email concise, focusing on one action—whether it's signing up for membership, taking a course, or learning more about a product.<br>
@@ -392,7 +723,11 @@ Website Banner Ad:
 
 <br>Follow-up Emails: If no action is taken, send follow-up reminders, highlighting urgency or limited-time offers.<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173344.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173344.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173344.png" src="lib/media/pasted-image-20240924173344.png"><br><br>
+>>>>>>> Stashed changes
 <br>Awareness &amp; Engagement: Post engaging, relevant content that raises awareness about the specific service or product. Use visuals (images, videos) that catch attention quickly.<br>
 
 <br>Clear CTA in Posts: Always include a direct link to the landing page with a single action goal, such as “Learn More”, “Join Today”, or “Enroll Now”.<br>
@@ -402,7 +737,11 @@ Website Banner Ad:
 <br>Boosted Posts &amp; Ads: Use paid promotions on social platforms to target users based on demographics or past interaction, driving them to the dedicated landing page.<br>
 
 <br>Engagement-driven CTAs: Use CTAs like “Get Started” or “Explore More” to reduce friction in the initial click.
+<<<<<<< Updated upstream
   <img alt="Pasted image 20240924173411.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173411.png">
+=======
+  <img alt="Pasted image 20240924173411.png" src="lib/media/pasted-image-20240924173411.png">
+>>>>>>> Stashed changes
 <br><br>
 <br>Banner Ads &amp; Pop-ups: Design targeted ads that appear on key sections of your website. Ensure that these ads promote the single focused CTA (e.g., membership sign-up or course enrollment).<br>
 
@@ -415,14 +754,22 @@ Website Banner Ad:
 
 <br>Mobile Optimization: Make sure landing pages are mobile-friendly for users arriving via mobile social posts or email.<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173440.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173440.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173440.png" src="lib/media/pasted-image-20240924173440.png"><br><br>
+>>>>>>> Stashed changes
 <br>Track Conversions: Use tools like Google Analytics, UTM codes, or your CRM to monitor which channels (emails, social posts, or web ads) are driving the most traffic and conversions.<br>
 
 <br>Abandoned Landing Page Follow-Up: If users visit the landing page but don’t convert, trigger automated reminder emails or retargeting ads to bring them back, offering added incentives or urgency.<br>
 
 <br>Next Steps for Conversions: Once a user converts, deliver a thank you email or confirmation page, guiding them to the next step in their member journey (e.g., onboarding for members, product usage tips).<br>
 
+<<<<<<< Updated upstream
 <br><img alt="Pasted image 20240924173458.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173458.png"><br><br>
+=======
+<br><img alt="Pasted image 20240924173458.png" src="lib/media/pasted-image-20240924173458.png"><br><br>
+>>>>>>> Stashed changes
 <br>
 Direct Email:
 
@@ -450,6 +797,10 @@ Website Banner Ad:
 
 
 
+<<<<<<< Updated upstream
 <br>By focusing on single-action CTAs, and maintaining consistent, clear messaging across all communication channels, this process maximizes the chances of conversion from email, social, and web marketing efforts.<br><img alt="Pasted image 20240924173524.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173524.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/thoughts/maximize-conversions-with-integrated-marketing.html</link><guid isPermaLink="false">Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md</guid><pubDate>Wed, 09 Oct 2024 17:03:48 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20240924173228.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/about-us-&amp;-support-us-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/About Us &amp; Support Us Pages.md</guid><pubDate>Wed, 09 Oct 2024 14:13:48 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  WIth 19k closing down we need to look at Error Handling]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/Error Handling.md</guid><pubDate>Wed, 09 Oct 2024 14:17:36 GMT</pubDate></item></channel></rss>
+=======
+<br>By focusing on single-action CTAs, and maintaining consistent, clear messaging across all communication channels, this process maximizes the chances of conversion from email, social, and web marketing efforts.<br><img alt="Pasted image 20240924173524.png" src="lib/media/pasted-image-20240924173524.png">]]></description><link>work/acc/thoughts/maximize-conversions-with-integrated-marketing.html</link><guid isPermaLink="false">Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md</guid><pubDate>Mon, 30 Sep 2024 23:54:44 GMT</pubDate><enclosure url="lib/media/pasted-image-20240924173228.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20240924173228.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+>>>>>>> Stashed changes
