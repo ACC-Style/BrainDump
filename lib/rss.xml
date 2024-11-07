@@ -1,4 +1,107 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 01 Nov 2024 19:11:44 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 01 Nov 2024 19:11:32 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Section Personas]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 07 Nov 2024 22:30:43 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 07 Nov 2024 22:30:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
+ <br><br>This is an audit of the two Product Pages that currently have overlapping content. Below is a numbered list of the two pages, and how they will be referred to thereafter:<br>
+<br>Certified Cardiovascular Knowledge Examination (CCKE) For NPs/PAs Practicing in the U.S.:<br>
+a. Referred to as CVTeam.
+<br>Certified Cardiovascular Knowledge Examination (CCKE) For Physicians Practicing Outside the U.S.:<br>
+a. Referred to as Clinician-OUS.
+<br>The two pages—"CVTEAM" and "Clinician-OUS"—contain significant overlap and some type-specific content. The recommendations below aim to streamline and unify both pages for clarity and ease of navigation for users. Content can be categorized into three groups: identical, very similar, and type-specific. The goal is to consolidate identical content, modify the similar content to fit both groups where applicable, and keep type-specific information targeted to the specific audience.<br><br>
+<br>
+Unify Duplicate Sections: Many sections across both pages have the same or nearly identical content, such as "How Will the Exam be Administered?", "What is the Reliability of This Exam?", and "What Topics Are Included on This Exam?". Consolidate these into one central resource (such as a FAQ) that is shared between both audiences.
+
+<br>
+Keep Persona-Specific Details Separate: Type-specific content should be kept separate where necessary to ensure that information remains relevant and directly applicable to each audience, e.g., "Who's Eligible to Take ACC's Certified Cardiovascular Knowledge Examination (CCKE)?" where eligibility criteria differ for NPs/PAs versus physicians.
+
+<br>
+Create Cross-References to Simplify Navigation: Provide hyperlinks between shared sections and persona-specific pages to make it easier for users to navigate between general and specific content. This will improve the overall user journey by reducing the likelihood of confusion between similar content.
+
+<br><br><br><br><img alt="Pasted image 20241030170446.png" src="\lib\media\pasted-image-20241030170446.png"><br>The proposed AI structure helps streamline the content by focusing each page's role to enhance user experience, reduce redundancy, and provide clear navigation pathways even when users arrive at the wrong page variant.<br>
+<br>Product Page: Centralizes key exam-related content, making it the first point of reference for all users. It focuses on eligibility, application processes, exam administration, and a general overview, ensuring consistency and reducing noise by keeping shared content unified.
+<br>Persona Detail Pages: Targeted at specific roles, these pages provide tailored details for eligibility, exam dates, preparation resources, and other specifics. By keeping type-specific information on dedicated pages, users can easily navigate to content relevant to their background without sifting through unrelated details.
+<br>FAQ Page: Acts as a shared resource for questions that apply to both personas. This page will address common concerns, minimizing redundancy and providing a quick, centralized place for users to find general information. Hyperlinks will be used to direct users to persona-specific details where necessary.
+<br>This structure is designed to help users who might have arrived at the wrong variant by guiding them to the right section, thus reducing user frustration and improving satisfaction.<br><br>Consolidation of Identical and Very Similar Content: Move sections that are largely duplicated to a shared FAQ or product page. These sections include "How Will the Exam be Administered?", "What is the Reliability of This Exam?", and "Does the CCKE Offer a Credential?" Doing so will help reduce maintenance efforts while also improving consistency for users.<br>
+<br>
+Maintaining Persona-Specific Content: For sections that are specific to either "Clinician-OUS" or "CVTeam," create separate Persona Detail Pages. For instance, eligibility requirements, submission details, and exam dates vary between the two audiences. Keeping these sections separate but cross-referencing shared content will reduce confusion while allowing both pages to provide specialized information.
+
+<br>
+Use of Accordion Components: Keep the collapsible accordion structure to allow users to access content in manageable portions, making the pages less overwhelming. Ensure that each accordion component has consistent headings and styles across both "CVTeam" and "Clinician-OUS" pages.
+
+<br>
+Navigation Enhancements: To further reduce confusion, provide clear links at the end of shared sections like "How Much Does This Exam Cost?" to direct users to persona-specific details.
+
+<br><br>If the two products cannot be merged, it is recommended to rebrand one or both products to ensure they are distinguishable and reduce confusion. The proposed rebranding involves the following:<br>
+<br>
+Certified Cardiovascular Knowledge Examination (CCKE) for NPs/PAs Practicing in the U.S. (CVTeam): 
+
+<br>Maintain existing branding, but emphasize that this version of the exam is specifically for U.S.-based Nurse Practitioners and Physician Assistants.
+
+
+<br>
+Certified Cardiovascular Knowledge Examination (CCKE) for Physicians Practicing Outside the U.S. (Clinician-OUS):
+
+<br>Rebrand this product to differentiate it more clearly from CVTeam. Consider adding a geographic or professional distinction to the name, such as "International Cardiovascular Knowledge Certification" or "Certified Cardiovascular Competence for International Physicians".
+
+
+<br>
+Visual and Structural Distinction:
+
+<br>Introduce distinct color schemes or visual markers on both product pages to signal the difference at a glance.
+<br>Update headers and footers to clearly mention the audience for each product, e.g., "For Physicians Practicing Outside the U.S." vs. "For U.S.-based Nurse Practitioners and Physician Assistants".
+
+
+<br>
+Clarify Naming Across All Communications:
+
+<br>Update all marketing, email, and support documentation to ensure that users are consistently seeing the rebranded names.
+<br>Ensure that cross-references between the products are explicit about the intended audience to avoid any ambiguity.
+
+
+<br>The goal of the rebranding effort is to reduce confusion, particularly among members who may be unsure which certification is appropriate for their professional background. By creating a stronger distinction between the two certifications, ACC can improve user satisfaction and reduce the potential for misapplication.]]></description><link>work\acc\projects\ccke\ccke-content-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/CCKE Content Proposal.md</guid><pubDate>Thu, 07 Nov 2024 22:29:17 GMT</pubDate><enclosure url="lib\media\pasted-image-20241030170446.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20241030170446.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[No Content Change Proposal]]></title><description><![CDATA[ 
+ <br><br><br><br><br> The Certified Cardiovascular Knowledge Examination (CCKE) is designed for healthcare professionals who want to demonstrate their expertise in cardiovascular medicine. It is an opportunity for NPs, PAs, and other clinicians to validate their knowledge, enhance their careers, and contribute to the standard of excellence in cardiovascular care.<br> To learn more about the application process, eligibility requirements, and how to apply, continue exploring our resources.<br>
+-- Button Primary | Learn About the Application Process --<br>
+-- Button Secondary | Learn More About the Exam --<br><br>
+<br>Validate your clinical knowledge
+<br>Boost job prospects in cardiology
+<br>Uphold excellence in patient care
+<br>Earn credits towards FACC/AACC
+<br>Advance your career and enhance your reputation
+<br>Be recognized as an expert in CV care
+<br>-- Button Primary | Apply Now to Get Certified --<br><br>Learn about the steps you need to take to apply for the CCKE, including eligibility requirements and application submission.<br>
+<br>See the <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24054-CCKE-NPPA-Application-Instructions.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24054-CCKE-NPPA-Application-Instructions.pdf" target="_blank">Application Instructions</a>, <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G23121-CCKE-NPPA-Checklist.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G23121-CCKE-NPPA-Checklist.pdf" target="_blank">Checklist</a>, and <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24020-CCKE-NPPA-Tutorial.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24020-CCKE-NPPA-Tutorial.pdf" target="_blank">Exam Tutorial</a> to prepare for Exam Day.
+<br>See the <a class="internal-link" data-href="#faq" href="\#faq" target="_self" rel="noopener nofollow">FAQ</a> with resources to prepare.
+<br>-- Button Primary | Register for the CCKE Exam Now --<br><br>  Discover study resources, exam details, and essential preparation tips to help you succeed in your certification jouney.<br>A <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24053-CCKE-NPPA-Test-Prep.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24053-CCKE-NPPA-Test-Prep.pdf" target="_blank">Clinical Review Guide</a> is available for your exam preparation. Examines can also utilize ACCSAP at a discounted rate along with other resources to prepare. For more information, see the FAQ "<a data-tooltip-position="top" aria-label="https://whimsical.com/ncd-academy-XoFHM8H8qXHYttqEsitvau" rel="noopener nofollow" class="external-link" href="https://whimsical.com/ncd-academy-XoFHM8H8qXHYttqEsitvau" target="_blank"><em></em></a>What Resources Does ACC Offer to Help Me Prepare For the CCKE?".<br>
+-- Button Primary | Explore Preparation Resources --<br><br>Learn what to expect after completing the exam, including scoring, certification details, and retake policies.<br>We are proud to celebrate the hard work and dedication of the NPs and PAs who have successfully earned the Certified Cardiovascular Knowledge (CCK) credential. Your commitment to advancing cardiovascular care is an inspiration to others in the field, and we commend your achievement.<br>
+-- Button Primary | Meet the Credential Holders --<br><br><br><br>-- Button Primary | Go to Application Process --
+Copy<br><br>Get access to study materials, clinical review guides, webinars, and tips to prepare effectively for the exam.<br>
+-- Button Primary | Visit Preparation Resources --<br>Exam Details<br>
+Find out everything you need to know about the exam structure, administration, content, and policies.<br>
+-- Button Primary | View Exam Details --<br>After the Exam<br>
+Learn what to expect after completing the exam, including scoring, certification details, and retake policies.<br>
+-- Button Primary | Learn About What Happens After the Exam --<br><br><br>Explore frequently asked questions and information on special testing accommodations.<br>
+-- Button Primary | See FAQs and Additional Information --]]></description><link>work\acc\projects\ccke\no-content-change-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/No Content Change Proposal.md</guid><pubDate>Mon, 04 Nov 2024 18:26:41 GMT</pubDate></item><item><title><![CDATA[Intro Text by User Flow]]></title><description><![CDATA[ 
+ <br><br><br>You've arrived at a Member Section page, which is part of our exclusive benefits for members. These sections are designed to provide cardiovascular professionals with specialized communities, valuable content, and opportunities to make a real impact. To continue and access these resources, you'll need to log in. Logging in ensures that you, as a valued member, gain access to all the resources and support available to help you on your professional journey.<br>Call to Action: Please log in to continue and unlock exclusive member content.<br><br><br><br>You are currently viewing a Member Section page, an exclusive resource available to members of the American College of Cardiology. By becoming a member, you gain access to a network of like-minded cardiovascular professionals, educational content, professional development opportunities, and specialized communities like this section that support and amplify your work. Membership is your key to unlocking these resources and being part of the community leading the charge to improve cardiovascular care and outcomes worldwide.<br>Call to Action: Become a member to unlock access to the tools, resources, and community that will help you make a difference.<br><br><br><br>Member Sections allow you to deepen your connection with a specialized, topic-focused community within the ACC.&nbsp; Membership in a specific section helps you expand your influence, contribute to governance, and develop as a leader in the field.<br>--Unique Pitch of the Section--<br>
+By joining [Section Name], you can connect with peers who share your interests, gain leadership experience, and make a meaningful impact within the College and the cardiology field. The Women in Cardiology Section offers a unique perspective on professional development, networking opportunities, and a space to strengthen your skills alongside supportive peers.<br>*--Unique Pitch of the Section--*<br>Call to Action: Take the next step in your journey—modify you membership to join the [Section Name] Member Section to enhance your professional support system, sharpen your skills, and amplify your impact.<br>
+{{ BUTTON | Modify Membership }}<br><br><br><br>--Unique Specific Message--<br>
+Take advantage of networking events, leadership opportunities, and specialized resources designed to empower you to make a difference in your career and the broader cardiology field. Your involvement in this community helps you grow and contributes to shaping the future of cardiovascular care.<br>Call to Action: Explore the opportunities available to you now as a member of the [Section Name] Member Section, and discover how to further your journey in this vibrant, impactful community.<br>--Unique Specific Message--]]></description><link>work\acc\projects\member-sections\intro-text-by-user-flow.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Intro Text by User Flow.md</guid><pubDate>Thu, 07 Nov 2024 22:25:26 GMT</pubDate></item><item><title><![CDATA[User Journey Prompt]]></title><description><![CDATA[ 
+ <br><br><br>To access the [Section Name] Member Section you need to be a member of both College and the section.<br>First Step is to log in.<br>
+<br>[Log In](<a data-tooltip-position="top" aria-label="https://www.acc.org/login?returnUrl=%5BSection" rel="noopener nofollow" class="external-link" href="https://www.acc.org/login?returnUrl=%5BSection" target="_blank">https://www.acc.org/login?returnUrl=[Section</a> URL])
+<br><br><br><br>You must be a member of the American College of Cardiology first to gain access to [Section Name]: Member Section.<br>
+<br><a data-tooltip-position="top" aria-label="https://www.acc.org/membership/join-us" rel="noopener nofollow" class="external-link" href="https://www.acc.org/membership/join-us" target="_blank">Learn More</a>
+<br><a data-tooltip-position="top" aria-label="https://memberapp.acc.org/" rel="noopener nofollow" class="external-link" href="https://memberapp.acc.org/" target="_blank">Join the College</a>
+<br><br>Something Not Right?<br>
+<br><a data-tooltip-position="top" aria-label="https://my.acc.org/s/ContactUsMemberCare" rel="noopener nofollow" class="external-link" href="https://my.acc.org/s/ContactUsMemberCare" target="_blank">Contact ACC Member Care</a>
+<br><a data-tooltip-position="top" aria-label="tel:800-253-4636" rel="noopener nofollow" class="external-link" href="tel:800-253-4636" target="_blank">800-253-4636, ext. 5603</a>
+<br><a data-tooltip-position="top" aria-label="tel:202-375-6000" rel="noopener nofollow" class="external-link" href="tel:202-375-6000" target="_blank">202-375-6000</a>
+<br><br><br><br>You are a member of the American College of Cardiology, but you do not yet have access to the [Section Name] Member Section. Join the [Section Name] by managing your membership.<br>
+<br><a data-tooltip-position="top" aria-label="https://www.acc.org/dues" rel="noopener nofollow" class="external-link" href="https://www.acc.org/dues" target="_blank">Manage Membership</a>
+<br><br>Something Not Right?<br>
+<br><a data-tooltip-position="top" aria-label="https://my.acc.org/s/ContactUsMemberCare" rel="noopener nofollow" class="external-link" href="https://my.acc.org/s/ContactUsMemberCare" target="_blank">Contact ACC Member Care</a>
+<br><a data-tooltip-position="top" aria-label="tel:800-253-4636" rel="noopener nofollow" class="external-link" href="tel:800-253-4636" target="_blank">800-253-4636, ext. 5603</a>
+<br><a data-tooltip-position="top" aria-label="tel:202-375-6000" rel="noopener nofollow" class="external-link" href="tel:202-375-6000" target="_blank">202-375-6000</a>
+<br><br><br><br>Welcome to the [Section Name]: Member Section! You now have access to exclusive content, member benefits, and experiences.<br>
+<br>[Access Exclusive Content](<a data-tooltip-position="top" aria-label="https://www.acc.org/login?returnUrl=%5BSection" rel="noopener nofollow" class="external-link" href="https://www.acc.org/login?returnUrl=%5BSection" target="_blank">https://www.acc.org/login?returnUrl=[Section</a> URL])
+]]></description><link>work\acc\projects\member-sections\user-journey-prompt.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/User Journey Prompt.md</guid><pubDate>Thu, 07 Nov 2024 22:27:54 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work\acc\projects\ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Mon, 04 Nov 2024 15:14:40 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Working toward a consistent offering of content and features for the Member Section]]></description><link>work\acc\projects\member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Thu, 07 Nov 2024 22:28:27 GMT</pubDate></item><item><title><![CDATA[Section Personas]]></title><description><![CDATA[ 
  <br>Here are all four personas, incorporating the updated preferences:<br><br><br>
 <br>
 Name: Emma Wright  
@@ -890,8 +993,7 @@ Notes for Joint Development Meeting:
 <br>
 References for Article Types: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a>
 
-]]></description><link>work/acc/projects/tickets/article-children-rendering.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Article Children Rendering.md</guid><pubDate>Wed, 25 Sep 2024 02:10:07 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Working toward a consistent offering of content and features for the Member Section]]></description><link>work/acc/projects/member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Wed, 11 Sep 2024 15:59:08 GMT</pubDate></item><item><title><![CDATA[State Chapters for BOG]]></title><description><![CDATA[ 
+]]></description><link>work/acc/projects/tickets/article-children-rendering.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Article Children Rendering.md</guid><pubDate>Wed, 25 Sep 2024 02:10:07 GMT</pubDate></item><item><title><![CDATA[State Chapters for BOG]]></title><description><![CDATA[ 
  a centralized viewing area for state chapter agendas.]]></description><link>work/acc/projects/state-chapters-for-bog.html</link><guid isPermaLink="false">Work/ACC/Projects/State Chapters for BOG.md</guid><pubDate>Sun, 27 Oct 2024 18:56:34 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  A sponsor of the product wants to hit a certain number of video watches.]]></description><link>work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  Building Landing Pages to better connect Marketing to the ask.]]></description><link>work/acc/projects/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/Hub Spot Landing Pages.md</guid><pubDate>Wed, 25 Sep 2024 02:17:51 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
@@ -1106,88 +1208,7 @@ Your missing the key to my heart please login.
 ]]></description><link>work/acc/projects/algorithm-design-system.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm Design System.md</guid><pubDate>Wed, 25 Sep 2024 02:10:07 GMT</pubDate></item><item><title><![CDATA[Color Test]]></title><description><![CDATA[<a class="tag" href="?query=tag:45a547" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#45a547</a> <a class="tag" href="?query=tag:f0da10" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#f0da10</a> <a class="tag" href="?query=tag:f99b1c" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#f99b1c</a> <a class="tag" href="?query=tag:F37321" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#F37321</a> <a class="tag" href="?query=tag:EF3824" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#EF3824</a> 
  <br><br><br><br>Most of the document is based on a white background so it is cheaper to print.  All readable Text needs to be higher then 7:1 for 12pt text proper AAA adherence. The AA adherence is set at 4.5:1.<br>
 So 90% black text on a shaded background of 30% is not with in design acceptability<br>DOCUMENT GREYS&nbsp;<br>]]></description><link>work/acc/projects/algorithm/color-test.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm/Color Test.md</guid><pubDate>Wed, 25 Sep 2024 02:10:07 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
- Mobile App with 3D rendered videos of the heart]]></description><link>work/acc/projects/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 360.md</guid><pubDate>Thu, 05 Sep 2024 15:00:17 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Improve the product experience of the sister products CCKE NPA and CCKE OUS]]></description><link>work/acc/projects/ccke.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE.md</guid><pubDate>Fri, 01 Nov 2024 19:04:09 GMT</pubDate></item><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
- <br><br>This is an audit of the two Product Pages that currently have overlapping content. Below is a numbered list of the two pages, and how they will be referred to thereafter:<br>
-<br>Certified Cardiovascular Knowledge Examination (CCKE) For NPs/PAs Practicing in the U.S.:<br>
-a. Referred to as CVTeam.
-<br>Certified Cardiovascular Knowledge Examination (CCKE) For Physicians Practicing Outside the U.S.:<br>
-a. Referred to as Clinician-OUS.
-<br>The two pages—"CVTEAM" and "Clinician-OUS"—contain significant overlap and some type-specific content. The recommendations below aim to streamline and unify both pages for clarity and ease of navigation for users. Content can be categorized into three groups: identical, very similar, and type-specific. The goal is to consolidate identical content, modify the similar content to fit both groups where applicable, and keep type-specific information targeted to the specific audience.<br><br>
-<br>
-Unify Duplicate Sections: Many sections across both pages have the same or nearly identical content, such as "How Will the Exam be Administered?", "What is the Reliability of This Exam?", and "What Topics Are Included on This Exam?". Consolidate these into one central resource (such as a FAQ) that is shared between both audiences.
-
-<br>
-Keep Persona-Specific Details Separate: Type-specific content should be kept separate where necessary to ensure that information remains relevant and directly applicable to each audience, e.g., "Who's Eligible to Take ACC's Certified Cardiovascular Knowledge Examination (CCKE)?" where eligibility criteria differ for NPs/PAs versus physicians.
-
-<br>
-Create Cross-References to Simplify Navigation: Provide hyperlinks between shared sections and persona-specific pages to make it easier for users to navigate between general and specific content. This will improve the overall user journey by reducing the likelihood of confusion between similar content.
-
-<br><br><br><br><img alt="Pasted image 20241030170446.png" src="lib/media/pasted-image-20241030170446.png"><br>The proposed AI structure helps streamline the content by focusing each page's role to enhance user experience, reduce redundancy, and provide clear navigation pathways even when users arrive at the wrong page variant.<br>
-<br>Product Page: Centralizes key exam-related content, making it the first point of reference for all users. It focuses on eligibility, application processes, exam administration, and a general overview, ensuring consistency and reducing noise by keeping shared content unified.
-<br>Persona Detail Pages: Targeted at specific roles, these pages provide tailored details for eligibility, exam dates, preparation resources, and other specifics. By keeping type-specific information on dedicated pages, users can easily navigate to content relevant to their background without sifting through unrelated details.
-<br>FAQ Page: Acts as a shared resource for questions that apply to both personas. This page will address common concerns, minimizing redundancy and providing a quick, centralized place for users to find general information. Hyperlinks will be used to direct users to persona-specific details where necessary.
-<br>This structure is designed to help users who might have arrived at the wrong variant by guiding them to the right section, thus reducing user frustration and improving satisfaction.<br><br>Consolidation of Identical and Very Similar Content: Move sections that are largely duplicated to a shared FAQ or product page. These sections include "How Will the Exam be Administered?", "What is the Reliability of This Exam?", and "Does the CCKE Offer a Credential?" Doing so will help reduce maintenance efforts while also improving consistency for users.<br>
-<br>
-Maintaining Persona-Specific Content: For sections that are specific to either "Clinician-OUS" or "CVTeam," create separate Persona Detail Pages. For instance, eligibility requirements, submission details, and exam dates vary between the two audiences. Keeping these sections separate but cross-referencing shared content will reduce confusion while allowing both pages to provide specialized information.
-
-<br>
-Use of Accordion Components: Keep the collapsible accordion structure to allow users to access content in manageable portions, making the pages less overwhelming. Ensure that each accordion component has consistent headings and styles across both "CVTeam" and "Clinician-OUS" pages.
-
-<br>
-Navigation Enhancements: To further reduce confusion, provide clear links at the end of shared sections like "How Much Does This Exam Cost?" to direct users to persona-specific details.
-
-<br><br>If the two products cannot be merged, it is recommended to rebrand one or both products to ensure they are distinguishable and reduce confusion. The proposed rebranding involves the following:<br>
-<br>
-Certified Cardiovascular Knowledge Examination (CCKE) for NPs/PAs Practicing in the U.S. (CVTeam): 
-
-<br>Maintain existing branding, but emphasize that this version of the exam is specifically for U.S.-based Nurse Practitioners and Physician Assistants.
-
-
-<br>
-Certified Cardiovascular Knowledge Examination (CCKE) for Physicians Practicing Outside the U.S. (Clinician-OUS):
-
-<br>Rebrand this product to differentiate it more clearly from CVTeam. Consider adding a geographic or professional distinction to the name, such as "International Cardiovascular Knowledge Certification" or "Certified Cardiovascular Competence for International Physicians".
-
-
-<br>
-Visual and Structural Distinction:
-
-<br>Introduce distinct color schemes or visual markers on both product pages to signal the difference at a glance.
-<br>Update headers and footers to clearly mention the audience for each product, e.g., "For Physicians Practicing Outside the U.S." vs. "For U.S.-based Nurse Practitioners and Physician Assistants".
-
-
-<br>
-Clarify Naming Across All Communications:
-
-<br>Update all marketing, email, and support documentation to ensure that users are consistently seeing the rebranded names.
-<br>Ensure that cross-references between the products are explicit about the intended audience to avoid any ambiguity.
-
-
-<br>The goal of the rebranding effort is to reduce confusion, particularly among members who may be unsure which certification is appropriate for their professional background. By creating a stronger distinction between the two certifications, ACC can improve user satisfaction and reduce the potential for misapplication.]]></description><link>work/acc/projects/ccke/ccke-content-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/CCKE Content Proposal.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate><enclosure url="lib/media/pasted-image-20241030170446.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20241030170446.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[No Content Change Proposal]]></title><description><![CDATA[ 
- <br><br><br><br><br> The Certified Cardiovascular Knowledge Examination (CCKE) is designed for healthcare professionals who want to demonstrate their expertise in cardiovascular medicine. It is an opportunity for NPs, PAs, and other clinicians to validate their knowledge, enhance their careers, and contribute to the standard of excellence in cardiovascular care.<br> To learn more about the application process, eligibility requirements, and how to apply, continue exploring our resources.<br>
--- Button Primary | Learn About the Application Process --<br>
--- Button Secondary | Learn More About the Exam --<br><br>
-<br>Validate your clinical knowledge
-<br>Boost job prospects in cardiology
-<br>Uphold excellence in patient care
-<br>Earn credits towards FACC/AACC
-<br>Advance your career and enhance your reputation
-<br>Be recognized as an expert in CV care
-<br>-- Button Primary | Apply Now to Get Certified --<br><br>  Do you plan to take the CCKE? If so, we have the resources to help you!<br>
-<br>See the <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24054-CCKE-NPPA-Application-Instructions.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24054-CCKE-NPPA-Application-Instructions.pdf" target="_blank">Application Instructions</a>, <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G23121-CCKE-NPPA-Checklist.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G23121-CCKE-NPPA-Checklist.pdf" target="_blank">Checklist</a>, and <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24020-CCKE-NPPA-Tutorial.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24020-CCKE-NPPA-Tutorial.pdf" target="_blank">Exam Tutorial</a> to prepare for Exam Day.
-<br>See the <a class="internal-link" data-href="#faq" href="about:blank#faq" target="_self" rel="noopener">FAQ</a> with resources to prepare.
-<br>-- Button Primary | Register for the CCKE Exam Now --<br><br>  A <a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24053-CCKE-NPPA-Test-Prep.pdf" rel="noopener" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/Membership/Cardiovascular-Team/CCKE-NP-PA/G24053-CCKE-NPPA-Test-Prep.pdf" target="_blank">Clinical Review Guide</a> is available for your exam preparation. Examinees can also utilize ACCSAP at a discounted rate along with other resources to prepare. For more information, see the FAQ "What Resources Does ACC Offer to Help Me Prepare For the CCKE?".<br>
-Discover study resources, exam details, and important preparation tips to help you succeed in your certification journey.<br>
--- Button Primary | Explore Preparation Resources --<br><br>We are proud to celebrate the hard work and dedication of the NPs and PAs who have successfully earned the Certified Cardiovascular Knowledge (CCK) credential. Your commitment to advancing cardiovascular care is an inspiration to others in the field, and we commend your achievement.<br>
--- Button Primary | Meet the Credential Holders --<br><br><br><br>Learn about the steps you need to take to apply for the CCKE, including eligibility requirements and application submission.<br>
--- Button Primary | Go to Application Process --<br><br>Get access to study materials, clinical review guides, webinars, and tips to prepare effectively for the exam.<br>
--- Button Primary | Visit Preparation Resources --<br>Exam Details<br>
-Find out everything you need to know about the exam structure, administration, content, and policies.<br>
--- Button Primary | View Exam Details --<br>After the Exam<br>
-Learn what to expect after completing the exam, including scoring, certification details, and retake policies.<br>
--- Button Primary | Learn About What Happens After the Exam --<br><br><br>Explore frequently asked questions and information on special testing accommodations.<br>
--- Button Primary | See FAQs and Additional Information --]]></description><link>work/acc/projects/ccke/no-content-change-proposal.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/No Content Change Proposal.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Content Rewrite]]></title><description><![CDATA[ 
+ Mobile App with 3D rendered videos of the heart]]></description><link>work/acc/projects/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 360.md</guid><pubDate>Thu, 05 Sep 2024 15:00:17 GMT</pubDate></item><item><title><![CDATA[Content Rewrite]]></title><description><![CDATA[ 
  <br><br>The Exam is timed and it is important that you give yourself enough time to finish it during the exam window.<br><br>The test and the questions are timed. The complete test with no breaks is timed to be 7.5 hours<br>
 (Some People have finished it in 4.5 hours)<br><br>Exam window date time x @ GMT to date time y @ GMT<br>
 (this is roughly 4 days)<br><br>
