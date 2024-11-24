@@ -1,11 +1,16 @@
 {
   "vaultName": "ObsidianSecondBrain",
+<<<<<<< Updated upstream
   "lastExport": 1731530180030,
+=======
+  "lastExport": 1731033663989,
+>>>>>>> Stashed changes
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-macchiato ctp-accent-sapphire anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-simple-rainbow-color-toggle anp-simple-rainbow-title-toggle anp-simple-rainbow-collapse-icon-toggle anp-rainbow-subfolder-color-toggle",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+<<<<<<< Updated upstream
     "_PastedImages/Pasted image 20241030170446.png",
     "_PastedImages/Pasted image 20240924173524.png",
     "_PastedImages/Pasted image 20240924173344.png",
@@ -172,6 +177,105 @@
     "Work/ACC/1CRM/1CRM/Donations.md",
     "Work/ACC/1CRM/1CRM/Branding Controls.md",
     "index.md",
+=======
+    "Personal/Books/Letters to the South Pole/Spreads/Page 1 - Introduction.md",
+    "Personal/Books/Letters to the South Pole/Spreads/Page 2 - 25 Days of Christmas.md",
+    "Personal/Books/Letters to the South Pole/Spreads/Page 3 - Promotion.md",
+    "Personal/Books/Letters to the South Pole/Letters to South Pole.md",
+    "Personal/Books/Letters to the South Pole/Outline.md",
+    "Personal/Family/Family/furniture/Coffee tables.md",
+    "Personal/Family/Family/furniture/Couch.md",
+    "Personal/Family/Family/hoa docs/HOA - Maintenance and Tips.pdf",
+    "Personal/Family/Family/vendors/windows/Picked - Pella.md",
+    "Personal/Family/Family/vendors/windows/Renewal By Anderson.md",
+    "Personal/Family/Family/vendors/windows/Thompson Creek.md",
+    "Personal/Family/Family/vendors/Gutter Cleaners.md",
+    "Personal/Family/Family/vendors/House Repairs.md",
+    "Personal/Family/Family/vendors/Power Washing.md",
+    "Personal/Family/Family/vendors/WINDOW REPAIRS.md",
+    "Personal/Family/Mom/__Archived/Moving South/Moving South.md",
+    "Personal/Family/Mom/__Archived/Moving South/Things to think about.md",
+    "Personal/Family/Mom/__Archived/Taking over Mom’s financials.md",
+    "Personal/Family/Mom/__Archived/Things to do in March 2024.md",
+    "Personal/Family/Mom/_Doctors/Jennifer L De Jesus.md",
+    "Personal/Family/Mom/_Doctors/Hafsah Iqbal, PA.md",
+    "Personal/Family/Mom/_Doctors/Dr. Jessica Kandl.md",
+    "Personal/Family/Mom/_Doctors/Untitled.md",
+    "Personal/Family/Mom/_Doctors/Yash Hanspal.md",
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Lanphere Letter.md",
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Maine State Credit.md",
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Mid Maine Generator - transfer of bill managment.md",
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Union Tax Letter 2024.md",
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Expenses 2023.md",
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Vendors.md",
+    "Personal/Family/Mom/715 Sennebec/House Contract.md",
+    "Personal/Family/Mom/715 Sennebec/Lease Contracts.md",
+    "Personal/Family/Mom/715 Sennebec/Old Contract.md",
+    "Personal/Family/Mom/715 Sennebec/Rental -- 715 Sennebec Rd.md",
+    "Personal/Family/Mom/715 Sennebec/Sublet.md",
+    "Personal/Family/Mom/Health/Appointments/2023, November 28 - Neurologist.md",
+    "Personal/Family/Mom/Health/Appointments/2024 Aug 12 - Endo.md",
+    "Personal/Family/Mom/Health/Appointments/2024 Sep 04 - ENT.md",
+    "Personal/Family/Mom/Health/Appointments/2024 Sep 12 - Home PT Assessment.md",
+    "Personal/Family/Mom/Health/Appointments/2024 Sept, 4 -ENT.md",
+    "Personal/Family/Mom/Health/Appointments/2024, Feb 1 - Neurological.md",
+    "Personal/Family/Mom/Health/Appointments/2024, Jan 25 - Primary Care.md",
+    "Personal/Family/Mom/Health/Appointments/2024, January 25 - OBGYN.md",
+    "Personal/Family/Mom/Health/Appointments/2024, may 29 hip xray.md",
+    "Personal/Family/Mom/Health/Appointments/2024, may 31 primary care..md",
+    "Personal/Family/Mom/Health/Appointments/July 1, 2024 Dr. Woo.md",
+    "Personal/Family/Mom/Health/Appointments/Neurologist Appointments.md",
+    "Personal/Family/Mom/Health/Appointments/OB-GYN Appointments.md",
+    "Personal/Family/Mom/Health/Appointments/Oct 30  2023 - Primary Care.md",
+    "Personal/Family/Mom/Health/Appointments/retirement planning.md",
+    "Personal/Family/Mom/Health/2024 Apr 10  PT.md",
+    "Personal/Family/Mom/Health/2024 July 17 - Neurology.md",
+    "Personal/Family/Mom/Health/2024 July 23. Discharge.md",
+    "Personal/Family/Mom/Health/2024, July 12- Video Visit.md",
+    "Personal/Family/Mom/Health/Health care professionals.md",
+    "Personal/Family/Mom/Health/Medical visits.md",
+    "Personal/Family/Mom/Health/ozempic.md",
+    "Personal/Family/Mom/Health/Primary Care Appointments.md",
+    "Personal/Family/Mom/Land Sales in Maine/Moving South.md",
+    "Personal/Family/Mom/Land Sales in Maine/Payments received.md",
+    "Personal/Family/Mom/Land Sales in Maine/The N Union land sale.md",
+    "Personal/Family/Mom/TODO.md",
+    "Personal/Family/Families.md",
+    "Personal/Family/Mom.md",
+    "Personal/Family/Watier & Liang.md",
+    "Personal/Food Recipes/Asian marinade.md",
+    "Personal/Food Recipes/Chorizo bisque.md",
+    "Personal/Food Recipes/Food Recipes.md",
+    "Personal/Food Recipes/Japanese hot & sweet sauce.md",
+    "Personal/Food Recipes/Japanese sweet quick pickles.md",
+    "Personal/Food Recipes/Mango corn salsa.md",
+    "Personal/Food Recipes/Mexican pumpkin seed spread.md",
+    "Personal/Food Recipes/Mezcal.md",
+    "Personal/Food Recipes/Puff pastry wrapped baked here with jam.md",
+    "Personal/Food Recipes/Random Food.md",
+    "Personal/Food Recipes/Red wine braised short ribs.md",
+    "Personal/Food Recipes/Roasted Broccoli and tahini sauce.md",
+    "Personal/Food Recipes/Sous vide duck confit.md",
+    "Personal/Food Recipes/Spice crusted hamburgers.md",
+    "Personal/Food Recipes/Tasting notes.md",
+    "Personal/Travel/Milford Track/Day 1 - getting there.md",
+    "Personal/Travel/Milford Track/Day 2 - Into the Woods.md",
+    "Personal/Travel/Milford Track/Day 3 - Alpine Crossing.md",
+    "Personal/Travel/Milford Track/Day 4 - walkout.md",
+    "Personal/Travel/Milford Track/Day 5 - Thousands of Waterfalls.md",
+    "Personal/Travel/Milford Track/Edited — Day 3 - Milford Track - Alpine Crossing.md",
+    "Personal/Travel/Milford Track/Edited — Day 5 - A sound of a thousand waterfalls.md",
+    "Personal/Travel/Milford Track/Edited—Day 4 - The walkout.md",
+    "Personal/Travel/Milford Track/Milford Sound.md",
+    "Personal/Travel/Australia and New Zealand wrap-up.md",
+    "Personal/Travel/Brisbane.md",
+    "Personal/Travel/Melbourne.md",
+    "Personal/Travel/Melbourne Edited.md",
+    "Personal/Travel/Ohau Day 2.md",
+    "Personal/Travel/Spain - City Hop Tour.md",
+    "Personal/Travel/Spain - Town Tour.md",
+    "Personal/Work Private/2024-06 Mid Year.md",
+>>>>>>> Stashed changes
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -245,6 +349,7 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
+<<<<<<< Updated upstream
     "_PastedImages/Pasted image 20241030170446.png": {
       "modifiedTime": 1730488292731,
       "sourceSize": 432155,
@@ -1314,184 +1419,306 @@
     },
     "lib/scripts/graph-wasm.wasm": {
       "modifiedTime": 1731530180030,
+=======
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1730488292731,
+      "modifiedTime": 1731033663989,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
       "sourceSize": 104273,
+=======
+      "modifiedTime": 1731033663989,
+      "sourceSize": 54874,
+>>>>>>> Stashed changes
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
       "sourceSize": 15274,
+=======
+      "modifiedTime": 1731033663989,
+      "sourceSize": 9723,
+>>>>>>> Stashed changes
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
       "sourceSize": 131007,
+=======
+      "modifiedTime": 1731033663989,
+      "sourceSize": 130471,
+>>>>>>> Stashed changes
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
       "sourceSize": 271578,
+=======
+      "modifiedTime": 1731033663989,
+      "sourceSize": 271569,
+>>>>>>> Stashed changes
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
       "sourceSize": 253,
+=======
+      "modifiedTime": 1731033663989,
+      "sourceSize": 236,
+>>>>>>> Stashed changes
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1731530180030,
+=======
+      "modifiedTime": 1731033663989,
+>>>>>>> Stashed changes
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
+<<<<<<< Updated upstream
     "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md": {
       "modifiedTime": 1731530180030,
       "sourceSize": 3398,
@@ -1508,6 +1735,588 @@
       "modifiedTime": 1731079608348,
       "sourceSize": 5927,
       "exportedPath": "work/acc/projects/member-sections/section-personas.html",
+=======
+    "Personal/Books/Letters to the South Pole/Spreads/Page 3 - Promotion.md": {
+      "modifiedTime": 1731033634670,
+      "sourceSize": 631,
+      "exportedPath": "personal/books/letters-to-the-south-pole/spreads/page-3-promotion.html",
+      "dependencies": []
+    },
+    "Personal/Books/Letters to the South Pole/Spreads/Page 1 - Introduction.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 519,
+      "exportedPath": "personal/books/letters-to-the-south-pole/spreads/page-1-introduction.html",
+      "dependencies": []
+    },
+    "Personal/Books/Letters to the South Pole/Spreads/Page 2 - 25 Days of Christmas.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 677,
+      "exportedPath": "personal/books/letters-to-the-south-pole/spreads/page-2-25-days-of-christmas.html",
+      "dependencies": []
+    },
+    "Personal/Books/Letters to the South Pole/Letters to South Pole.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 721,
+      "exportedPath": "personal/books/letters-to-the-south-pole/letters-to-south-pole.html",
+      "dependencies": []
+    },
+    "Personal/Books/Letters to the South Pole/Outline.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 9861,
+      "exportedPath": "personal/books/letters-to-the-south-pole/outline.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/furniture/Coffee tables.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 275,
+      "exportedPath": "personal/family/family/furniture/coffee-tables.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/furniture/Couch.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 665,
+      "exportedPath": "personal/family/family/furniture/couch.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/hoa docs/HOA - Maintenance and Tips.pdf": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 537824,
+      "exportedPath": "personal/family/family/hoa-docs/hoa-maintenance-and-tips.pdf",
+      "dependencies": []
+    },
+    "Personal/Family/Family/vendors/windows/Picked - Pella.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 498,
+      "exportedPath": "personal/family/family/vendors/windows/picked-pella.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/vendors/windows/Renewal By Anderson.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 589,
+      "exportedPath": "personal/family/family/vendors/windows/renewal-by-anderson.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/vendors/windows/Thompson Creek.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 719,
+      "exportedPath": "personal/family/family/vendors/windows/thompson-creek.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/vendors/Gutter Cleaners.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 161,
+      "exportedPath": "personal/family/family/vendors/gutter-cleaners.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/vendors/House Repairs.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 101,
+      "exportedPath": "personal/family/family/vendors/house-repairs.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/vendors/Power Washing.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 21,
+      "exportedPath": "personal/family/family/vendors/power-washing.html",
+      "dependencies": []
+    },
+    "Personal/Family/Family/vendors/WINDOW REPAIRS.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 63,
+      "exportedPath": "personal/family/family/vendors/window-repairs.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/__Archived/Moving South/Moving South.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1296,
+      "exportedPath": "personal/family/mom/__archived/moving-south/moving-south.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/__Archived/Moving South/Things to think about.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 128,
+      "exportedPath": "personal/family/mom/__archived/moving-south/things-to-think-about.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/__Archived/Taking over Mom’s financials.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 31,
+      "exportedPath": "personal/family/mom/__archived/taking-over-mom’s-financials.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/__Archived/Things to do in March 2024.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 458,
+      "exportedPath": "personal/family/mom/__archived/things-to-do-in-march-2024.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/_Doctors/Jennifer L De Jesus.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 488,
+      "exportedPath": "personal/family/mom/_doctors/jennifer-l-de-jesus.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/_Doctors/Hafsah Iqbal, PA.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 415,
+      "exportedPath": "personal/family/mom/_doctors/hafsah-iqbal,-pa.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/_Doctors/Dr. Jessica Kandl.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 842,
+      "exportedPath": "personal/family/mom/_doctors/dr.-jessica-kandl.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/_Doctors/Untitled.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 283,
+      "exportedPath": "personal/family/mom/_doctors/untitled.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/_Doctors/Yash Hanspal.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 492,
+      "exportedPath": "personal/family/mom/_doctors/yash-hanspal.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Lanphere Letter.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1194,
+      "exportedPath": "personal/family/mom/715-sennebec/finances-&-vendors/letters-and-communications/lanphere-letter.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Maine State Credit.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1842,
+      "exportedPath": "personal/family/mom/715-sennebec/finances-&-vendors/letters-and-communications/maine-state-credit.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Mid Maine Generator - transfer of bill managment.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1301,
+      "exportedPath": "personal/family/mom/715-sennebec/finances-&-vendors/letters-and-communications/mid-maine-generator-transfer-of-bill-managment.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Letters and Communications/Union Tax Letter 2024.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1306,
+      "exportedPath": "personal/family/mom/715-sennebec/finances-&-vendors/letters-and-communications/union-tax-letter-2024.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Expenses 2023.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1080,
+      "exportedPath": "personal/family/mom/715-sennebec/finances-&-vendors/expenses-2023.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Finances & Vendors/Vendors.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 152,
+      "exportedPath": "personal/family/mom/715-sennebec/finances-&-vendors/vendors.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/House Contract.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 22374,
+      "exportedPath": "personal/family/mom/715-sennebec/house-contract.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Lease Contracts.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 23,
+      "exportedPath": "personal/family/mom/715-sennebec/lease-contracts.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Old Contract.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 19897,
+      "exportedPath": "personal/family/mom/715-sennebec/old-contract.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Rental -- 715 Sennebec Rd.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 76,
+      "exportedPath": "personal/family/mom/715-sennebec/rental-715-sennebec-rd.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/715 Sennebec/Sublet.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 4117,
+      "exportedPath": "personal/family/mom/715-sennebec/sublet.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2023, November 28 - Neurologist.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1406,
+      "exportedPath": "personal/family/mom/health/appointments/2023,-november-28-neurologist.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024 Aug 12 - Endo.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1858,
+      "exportedPath": "personal/family/mom/health/appointments/2024-aug-12-endo.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024 Sep 04 - ENT.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1769,
+      "exportedPath": "personal/family/mom/health/appointments/2024-sep-04-ent.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024 Sep 12 - Home PT Assessment.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1150,
+      "exportedPath": "personal/family/mom/health/appointments/2024-sep-12-home-pt-assessment.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024 Sept, 4 -ENT.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 549,
+      "exportedPath": "personal/family/mom/health/appointments/2024-sept,-4-ent.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024, Feb 1 - Neurological.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1019,
+      "exportedPath": "personal/family/mom/health/appointments/2024,-feb-1-neurological.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024, Jan 25 - Primary Care.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1196,
+      "exportedPath": "personal/family/mom/health/appointments/2024,-jan-25-primary-care.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024, January 25 - OBGYN.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1669,
+      "exportedPath": "personal/family/mom/health/appointments/2024,-january-25-obgyn.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024, may 29 hip xray.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1574,
+      "exportedPath": "personal/family/mom/health/appointments/2024,-may-29-hip-xray.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/2024, may 31 primary care..md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 589,
+      "exportedPath": "personal/family/mom/health/appointments/2024,-may-31-primary-care..html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/July 1, 2024 Dr. Woo.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 784,
+      "exportedPath": "personal/family/mom/health/appointments/july-1,-2024-dr.-woo.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/Neurologist Appointments.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 161,
+      "exportedPath": "personal/family/mom/health/appointments/neurologist-appointments.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/OB-GYN Appointments.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 49,
+      "exportedPath": "personal/family/mom/health/appointments/ob-gyn-appointments.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/Oct 30  2023 - Primary Care.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 677,
+      "exportedPath": "personal/family/mom/health/appointments/oct-30-2023-primary-care.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Appointments/retirement planning.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 4127,
+      "exportedPath": "personal/family/mom/health/appointments/retirement-planning.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/2024 Apr 10  PT.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1088,
+      "exportedPath": "personal/family/mom/health/2024-apr-10-pt.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/2024 July 17 - Neurology.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 45,
+      "exportedPath": "personal/family/mom/health/2024-july-17-neurology.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/2024 July 23. Discharge.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 0,
+      "exportedPath": "personal/family/mom/health/2024-july-23.-discharge.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/2024, July 12- Video Visit.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 650,
+      "exportedPath": "personal/family/mom/health/2024,-july-12-video-visit.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Health care professionals.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 966,
+      "exportedPath": "personal/family/mom/health/health-care-professionals.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Medical visits.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 253,
+      "exportedPath": "personal/family/mom/health/medical-visits.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/ozempic.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 33,
+      "exportedPath": "personal/family/mom/health/ozempic.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Health/Primary Care Appointments.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 52,
+      "exportedPath": "personal/family/mom/health/primary-care-appointments.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Land Sales in Maine/Moving South.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1296,
+      "exportedPath": "personal/family/mom/land-sales-in-maine/moving-south.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Land Sales in Maine/Payments received.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 807,
+      "exportedPath": "personal/family/mom/land-sales-in-maine/payments-received.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/Land Sales in Maine/The N Union land sale.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 218,
+      "exportedPath": "personal/family/mom/land-sales-in-maine/the-n-union-land-sale.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom/TODO.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 6,
+      "exportedPath": "personal/family/mom/todo.html",
+      "dependencies": []
+    },
+    "Personal/Family/Families.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 55,
+      "exportedPath": "personal/family/families.html",
+      "dependencies": []
+    },
+    "Personal/Family/Mom.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 110,
+      "exportedPath": "personal/family/mom.html",
+      "dependencies": []
+    },
+    "Personal/Family/Watier & Liang.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 11,
+      "exportedPath": "personal/family/watier-&-liang.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Asian marinade.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 89,
+      "exportedPath": "personal/food-recipes/asian-marinade.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Chorizo bisque.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1129,
+      "exportedPath": "personal/food-recipes/chorizo-bisque.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Food Recipes.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 374,
+      "exportedPath": "personal/food-recipes/food-recipes.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Japanese hot & sweet sauce.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 80,
+      "exportedPath": "personal/food-recipes/japanese-hot-&-sweet-sauce.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Japanese sweet quick pickles.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 92,
+      "exportedPath": "personal/food-recipes/japanese-sweet-quick-pickles.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Mango corn salsa.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 142,
+      "exportedPath": "personal/food-recipes/mango-corn-salsa.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Mexican pumpkin seed spread.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 273,
+      "exportedPath": "personal/food-recipes/mexican-pumpkin-seed-spread.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Mezcal.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 223,
+      "exportedPath": "personal/food-recipes/mezcal.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Puff pastry wrapped baked here with jam.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 181,
+      "exportedPath": "personal/food-recipes/puff-pastry-wrapped-baked-here-with-jam.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Random Food.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 77,
+      "exportedPath": "personal/food-recipes/random-food.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Red wine braised short ribs.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 414,
+      "exportedPath": "personal/food-recipes/red-wine-braised-short-ribs.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Roasted Broccoli and tahini sauce.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 100,
+      "exportedPath": "personal/food-recipes/roasted-broccoli-and-tahini-sauce.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Sous vide duck confit.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 153,
+      "exportedPath": "personal/food-recipes/sous-vide-duck-confit.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Spice crusted hamburgers.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 327,
+      "exportedPath": "personal/food-recipes/spice-crusted-hamburgers.html",
+      "dependencies": []
+    },
+    "Personal/Food Recipes/Tasting notes.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 90,
+      "exportedPath": "personal/food-recipes/tasting-notes.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Day 1 - getting there.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1912,
+      "exportedPath": "personal/travel/milford-track/day-1-getting-there.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Day 2 - Into the Woods.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 4788,
+      "exportedPath": "personal/travel/milford-track/day-2-into-the-woods.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Day 3 - Alpine Crossing.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 7370,
+      "exportedPath": "personal/travel/milford-track/day-3-alpine-crossing.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Day 4 - walkout.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 3998,
+      "exportedPath": "personal/travel/milford-track/day-4-walkout.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Day 5 - Thousands of Waterfalls.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 3202,
+      "exportedPath": "personal/travel/milford-track/day-5-thousands-of-waterfalls.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Edited — Day 3 - Milford Track - Alpine Crossing.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 7103,
+      "exportedPath": "personal/travel/milford-track/edited-—-day-3-milford-track-alpine-crossing.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Edited — Day 5 - A sound of a thousand waterfalls.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 3134,
+      "exportedPath": "personal/travel/milford-track/edited-—-day-5-a-sound-of-a-thousand-waterfalls.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Edited—Day 4 - The walkout.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 4556,
+      "exportedPath": "personal/travel/milford-track/edited—day-4-the-walkout.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Milford Track/Milford Sound.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 140,
+      "exportedPath": "personal/travel/milford-track/milford-sound.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Australia and New Zealand wrap-up.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 946,
+      "exportedPath": "personal/travel/australia-and-new-zealand-wrap-up.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Brisbane.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 2765,
+      "exportedPath": "personal/travel/brisbane.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Melbourne.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 2973,
+      "exportedPath": "personal/travel/melbourne.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Melbourne Edited.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 2939,
+      "exportedPath": "personal/travel/melbourne-edited.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Ohau Day 2.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 105,
+      "exportedPath": "personal/travel/ohau-day-2.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Spain - City Hop Tour.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 1883,
+      "exportedPath": "personal/travel/spain-city-hop-tour.html",
+      "dependencies": []
+    },
+    "Personal/Travel/Spain - Town Tour.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 2041,
+      "exportedPath": "personal/travel/spain-town-tour.html",
+      "dependencies": []
+    },
+    "Personal/Work Private/2024-06 Mid Year.md": {
+      "modifiedTime": 1731033663989,
+      "sourceSize": 5290,
+      "exportedPath": "personal/work-private/2024-06-mid-year.html",
+>>>>>>> Stashed changes
       "dependencies": []
     }
   }
