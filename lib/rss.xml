@@ -1,4 +1,106 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 13 Nov 2024 20:36:21 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 13 Nov 2024 20:36:20 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Intro Text by User Flow]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Dec 2024 19:42:34 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Dec 2024 19:42:31 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Presentation Story]]></title><description><![CDATA[ 
+ <br><br>
+<br>Intro
+<br>How We Investigated the Problem
+
+<br>Website Audits at Multiple Focused Levels: Content, Member Section Deep Dive, and UX Analysis
+
+<br>Multi layered investigations have been done against this section of content
+
+
+
+
+<br>Cutting the Fat &amp; Taking out the Trash
+
+<br>Website Content Audit We have discovered obsolete pages and reduces the content and value that we need to cater to.
+
+<br>Enforcing a new pattern for content production to reduce the repeat of this issue in the future. Doc Matter will take on some of content that once lived here. 
+<br>The  content that is left in this zone will be more aggressively archived to reduce regaining bloat. 
+
+
+
+
+<br>Dealing with the Customer Experience
+
+<br>The Member Section Deep Dive has found the inconsistency has lead to a confused customer experience. Has lead to maintenance problems which as drained resources over the years stopping us from improving this facet of the Member Benefits to its fullest. Optimizing and simplifying can open up time and effort to really drive content and facilitation to return value back to the members.
+
+<br>Structure Becomes the Same
+<br>Content Channels become easier to follow
+<br>Cross Usage and onboarding becomes simplified in messaging and action
+
+
+
+
+<br>Reinforcing Value to Member Sections
+
+<br>Member Section as a value exclusive access to tailored resources, mentorship, and leadership opportunities within specialized communities, helping professionals advance their careers, build credibility, and stay connected to the latest developments in their field.
+
+<br>Access to Exclusive Content comes with putting the content behind a need to login. 
+
+<br>This can open up future opportunities to enrich this content from conversations started in Doc Matter and through Workgroup Polish made into valuable resources and toolkits specific to these member sections
+
+
+<br>Specialized Gated Digital Communities of Doc Matter established areas to start mentorship, and leadership opportunities
+<br>Linking Globally Published Content builds Nontreaty and Visibility of the Section
+
+
+
+
+<br>How does this work in the real world -
+
+<br>Prototype Example.
+
+
+]]></description><link>work\acc\projects\member-sections\presentation-story.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Presentation Story.md</guid><pubDate>Mon, 18 Nov 2024 15:23:21 GMT</pubDate></item><item><title><![CDATA[Member Section Group Think]]></title><description><![CDATA[ 
+ <br>Sarah Sears, Michael Hagrett, Amada Kraiger, Jackie Pysarachuk<br>Task Force on the value of section from top down approach. Stephanie Mitcheal.  ]]></description><link>work\acc\projects\member-sections\member-section-group-think.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Member Section Group Think.md</guid><pubDate>Mon, 18 Nov 2024 20:11:05 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>work\acc\projects\member-sections\untitled.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Untitled.md</guid><pubDate>Thu, 14 Nov 2024 20:45:11 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Working toward a consistent offering of content and features for the Member Section]]></description><link>work\acc\projects\member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Mon, 18 Nov 2024 14:20:18 GMT</pubDate></item><item><title><![CDATA[2024 Week 47]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="\work\acc\project-weekly-notes\2024-week-44.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 48" data-href="2024 Week 48" href="\2024 Week 48" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>Burn out
+<br><br>
+<br>Goals
+<br><br>
+<br>
+<br><br>
+<br>Presentation for <a data-href="Member Sections" href="\work\acc\projects\member-sections.html" class="internal-link" target="_self" rel="noopener nofollow">Member Sections</a>
+<br>Kicking off D&amp;I with Jay
+<br>
+
+<br><a data-href="CCKE" href="\work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a> Structured Page
+
+
+<br><a data-href="CMP" href="\CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a> CMP Revision Tickets to Go to Editors
+<br><a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Home Page and New Vaccine Page
+<br><a data-href="Completive Analysis" href="\Completive Analysis" class="internal-link" target="_self" rel="noopener nofollow">Completive Analysis</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="\work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="\work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-47.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 47.md</guid><pubDate>Mon, 18 Nov 2024 14:19:55 GMT</pubDate></item><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="\work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="\work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="\2024 Week 45" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br><br>
+<br>Goals
+<br><br>
+<br><a data-href="CCKE" href="\work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
+<br><a data-href="CMP" href="\CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
+<br><a data-href="NCD Academy" href="\work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
+<br><a data-href="Completive Analysis" href="\Completive Analysis" class="internal-link" target="_self" rel="noopener nofollow">Completive Analysis</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="\work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="\work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-46.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 46.md</guid><pubDate>Mon, 18 Nov 2024 14:15:51 GMT</pubDate></item><item><title><![CDATA[Intro Text by User Flow]]></title><description><![CDATA[ 
  <br><br><br>You've arrived at a Member Section page, a gateway to our exclusive member benefits. These benefits, designed specifically for cardiovascular professionals, offer access to specialized communities, valuable content, and exciting opportunities to make a real impact in your field.<br>To unlock these resources and start benefiting from our exclusive member perks, logging in is the next step.<br>[Log in]<br>By logging in, you can access available resources and support to help you on your professional journey.<br><br><br><br>Section Name: Member Section is an exclusive American College of Cardiology member benefit.<br>This account does not have an active membership.<br>Membership is your key to unlocking these resources and being part of the community leading the charge to improve cardiovascular care and outcomes worldwide. By joining this section, you can access a network of like-minded cardiovascular professionals, educational content, professional development opportunities, and specialized communities like this section that support and amplify your work.<br>[Learn More]  | [Join]<br>Membership unlocks access to the tools, resources, and community to help you make a difference.<br><br><br><br>Member Sections allow you to deepen your connection with a specialized, topic-focused community within the ACC.&nbsp; Membership in a specific section helps you expand your influence, contribute to governance, and develop as a leader in the field.<br>--Unique Pitch of the Section--<br>
 By joining [Section Name], you can connect with peers who share your interests, gain leadership experience, and make a meaningful impact within the College and the cardiology field. The Women in Cardiology Section offers a unique perspective on professional development, networking opportunities, and a space to strengthen your skills alongside supportive peers.<br>*--Unique Pitch of the Section--*<br>Call to Action: Take the next step in your journey—modify you membership to join the [Section Name] Member Section to enhance your professional support system, sharpen your skills, and amplify your impact.<br>
 {{ BUTTON | Modify Membership }}<br><br><br><br>--Unique Specific Message--<br>
@@ -142,8 +244,7 @@ Opportunities for Engagement:
 <br>Leadership roles in shaping and curating specific content areas or discussion threads
 
 
-]]></description><link>work\acc\projects\member-sections\section-personas.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Section Personas.md</guid><pubDate>Mon, 16 Sep 2024 22:20:01 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Working toward a consistent offering of content and features for the Member Section]]></description><link>work\acc\projects\member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Fri, 08 Nov 2024 15:04:57 GMT</pubDate></item><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
+]]></description><link>work\acc\projects\member-sections\section-personas.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Section Personas.md</guid><pubDate>Mon, 16 Sep 2024 22:20:01 GMT</pubDate></item><item><title><![CDATA[Overview of Audit and Cleaning Notes:]]></title><description><![CDATA[ 
  <br><br>This is an audit of the two Product Pages that currently have overlapping content. Below is a numbered list of the two pages, and how they will be referred to thereafter:<br>
 <br>Certified Cardiovascular Knowledge Examination (CCKE) For NPs/PAs Practicing in the U.S.:<br>
 a. Referred to as CVTeam.
