@@ -1,8 +1,11 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 05 Mar 2025 19:11:17 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 05 Mar 2025 19:11:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[<strong>EPSAP</strong> (Electrophysiology SAP)]]></title><description><![CDATA[ 
- <br><br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 05 Mar 2025 20:58:14 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 05 Mar 2025 20:58:13 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Features]]></title><description><![CDATA[ 
+ <br><br>
 <br>Thorough coverage of the field through a comprehensive text plus hundreds of self-assessment questions.  
 <br>Educational material is available in both text and video formats.  
-<br><br>
+<br>{ACCSAP} Includes all lectures from ACC’s Board Review course.  
+<br>{ACCSAP} Features curated content for NPs and PAs, supporting CCKE study and clinical CV knowledge.  
+<br>{CATHSAP} Includes all lectures from ACC’s Interventional Board Review course.  
+<br><br><a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-lists/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-lists/" target="_blank">UI ITEM Listing Icons.</a><br><br><br>
 <br>Challenge yourself with case-based questions rather than simple knowledge recall.  
 <br>Create custom quizzes and simulate Board exams to personalize learning.  
 <br>Questions link to related text for quick reference.  
@@ -17,62 +20,7 @@
 <br>Earn CME and MOC credit to stay licensed and certified.  
 <br><br>
 <br>Highlight and bookmark questions for easy review.  
-<br><br><br><br>
-<br>Thorough coverage of the field through a comprehensive text and video presentations.  
-<br>Includes all lectures from ACC’s Interventional Board Review course.  
-<br><br>
-<br>Challenge yourself with case-based questions rather than simple knowledge recall.  
-<br>Create custom quizzes and simulate Board exams to personalize learning.  
-<br>Questions link to related text for quick reference.  
-<br><br>
-<br>Regular yearly updates reflecting the latest science, guidelines, and trials.  
-<br>Updates are published every February.  
-<br><br>
-<br>Access materials from anywhere.  
-<br>Print options available for text and/or questions.  
-<br>New closed captions for video lectures to improve comprehension.  
-<br><br>
-<br>Earn CME and MOC credit to stay licensed and certified.  
-<br><br>
-<br>Highlight and bookmark questions for easy review.  
-<br><br><br><br>
-<br>Thorough coverage of the field through a comprehensive text, video presentations, and self-assessment questions.  
-<br><br>
-<br>Challenge yourself with case-based questions rather than simple knowledge recall.  
-<br>Create custom quizzes and simulate Board exams to personalize learning.  
-<br>Questions link to related text for quick reference.  
-<br><br>
-<br>Regular yearly updates reflecting the latest science, guidelines, and trials.  
-<br>Updates are published every February.  
-<br><br>
-<br>Access materials from anywhere.  
-<br>Print options available for text and/or questions.  
-<br>New closed captions for video lectures to improve comprehension.  
-<br><br>
-<br>Earn CME and MOC credit to stay licensed and certified.  
-<br><br><br><br>
-<br>Thorough coverage of the field through a comprehensive text and video presentations.  
-<br>Includes all lectures from ACC’s Board Review course.  
-<br>Features curated content for NPs and PAs, supporting CCKE study and clinical CV knowledge.  
-<br><br>
-<br>Challenge yourself with case-based questions rather than simple knowledge recall.  
-<br>Create custom quizzes and simulate Board exams to personalize learning.  
-<br>Questions link to related text for quick reference.  
-<br><br>
-<br>Regular yearly updates reflecting the latest science, guidelines, and trials.  
-<br>Updates are published every February.  
-<br><br>
-<br>Access materials from anywhere.  
-<br>Print options available for text and/or questions.  
-<br>New closed captions for video lectures to improve comprehension.  
-<br><br>
-<br>Earn CME and MOC credit to stay licensed and certified.  
-<br>Covers Medical Knowledge MOC requirements for a full renewal cycle.  
-<br><br>
-<br>Highlight and bookmark questions for easy review.  
-<br><br>
-<br>Now 25% more affordable, reducing the cost from $400 to $300 per year.  
-]]></description><link>work/acc/projects/saps/sub-content/features.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Features.md</guid><pubDate>Wed, 05 Mar 2025 19:01:33 GMT</pubDate></item><item><title><![CDATA[eLearn Promo]]></title><description><![CDATA[ 
+]]></description><link>work/acc/projects/saps/sub-content/features.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Features.md</guid><pubDate>Wed, 05 Mar 2025 20:57:56 GMT</pubDate></item><item><title><![CDATA[eLearn Promo]]></title><description><![CDATA[ 
  <br><br>Access you SAP from ACC's Learn APP<br>
 [App Store]<br>
 [Google Play]<br>
