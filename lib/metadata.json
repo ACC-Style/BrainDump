@@ -1,6 +1,6 @@
 {
   "vaultName": "ObsidianSecondBrain",
-  "lastExport": 1740602817747,
+  "lastExport": 1741191079238,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-macchiato ctp-accent-sapphire anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-bold-red anp-italic-green anp-highlight-yellow anp-simple-rainbow-color-toggle anp-simple-rainbow-title-toggle anp-simple-rainbow-collapse-icon-toggle anp-rainbow-subfolder-color-toggle is-fullscreen",
   "useCustomHeadContent": false,
@@ -149,6 +149,11 @@
     "Work/ACC/Projects/Member Sections/Section Personas.md",
     "Work/ACC/Projects/Member Sections/User Journey Prompt.md",
     "Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md",
+    "Work/ACC/Projects/SAPS/ACCSAP.md",
+    "Work/ACC/Projects/SAPS/CATHSAP.md",
+    "Work/ACC/Projects/SAPS/EPSAP.md",
+    "Work/ACC/Projects/SAPS/HFSAP.md",
     "Work/ACC/Projects/Tickets/Article Children Rendering.md",
     "Work/ACC/Projects/Tickets/Carousel.md",
     "Work/ACC/Projects/Tickets/Hero Banners & Micro Banner.md",
@@ -166,6 +171,7 @@
     "Work/ACC/Projects/Jira Tickets Arches.md",
     "Work/ACC/Projects/Member Sections.md",
     "Work/ACC/Projects/NCD Academy.md",
+    "Work/ACC/Projects/SAPs.md",
     "Work/ACC/Projects/State Chapters for BOG.md",
     "Work/ACC/Structure and Content Guidance/Full Page Splashes/Full Page Splashes.md",
     "Work/ACC/Structure and Content Guidance/Microsites/Components/Hero Image with CTA.md",
@@ -709,7 +715,7 @@
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.md": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741187839473,
       "sourceSize": 73274,
       "exportedPath": "work/acc/projects/acc-redesign/whatif.excalidraw.html",
       "dependencies": []
@@ -1352,85 +1358,85 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -1442,85 +1448,85 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1740602817747,
-      "sourceSize": 110798,
+      "modifiedTime": 1741191079238,
+      "sourceSize": 114062,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1740602817747,
-      "sourceSize": 16870,
+      "modifiedTime": 1741191079238,
+      "sourceSize": 17271,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 137406,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 271569,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -1610,9 +1616,45 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740602817747,
+      "modifiedTime": 1741191079238,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/SAPS/ACCSAP.md": {
+      "modifiedTime": 1741187839473,
+      "sourceSize": 1337,
+      "exportedPath": "work/acc/projects/saps/accsap.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/SAPS/CATHSAP.md": {
+      "modifiedTime": 1741187839473,
+      "sourceSize": 1288,
+      "exportedPath": "work/acc/projects/saps/cathsap.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/SAPS/EPSAP.md": {
+      "modifiedTime": 1741187839473,
+      "sourceSize": 1207,
+      "exportedPath": "work/acc/projects/saps/epsap.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/SAPS/HFSAP.md": {
+      "modifiedTime": 1741187839473,
+      "sourceSize": 890,
+      "exportedPath": "work/acc/projects/saps/hfsap.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/SAPs.md": {
+      "modifiedTime": 1741189294010,
+      "sourceSize": 755,
+      "exportedPath": "work/acc/projects/saps.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md": {
+      "modifiedTime": 1741191079238,
+      "sourceSize": 3530,
+      "exportedPath": "work/acc/projects/saps/sub-content/cardio-source-warning.html",
       "dependencies": []
     }
   }
