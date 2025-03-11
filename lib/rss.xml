@@ -1,200 +1,127 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 07 Mar 2025 15:14:05 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 07 Mar 2025 15:14:05 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Ultra Condensed]]></title><description><![CDATA[ 
- <br><br><br>ACCSAP is the most comprehensive resource for adult clinical cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>
-[Quick Purchase][Launch]<br><br>
-<br>Stay Licensed &amp; Certified:<br>
-Earn 190+ CME/MOC credits – enough for all certification requirements for 5 years.
-<br>Pass Your Boards with Confidence:<br>
-Understand the ABIM blueprint while gaining access hundreds case-based questions with rationale, references, and text links.
-<br>No 10-Year Exam? Yes!<br>
-ACCSAP offers the Collaborative Maintenance Pathway (CMP) for those who want to meet their MOC assessment requirement without the 10-year ABIM exam.<br>
-Attention CardioSource + subscribers
-<br>Case-Based Learning for Real-World Skills:<br>
-Unlike traditional recall-based study methods, ACCSAP questions focus on real-world clinical decision-making.
-<br><br><br><br>
-<br>Customizable Learning:
-
-<br>Create custom quizzes to simulate Board exams.
-<br>Highlight and bookmark important content for quick reference.
-
-
-<br>Flexible Study Formats:
-
-<br>Text &amp; video learning options available.
-<br>Closed-captioned lectures for accessibility.
-<br>Print key materials to create flashcards.
-
-
-<br>Access Anywhere:
-
-<br>Study on any device with the web or mobile app.
-
-
-<br>Always Up to Date:
-
-<br>Get yearly content updates based on the latest research and guidelines.
-
-
-<br><br>ACCSAP is specifically Designed for:<br>
-<br>Cardiology Fellows preparing for Board certification.
-<br>Practicing Cardiologists maintaining their certification.
-<br>Interventional Cardiology Teams, including physician assistants and advanced practice nurses.
-<br>NPs and PAs preparing for the CCKE (Certified Cardiovascular Knowledge Examination) – ACCSAP now serves as a study guide for this exam.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>ObsidianSecondBrain</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 11 Mar 2025 19:12:00 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 11 Mar 2025 19:11:59 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="work\acc\project-weekly-notes\2024-week-45.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br>
+<br>Review and talk to Jae Brite about play book. 
+<br>Review the <a data-href="NCD Academy" href="work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Work. Improve the data points for the catalogue and create a render for it.  completionOctober 30, 2024
+<br><a data-href="ACC 75th Gala" href="work\acc\projects\acc-75th-gala.html" class="internal-link" target="_self" rel="noopener nofollow">ACC 75th Gala</a> - NEW FAQ page &amp; a new way to pay.
+<br><br>
+<br>Not Fire Fighting but taking up cycles is the Open Enrollment
+<br><br>
+<br><a data-href="CCKE" href="work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
+<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
+<br><a data-href="NCD Academy" href="work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
+<br><a data-href="2025 Week 5" href="work\acc\project-weekly-notes\2025-week-5.html" class="internal-link" target="_self" rel="noopener nofollow">2025 Week 5</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
 <br><br><br>
-<br>130 learning modules
-<br>50 video presentations
-<br>+600 questions with supportive references.
-<br><br> Covers every major area of cardiovascular medicine, from Arrhythmias to Systemic Hypertension.<br><br>
-<br>How to Prepare for the Boards
-<br>Core Topics: Coronary Artery Disease, Arrhythmias, Heart Failure, Valvular Disease, etc.
-<br>Specialized Topics: Sports Cardiology, Pregnancy &amp; Cardiac Disease, Pharmacology, etc.<br>
-[+] See Full Table of Contents<br>
-[+] Learner Objectives
-<br><br><br>Join thousands of cardiology professionals using ACCSAP to maintain their certification and advance their knowledge.<br>
-[Purchase]<br><br><br>ACCSAP is developed by top cardiovascular experts who bring real-world experience and cutting-edge research into this program.<br>Thank you to our dedicated faculty for making this an unparalleled learning resource!]]></description><link>work/acc/projects/saps/ultra-condensed.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Ultra Condensed.md</guid><pubDate>Fri, 07 Mar 2025 15:11:16 GMT</pubDate></item><item><title><![CDATA[Features]]></title><description><![CDATA[ 
- <br><br>{ACCSAP} Features lectures from ACC's Board Review and expanded resources for NPs and PAs. Serves as a study tool for the CCKE.[LINK]<br>
-{CATHSAP} Features lectures from ACC’s Interventional Board Review course.  <br><br><br>Earn CME and MOC credit to stay licensed and certified.<br><br>Focuses on case-based questions rather than simple recall.<br><br>Each question includes links to additional resources.<br><br>Yearly updates incorporate the latest science, guidelines, and trials.<br><br>The Self-Assessment Programs (SAPs) are online and offer features to improve your learning:<br><br>Easily revisit key questions.<br><br>Print text and questions to create flashcards for studying.<br><br>Lectures feature closed captions to help with understanding.<br><br>Access the content from any device, anywhere.<br><br>Text and video options for flexible learning.<br><br>Simulate board exams for better preparation with custom questions.]]></description><link>work/acc/projects/saps/sub-content/features.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Features.md</guid><pubDate>Thu, 06 Mar 2025 15:59:25 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Modernizing the Product Pages with UX and EDS Best Practices.]]></description><link>work/acc/projects/saps.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPs.md</guid><pubDate>Thu, 06 Mar 2025 15:26:49 GMT</pubDate></item><item><title><![CDATA[Additional Information]]></title><description><![CDATA[ 
- <br><br><br>Content Section Grey Boxed<br><br>{Unique Text}<br><br>{Unique Text}<br><br>{Unique Text}<br><br><br>accordions<br><br>Term of Approval/Date of CME &amp; MOC Expiration:<br>
-Rolling. Each topic's term of approval is displayed on the product's dashboard.<br>
-{Unique Text}<br><br>{{DATE}} and then rolling. Updates will be made every year.<br><br>Your purchase provides you with the subscription duration of access from date of purchase.<br><br>You may receive a full refund by canceling your order within 7 days of purchase. Claiming any type of credit for the product during that time will make you ineligible for a refund. No refunds or term adjustments will be permitted after the first 7 days of purchase.]]></description><link>work/acc/projects/saps/sub-content/additional-information.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Additional Information.md</guid><pubDate>Thu, 06 Mar 2025 15:12:57 GMT</pubDate></item><item><title><![CDATA[ACCSAP]]></title><description><![CDATA[ 
- <br>[Buy]<br>
-Member: $1,500<br>
-Nonmember: $1,900<br>
-Reduced: $900 (FIT, CCA, Emeritus)<br>
-[Launch]<br><br>ACCSAP is ACC's flagship self-assessment program covering the entire field of adult clinical cardiology, and is a great resource for:<br>
-<br>Perfecting Your Knowledge:<br>
-Identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
-<br>Earn CME/MOC/AAPA/CNE Credit:<br>
-This product currently offers 190+ credits. That is enough credits and MOC points in Medical Knowledge for all your licensing and certification requirements for up to 5 years.
-<br>Access to CMP:<br>
-Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
-<br>Pass the Boards:<br>
-Prepare for the Boards – learn about the ABIM blueprint, simulate taking a Board exam, practice with hundreds of ABIM-style questions that include rationale, references, and links to related text, learn from educational text and lectures, and identify your knowledge gaps so you can plan additional study.
-<br><br>Check your CMP Eligibility and Enrollment!<br>
-[Start Now]<br><br><br>
-<br>Interventional cardiology fellows-in-training preparing for initial board certification
-<br>Practicing interventional cardiologists preparing for a maintenance of certification assessment or seeking an in-depth review of interventional cardiology
-<br>Interventional cardiology team professionals, particularly physician assistants and advanced practice nurses
-<br><br>Upon completion of this activity, learners should be able to:<br>
-<br>Identify knowledge gaps and target study to fill those gaps in preparation for the ABIM Certification/Maintenance of Certification Exam in Cardiovascular Disease.
-<br>Review and discuss one or more of the following to optimize the quality and provision of clinical care pertinent to the practice of cardiovascular medicine:
-
-<br>Clinical and practice guidelines, recommendations and protocols
-<br>Emerging research information and application to practice
-<br>Quality and/or cost of care issues
-<br>Multispecialty and multidisciplinary collaboration and communication
-<br>Patient safety strategies
-<br>Performance improvement
-<br>Cultural competency
-
-
-<br><br>
-<br>How to Prepare for the Boards
-<br>General Principles of Cardiovascular Medicine
-<br>Arrhythmias
-<br>Coronary Artery Disease
-<br>Heart Failure &amp; Cardiomyopathy
-<br>Valvular Disease
-<br>Pericardial Disease
-<br>Congenital Heart Disease
-<br>Vascular Diseases
-<br>Systemic Hypertension and Hypotension
-<br>Pulmonary Circulation Disorders
-<br>Systemic Disorders Affecting the Circulatory System
-<br>Miscellaneous
-
-<br>Cardiovascular Genetics
-<br>CPR, Post-Resuscitation Care
-<br>Cardiac Critical Care
-<br>Sleep Disordered Breathing
-<br>Sports Cardiology
-<br>Pregnancy and Cardiac Disease
-<br>Cardiovascular Operative Management
-<br>Pharmacology
-<br>General Principles of Cardiovascular Medicine
-
-
-]]></description><link>work/acc/projects/saps/accsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/ACCSAP.md</guid><pubDate>Thu, 06 Mar 2025 15:20:02 GMT</pubDate></item><item><title><![CDATA[eLearn Promo]]></title><description><![CDATA[ 
- <br><br>Access you SAP from ACC's Learn APP<br>
-[App Store]<br>
-[Google Play]<br>
-<a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" target="_blank">Learn More | link</a>]]></description><link>work/acc/projects/saps/sub-content/elearn-promo.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/eLearn Promo.md</guid><pubDate>Wed, 05 Mar 2025 18:56:18 GMT</pubDate></item><item><title><![CDATA[Made Possible By]]></title><description><![CDATA[ 
- <br><br>Thank you to the editors, authors and question writers who make this product possible:<br>{HEAD SHOT}<br>
-{Label}<br>
-{Name}]]></description><link>work/acc/projects/saps/sub-content/made-possible-by.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Made Possible By.md</guid><pubDate>Wed, 05 Mar 2025 17:31:56 GMT</pubDate></item><item><title><![CDATA[Cardio Source Warning]]></title><description><![CDATA[ 
- <br>Attention CardioSource Plus Users Planning to Participate in the CMP<br>Your institution's subscription to CardioSource Plus does not include the CMP. If you want to participate in the CMP, you will need to purchase your own personal version of this SAP.<br>[More Information]<br>---MODAL---<br><br>•	Your institution's subscription to CardioSource Plus does not include the CMP. If you want to participate in the CMP, you will need to purchase your own personal version of this SAP.<br>
-•	As long as you use the same ACC.org account to access this SAP through CardioSource Plus and to access your personal subscription to HF SAP, your progress and usage data will be stored in one central location. This includes any time that you have already spent toward your 7 hours of Learning Engagement.<br><br>•	Order by phone. ACC's Member Care team may be reached at 800-253-4636, x5603 from 9:00 a.m. to 5:00 p.m. ET.<br>
-•	Order the SAP Online As Part of The Enrollment Process for the CMP (CMP enrollment for Interventional Cardiology is not yet open. ACC anticipates it to open in Q2 2020). Technical difficulties will prevent you from purchasing the SAP outside of enrollment.<br><br><br>There is some different messaging in the modals. Labels and the Online Order Instructions.  It is possible to universalize the messages if we go with the suggesting bellow.  This would allow this entire area to be left to universal consistent and also evergreen. <br><br>Drop the Date and use the generic label vs specific SAPS<br>
-Validate that the Order online from the ACCSAP can be used for all the rest. <br><br>]]></description><link>work/acc/projects/saps/sub-content/cardio-source-warning.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md</guid><pubDate>Wed, 05 Mar 2025 17:28:35 GMT</pubDate></item><item><title><![CDATA[CATHSAP]]></title><description><![CDATA[ 
- <br>[Buy]<br>
-Member: $1,500<br>
-Nonmember: $1,900<br>
-Reduced: $900 (FIT, CCA, Emeritus)<br>
-[Launch]<br><br>CathSAP covers the entire field of interventional cardiology, and is a great resource for:<br>
-<br>Perfecting Your Knowledge:<br>
-Use this SAP to identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
-<br>Earning CME/MOC Credit:<br>
-This product currently offers 135+ credits. That is enough credits and MOC points in Medical Knowledge for all your licensing and certification requirements for up to 5 years.
-<br>Access to CMP:<br>
-Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
-<br>Pass the Boards:<br>
-Prepare for the Boards – learn about the ABIM blueprint, simulate taking a Board exam, practice with hundreds of ABIM-style questions that include rationale, references, and links to related text, learn from educational text and lectures, and identify your knowledge gaps so you can plan additional study.
-<br><br>Check your CMP Eligibility and Enrollment!<br>
-[Start Now]]]></description><link>work/acc/projects/saps/cathsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/CATHSAP.md</guid><pubDate>Wed, 05 Mar 2025 15:15:40 GMT</pubDate></item><item><title><![CDATA[EPSAP]]></title><description><![CDATA[ 
- <br>[Buy]<br>
-Member: $1,500<br>
-Nonmember: $1,900<br>
-Reduced: $900 (FIT, CCA, Emeritus)<br>
-[Launch]<br><br>EP SAP covers the entire field of clinical cardiac electrophysiology, and is a great resource for:<br>
-<br>Perfecting Your Knowledge:<br>
-Use this SAP to identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
-<br>Earning CME/MOC Credit:<br>
-This product currently offers 90+ CME/MOC credits and medical knowledge MOC points.
-<br>Access to CMP:<br>
-Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
-<br>Pass the Boards:<br>
-Prepare for the Boards – learn about the ABIM blueprint, simulate taking a Board exam, practice with hundreds of ABIM-style questions that include rationale, references, and links to related text, learn from educational text and lectures, and identify your knowledge gaps so you can plan additional study.
-<br><br>Check your CMP Eligibility and Enrollment!<br>
-[Start Now]]]></description><link>work/acc/projects/saps/epsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/EPSAP.md</guid><pubDate>Wed, 05 Mar 2025 14:59:13 GMT</pubDate></item><item><title><![CDATA[HFSAP]]></title><description><![CDATA[ 
- <br>[Buy]<br>
-Member: $1,500<br>
-Nonmember: $1,900<br>
-Reduced: $900 (FIT, CCA, Emeritus)<br>
-[Launch]<br><br>HF SAP covers the entire field of advanced heart failure and transplant cardiology, and is a great resource for:<br>
-<br>Perfecting Your Knowledge:<br>
-Use this SAP to identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
-<br>Earning CME/MOC Credit:<br>
-This product currently offers 40+ CME/MOC credits and medical knowledge MOC points.
-<br>Access to CMP:<br>
-Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
-<br><br>Check your CMP Eligibility and Enrollment!<br>
-[Start Now]]]></description><link>work/acc/projects/saps/hfsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/HFSAP.md</guid><pubDate>Wed, 05 Mar 2025 14:56:52 GMT</pubDate></item><item><title><![CDATA[2025 Week 2]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2025 Week 1" data-href="2025 Week 1" href="2025 Week 1" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2025 Week 3" data-href="2025 Week 3" href="2025 Week 3" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
 <br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-44.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 44.md</guid><pubDate>Tue, 11 Mar 2025 18:33:21 GMT</pubDate></item><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work\acc\project-weekly-notes\2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="work\acc\project-weekly-notes\2024-week-45.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br><br>
+<br>Goals
+<br><br>
+<br><a data-href="CCKE" href="work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
+<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
+<br><a data-href="NCD Academy" href="work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
+<br><a data-href="2025 Week 5" href="work\acc\project-weekly-notes\2025-week-5.html" class="internal-link" target="_self" rel="noopener nofollow">2025 Week 5</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-46.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 46.md</guid><pubDate>Tue, 11 Mar 2025 18:33:21 GMT</pubDate></item><item><title><![CDATA[2024 Week 47]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="work\acc\project-weekly-notes\2024-week-44.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 48" data-href="2024 Week 48" href="2024 Week 48" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>Burn out
+<br><br>
+<br>Goals
 <br><br>
 <br>
+<br><br>
+<br>Presentation for <a data-href="Work/ACC/Projects/Member Sections" href="work\acc\projects\member-sections.html" class="internal-link" target="_self" rel="noopener nofollow">Work/ACC/Projects/Member Sections</a>
+<br>Kicking off D&amp;I with Jay
+<br>
+
+<br><a data-href="CCKE" href="work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a> Structured Page
 
 
+<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a> CMP Revision Tickets to Go to Editors
+<br><a data-href="NCD Academy" href="work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Home Page and New Vaccine Page
+<br><a data-href="2025 Week 5" href="work\acc\project-weekly-notes\2025-week-5.html" class="internal-link" target="_self" rel="noopener nofollow">2025 Week 5</a>
+<br><br>
+<br><a data-href="State Chapters for BOG" href="work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
+<br><a data-href="Arches Conversion" href="work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-47.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 47.md</guid><pubDate>Tue, 11 Mar 2025 18:33:21 GMT</pubDate></item><item><title><![CDATA[2024 Week 51]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 50" data-href="2024 Week 50" href="work\acc\project-weekly-notes\2024-week-50.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 52" data-href="2024 Week 52" href="2024 Week 52" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>End of the Year
+<br><br>
+<br>Working plan of the roll out of Member Sections  completionDecember 17, 2024
+<br>Continue evolution of the plan for POC for Member Sections
+<br>D&amp;I Review Audit from Jay Meet and formulate refactor.  completionDecember 17, 2024
+<br>Respond to Afinity Project
+<br>Train Jacob on Git hub data generators NCD Academy  completionDecember 17, 2024
+<br><br>
+<br>Cardiosmart released to production with bugs
+<br><br>
+<br>CMP - Rowena
+<br>CCKE - Jackie
+<br>Response to Affinity Projects.
+<br><a data-href="D&amp;I" href="work\acc\projects\d&amp;i.html" class="internal-link" target="_self" rel="noopener nofollow">D&amp;I</a>
+<br>
+<br><br>
+<br>State Agendas
+<br>Gala FAQ, and Sponsors
+<br><a data-href="Arches Conversion" href="work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><a data-href="Advocacy" href="work\acc\projects\advocacy.html" class="internal-link" target="_self" rel="noopener nofollow">Advocacy</a> - In Editorial - Waiting on Building
+<br><a data-href="CardioSmart 360" href="work\acc\projects\_archived\cardiosmart-360.html" class="internal-link" target="_self" rel="noopener nofollow">CardioSmart 360</a> - Testing
+<br><a data-href="Cardiosmart" href="_domain\cardiosmart.html" class="internal-link" target="_self" rel="noopener nofollow">Cardiosmart</a>  Arches Bugs.
+<br>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2024-week-51.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 51.md</guid><pubDate>Mon, 06 Jan 2025 16:21:50 GMT</pubDate></item><item><title><![CDATA[2025 Week 2]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2025 Week 1" data-href="2025 Week 1" href="2025 Week 1" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2025 Week 3" data-href="2025 Week 3" href="2025 Week 3" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br>
+<br>Golden Standard For the UI
 <br><br>
 <br>
 <br><br>
 <br>
 <br><br>
-<br><a data-href="State Chapters for BOG" href="work/acc/projects/state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a> -- This has gone ghost mode
+<br><a data-href="State Chapters for BOG" href="work\acc\projects\state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a> -- This has gone ghost mode
 <br><a data-href="Gala" href="Gala" class="internal-link" target="_self" rel="noopener nofollow">Gala</a> FAQ, and Sponsors
-<br><a data-href="Arches Conversion" href="work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
-<br><a data-href="Advocacy" href="work/acc/projects/advocacy.html" class="internal-link" target="_self" rel="noopener nofollow">Advocacy</a> - In Editorial - Waiting on Building
-<br><a data-href="CardioSmart 360" href="work/acc/projects/_archived/cardiosmart-360.html" class="internal-link" target="_self" rel="noopener nofollow">CardioSmart 360</a> - Testing
-<br><a data-href="Cardiosmart" href="_domain/cardiosmart.html" class="internal-link" target="_self" rel="noopener nofollow">Cardiosmart</a>  Arches Bugs.
+<br><a data-href="Arches Conversion" href="work\acc\arches\conversion\arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
+<br><a data-href="Advocacy" href="work\acc\projects\advocacy.html" class="internal-link" target="_self" rel="noopener nofollow">Advocacy</a> - In Editorial - Waiting on Building
+<br><a data-href="CardioSmart 360" href="work\acc\projects\_archived\cardiosmart-360.html" class="internal-link" target="_self" rel="noopener nofollow">CardioSmart 360</a> - Testing
+<br><a data-href="Cardiosmart" href="_domain\cardiosmart.html" class="internal-link" target="_self" rel="noopener nofollow">Cardiosmart</a>  Arches Bugs.
 <br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a> - Rowena
-<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a> - Jackie
+<br><a data-href="CCKE" href="work\acc\projects\ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a> - Jackie
 <br>Response to Affinity Projects. -- Project slated to 2nd or 3rd quarter
-<br><a data-href="D&amp;I" href="work/acc/projects/d&amp;i.html" class="internal-link" target="_self" rel="noopener nofollow">D&amp;I</a> -- Meeting on the books
-<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> -- Jacob is working the build finishing it up this week. 
+<br><a data-href="D&amp;I" href="work\acc\projects\d&amp;i.html" class="internal-link" target="_self" rel="noopener nofollow">D&amp;I</a> -- Meeting on the books
+<br><a data-href="NCD Academy" href="work\acc\projects\ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> -- Jacob is working the build finishing it up this week. 
 <br><br><br>
 <br>
-]]></description><link>work/acc/project-weekly-notes/2025-week-2.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2025 Week 2.md</guid><pubDate>Wed, 26 Feb 2025 19:56:47 GMT</pubDate></item><item><title><![CDATA[2025 Week 9]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2025 Week 8" data-href="2025 Week 8" href="2025 Week 8" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2025 Week 10" data-href="2025 Week 10" href="2025 Week 10" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+]]></description><link>work\acc\project-weekly-notes\2025-week-2.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2025 Week 2.md</guid><pubDate>Tue, 11 Mar 2025 18:33:21 GMT</pubDate></item><item><title><![CDATA[2025 Week 5]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2025 Week 4" data-href="2025 Week 4" href="2025 Week 4" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2025 Week 6" data-href="2025 Week 6" href="2025 Week 6" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
+<br>
+<br><br>
+<br>
+
+
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br>
+]]></description><link>work\acc\project-weekly-notes\2025-week-5.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2025 Week 5.md</guid><pubDate>Tue, 11 Mar 2025 18:33:21 GMT</pubDate></item><item><title><![CDATA[2025 Week 9]]></title><description><![CDATA[ 
+ <br>tags:: <a data-href="+Weekly Notes" href="work\acc\project-weekly-notes\+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2025 Week 8" data-href="2025 Week 8" href="2025 Week 8" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2025 Week 10" data-href="2025 Week 10" href="2025 Week 10" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
 <br>
 <br><br>
 <br>
@@ -209,8 +136,13 @@ Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model f
 <br>
 <br><br><br>
 <br>
-]]></description><link>work/acc/project-weekly-notes/2025-week-9.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2025 Week 9.md</guid><pubDate>Tue, 25 Feb 2025 15:59:35 GMT</pubDate></item><item><title><![CDATA[Acc 24]]></title><description><![CDATA[ 
- work for the 2024 Annual Meeting]]></description><link>work/acc/projects/_archived/annual-2024/acc-24.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/Acc 24.md</guid><pubDate>Wed, 25 Sep 2024 02:10:07 GMT</pubDate></item><item><title><![CDATA[Process Flow for Refactors]]></title><description><![CDATA[ 
+]]></description><link>work\acc\project-weekly-notes\2025-week-9.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2025 Week 9.md</guid><pubDate>Tue, 11 Mar 2025 18:33:21 GMT</pubDate></item><item><title><![CDATA[Acc 24]]></title><description><![CDATA[ 
+ work for the 2024 Annual Meeting]]></description><link>work\acc\projects\_archived\annual-2024\acc-24.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Annual 2024/Acc 24.md</guid><pubDate>Tue, 11 Mar 2025 18:33:21 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>work\acc\projects\_archived\about-us-&amp;-support-us-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/About Us &amp; Support Us Pages.md</guid><pubDate>Tue, 11 Mar 2025 18:33:22 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
+ Mobile App with 3D rendered videos of the heart]]></description><link>work\acc\projects\_archived\cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/CardioSmart 360.md</guid><pubDate>Tue, 11 Mar 2025 18:33:22 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ WIth 19k closing down we need to look at Error Handling]]></description><link>work\acc\projects\_archived\error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Error Handling.md</guid><pubDate>Tue, 11 Mar 2025 18:33:22 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Building Landing Pages to better connect Marketing to the ask.]]></description><link>work\acc\projects\_archived\hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Hub Spot Landing Pages.md</guid><pubDate>Tue, 11 Mar 2025 18:33:23 GMT</pubDate></item><item><title><![CDATA[Syncing CardioSmart with Asset.ACC.org]]></title><description><![CDATA[ 
+ CardioSmart is on Bifurcated versions of Arches.]]></description><link>work\acc\projects\_archived\syncing-cardiosmart-with-asset.acc.org.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Syncing CardioSmart with Asset.ACC.org.md</guid><pubDate>Tue, 11 Mar 2025 18:33:23 GMT</pubDate></item><item><title><![CDATA[Process Flow for Refactors]]></title><description><![CDATA[ 
  <br><br><br>A refactor is an effort to apply enterprise design and strategic guidance to a small section of pages or a specific zone of the website. A refactor enforces:<br>
 <br>Goal setting<br>
 
@@ -369,40 +301,7 @@ Step 6: Publishing (Weeks 9-10)
 
 <br>Conducts final quality checks before release.<br>
 
-<br>This document provides a structured workflow to ensure an efficient and goal-driven Refactor Process.]]></description><link>work/acc/projects/acc-redesign/discovery/refactor-process.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Refactor Process.md</guid><pubDate>Wed, 26 Feb 2025 20:45:48 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Refactor of website]]></description><link>work/acc/projects/d&amp;i.html</link><guid isPermaLink="false">Work/ACC/Projects/D&amp;I.md</guid><pubDate>Wed, 18 Dec 2024 16:36:15 GMT</pubDate></item><item><title><![CDATA[2024 Week 51]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 50" data-href="2024 Week 50" href="work/acc/project-weekly-notes/2024-week-50.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 52" data-href="2024 Week 52" href="2024 Week 52" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>End of the Year
-<br><br>
-<br>Working plan of the roll out of Member Sections  completionDecember 17, 2024
-<br>Continue evolution of the plan for POC for Member Sections
-<br>D&amp;I Review Audit from Jay Meet and formulate refactor.  completionDecember 17, 2024
-<br>Respond to Afinity Project
-<br>Train Jacob on Git hub data generators NCD Academy  completionDecember 17, 2024
-<br><br>
-<br>Cardiosmart released to production with bugs
-<br><br>
-<br>CMP - Rowena
-<br>CCKE - Jackie
-<br>Response to Affinity Projects.
-<br><a data-href="D&amp;I" href="work/acc/projects/d&amp;i.html" class="internal-link" target="_self" rel="noopener nofollow">D&amp;I</a>
-<br>
-<br><br>
-<br>State Agendas
-<br>Gala FAQ, and Sponsors
-<br><a data-href="Arches Conversion" href="work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
-<br><a data-href="Advocacy" href="work/acc/projects/advocacy.html" class="internal-link" target="_self" rel="noopener nofollow">Advocacy</a> - In Editorial - Waiting on Building
-<br><a data-href="CardioSmart 360" href="work/acc/projects/_archived/cardiosmart-360.html" class="internal-link" target="_self" rel="noopener nofollow">CardioSmart 360</a> - Testing
-<br><a data-href="Cardiosmart" href="_domain/cardiosmart.html" class="internal-link" target="_self" rel="noopener nofollow">Cardiosmart</a>  Arches Bugs.
-<br>
-<br><br><br>
-<br>
-]]></description><link>work/acc/project-weekly-notes/2024-week-51.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 51.md</guid><pubDate>Wed, 18 Dec 2024 16:22:37 GMT</pubDate></item><item><title><![CDATA[Syncing CardioSmart with Asset.ACC.org]]></title><description><![CDATA[ 
- CardioSmart is on Bifurcated versions of Arches.]]></description><link>work/acc/projects/_archived/syncing-cardiosmart-with-asset.acc.org.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Syncing CardioSmart with Asset.ACC.org.md</guid><pubDate>Wed, 18 Dec 2024 01:40:05 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Building Landing Pages to better connect Marketing to the ask.]]></description><link>work/acc/projects/_archived/hub-spot-landing-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Hub Spot Landing Pages.md</guid><pubDate>Wed, 18 Dec 2024 01:39:41 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- WIth 19k closing down we need to look at Error Handling]]></description><link>work/acc/projects/_archived/error-handling.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/Error Handling.md</guid><pubDate>Wed, 18 Dec 2024 01:38:47 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- The About Page holds little value as a hub and should be a great opportunity to control a story and craft an experiance.]]></description><link>work/acc/projects/_archived/about-us-&amp;-support-us-pages.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/About Us &amp; Support Us Pages.md</guid><pubDate>Wed, 18 Dec 2024 01:38:08 GMT</pubDate></item><item><title><![CDATA[CardioSmart 360]]></title><description><![CDATA[ 
- Mobile App with 3D rendered videos of the heart]]></description><link>work/acc/projects/_archived/cardiosmart-360.html</link><guid isPermaLink="false">Work/ACC/Projects/_Archived/CardioSmart 360.md</guid><pubDate>Wed, 18 Dec 2024 01:37:30 GMT</pubDate></item><item><title><![CDATA[Algorithms for Guidelines - Consistent Branded Design Experience]]></title><description><![CDATA[ 
+<br>This document provides a structured workflow to ensure an efficient and goal-driven Refactor Process.]]></description><link>work\acc\projects\acc-redesign\discovery\refactor-process.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Refactor Process.md</guid><pubDate>Tue, 11 Mar 2025 18:33:23 GMT</pubDate></item><item><title><![CDATA[Algorithms for Guidelines - Consistent Branded Design Experience]]></title><description><![CDATA[ 
  <br><br><br>The file includes all the necessary assets to create guideline algorithms, ensuring consistency across all designs. To maintain the established design system, use the provided color swatches, Illustrator panels, and graphic, character, and paragraph styles.<br>These design enforcements support a consistent experience and are reader-focused, making the algorithms easy to read, understand, and provide valuable information like the CORs (Class of Recommendation). The algorithm is mostly monochromatic, with a focus on high contrast separation between the background and text to improve readability. COR colors are used specifically to highlight important information, ensuring that critical details stand out for the reader.<br><br>
 <br>Node and Decision Symbols: Always use the predefined symbols for nodes and decisions. These symbols are already designed to align with the correct COR color and shape, ensuring that each element is visually consistent and recognizable.<br>
 
@@ -435,7 +334,7 @@ Step 6: Publishing (Weeks 9-10)
 <br>Smart Alignment: Use smart guides to align elements properly, ensuring nodes align in the same column for a clean and professional layout.<br>
 
 <br>Apply Character and Paragraph Styles: Always use the predefined character and paragraph styles to ensure that text formatting is consistent. This includes titles, labels, footnotes, and node content. Consistent use of styles helps maintain a reader-friendly experience and aligns with branding standards.
-]]></description><link>work/acc/projects/algorithm/algorithm-read-me.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm/Algorithm Read Me.md</guid><pubDate>Fri, 22 Nov 2024 18:41:50 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+]]></description><link>work\acc\projects\algorithm\algorithm-read-me.html</link><guid isPermaLink="false">Work/ACC/Projects/Algorithm/Algorithm Read Me.md</guid><pubDate>Tue, 11 Mar 2025 18:31:30 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  <br><br>
 <br>Summary: 
 <br><br>
@@ -444,7 +343,282 @@ Step 6: Publishing (Weeks 9-10)
 <br>Outline: 
 <br><br>
 <br>Additional Notes: 
-]]></description><link>work/acc/projects/ccke/grey-box-ccke-ous.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
+]]></description><link>work\acc\projects\ccke\grey-box-ccke-ous.html</link><guid isPermaLink="false">Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md</guid><pubDate>Tue, 11 Mar 2025 18:33:28 GMT</pubDate></item><item><title><![CDATA[Project Build Outline]]></title><description><![CDATA[ 
+ <br>Subject: Exciting Opportunity: Redesigning Member Sections<br>Dear Team,<br>As we embark on the transformative journey of redesigning our Member Sections, I want to share an overview of our strategic process and the essential tasks that will lead to our success. This initiative, commencing after the Annual Meeting in April 2025, involves over twenty sections and will require our collective effort to achieve outstanding consistency and quality.<br><br>Leading up to April 2025, Jackie, Laura, and I will concentrate on several key tasks to establish a solid foundation:<br>
+<br>
+Proof of Concept (POC):
+
+<br>We will finalize a robust WIC POC to define our preferred tone, brevity, and structure. This benchmark will guide all pages and content styles.
+
+
+<br>
+Content Access Guidelines:
+
+<br>After cleaning up existing content, Jackie and I will draft clear guidelines delineating public-facing content from that exclusive to members. We'll circulate this initial draft to the Tiger team for insights.
+
+
+<br>
+IT Development Planning:
+
+<br>Armed with the POC, we will collaborate with leadership to outline and align on our anticipated IT development requirements for dynamic content and and the user onboarding logic.
+
+
+<br>
+Content and Resources Collection:
+
+<br>Our team will create an effective initiation script and a user-friendly content collection form to streamline the content-gathering process for our liaisons.
+
+
+<br>This groundwork will empower us to seamlessly engage with staff liaisons following the Annual Meeting.<br><br>Content collection for our Member Sections is scheduled to begin in April 2025. To optimize our resources, we will prioritize which sections to revamp first.<br>
+<br>
+Kickoff Meeting/Workshop:
+
+<br>We will introduce the dedicated project team and the creative assets needed for content collection. 
+<br>Matt and Jackie will lead a workshop to showcase an illustrative section while demonstrating the collection form.
+
+
+<br>
+Content Collection Responsibilities:
+
+<br>Each section team will undertake the content collection and refactoring, utilizing the WIC POC as their guide. Our oversight will ensure alignment and quality throughout the process.
+
+
+<br>
+Completion of Content:
+
+<br>Once content is gathered, our coordination team will collaborate with MarCom to generate essential images for prominent features.
+
+
+<br>
+Quality Assurance:
+
+<br>A JIRA ticket will be created to document the creation of the newly refactored Member Section, ensuring transparency and tracking.
+
+
+<br>
+Editorial Review:
+
+<br>Based on our priorities, the completed section will be processed, entered into Author, reviewed, and then published for production.
+
+
+<br>
+Repeat for All Sections:
+
+<br>This process will be repeated systematically for all remaining sections.
+
+
+<br><br>
+<br>Early 2025: Finalize the POC, establish clear content guidelines, plan IT development, and prepare liaison resources.
+<br>Post-Annual Meeting (April 2025): Launch engagement with liaisons and section teams to kick off content collection.
+<br>If you have any questions or need further insights on this exciting project, please don’t hesitate to reach out. Together, we can create an exceptional experience for our members.<br>Looking forward to our collaboration,<br>
+Matt &amp; Jackie]]></description><link>work\acc\projects\member-sections\project-build-outline.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Project Build Outline.md</guid><pubDate>Tue, 11 Mar 2025 18:33:28 GMT</pubDate></item><item><title><![CDATA[Additional Information]]></title><description><![CDATA[ 
+ <br><br><br>Content Section Grey Boxed<br><br>{Unique Text}<br><br>{Unique Text}<br><br>{Unique Text}<br><br><br>accordions<br><br>Term of Approval/Date of CME &amp; MOC Expiration:<br>
+Rolling. Each topic's term of approval is displayed on the product's dashboard.<br>
+{Unique Text}<br><br>{{DATE}} and then rolling. Updates will be made every year.<br><br>Your purchase provides you with the subscription duration of access from date of purchase.<br><br>You may receive a full refund by canceling your order within 7 days of purchase. Claiming any type of credit for the product during that time will make you ineligible for a refund. No refunds or term adjustments will be permitted after the first 7 days of purchase.]]></description><link>work\acc\projects\saps\sub-content\additional-information.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Additional Information.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[Cardio Source Warning]]></title><description><![CDATA[ 
+ <br>Attention CardioSource Plus Users Planning to Participate in the CMP<br>Your institution's subscription to CardioSource Plus does not include the CMP. If you want to participate in the CMP, you will need to purchase your own personal version of this SAP.<br>[More Information]<br>---MODAL---<br><br>•	Your institution's subscription to CardioSource Plus does not include the CMP. If you want to participate in the CMP, you will need to purchase your own personal version of this SAP.<br>
+•	As long as you use the same ACC.org account to access this SAP through CardioSource Plus and to access your personal subscription to HF SAP, your progress and usage data will be stored in one central location. This includes any time that you have already spent toward your 7 hours of Learning Engagement.<br><br>•	Order by phone. ACC's Member Care team may be reached at 800-253-4636, x5603 from 9:00 a.m. to 5:00 p.m. ET.<br>
+•	Order the SAP Online As Part of The Enrollment Process for the CMP (CMP enrollment for Interventional Cardiology is not yet open. ACC anticipates it to open in Q2 2020). Technical difficulties will prevent you from purchasing the SAP outside of enrollment.<br><br><br>There is some different messaging in the modals. Labels and the Online Order Instructions.  It is possible to universalize the messages if we go with the suggesting bellow.  This would allow this entire area to be left to universal consistent and also evergreen. <br><br>Drop the Date and use the generic label vs specific SAPS<br>
+Validate that the Order online from the ACCSAP can be used for all the rest. <br><br>]]></description><link>work\acc\projects\saps\sub-content\cardio-source-warning.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[eLearn Promo]]></title><description><![CDATA[ 
+ <br><br>Access you SAP from ACC's Learn APP<br>
+[App Store]<br>
+[Google Play]<br>
+<a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" target="_blank">Learn More | link</a>]]></description><link>work\acc\projects\saps\sub-content\elearn-promo.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/eLearn Promo.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[Features]]></title><description><![CDATA[ 
+ <br><br>{ACCSAP} Features lectures from ACC's Board Review and expanded resources for NPs and PAs. Serves as a study tool for the CCKE.[LINK]<br>
+{CATHSAP} Features lectures from ACC’s Interventional Board Review course.  <br><br><br>Earn CME and MOC credit to stay licensed and certified.<br><br>Focuses on case-based questions rather than simple recall.<br><br>Each question includes links to additional resources.<br><br>Yearly updates incorporate the latest science, guidelines, and trials.<br><br>The Self-Assessment Programs (SAPs) are online and offer features to improve your learning:<br><br>Easily revisit key questions.<br><br>Print text and questions to create flashcards for studying.<br><br>Lectures feature closed captions to help with understanding.<br><br>Access the content from any device, anywhere.<br><br>Text and video options for flexible learning.<br><br>Simulate board exams for better preparation with custom questions.]]></description><link>work\acc\projects\saps\sub-content\features.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Features.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[Made Possible By]]></title><description><![CDATA[ 
+ <br><br>Thank you to the editors, authors and question writers who make this product possible:<br>{HEAD SHOT}<br>
+{Label}<br>
+{Name}]]></description><link>work\acc\projects\saps\sub-content\made-possible-by.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Made Possible By.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[ACCSAP]]></title><description><![CDATA[ 
+ <br>[Buy]<br>
+Member: $1,500<br>
+Nonmember: $1,900<br>
+Reduced: $900 (FIT, CCA, Emeritus)<br>
+[Launch]<br><br>ACCSAP is ACC's flagship self-assessment program covering the entire field of adult clinical cardiology, and is a great resource for:<br>
+<br>Perfecting Your Knowledge:<br>
+Identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
+<br>Earn CME/MOC/AAPA/CNE Credit:<br>
+This product currently offers 190+ credits. That is enough credits and MOC points in Medical Knowledge for all your licensing and certification requirements for up to 5 years.
+<br>Access to CMP:<br>
+Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
+<br>Pass the Boards:<br>
+Prepare for the Boards – learn about the ABIM blueprint, simulate taking a Board exam, practice with hundreds of ABIM-style questions that include rationale, references, and links to related text, learn from educational text and lectures, and identify your knowledge gaps so you can plan additional study.
+<br><br>Check your CMP Eligibility and Enrollment!<br>
+[Start Now]<br><br><br>
+<br>Interventional cardiology fellows-in-training preparing for initial board certification
+<br>Practicing interventional cardiologists preparing for a maintenance of certification assessment or seeking an in-depth review of interventional cardiology
+<br>Interventional cardiology team professionals, particularly physician assistants and advanced practice nurses
+<br><br>Upon completion of this activity, learners should be able to:<br>
+<br>Identify knowledge gaps and target study to fill those gaps in preparation for the ABIM Certification/Maintenance of Certification Exam in Cardiovascular Disease.
+<br>Review and discuss one or more of the following to optimize the quality and provision of clinical care pertinent to the practice of cardiovascular medicine:
+
+<br>Clinical and practice guidelines, recommendations and protocols
+<br>Emerging research information and application to practice
+<br>Quality and/or cost of care issues
+<br>Multispecialty and multidisciplinary collaboration and communication
+<br>Patient safety strategies
+<br>Performance improvement
+<br>Cultural competency
+
+
+<br><br>
+<br>How to Prepare for the Boards
+<br>General Principles of Cardiovascular Medicine
+<br>Arrhythmias
+<br>Coronary Artery Disease
+<br>Heart Failure &amp; Cardiomyopathy
+<br>Valvular Disease
+<br>Pericardial Disease
+<br>Congenital Heart Disease
+<br>Vascular Diseases
+<br>Systemic Hypertension and Hypotension
+<br>Pulmonary Circulation Disorders
+<br>Systemic Disorders Affecting the Circulatory System
+<br>Miscellaneous
+
+<br>Cardiovascular Genetics
+<br>CPR, Post-Resuscitation Care
+<br>Cardiac Critical Care
+<br>Sleep Disordered Breathing
+<br>Sports Cardiology
+<br>Pregnancy and Cardiac Disease
+<br>Cardiovascular Operative Management
+<br>Pharmacology
+<br>General Principles of Cardiovascular Medicine
+
+
+]]></description><link>work\acc\projects\saps\accsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/ACCSAP.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[CATHSAP]]></title><description><![CDATA[ 
+ <br>[Buy]<br>
+Member: $1,500<br>
+Nonmember: $1,900<br>
+Reduced: $900 (FIT, CCA, Emeritus)<br>
+[Launch]<br><br>CathSAP covers the entire field of interventional cardiology, and is a great resource for:<br>
+<br>Perfecting Your Knowledge:<br>
+Use this SAP to identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
+<br>Earning CME/MOC Credit:<br>
+This product currently offers 135+ credits. That is enough credits and MOC points in Medical Knowledge for all your licensing and certification requirements for up to 5 years.
+<br>Access to CMP:<br>
+Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
+<br>Pass the Boards:<br>
+Prepare for the Boards – learn about the ABIM blueprint, simulate taking a Board exam, practice with hundreds of ABIM-style questions that include rationale, references, and links to related text, learn from educational text and lectures, and identify your knowledge gaps so you can plan additional study.
+<br><br>Check your CMP Eligibility and Enrollment!<br>
+[Start Now]]]></description><link>work\acc\projects\saps\cathsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/CATHSAP.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[EPSAP]]></title><description><![CDATA[ 
+ <br>[Buy]<br>
+Member: $1,500<br>
+Nonmember: $1,900<br>
+Reduced: $900 (FIT, CCA, Emeritus)<br>
+[Launch]<br><br>EP SAP covers the entire field of clinical cardiac electrophysiology, and is a great resource for:<br>
+<br>Perfecting Your Knowledge:<br>
+Use this SAP to identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
+<br>Earning CME/MOC Credit:<br>
+This product currently offers 90+ CME/MOC credits and medical knowledge MOC points.
+<br>Access to CMP:<br>
+Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
+<br>Pass the Boards:<br>
+Prepare for the Boards – learn about the ABIM blueprint, simulate taking a Board exam, practice with hundreds of ABIM-style questions that include rationale, references, and links to related text, learn from educational text and lectures, and identify your knowledge gaps so you can plan additional study.
+<br><br>Check your CMP Eligibility and Enrollment!<br>
+[Start Now]]]></description><link>work\acc\projects\saps\epsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/EPSAP.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[HFSAP]]></title><description><![CDATA[ 
+ <br>[Buy]<br>
+Member: $1,500<br>
+Nonmember: $1,900<br>
+Reduced: $900 (FIT, CCA, Emeritus)<br>
+[Launch]<br><br>HF SAP covers the entire field of advanced heart failure and transplant cardiology, and is a great resource for:<br>
+<br>Perfecting Your Knowledge:<br>
+Use this SAP to identify your knowledge gaps, reinforce your existing knowledge, and learn new information.
+<br>Earning CME/MOC Credit:<br>
+This product currently offers 40+ CME/MOC credits and medical knowledge MOC points.
+<br>Access to CMP:<br>
+Collaborative Maintenance Pathway (CMP) is an alternative yearly testing model for cardiologists wishing to meet their MOC assessment requirement by avoiding the 10year Exam . The CMP integrates lifelong learning with assessment and is the shortest path between learning and maintaining your credentials. [Learn more about the CMP].
+<br><br>Check your CMP Eligibility and Enrollment!<br>
+[Start Now]]]></description><link>work\acc\projects\saps\hfsap.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/HFSAP.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[Ultra Condensed]]></title><description><![CDATA[ 
+ <br><br><br>ACCSAP is the most comprehensive resource for adult clinical cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>
+[Quick Purchase][Launch]<br><br>
+<br>Stay Licensed &amp; Certified:<br>
+Earn 190+ CME/MOC credits – enough for all certification requirements for 5 years.
+<br>Pass Your Boards with Confidence:<br>
+Understand the ABIM blueprint while gaining access hundreds case-based questions with rationale, references, and text links.
+<br>No 10-Year Exam? Yes!<br>
+ACCSAP offers the Collaborative Maintenance Pathway (CMP) for those who want to meet their MOC assessment requirement without the 10-year ABIM exam.<br>
+Attention CardioSource + subscribers
+<br>Case-Based Learning for Real-World Skills:<br>
+Unlike traditional recall-based study methods, ACCSAP questions focus on real-world clinical decision-making.
+<br><br><br><br>
+<br>Customizable Learning:
+
+<br>Create custom quizzes to simulate Board exams.
+<br>Highlight and bookmark important content for quick reference.
+
+
+<br>Flexible Study Formats:
+
+<br>Text &amp; video learning options available.
+<br>Closed-captioned lectures for accessibility.
+<br>Print key materials to create flashcards.
+
+
+<br>Access Anywhere:
+
+<br>Study on any device with the web or mobile app.
+
+
+<br>Always Up to Date:
+
+<br>Get yearly content updates based on the latest research and guidelines.
+
+
+<br><br>ACCSAP is specifically Designed for:<br>
+<br>Cardiology Fellows preparing for Board certification.
+<br>Practicing Cardiologists maintaining their certification.
+<br>Interventional Cardiology Teams, including physician assistants and advanced practice nurses.
+<br>NPs and PAs preparing for the CCKE (Certified Cardiovascular Knowledge Examination) – ACCSAP now serves as a study guide for this exam.
+<br><br><br>
+<br>130 learning modules
+<br>50 video presentations
+<br>+600 questions with supportive references.
+<br><br> Covers every major area of cardiovascular medicine, from Arrhythmias to Systemic Hypertension.<br><br>
+<br>How to Prepare for the Boards
+<br>Core Topics: Coronary Artery Disease, Arrhythmias, Heart Failure, Valvular Disease, etc.
+<br>Specialized Topics: Sports Cardiology, Pregnancy &amp; Cardiac Disease, Pharmacology, etc.<br>
+[+] See Full Table of Contents<br>
+[+] Learner Objectives
+<br><br><br>Join thousands of cardiology professionals using ACCSAP to maintain their certification and advance their knowledge.<br>
+[Purchase]<br><br><br>ACCSAP is developed by top cardiovascular experts who bring real-world experience and cutting-edge research into this program.<br>Thank you to our dedicated faculty for making this an unparalleled learning resource!]]></description><link>work\acc\projects\saps\ultra-condensed.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Ultra Condensed.md</guid><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Refactor of website]]></description><link>work\acc\projects\d&amp;i.html</link><guid isPermaLink="false">Work/ACC/Projects/D&amp;I.md</guid><pubDate>Tue, 11 Mar 2025 18:33:30 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>Now that we have multiple pages that have gone through "Refactoring" there has been a collection of UI added to our capabilities. There has been some discrepancies and this is an attempt to make a golden standard for the UI that can been used. <br><br>
+<br>Hypothesis: Collecting either in the Prototype Site, Figma System or Arches Documentation so have the golden standard for the UI. 
+<br><br><br>
+<br>FAQ - better aria standards
+<br>Icon Lists
+
+<br>With Link
+<br>With Link in Content
+<br>No Link
+
+
+<br>Hero Image
+
+<br>Classic
+<br>Lava Flow
+
+
+<br>Cards
+
+<br>With No Image
+<br>With Image
+
+
+<br>CTA
+
+<br>No Background
+<br>Background
+<br>Line Break
+
+
+<br>Testimonial Quotes
+<br>Row Feature
+<br><br>
+<br>Additional Notes: 
+]]></description><link>work\acc\projects\golden-standards-acc-content-ui.html</link><guid isPermaLink="false">Work/ACC/Projects/Golden Standards ACC Content UI.md</guid><pubDate>Tue, 11 Mar 2025 18:33:30 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Working toward a consistent offering of content and features for the Member Section]]></description><link>work\acc\projects\member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Tue, 11 Mar 2025 18:33:30 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Modernizing the Product Pages with UX and EDS Best Practices.]]></description><link>work\acc\projects\saps.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPs.md</guid><pubDate>Tue, 11 Mar 2025 18:33:31 GMT</pubDate></item><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
  <br><a href=".?query=tag:acc/ux" class="tag" target="_blank" rel="noopener nofollow">#acc/ux</a><br>
 Before I start this, I want to ask you to "love this for 5 minutes," then you can react.<br>In the act of working with clients, we often take the content documents we are offered, and our reaction to doing IA is to take that content and shoehorn it into UI to satisfy the client.<br><br>For years and possibly decades, I have taken content documents and shaved off a word or two. However, I have come to realize the immense detriment I have been doing to the strategic approach to content creation by skipping to the UI answer. Instead of merely using 'Styled UI' to reshape, mutate, and hide content, we should focus on enhancing the content to bolster the user experience by solving the underlying issues that users might face with the content that was initially delivered.<br><br>I have a different opinion on why we shouldn't create wireframes this early in a project. For the sake of speed, we, myself included, often skip the IA step, rushing to return to the client with wireframes. We then cleverly force their content into blocks and hidden areas on the page. The downside of internalizing the IA within the team and applying layouts and UI to content is that it directs our conversations with business lines toward solutions, rather than focusing on improving the content on the site. This undermines the value that IA discussions can bring. Jumping straight to UI wires limits our ability to challenge how we receive and refine raw content. We should at least help them transform it before we start applying UI.<br>I want to ensure there is a moment when clients are encouraged and guided to evaluate the provided content. Content strategists can have the greatest impact by unlocking the potential for more effective and engaging content.<br><br>Here is an example of what happens when we skip straight to UI. The wireframes react to the content as it is provided. In the team's review of overwhelming content, we responded by using accordions in the UI to hide excess information. This was a superficial fix that masked the issue—that the content was too lengthy and not concise. No changes were made to the content itself because we had already hidden it.<br>Now we have introduced a situation where our users are forced into a discovery mode, and we haven't solved the problem that the content was too much or not aligned with the actual goals of the page.<br><br>To maximize the effectiveness of content, we need to change our approach. Instead of rushing into UI design, we should follow a structured process:<br>
 <br>Content Evaluation: Review the content before doing any design work. Understand the purpose of the content and whether it aligns with the project's goals.
@@ -1015,8 +1189,7 @@ Our mission is to create an equitable and supportive community for women cardiol
 
 
 <br>CTA: [Become a Member of Women in Cardiology]
-]]></description><link>work/acc/projects/members-sections/onboarding-dynamic-content.html</link><guid isPermaLink="false">Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md</guid><pubDate>Fri, 13 Dec 2024 20:35:38 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Working toward a consistent offering of content and features for the Member Section]]></description><link>work/acc/projects/member-sections.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections.md</guid><pubDate>Fri, 13 Dec 2024 20:39:22 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
+]]></description><link>work/acc/projects/members-sections/onboarding-dynamic-content.html</link><guid isPermaLink="false">Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md</guid><pubDate>Fri, 13 Dec 2024 20:35:38 GMT</pubDate></item><item><title><![CDATA[Maximize Conversions with Integrated Marketing]]></title><description><![CDATA[ 
  <br>Email Marketing<br>Here’s a streamlined process flow for utilizing Direct Marketing Emails, Social Posts, and Web Marketing to drive users to landing pages with single goal CTAs, optimizing for conversion:<br>
 <img alt="Pasted image 20240924173228.png" src="lib/media/pasted-image-20240924173228.png"><br><br>
 <br>Objective: Whether the goal is membership sign-up, promoting a specific product, or encouraging course enrollment, start with a clear and single-focused goal.<br>
@@ -1528,75 +1701,7 @@ References for Article Types: <a data-tooltip-position="top" aria-label="https:/
 ]]></description><link>work/acc/projects/tickets/article-children-rendering.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Article Children Rendering.md</guid><pubDate>Wed, 25 Sep 2024 02:10:07 GMT</pubDate></item><item><title><![CDATA[State Chapters for BOG]]></title><description><![CDATA[ 
  a centralized viewing area for state chapter agendas.]]></description><link>work/acc/projects/state-chapters-for-bog.html</link><guid isPermaLink="false">Work/ACC/Projects/State Chapters for BOG.md</guid><pubDate>Sun, 27 Oct 2024 18:56:34 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  A sponsor of the product wants to hit a certain number of video watches.]]></description><link>work/acc/projects/ncd-academy.html</link><guid isPermaLink="false">Work/ACC/Projects/NCD Academy.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[CardioSmart 2025 UX]]></title><description><![CDATA[ 
- Cardiosmart has some improvements that system]]></description><link>work/acc/projects/cardiosmart-2025-ux.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 2025 UX.md</guid><pubDate>Tue, 10 Sep 2024 18:07:24 GMT</pubDate></item><item><title><![CDATA[Project Build Outline]]></title><description><![CDATA[ 
- <br>Subject: Exciting Opportunity: Redesigning Member Sections<br>Dear Team,<br>As we embark on the transformative journey of redesigning our Member Sections, I want to share an overview of our strategic process and the essential tasks that will lead to our success. This initiative, commencing after the Annual Meeting in April 2025, involves over twenty sections and will require our collective effort to achieve outstanding consistency and quality.<br><br>Leading up to April 2025, Jackie, Laura, and I will concentrate on several key tasks to establish a solid foundation:<br>
-<br>
-Proof of Concept (POC):
-
-<br>We will finalize a robust WIC POC to define our preferred tone, brevity, and structure. This benchmark will guide all pages and content styles.
-
-
-<br>
-Content Access Guidelines:
-
-<br>After cleaning up existing content, Jackie and I will draft clear guidelines delineating public-facing content from that exclusive to members. We'll circulate this initial draft to the Tiger team for insights.
-
-
-<br>
-IT Development Planning:
-
-<br>Armed with the POC, we will collaborate with leadership to outline and align on our anticipated IT development requirements for dynamic content and and the user onboarding logic.
-
-
-<br>
-Content and Resources Collection:
-
-<br>Our team will create an effective initiation script and a user-friendly content collection form to streamline the content-gathering process for our liaisons.
-
-
-<br>This groundwork will empower us to seamlessly engage with staff liaisons following the Annual Meeting.<br><br>Content collection for our Member Sections is scheduled to begin in April 2025. To optimize our resources, we will prioritize which sections to revamp first.<br>
-<br>
-Kickoff Meeting/Workshop:
-
-<br>We will introduce the dedicated project team and the creative assets needed for content collection. 
-<br>Matt and Jackie will lead a workshop to showcase an illustrative section while demonstrating the collection form.
-
-
-<br>
-Content Collection Responsibilities:
-
-<br>Each section team will undertake the content collection and refactoring, utilizing the WIC POC as their guide. Our oversight will ensure alignment and quality throughout the process.
-
-
-<br>
-Completion of Content:
-
-<br>Once content is gathered, our coordination team will collaborate with MarCom to generate essential images for prominent features.
-
-
-<br>
-Quality Assurance:
-
-<br>A JIRA ticket will be created to document the creation of the newly refactored Member Section, ensuring transparency and tracking.
-
-
-<br>
-Editorial Review:
-
-<br>Based on our priorities, the completed section will be processed, entered into Author, reviewed, and then published for production.
-
-
-<br>
-Repeat for All Sections:
-
-<br>This process will be repeated systematically for all remaining sections.
-
-
-<br><br>
-<br>Early 2025: Finalize the POC, establish clear content guidelines, plan IT development, and prepare liaison resources.
-<br>Post-Annual Meeting (April 2025): Launch engagement with liaisons and section teams to kick off content collection.
-<br>If you have any questions or need further insights on this exciting project, please don’t hesitate to reach out. Together, we can create an exceptional experience for our members.<br>Looking forward to our collaboration,<br>
-Matt &amp; Jackie]]></description><link>work/acc/projects/member-sections/project-build-outline.html</link><guid isPermaLink="false">Work/ACC/Projects/Member Sections/Project Build Outline.md</guid><pubDate>Fri, 13 Dec 2024 20:36:43 GMT</pubDate></item><item><title><![CDATA[Presentation Story]]></title><description><![CDATA[ 
+ Cardiosmart has some improvements that system]]></description><link>work/acc/projects/cardiosmart-2025-ux.html</link><guid isPermaLink="false">Work/ACC/Projects/CardioSmart 2025 UX.md</guid><pubDate>Tue, 10 Sep 2024 18:07:24 GMT</pubDate></item><item><title><![CDATA[Presentation Story]]></title><description><![CDATA[ 
  <br><br>
 <br>Intro
 <br>How We Investigated the Problem
@@ -2686,70 +2791,13 @@ The checklist provides a high-level overview of the steps that need to be taken.
 <br>Everything Else
 <br><br><br>
 <br>
-]]></description><link>work/acc/project-weekly-notes/2024-week-50.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 50.md</guid><pubDate>Fri, 13 Dec 2024 20:35:38 GMT</pubDate></item><item><title><![CDATA[2024 Week 47]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="work/acc/project-weekly-notes/2024-week-44.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 48" data-href="2024 Week 48" href="2024 Week 48" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>Burn out
-<br><br>
-<br>Goals
-<br><br>
-<br>
-<br><br>
-<br>Presentation for <a data-href="Work/ACC/Projects/Member Sections" href="work/acc/projects/member-sections.html" class="internal-link" target="_self" rel="noopener nofollow">Work/ACC/Projects/Member Sections</a>
-<br>Kicking off D&amp;I with Jay
-<br>
-
-<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a> Structured Page
-
-
-<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a> CMP Revision Tickets to Go to Editors
-<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Home Page and New Vaccine Page
-<br><a data-href="Completive Analysis" href="Completive Analysis" class="internal-link" target="_self" rel="noopener nofollow">Completive Analysis</a>
-<br><br>
-<br><a data-href="State Chapters for BOG" href="work/acc/projects/state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
-<br><a data-href="Arches Conversion" href="work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
-<br><br><br>
-<br>
-]]></description><link>work/acc/project-weekly-notes/2024-week-47.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 47.md</guid><pubDate>Fri, 13 Dec 2024 20:35:38 GMT</pubDate></item><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work/acc/project-weekly-notes/2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="work/acc/project-weekly-notes/2024-week-45.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>
-<br><br><br>
-<br>Goals
-<br><br>
-<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
-<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
-<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
-<br><a data-href="Completive Analysis" href="Completive Analysis" class="internal-link" target="_self" rel="noopener nofollow">Completive Analysis</a>
-<br><br>
-<br><a data-href="State Chapters for BOG" href="work/acc/projects/state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
-<br><a data-href="Arches Conversion" href="work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
-<br><br><br>
-<br>
-]]></description><link>work/acc/project-weekly-notes/2024-week-46.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 46.md</guid><pubDate>Fri, 13 Dec 2024 20:35:37 GMT</pubDate></item><item><title><![CDATA[2024 Week 45]]></title><description><![CDATA[ 
+]]></description><link>work/acc/project-weekly-notes/2024-week-50.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 50.md</guid><pubDate>Fri, 13 Dec 2024 20:35:38 GMT</pubDate></item><item><title><![CDATA[2024 Week 45]]></title><description><![CDATA[ 
  <br>Most of the work last week was focused on <a data-href="Member Sections" href="work/acc/projects/member-sections.html" class="internal-link" target="_self" rel="noopener nofollow">Member Sections</a>. <br>
 <br>Working on Presentation
 <br>Production on the Prototype
 <br>
 ]]></description><link>work/acc/project-weekly-notes/2024-week-45.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 45.md</guid><pubDate>Tue, 12 Nov 2024 12:23:37 GMT</pubDate></item><item><title><![CDATA[2024 Week 42]]></title><description><![CDATA[ 
- <br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 41" data-href="2024 Week 41" href="work/acc/project-weekly-notes/2024-week-41.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work/acc/project-weekly-notes/2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br>]]></description><link>work/acc/project-weekly-notes/2024-week-42.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 42.md</guid><pubDate>Mon, 28 Oct 2024 14:02:10 GMT</pubDate></item><item><title><![CDATA[2024 Week 44]]></title><description><![CDATA[ 
- <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work/acc/project-weekly-notes/2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 45" data-href="2024 Week 45" href="work/acc/project-weekly-notes/2024-week-45.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
-<br>
-<br><br>
-<br>Review and talk to Jae Brite about play book. 
-<br>Review the <a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a> Work. Improve the data points for the catalogue and create a render for it.  completionOctober 30, 2024
-<br><a data-href="ACC 75th Gala" href="work/acc/projects/acc-75th-gala.html" class="internal-link" target="_self" rel="noopener nofollow">ACC 75th Gala</a> - NEW FAQ page &amp; a new way to pay.
-<br><br>
-<br>Not Fire Fighting but taking up cycles is the Open Enrollment
-<br><br>
-<br><a data-href="CCKE" href="work/acc/projects/ccke.html" class="internal-link" target="_self" rel="noopener nofollow">CCKE</a>
-<br><a data-href="CMP" href="CMP" class="internal-link" target="_self" rel="noopener nofollow">CMP</a>
-<br><a data-href="NCD Academy" href="work/acc/projects/ncd-academy.html" class="internal-link" target="_self" rel="noopener nofollow">NCD Academy</a>
-<br><a data-href="Completive Analysis" href="Completive Analysis" class="internal-link" target="_self" rel="noopener nofollow">Completive Analysis</a>
-<br><br>
-<br><a data-href="State Chapters for BOG" href="work/acc/projects/state-chapters-for-bog.html" class="internal-link" target="_self" rel="noopener nofollow">State Chapters for BOG</a>
-<br><a data-href="Arches Conversion" href="work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a>
-<br><br><br>
-<br>
-]]></description><link>work/acc/project-weekly-notes/2024-week-44.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 44.md</guid><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
+ <br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 41" data-href="2024 Week 41" href="work/acc/project-weekly-notes/2024-week-41.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 43" data-href="2024 Week 43" href="work/acc/project-weekly-notes/2024-week-43.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br>]]></description><link>work/acc/project-weekly-notes/2024-week-42.html</link><guid isPermaLink="false">Work/ACC/Project Weekly Notes/2024 Week 42.md</guid><pubDate>Mon, 28 Oct 2024 14:02:10 GMT</pubDate></item><item><title><![CDATA[2024 Week 43]]></title><description><![CDATA[ 
  <br>tags:: <a data-href="+Weekly Notes" href="work/acc/project-weekly-notes/+weekly-notes.html" class="internal-link" target="_self" rel="noopener nofollow">+Weekly Notes</a><br><br>&lt;&lt; <a data-tooltip-position="top" aria-label="2024 Week 42" data-href="2024 Week 42" href="work/acc/project-weekly-notes/2024-week-42.html" class="internal-link" target="_self" rel="noopener nofollow">Last Week</a> | <a data-tooltip-position="top" aria-label="2024 Week 44" data-href="2024 Week 44" href="work/acc/project-weekly-notes/2024-week-44.html" class="internal-link" target="_self" rel="noopener nofollow">Next Week</a> &gt;&gt;<br><br><br><br>
 <br>Naps, catching up on emails
 <br><br>
