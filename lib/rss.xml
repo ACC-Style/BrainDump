@@ -1,4 +1,489 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 13 Mar 2025 18:13:27 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 13 Mar 2025 18:13:26 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Facet Page]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 18:40:06 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 18:40:05 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Refactors]]></title><description><![CDATA[ 
+ <br>A Refactor project at ACC.org focuses on systematically restructuring, optimizing, or modernizing a specific area of our digital ecosystem without altering its core functionality. The goal is to improve maintainability, performance, accessibility, and long-term sustainability while aligning with best practices in development, content management, and user experience.<br>This process often involves:<br>
+<br>Code Optimization: Enhancing front-end and back-end code to improve efficiency, reduce technical debt, and ensure compliance with modern standards.
+<br>Content Restructuring: Reviewing and reorganizing digital content within Sitecore or Sitefinity to streamline navigation, improve searchability, and eliminate redundancies.
+<br>Design &amp; UX Enhancements: Refining layouts, typography, and interaction patterns for better usability while maintaining consistency with ACC’s design systems, such as ARCHES and PaperCrane.
+<br>Performance Improvements: Optimizing page load times, reducing server requests, and implementing caching strategies to enhance user experience.
+<br>Integration &amp; API Updates: Ensuring seamless connectivity between ACC.org, CRM systems (ONECRM), and external platforms (HubSpot, analytics tools).
+<br>SEO &amp; Analytics Refinement: Updating metadata, link structures, and tracking mechanisms to improve visibility and data accuracy.
+<br>Each Refactor initiative is data-driven, with preliminary audits and analytics reports guiding decisions. The ultimate objective is to create a scalable, future-proof solution that enhances both user experience and backend manageability while preserving existing content and functionality.<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://whimsical.com/refactor-workflow-process-improved-version-8japDxeuPPjvJzSrjQk6ek" data-href="https://whimsical.com/refactor-workflow-process-improved-version-8japDxeuPPjvJzSrjQk6ek" href="https://whimsical.com/refactor-workflow-process-improved-version-8japDxeuPPjvJzSrjQk6ek" class="internal-link" target="_self" rel="noopener nofollow">Process Flow Diagram</a>
+<br><a data-href="Pre Kickoff Collection Checklist" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html" class="internal-link" target="_self" rel="noopener nofollow">Pre Kickoff Collection Checklist</a>
+<br><a data-href="Refactor Process" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/refactor-process.html" class="internal-link" target="_self" rel="noopener nofollow">Refactor Process</a>
+<br><a data-href="Post Launch Checklist" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/post-launch-checklist.html" class="internal-link" target="_self" rel="noopener nofollow">Post Launch Checklist</a>
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/refactors.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Refactors.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:15:21 GMT</pubDate></item><item><title><![CDATA[Pre Kickoff Collection Checklist]]></title><description><![CDATA[ 
+ <br>At the start of all new project review this checklist to ensure a successful kickoff<br><br>
+<br> Completed Project Intake Form (submitted on the Monday Platform)
+<br>List of Key Stakeholders (Client SME, Marketing, EDSCx, Analytics, Web Production)
+
+<br>EDSCx - <a data-href="Jackie Pysarchuk" href="https://acc-style.github.io/BrainDump/_coworkers/jackie-pysarchuk.html" class="internal-link" target="_self" rel="noopener nofollow">Jackie Pysarchuk</a>, <a data-href="Rowena Enatsky" href="https://acc-style.github.io/BrainDump/_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener nofollow">Rowena Enatsky</a>, <a data-href="Matt Watier" href="https://acc-style.github.io/BrainDump/_coworkers/matt-watier.html" class="internal-link" target="_self" rel="noopener nofollow">Matt Watier</a>
+<br>SME - Defined at Project
+<br>Marketing - Defined at Project
+<br>Analytics - <a data-href="Carol Johnson" href="https://acc-style.github.io/BrainDump/_coworkers/carol-johnson.html" class="internal-link" target="_self" rel="noopener nofollow">Carol Johnson</a> or <a data-href="Xiaodong Hou" href="https://acc-style.github.io/BrainDump/_coworkers/xiaodong-hou.html" class="internal-link" target="_self" rel="noopener nofollow">Xiaodong Hou</a>
+<br>Web Production - <a data-href="Tatyana Kelmanson" href="https://acc-style.github.io/BrainDump/_coworkers/tatyana-kelmanson.html" class="internal-link" target="_self" rel="noopener nofollow">Tatyana Kelmanson</a>
+
+
+<br>Create all appropriate tickets for Analytics Reports, and Web Production Reports. 
+<br>Email to MarCom and SME with their responsible data points to be collected.
+<br><br><br>
+<br>Audience &amp; User Research Data (personas, analytics, behavior insights)
+
+<br>UX Impressions and audit of the exposed content UX
+<br>Mouseflow Recordings and Analysis
+
+
+<br>List of Enterprise Content Directed Alterations to current existing product.<br>
+More Direct, What, who, when, why....
+<br>Project Folder Creation
+
+<br>**NEW Content Collection Document
+<br>Process Flows &amp; User Journeys (if applicable)
+<br>Capture Screen Grabs of the pages effected place in <a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:f:/s/IT-HomePageRedesign/Evr-YE7OIa5PizUsyn6-qI8Bv-8ktUf2U9uawWLEbsEymQ?e=8MANPG" rel="noopener nofollow" class="external-link" href="https://accorg.sharepoint.com/:f:/s/IT-HomePageRedesign/Evr-YE7OIa5PizUsyn6-qI8Bv-8ktUf2U9uawWLEbsEymQ?e=8MANPG" target="_blank">Before-And-After</a>
+
+
+<br><br>
+<br> Business Goals &amp; Objectives
+
+<br>KPIs for Success Measurement
+
+
+<br>User Goals &amp; Objectives
+
+<br>Conversion Points/Success Moments for User
+
+
+<br> Project Timeline &amp; Deadlines<br>
+This will effect proposed solutions or require management override to clear the way.
+<br>Any and All Vanities to Project
+<br>Any and All Email Communications to users while on boarding and or using the product.
+<br><br>
+<br><a data-href="Current Analytics running on Project Scope" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/current-analytics-running-on-project-scope.html" class="internal-link" target="_self" rel="noopener nofollow">Current Analytics running on Project Scope</a><br>
+current analytics of the section being refactored
+<br><br>
+<br> <a data-href="Existing Website Pages &amp; Content Inventory" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html" class="internal-link" target="_self" rel="noopener nofollow">Existing Website Pages &amp; Content Inventory</a><br>
+current content of the section being refactored
+<br><br>
+<br>Any and All Marketing Collateral that directs Users to or about the current project scope.
+<br>Any Marketing Publishing Schedules for email, social, print, in person, videos
+<br><br><br><br>
+<br> Wireframes &amp; Page Layouts (existing or new wireframes for page structure)
+<br> Branding &amp; UI Guidelines (standards from Arches)
+<br> Required Artwork &amp; Images (logos, banners, infographics, or other assets)
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Pre Kickoff Collection Checklist.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 14 Mar 2025 12:36:38 GMT</pubDate></item><item><title><![CDATA[FAQ]]></title><description><![CDATA[ 
+ <br><br>The expiration date is the last date that you can claim credit for the current version of the topic. The day after the expiration date, ACC will publish a new version of the topic that will offer brand new credit. To claim the new credit, you simply have to answer the newly published practice questions for that topic.<br><br>Rolling. Each topic's Term of Approval/Date of CME &amp; MOC Expiration are displayed on the product's dashboard.<br><br>You may receive a full refund by canceling your order within 7 days of purchase. Claiming any type of credit for the product during that time will make you ineligible for a refund. No refunds or term adjustments will be permitted after the first 7 days of purchase.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/faq.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/FAQ.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:38:36 GMT</pubDate></item><item><title><![CDATA[HFSAP -- Ultra Condensed]]></title><description><![CDATA[ 
+ <br><br><br>HFSAP is the most comprehensive resource for advanced heart failure and transplant cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>Available Credits:<br>
+CME | MOC<br>[Quick Purchase][Launch]<br><br>
+<br>?? learning modules
+<br>?? video presentations
+<br>+460 questions with supportive references.
+<br><br>
+<br>Stay Licensed &amp; Certified<br>
+Earn 40+ CME/MOC credits – enough for all certification requirements for 5 years.
+<br>Pass Your Boards with Confidence<br>
+Understand the ABIM blueprint while gaining access case-based questions with rationale and references.
+<br>Escape the 10-year Exam<br>
+Get access to&nbsp;<a data-tooltip-position="top" aria-label="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" rel="noopener nofollow" class="external-link" href="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" target="_blank">CMP™</a>, an alternative MOC assessment pathway,&nbsp;without the 10-year ABIM exam.
+<br>Case-Based Learning for Real-World Skills<br>
+Unlike traditional recall-based study methods, these questions&nbsp;focus on real-world clinical decision-making.
+<br>[+] Attention CardioSource+ Subscribers<br><br><br>CardioSource Plus&nbsp;does not include access&nbsp;to&nbsp;CMP<br>
+A&nbsp;personal subscription&nbsp;is&nbsp;required&nbsp;to access&nbsp;CMP.<br><br>Use the same account for both CardioSource Plus and your personal subscription to keep your progress in sync.<br><br>
+<br>Online: Enroll on the official website, where you'll be prompted to purchase the subscription.
+<br>By Phone: Call the support team at 800-253-4636, x5603, from 9:00 a.m. to 5:00 p.m. ET.
+<br><br><br>{Pricing Blocks}<br><br><br><br>
+<br>Customizable Learning:
+
+<br>Create custom quizzes to simulate Board exams.
+<br>Highlight and bookmark important content for quick reference.
+
+
+<br>Flexible Study Formats:
+
+<br>Text &amp; video learning options available.
+<br>Closed-captioned lectures for accessibility.
+<br>Print key materials to create flashcards.
+
+
+<br>Access Anywhere:
+
+<br>Study on any device with the web or mobile app.
+
+
+<br>Always Up to Date:
+
+<br>Get yearly content updates based on the latest research and guidelines.
+
+
+<br><br> HFSAP Covers every major area of cardiovascular medicine, from Arrhythmias to Systemic Hypertension.<br><br>
+<br>Cardiology Fellows&nbsp;preparing for Board certification.
+<br>Practicing Cardiologists&nbsp;maintaining their certification.
+<br>Interventional Cardiology Teams, including physician assistants and advanced practice nurses.
+<br>NPs and PAs preparing for the&nbsp;CCKE&nbsp;– HFSAP now serves as a study guide for this exam.
+<br><br>
+<br>How to Prepare for the Boards
+<br>Core Topics: Coronary Artery Disease, Arrhythmias, Heart Failure, Valvular Disease, etc.
+<br>Specialized Topics: Sports Cardiology, Pregnancy &amp; Cardiac Disease, Pharmacology, etc.
+<br><br>
+<br>How to Prepare for the Boards
+<br>General Principles of Cardiovascular Medicine
+<br>Arrhythmias
+<br>Coronary Artery Disease
+<br>Heart Failure &amp; Cardiomyopathy
+<br>Valvular Disease
+<br>Pericardial Disease
+<br>Congenital Heart Disease
+<br>Vascular Diseases
+<br>Systemic Hypertension and Hypotension
+<br>Pulmonary Circulation Disorders
+<br>Systemic Disorders Affecting the Circulatory System
+<br>Miscellaneous
+
+<br>Cardiovascular Genetics
+<br>CPR, Post-Resuscitation Care
+<br>Cardiac Critical Care
+<br>Sleep Disordered Breathing
+<br>Sports Cardiology
+<br>Pregnancy and Cardiac Disease
+<br>Cardiovascular Operative Management
+<br>Pharmacology
+<br>General Principles of Cardiovascular Medicine
+
+
+<br><br> Upon completion of this activity, learners should be able to:<br>
+<br>Identify knowledge gaps and target study to fill those gaps in preparation for the ABIM Certification/Maintenance of Certification Exam in Cardiovascular Disease.
+<br>Review and discuss one or more of the following to optimize the quality and provision of clinical care pertinent to the practice of cardiovascular medicine:
+
+<br>Clinical and practice guidelines, recommendations and protocols
+<br>Emerging research information and application to practice
+<br>Quality and/or cost of care issues
+<br>Multispecialty and multidisciplinary collaboration and communication
+<br>Patient safety strategies
+<br>Performance improvement
+<br>Cultural competency
+
+
+<br><br><br><img alt="Joint Accreditation Statement" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" referrerpolicy="no-referrer"><br><br>In support of improving patient care, this activity has been planned and implemented by the American College of Cardiology Foundation (ACCF). ACCF is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.<br><br>The ACCF designates this enduring material for a maximum of&nbsp;59.5&nbsp;AMA PRA Category 1 Credits™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.<br><img alt="ABIM" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/CME_MOC_Logo.png" referrerpolicy="no-referrer"><br><br>Successful completion of this CME activity, which includes participation in the evaluation component, enables the participant to earn up to&nbsp;59.5 Medical Knowledge MOC&nbsp;points in the American Board of Internal Medicine's (ABIM) Maintenance of Certification (MOC) program. It is the CME activity provider's responsibility to submit participant completion information to ACCME for the purpose of granting ABIM MOC credit. Once your MOC claim is submitted to the ACCME no modifications can be made to your overall credit claim. Participants can claim credit only once.<br><br><br>Join thousands of cardiology professionals using HFSAP to maintain their certification and advance their knowledge.<br>
+[Purchase]<br><br><br>All our products are developed by top cardiovascular experts who bring real-world experience and cutting-edge research into this program.<br>
+[View Faculty]<br>
+Thank you to our dedicated faculty for making this an unparalleled learning resource!<br><br>Access you SAP from ACC's Learn APP<br>
+[App Store]<br>
+[Google Play]<br>
+<a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" target="_blank">Learn More | link</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/ultra-condensed/hfsap-ultra-condensed.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Ultra Condensed/HFSAP -- Ultra Condensed.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:38:03 GMT</pubDate><enclosure url="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[EPSAP-- Ultra Condensed]]></title><description><![CDATA[ 
+ <br><br><br>EPSAP is the most comprehensive resource for adult clinical cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>Available Credits:<br>
+CME | MOC<br>{Quick Purchase} {Launch}<br><br>
+<br>64 learning modules
+<br>+900 scientific images
+<br>280 questions with supportive references.
+<br><br>
+<br>Stay Licensed &amp; Certified<br>
+Earn 90+ CME/MOC credits – enough for all certification requirements for 5 years.
+<br>Pass Your Boards with Confidence<br>
+Understand the ABIM blueprint while gaining access case-based questions with rationale and references.
+<br>Escape the 10-year Exam<br>
+Get access to&nbsp;<a data-tooltip-position="top" aria-label="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" rel="noopener nofollow" class="external-link" href="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" target="_blank">CMP™</a>, an alternative MOC assessment pathway,&nbsp;without the 10-year ABIM exam.
+<br>Case-Based Learning for Real-World Skills<br>
+Unlike traditional recall-based study methods, these questions&nbsp;focus on real-world clinical decision-making.
+<br>[+] Attention CardioSource+ Subscribers<br><br><br>CardioSource Plus&nbsp;does not include access&nbsp;to&nbsp;CMP<br>
+A&nbsp;personal subscription&nbsp;is&nbsp;required&nbsp;to access&nbsp;CMP.<br><br>Use the same account for both CardioSource Plus and your personal subscription to keep your progress in sync.<br><br>
+<br>Online: Enroll on the official website, where you'll be prompted to purchase the subscription.
+<br>By Phone: Call the support team at 800-253-4636, x5603, from 9:00 a.m. to 5:00 p.m. ET.
+<br><br><br>{Pricing Blocks}<br><br><br><br>
+<br>Customizable Learning:
+
+<br>Create custom quizzes to simulate Board exams.
+<br>Highlight and bookmark important content for quick reference.
+
+
+<br>Flexible Study Formats:
+
+<br>Text &amp; video learning options available.
+<br>Closed-captioned lectures for accessibility.
+<br>Print key materials to create flashcards.
+
+
+<br>Access Anywhere:
+
+<br>Study on any device with the web or mobile app.
+
+
+<br>Always Up to Date:
+
+<br>Get yearly content updates based on the latest research and guidelines.
+
+
+<br><br> EPSAP Covers every major area of electrophysiologists medicine, from **Arrhythmias to Supraventricular Tachycardias.<br><br>
+<br>Cardiology Fellows&nbsp;preparing for Board certification.
+<br>Practicing Cardiologists&nbsp;maintaining their certification.
+<br>Cardiology Teams, including physician assistants and advanced practice nurses  interested in electrophysiology.
+<br><br>
+<br>How to Prepare for the Boards
+<br>Core Topics: Bradycardias, Arrhythmias, Heart Failure, Supraventricular Tachycardias, etc.
+<br>Specialized Topics:  Cardiac Implantable Electronic Devices, Clinical Scenarios and Syndromes, etc.
+<br> [+] See Full Table of Contents <br>
+<br>Basic Physiology, Anatomy, Pharmacology, and Genetics
+<br>Core Concepts of Clinical Arrhythmias
+<br>Bradycardias and Conduction Disorders
+<br>Atrial Arrhythmias
+<br>Supraventricular Tachycardias
+<br>Ventricular Arrhythmias
+<br>Cardiac Implantable Electronic Devices
+<br>Clinical Scenarios and Syndromes
+<br> [+] Learner Objectives<br> Upon completion of this activity, learners should be able to:<br>
+<br>Identify knowledge gaps and target study to fill those gaps in preparation for the ABIM Certification/Maintenance of Certification Exam in Clinical Cardiac Electrophysiology.
+<br>Review and discuss one or more of the following to optimize the quality and provision of clinical care pertinent to the practice of clinical cardiac electrophysiology:
+
+<br>Clinical and practice guidelines, recommendations and protocols
+<br>Emerging research information and application to practice
+<br>Quality and/or cost of care issues
+<br>Multispecialty and multidisciplinary collaboration and communication
+<br>Patient safety strategies
+<br>Performance improvement
+<br>Cultural competency
+
+
+<br>[+] CME/MOC Information<br><br><img alt="Joint Accreditation Statement" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" referrerpolicy="no-referrer"><br><br>In support of improving patient care, this activity has been planned and implemented by the American College of Cardiology Foundation (ACCF). ACCF is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.<br><br>The ACCF designates this enduring material for a maximum of&nbsp;94.5&nbsp;AMA PRA Category 1 Credits™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.<br><img alt="ABIM" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/CME_MOC_Logo.png" referrerpolicy="no-referrer"><br><br>Successful completion of this CME activity, which includes participation in the evaluation component, enables the participant to earn up to&nbsp;94.5 Medical Knowledge MOC&nbsp;points in the American Board of Internal Medicine's (ABIM) Maintenance of Certification (MOC) program. It is the CME activity provider's responsibility to submit participant completion information to ACCME for the purpose of granting ABIM MOC credit. Once your MOC claim is submitted to the ACCME no modifications can be made to your overall credit claim. Participants can claim credit only once.<br><br><br>Join thousands of cardiology professionals using EPSAP to maintain their certification and advance their knowledge.<br>
+[Purchase]<br><br><br>All our products are developed by top cardiovascular experts who bring real-world experience and cutting-edge research into this program.<br>
+[View Faculty]<br>
+Thank you to our dedicated faculty for making this an unparalleled learning resource!<br><br>Access you SAP from ACC's Learn APP<br>
+[App Store]<br>
+[Google Play]<br>
+<a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" target="_blank">Learn More | link</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/ultra-condensed/epsap-ultra-condensed.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Ultra Condensed/EPSAP-- Ultra Condensed.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:37:57 GMT</pubDate><enclosure url="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[CATHSAP -- Ultra Condensed]]></title><description><![CDATA[ 
+ <br><br><br>CATHSAP is the most comprehensive resource for interventional cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>Available Credits:<br>
+CME | MOC<br>[Quick Purchase][Launch]<br><br>
+<br>97 learning modules
+<br>43 video presentations
+<br>+500 questions with supportive references.
+<br><br>
+<br>Stay Licensed &amp; Certified<br>
+Earn 135+ CME/MOC credits – enough for all certification requirements for 5 years.
+<br>Pass Your Boards with Confidence<br>
+Understand the ABIM blueprint while gaining access case-based questions with rationale and references.
+<br>Escape the 10-year Exam<br>
+Get access to&nbsp;<a data-tooltip-position="top" aria-label="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" rel="noopener nofollow" class="external-link" href="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" target="_blank">CMP™</a>, an alternative MOC assessment pathway,&nbsp;without the 10-year ABIM exam.
+<br>Case-Based Learning for Real-World Skills<br>
+Unlike traditional recall-based study methods, these questions&nbsp;focus on real-world clinical decision-making.
+<br>[+] Attention CardioSource+ Subscribers<br><br><br>CardioSource Plus&nbsp;does not include access&nbsp;to&nbsp;CMP<br>
+A&nbsp;personal subscription&nbsp;is&nbsp;required&nbsp;to access&nbsp;CMP.<br><br>Use the same account for both CardioSource Plus and your personal subscription to keep your progress in sync.<br><br>
+<br>Online: Enroll on the official website, where you'll be prompted to purchase the subscription.
+<br>By Phone: Call the support team at 800-253-4636, x5603, from 9:00 a.m. to 5:00 p.m. ET.
+<br><br><br>{Pricing Blocks}<br><br><br><br>
+<br>Customizable Learning:
+
+<br>Create custom quizzes to simulate Board exams.
+<br>Highlight and bookmark important content for quick reference.
+
+
+<br>Flexible Study Formats:
+
+<br>Text &amp; video learning options available.
+<br>Closed-captioned lectures for accessibility.
+<br>Print key materials to create flashcards.
+
+
+<br>Access Anywhere:
+
+<br>Study on any device with the web or mobile app.
+
+
+<br>Always Up to Date:
+
+<br>Get yearly content updates based on the latest research and guidelines.
+
+
+<br><br> CATHSAP delivers in-depth, up-to-date coverage of interventional cardiology, from case selection and procedural fundamentals to advanced techniques and complication management.<br><br>
+<br>Interventional Cardiology Fellows preparing for initial Board certification.
+<br>Practicing Interventional Cardiologists committed to lifelong learning and MOC requirements.
+<br><br>
+<br>From Case Selection to Post-Procedural Care – Build expertise across every phase of interventional cardiology. 
+<br>Master Techniques &amp; Tools – Includes fundamentals, coronary equipment, and advanced procedural strategies.
+<br>Reinforce Core Knowledge – Anatomy, pharmacology, imaging, and the science behind successful interventions.
+<br> [+] See Full Table of Contents <br>
+<br>Case Selection &amp; Management
+<br>Procedural Techniques I: Fundamentals of Cardiac Catheterization
+<br>Procedural Techniques II:
+
+<br>Coronary Interventional Equipment and Techniques
+<br>Post-Procedural Care
+
+
+<br>Complications of Coronary Intervention
+<br>Catheter-Based Management of Noncoronary Disease
+<br>Basic Science
+<br>Anatomy, Anatomic Variants, Anatomic Pathology
+<br>Pharmacology
+<br>Cardiac Imaging &amp; Assessment
+<br>Miscellaneous Topics
+<br> [+] Learner Objectives<br> Upon completion of this activity, learners should be able to:<br>
+<br>Employ appropriate case selection and patient management strategies selection and patient management
+<br>Apply the latest major clinical trial data for coronary, peripheral, and structural intervention
+<br>Define the indications and appropriate utilization of coronary, peripheral, and structural intervention in the management of cardiovascular disease
+<br>Discuss appropriate techniques for coronary, peripheral, and structural intervention
+<br>Identify the issues of imaging, radiation risks and safety as they relate to coronary, peripheral, and structural intervention techniques
+<br>Cite the current basic information relating to vascular biology, including plaque formation, injury and restenosis
+<br>Demonstrate the appropriate utilization of pharmaceuticals in interventional cardiology, including antiplatelet agents, thrombolytics, anticoagulants, antiarrhythmics and vasoactive drugs
+<br>[+] CME/MOC Information<br><br><img alt="Joint Accreditation Statement" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" referrerpolicy="no-referrer"><br><br>In support of improving patient care, this activity has been planned and implemented by the American College of Cardiology Foundation (ACCF). ACCF is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.<br><br>The ACCF designates this enduring material for a maximum of&nbsp;135&nbsp;AMA PRA Category 1 Credits™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.<br><img alt="ABIM" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/CME_MOC_Logo.png" referrerpolicy="no-referrer"><br><br>Successful completion of this CME activity, which includes participation in the evaluation component, enables the participant to earn up to&nbsp;135 Medical Knowledge MOC&nbsp;points in the American Board of Internal Medicine's (ABIM) Maintenance of Certification (MOC) program. It is the CME activity provider's responsibility to submit participant completion information to ACCME for the purpose of granting ABIM MOC credit. Once your MOC claim is submitted to the ACCME no modifications can be made to your overall credit claim. Participants can claim credit only once.<br><br><br>Join thousands of cardiology professionals using CATHSAP to maintain their certification and advance their knowledge.<br>
+[Purchase]<br><br><br>All our products are developed by top cardiovascular experts who bring real-world experience and cutting-edge research into this program.<br>
+[View Faculty]<br>
+Thank you to our dedicated faculty for making this an unparalleled learning resource!<br><br>This product was only made possible with the collaboration between the ACC and SCAI.<br>
+{LOGO}{LOGO}<br><br>Access you SAP from ACC's Learn APP<br>
+[App Store]<br>
+[Google Play]<br>
+<a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" target="_blank">Learn More | link</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/ultra-condensed/cathsap-ultra-condensed.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Ultra Condensed/CATHSAP -- Ultra Condensed.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:34:09 GMT</pubDate><enclosure url="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ACCSAP -- Ultra Condensed]]></title><description><![CDATA[ 
+ <br><br><br>ACCSAP is the most comprehensive resource for adult clinical cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>
+Available Credits:<br>
+CME | CNE | MOC | AAPA<br>[Quick Purchase][Launch]<br><br>
+<br>130 learning modules
+<br>50 video presentations
+<br>+600 questions with supportive references.
+<br><br>
+<br>Stay Licensed &amp; Certified<br>
+Earn 190+ CME/MOC credits – enough for all certification requirements for 5 years.
+<br>Pass Your Boards with Confidence<br>
+Understand the ABIM blueprint while gaining access case-based questions with rationale and references.
+<br>Escape the 10-year Exam<br>
+Get access to&nbsp;<a data-tooltip-position="top" aria-label="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" rel="noopener nofollow" class="external-link" href="http://127.0.0.1:4001/PrototypingACCorg/acc/SAP/#CMP" target="_blank">CMP™</a>, an alternative MOC assessment pathway,&nbsp;without the 10-year ABIM exam.
+<br>Case-Based Learning for Real-World Skills<br>
+Unlike traditional recall-based study methods, these questions&nbsp;focus on real-world clinical decision-making.
+<br>[+] Attention CardioSource+ Subscribers<br><br><br>CardioSource Plus&nbsp;does not include access&nbsp;to&nbsp;CMP<br>
+A&nbsp;personal subscription&nbsp;is&nbsp;required&nbsp;to access&nbsp;CMP.<br><br>Use the same account for both CardioSource Plus and your personal subscription to keep your progress in sync.<br><br>
+<br>Online: Enroll on the official website, where you'll be prompted to purchase the subscription.
+<br>By Phone: Call the support team at 800-253-4636, x5603, from 9:00 a.m. to 5:00 p.m. ET.
+<br><br><br>{Pricing Blocks}<br><br><br><br>
+<br>Customizable Learning:
+
+<br>Create custom quizzes to simulate Board exams.
+<br>Highlight and bookmark important content for quick reference.
+
+
+<br>Flexible Study Formats:
+
+<br>Text &amp; video learning options available.
+<br>Closed-captioned lectures for accessibility.
+<br>Print key materials to create flashcards.
+
+
+<br>Access Anywhere:
+
+<br>Study on any device with the web or mobile app.
+
+
+<br>Always Up to Date:
+
+<br>Get yearly content updates based on the latest research and guidelines.
+
+
+<br><br> ACCSAP Covers every major area of cardiovascular medicine, from Arrhythmias to Systemic Hypertension.<br><br>
+<br>Cardiology Fellows&nbsp;preparing for Board certification.
+<br>Practicing Cardiologists&nbsp;maintaining their certification.
+<br>Interventional Cardiology Teams, including physician assistants and advanced practice nurses.
+<br>NPs and PAs preparing for the&nbsp;CCKE&nbsp;– ACCSAP now serves as a study guide for this exam.
+<br><br>
+<br>How to Prepare for the Boards
+<br>Core Topics: Coronary Artery Disease, Arrhythmias, Heart Failure, Valvular Disease, etc.
+<br>Specialized Topics: Sports Cardiology, Pregnancy &amp; Cardiac Disease, Pharmacology, etc.
+<br> [+] See Full Table of Contents <br>
+<br>How to Prepare for the Boards
+<br>General Principles of Cardiovascular Medicine
+<br>Arrhythmias
+<br>Coronary Artery Disease
+<br>Heart Failure &amp; Cardiomyopathy
+<br>Valvular Disease
+<br>Pericardial Disease
+<br>Congenital Heart Disease
+<br>Vascular Diseases
+<br>Systemic Hypertension and Hypotension
+<br>Pulmonary Circulation Disorders
+<br>Systemic Disorders Affecting the Circulatory System
+<br>Miscellaneous
+
+<br>Cardiovascular Genetics
+<br>CPR, Post-Resuscitation Care
+<br>Cardiac Critical Care
+<br>Sleep Disordered Breathing
+<br>Sports Cardiology
+<br>Pregnancy and Cardiac Disease
+<br>Cardiovascular Operative Management
+<br>Pharmacology
+<br>General Principles of Cardiovascular Medicine
+
+
+<br>[+] Learner Objectives<br> Upon completion of this activity, learners should be able to:<br>
+<br>Identify knowledge gaps and target study to fill those gaps in preparation for the ABIM Certification/Maintenance of Certification Exam in Cardiovascular Disease.
+<br>Review and discuss one or more of the following to optimize the quality and provision of clinical care pertinent to the practice of cardiovascular medicine:<br>
+- Clinical and practice guidelines, recommendations and protocols<br>
+- Emerging research information and application to practice<br>
+- Quality and/or cost of care issues<br>
+- Multispecialty and multidisciplinary collaboration and communication<br>
+- Patient safety strategies<br>
+- Performance improvement<br>
+- Cultural competency<br>
+-<br>
+[+] CME/MOC Information
+<br><br><img alt="Joint Accreditation Statement" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" referrerpolicy="no-referrer"><br><br>In support of improving patient care, this activity has been planned and implemented by the American College of Cardiology Foundation (ACCF). ACCF is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.<br><br>The ACCF designates this enduring material for a maximum of&nbsp;198.5&nbsp;AMA PRA Category 1 Credits™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.<br><img alt="ABIM" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/CME_MOC_Logo.png" referrerpolicy="no-referrer"><br><br>Successful completion of this CME activity, which includes participation in the evaluation component, enables the participant to earn up to&nbsp;198.5 Medical Knowledge MOC&nbsp;points in the American Board of Internal Medicine's (ABIM) Maintenance of Certification (MOC) program. It is the CME activity provider's responsibility to submit participant completion information to ACCME for the purpose of granting ABIM MOC credit. Once your MOC claim is submitted to the ACCME no modifications can be made to your overall credit claim. Participants can claim credit only once.<br><br>The American College of Cardiology Foundation has been authorized by the American Academy of Physician Assistants (AAPA) to award AAPA Category 1 CME credit for activities planned in accordance with AAPA CME Criteria. This activity is designated&nbsp;198.5 Category 1 CME credits.<br><br>The ACCF designates this activity for&nbsp;198.5 CNE contact hours. Nurses should claim only the credit commensurate with the extent of their participation in the activity.<br><img alt="AAPA" src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/AAPA_Cat1_CME_logo.png" referrerpolicy="no-referrer"><br>AAPA Credit Designation Statement – Enduring Materials<br>
+The American College of Cardiology Foundation has been authorized by the American Academy of PAs (AAPA) to award AAPA Category 1 CME credit for activities planned in accordance with AAPA CME Criteria. This activity is designated for&nbsp;198.5 AAPA Category 1 CME credits. Approval is valid until February 5, 2025. PAs should only claim credit commensurate with the extent of their participation.<br><br><br>Join thousands of cardiology professionals using ACCSAP to maintain their certification and advance their knowledge.<br>
+[Purchase]<br><br><br>All our products are developed by top cardiovascular experts who bring real-world experience and cutting-edge research into this program.<br>
+[View Faculty]<br>
+Thank you to our dedicated faculty for making this an unparalleled learning resource!<br><br>Access you SAP from ACC's Learn APP<br>
+[App Store]<br>
+[Google Play]<br>
+<a data-tooltip-position="top" aria-label="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" rel="noopener nofollow" class="external-link" href="https://www.acc.org//-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2020/10/01/G20147-ACC-Lifelong-Learning-App-Info-Sheet.pdf" target="_blank">Learn More | link</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/ultra-condensed/accsap-ultra-condensed.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Ultra Condensed/ACCSAP -- Ultra Condensed.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:34:24 GMT</pubDate><enclosure url="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://www.acc.org/-/media/Non-Clinical/Images/Education-and-Meetings/Meetings/joint-accreditation-feature.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/untitled.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 14:10:42 GMT</pubDate></item><item><title><![CDATA[How to use]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=OSJ9MNZdN_E" target="_blank">https://www.youtube.com/watch?v=OSJ9MNZdN_E</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/sub-content/how-to-use.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/How to use.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 15:24:36 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Refactor the Pages for the CMP Product.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Linkage Report]]></title><description><![CDATA[ 
+ <br><a data-href="CMP" href="https://acc-style.github.io/BrainDump/work/acc/projects/cmp.html" class="internal-link" target="_self" rel="noopener nofollow">CMP</a><br><br>Maintenance-of-Certification-Information-Hub&gt;Collaborative-Maintenance-Pathway<br><br>Maintenance-of-Certification-Information-Hub&gt;Collaborative-Maintenance-Pathway-RETIRED<br><br>
+<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED" target="_blank"> Root </a> -- Unpublished --  0 Live Linkages
+
+<br>All Sub Pages are -- Unpublished and 0 Live Linkages.
+<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/After-Enrolling" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/After-Enrolling" target="_blank">After-Enrolling</a> -- Unpublished -- 0 Live Linkages
+<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-ADA-Policy" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-ADA-Policy" target="_blank">CMP-ADA-Policy</a> -- Unpublished -- 0 Live Linkages 
+<br>(CMP-Podcasts)[https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-Podcast] -- Unpublished -- Multi Linkages All retired versions.
+<br><a data-tooltip-position="top" aria-label="https:/author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/Need-Help-with-the-CMP" rel="noopener nofollow" class="external-link" href="https:/author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/Need-Help-with-the-CMP" target="_blank">Need-Help-with-the-CMP</a>
+<br><a class="internal-link" data-href="You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements" href="https://acc-style.github.io/BrainDump/You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements" target="_self" rel="noopener nofollow">//author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements</a> -- Unpublished  - [https://www.acc.org/Latest-in-Cardiology/Articles/2020/07/14/02/10/ACC-ABIM-Extend-Deadlines-For-Completing-2020-CMP-Requirements](Linkage 1)
+
+<br>Featured
+
+<br>Vanity MOCExtension points to a retired content /Sites/ACC/Home/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/FEATURES/2022/07/MOCExtension
+
+
+
+
+
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp/linkage-report.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP/Linkage Report.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp/cmp-ada-policy.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP/CMP-ADA-Policy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ <br><br>CardioSource Plus does not include access to the program. A personal subscription is required.<br><br>Use the same account for both CardioSource Plus and your personal subscription to keep your progress in sync.<br><br>
+<br>Online: Enroll on the official website, where you'll be prompted to purchase the subscription.
+<br>By Phone: Call the support team at 800-253-4636, x5603, from 9:00 a.m. to 5:00 p.m. ET.
+<br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/untitled.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
+ <br><a data-href="Front End Design at the College" href="https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html" class="internal-link" target="_self" rel="noopener nofollow">Front End Design at the College</a><br>
+<a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
+<a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a><br>Arches is the foundational design system employed by the American College of Cardiology (ACC). Leveraging advanced compiler techniques, Arches generates a multitude of variations that integrate with different frameworks and product brands. These variations are utilized across an array of products developed by the ACC.<br>In its basic form, Arches serves as a set of utility classes. When incorporated into a project with an existing style sheet, it can introduce new, non-destructive styling features. Additionally, Arches offers variants that seamlessly build on two popular frameworks currently in use at the College: Twitter Bootstrap<br><br>(bgcolor|border|cellpadding|cellspacing|valign|hspace|vspace|noshade|nowrap|size|style|class)=""*"<br>(bgcolor|border|cellpadding|cellspacing|valign|hspace|vspace|noshade|nowrap|size|style)=""*"<br><br><a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
+<a data-tooltip-position="top" aria-label="Arches Conversion" data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Conversion of ACC.org</a><br>
+<a data-href="Syncing CardioSmart with Asset.ACC.org" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/syncing-cardiosmart-with-asset.acc.org.html" class="internal-link" target="_self" rel="noopener nofollow">Syncing CardioSmart with Asset.ACC.org</a><br>
+<a data-href="Component Library in Vue" href="https://acc-style.github.io/BrainDump/work/acc/paper-crane/component-library-in-vue.html" class="internal-link" target="_self" rel="noopener nofollow">Component Library in Vue</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/arches.html</link><guid isPermaLink="false">Work/ACC/Arches/Arches.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 31 Mar 2025 14:35:49 GMT</pubDate></item><item><title><![CDATA[Facet Page]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui/no-facets/" data-href="https://acc-style.github.io/PrototypingACCorg/ui/no-facets/" href="https://acc-style.github.io/PrototypingACCorg/ui/no-facets/" class="internal-link" target="_self" rel="noopener nofollow">First Draft Prototype</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/facet-page.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Facet Page.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:13:11 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
  ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/untitled.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:11:18 GMT</pubDate></item><item><title><![CDATA[Product Pages]]></title><description><![CDATA[ 
  <br><br><br><br>
@@ -158,24 +643,7 @@ fetch priority =•”high,low”<br>be careful with preload.   ]]></description
 <a data-href="Single Page Applications" href="https://acc-style.github.io/BrainDump/work/acc/jira/single-page-applications.html" class="internal-link" target="_self" rel="noopener nofollow">Single Page Applications</a><br>
 <a data-href="AI Prompt - SCRUM TICKET" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-scrum-ticket.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - SCRUM TICKET</a><br>
 <a data-href="AI Prompt - Writing Editing" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-writing-editing.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - Writing Editing</a><br>
-<a data-href="AI Prompt - Conversion Tickets" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - Conversion Tickets</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener nofollow">#acc/guidance</a> <a href="https://acc-style.github.io/BrainDump?query=tag:requirements" class="tag" target="_blank" rel="noopener nofollow">#requirements</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc" class="tag" target="_blank" rel="noopener nofollow">#acc</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/acc-products.html</link><guid isPermaLink="false">Work/ACC/ACC Products.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:10:39 GMT</pubDate></item><item><title><![CDATA[Refactors]]></title><description><![CDATA[ 
- <br>A Refactor project at ACC.org focuses on systematically restructuring, optimizing, or modernizing a specific area of our digital ecosystem without altering its core functionality. The goal is to improve maintainability, performance, accessibility, and long-term sustainability while aligning with best practices in development, content management, and user experience.<br>This process often involves:<br>
-<br>Code Optimization: Enhancing front-end and back-end code to improve efficiency, reduce technical debt, and ensure compliance with modern standards.
-<br>Content Restructuring: Reviewing and reorganizing digital content within Sitecore or Sitefinity to streamline navigation, improve searchability, and eliminate redundancies.
-<br>Design &amp; UX Enhancements: Refining layouts, typography, and interaction patterns for better usability while maintaining consistency with ACC’s design systems, such as ARCHES and PaperCrane.
-<br>Performance Improvements: Optimizing page load times, reducing server requests, and implementing caching strategies to enhance user experience.
-<br>Integration &amp; API Updates: Ensuring seamless connectivity between ACC.org, CRM systems (ONECRM), and external platforms (HubSpot, analytics tools).
-<br>SEO &amp; Analytics Refinement: Updating metadata, link structures, and tracking mechanisms to improve visibility and data accuracy.
-<br>Each Refactor initiative is data-driven, with preliminary audits and analytics reports guiding decisions. The ultimate objective is to create a scalable, future-proof solution that enhances both user experience and backend manageability while preserving existing content and functionality.<br><br><br>
-<br><a data-tooltip-position="top" aria-label="https://whimsical.com/refactor-workflow-process-improved-version-8japDxeuPPjvJzSrjQk6ek" data-href="https://whimsical.com/refactor-workflow-process-improved-version-8japDxeuPPjvJzSrjQk6ek" href="https://whimsical.com/refactor-workflow-process-improved-version-8japDxeuPPjvJzSrjQk6ek" class="internal-link" target="_self" rel="noopener nofollow">Process Flow Diagram</a>
-<br>
-
-<br><a data-href="Pre Kickoff Collection Checklist" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html" class="internal-link" target="_self" rel="noopener nofollow">Pre Kickoff Collection Checklist</a>
-
-
-<br><a data-href="Refactor Process" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/refactor-process.html" class="internal-link" target="_self" rel="noopener nofollow">Refactor Process</a>
-<br><a data-href="Post Launch Checklist" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/post-launch-checklist.html" class="internal-link" target="_self" rel="noopener nofollow">Post Launch Checklist</a>
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/refactors.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Refactors.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:04:38 GMT</pubDate></item><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
+<a data-href="AI Prompt - Conversion Tickets" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - Conversion Tickets</a><br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/guidance" class="tag" target="_blank" rel="noopener nofollow">#acc/guidance</a> <a href="https://acc-style.github.io/BrainDump?query=tag:requirements" class="tag" target="_blank" rel="noopener nofollow">#requirements</a> <a href="https://acc-style.github.io/BrainDump?query=tag:acc" class="tag" target="_blank" rel="noopener nofollow">#acc</a> ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/acc-products.html</link><guid isPermaLink="false">Work/ACC/ACC Products.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:10:39 GMT</pubDate></item><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
  <br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/ux" class="tag" target="_blank" rel="noopener nofollow">#acc/ux</a><br>
 Before I start this, I want to ask you to "love this for 5 minutes," then you can react.<br>In the act of working with clients, we often take the content documents we are offered, and our reaction to doing IA is to take that content and shoehorn it into UI to satisfy the client.<br><br>For years and possibly decades, I have taken content documents and shaved off a word or two. However, I have come to realize the immense detriment I have been doing to the strategic approach to content creation by skipping to the UI answer. Instead of merely using 'Styled UI' to reshape, mutate, and hide content, we should focus on enhancing the content to bolster the user experience by solving the underlying issues that users might face with the content that was initially delivered.<br><br>I have a different opinion on why we shouldn't create wireframes this early in a project. For the sake of speed, we, myself included, often skip the IA step, rushing to return to the client with wireframes. We then cleverly force their content into blocks and hidden areas on the page. The downside of internalizing the IA within the team and applying layouts and UI to content is that it directs our conversations with business lines toward solutions, rather than focusing on improving the content on the site. This undermines the value that IA discussions can bring. Jumping straight to UI wires limits our ability to challenge how we receive and refine raw content. We should at least help them transform it before we start applying UI.<br>I want to ensure there is a moment when clients are encouraged and guided to evaluate the provided content. Content strategists can have the greatest impact by unlocking the potential for more effective and engaging content.<br><br>Here is an example of what happens when we skip straight to UI. The wireframes react to the content as it is provided. In the team's review of overwhelming content, we responded by using accordions in the UI to hide excess information. This was a superficial fix that masked the issue—that the content was too lengthy and not concise. No changes were made to the content itself because we had already hidden it.<br>Now we have introduced a situation where our users are forced into a discovery mode, and we haven't solved the problem that the content was too much or not aligned with the actual goals of the page.<br><br>To maximize the effectiveness of content, we need to change our approach. Instead of rushing into UI design, we should follow a structured process:<br>
 <br>Content Evaluation: Review the content before doing any design work. Understand the purpose of the content and whether it aligns with the project's goals.
@@ -391,64 +859,7 @@ Audit Requirements:
 <br><br><br>
 <br>If any unexpected issues arise (e.g., restricted permissions, missing content, pages that are set to unpublishable), flag them for review.
 <br>The audit results will help guide the next steps in the refactor efforts.
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Existing Website Pages &amp; Content Inventory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 17:30:11 GMT</pubDate></item><item><title><![CDATA[Pre Kickoff Collection Checklist]]></title><description><![CDATA[ 
- <br>At the start of all new project review this checklist to ensure a successful kickoff<br><br>
-<br> Completed Project Intake Form (submitted on the Monday Platform)
-<br>List of Key Stakeholders (Client SME, Marketing, EDSCx, Analytics, Web Production)
-
-<br>EDSCx - <a data-href="Jackie Pysarchuk" href="https://acc-style.github.io/BrainDump/_coworkers/jackie-pysarchuk.html" class="internal-link" target="_self" rel="noopener nofollow">Jackie Pysarchuk</a>, <a data-href="Rowena Enatsky" href="https://acc-style.github.io/BrainDump/_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener nofollow">Rowena Enatsky</a>, <a data-href="Matt Watier" href="https://acc-style.github.io/BrainDump/_coworkers/matt-watier.html" class="internal-link" target="_self" rel="noopener nofollow">Matt Watier</a>
-<br>SME - Defined at Project
-<br>Marketing - Defined at Project
-<br>Analytics - <a data-href="Carol Johnson" href="https://acc-style.github.io/BrainDump/_coworkers/carol-johnson.html" class="internal-link" target="_self" rel="noopener nofollow">Carol Johnson</a> or <a data-href="Xiaodong Hou" href="https://acc-style.github.io/BrainDump/_coworkers/xiaodong-hou.html" class="internal-link" target="_self" rel="noopener nofollow">Xiaodong Hou</a>
-<br>Web Production - <a data-href="Tatyana Kelmanson" href="https://acc-style.github.io/BrainDump/_coworkers/tatyana-kelmanson.html" class="internal-link" target="_self" rel="noopener nofollow">Tatyana Kelmanson</a>
-
-
-<br>Create all appropriate tickets for Analytics Reports, and Web Production Reports. 
-<br>Email to MarCom and SME with their responsible data points to be collected.
-<br><br><br>
-<br>Audience &amp; User Research Data (personas, analytics, behavior insights)
-
-<br>UX Impressions and audit of the exposed content UX
-<br>Mouseflow Recordings and Analysis
-
-
-<br>List of Enterprise Content Directed Alterations to current existing product.<br>
-More Direct, What, who, when, why....
-<br>Project Folder Creation
-
-<br>**NEW Content Collection Document
-<br>Process Flows &amp; User Journeys (if applicable)
-
-
-<br><br>
-<br> Business Goals &amp; Objectives
-
-<br>KPIs for Success Measurement
-
-
-<br>User Goals &amp; Objectives
-
-<br>Conversion Points/Success Moments for User
-
-
-<br> Project Timeline &amp; Deadlines<br>
-This will effect proposed solutions or require management override to clear the way.
-<br>Any and All Vanities to Project
-<br>Any and All Email Communications to users while on boarding and or using the product.
-<br><br>
-<br><a data-href="Current Analytics running on Project Scope" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/current-analytics-running-on-project-scope.html" class="internal-link" target="_self" rel="noopener nofollow">Current Analytics running on Project Scope</a><br>
-current analytics of the section being refactored
-<br><br>
-<br> <a data-href="Existing Website Pages &amp; Content Inventory" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html" class="internal-link" target="_self" rel="noopener nofollow">Existing Website Pages &amp; Content Inventory</a><br>
-current content of the section being refactored
-<br><br>
-<br>Any and All Marketing Collateral that directs Users to or about the current project scope.
-<br>Any Marketing Publishing Schedules for email, social, print, in person, videos
-<br><br><br><br>
-<br> Wireframes &amp; Page Layouts (existing or new wireframes for page structure)
-<br> Branding &amp; UI Guidelines (standards from Arches)
-<br> Required Artwork &amp; Images (logos, banners, infographics, or other assets)
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Pre Kickoff Collection Checklist.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:00:13 GMT</pubDate></item><item><title><![CDATA[Post Launch Checklist]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Existing Website Pages &amp; Content Inventory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 17:30:11 GMT</pubDate></item><item><title><![CDATA[Post Launch Checklist]]></title><description><![CDATA[ 
  <br>During the window for Refactor Just Published the following elements should be looked at and checked of to confirm that the baseline of Quality Assurance against a new publication.<br>
 <br>Main Navigation &amp; Footer Link Navigation
 <br>Vanity Link Check
@@ -1141,59 +1552,7 @@ Notes for Joint Development Meeting:
 References for Article Types: <a data-tooltip-position="top" aria-label="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" rel="noopener nofollow" class="external-link" href="https://accorg-my.sharepoint.com/:w:/g/personal/renatsky_acc_org/ERRVSLf_islEk3XTrnPm-wIBD7DZMd2iMWmDqUU_Lzf2yQ?wdOrigin=TEAMS-ELECTRON.p2p_ns.bim&amp;wdExp=TEAMS-CONTROL&amp;wdhostclicktime=1705592134477&amp;web=1" target="_blank">LiC Article Templates.docx (sharepoint.com)</a>
 
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/tickets/article-children-rendering.html</link><guid isPermaLink="false">Work/ACC/Projects/Tickets/Article Children Rendering.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 20 Sep 2024 18:46:50 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Modernizing the Product Pages with UX and EDS Best Practices.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPs.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 11 Mar 2025 18:33:31 GMT</pubDate></item><item><title><![CDATA[Ultra Condensed]]></title><description><![CDATA[ 
- <br><br><br>ACCSAP is the most comprehensive resource for adult clinical cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>
-[Quick Purchase][Launch]<br><br>
-<br>Stay Licensed &amp; Certified:<br>
-Earn 190+ CME/MOC credits – enough for all certification requirements for 5 years.
-<br>Pass Your Boards with Confidence:<br>
-Understand the ABIM blueprint while gaining access hundreds case-based questions with rationale, references, and text links.
-<br>No 10-Year Exam? Yes!<br>
-ACCSAP offers the Collaborative Maintenance Pathway (CMP) for those who want to meet their MOC assessment requirement without the 10-year ABIM exam.<br>
-Attention CardioSource + subscribers
-<br>Case-Based Learning for Real-World Skills:<br>
-Unlike traditional recall-based study methods, ACCSAP questions focus on real-world clinical decision-making.
-<br><br><br><br>
-<br>Customizable Learning:
-
-<br>Create custom quizzes to simulate Board exams.
-<br>Highlight and bookmark important content for quick reference.
-
-
-<br>Flexible Study Formats:
-
-<br>Text &amp; video learning options available.
-<br>Closed-captioned lectures for accessibility.
-<br>Print key materials to create flashcards.
-
-
-<br>Access Anywhere:
-
-<br>Study on any device with the web or mobile app.
-
-
-<br>Always Up to Date:
-
-<br>Get yearly content updates based on the latest research and guidelines.
-
-
-<br><br>ACCSAP is specifically Designed for:<br>
-<br>Cardiology Fellows preparing for Board certification.
-<br>Practicing Cardiologists maintaining their certification.
-<br>Interventional Cardiology Teams, including physician assistants and advanced practice nurses.
-<br>NPs and PAs preparing for the CCKE (Certified Cardiovascular Knowledge Examination) – ACCSAP now serves as a study guide for this exam.
-<br><br><br>
-<br>130 learning modules
-<br>50 video presentations
-<br>+600 questions with supportive references.
-<br><br> Covers every major area of cardiovascular medicine, from Arrhythmias to Systemic Hypertension.<br><br>
-<br>How to Prepare for the Boards
-<br>Core Topics: Coronary Artery Disease, Arrhythmias, Heart Failure, Valvular Disease, etc.
-<br>Specialized Topics: Sports Cardiology, Pregnancy &amp; Cardiac Disease, Pharmacology, etc.<br>
-[+] See Full Table of Contents<br>
-[+] Learner Objectives
-<br><br><br>Join thousands of cardiology professionals using ACCSAP to maintain their certification and advance their knowledge.<br>
-[Purchase]<br><br><br>ACCSAP is developed by top cardiovascular experts who bring real-world experience and cutting-edge research into this program.<br>Thank you to our dedicated faculty for making this an unparalleled learning resource!]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/ultra-condensed.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Ultra Condensed.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[Features]]></title><description><![CDATA[ 
+ Modernizing the Product Pages with UX and EDS Best Practices.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPs.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 11 Mar 2025 18:33:31 GMT</pubDate></item><item><title><![CDATA[Features]]></title><description><![CDATA[ 
  <br><br>{ACCSAP} Features lectures from ACC's Board Review and expanded resources for NPs and PAs. Serves as a study tool for the CCKE.[LINK]<br>
 {CATHSAP} Features lectures from ACC’s Interventional Board Review course.  <br><br><br>Earn CME and MOC credit to stay licensed and certified.<br><br>Focuses on case-based questions rather than simple recall.<br><br>Each question includes links to additional resources.<br><br>Yearly updates incorporate the latest science, guidelines, and trials.<br><br>The Self-Assessment Programs (SAPs) are online and offer features to improve your learning:<br><br>Easily revisit key questions.<br><br>Print text and questions to create flashcards for studying.<br><br>Lectures feature closed captions to help with understanding.<br><br>Access the content from any device, anywhere.<br><br>Text and video options for flexible learning.<br><br>Simulate board exams for better preparation with custom questions.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/sub-content/features.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/Features.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 11 Mar 2025 18:33:29 GMT</pubDate></item><item><title><![CDATA[Made Possible By]]></title><description><![CDATA[ 
  <br><br>Thank you to the editors, authors and question writers who make this product possible:<br>{HEAD SHOT}<br>
@@ -3672,13 +4031,7 @@ Further Icon Definition allow for even easier recognition in the back end will b
 <br>Created::  5:37 PM - September 16, 2024
 <br>Updated::  5:55 PM - September 16, 2024
 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Arches Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 16 Sep 2024 21:55:56 GMT</pubDate></item><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
- <br><a data-href="Front End Design at the College" href="https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html" class="internal-link" target="_self" rel="noopener nofollow">Front End Design at the College</a><br>
-<a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
-<a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a><br>Arches is the foundational design system employed by the American College of Cardiology (ACC). Leveraging advanced compiler techniques, Arches generates a multitude of variations that integrate with different frameworks and product brands. These variations are utilized across an array of products developed by the ACC.<br>In its basic form, Arches serves as a set of utility classes. When incorporated into a project with an existing style sheet, it can introduce new, non-destructive styling features. Additionally, Arches offers variants that seamlessly build on two popular frameworks currently in use at the College: Twitter Bootstrap<br><br><a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
-<a data-tooltip-position="top" aria-label="Arches Conversion" data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Conversion of ACC.org</a><br>
-<a data-href="Syncing CardioSmart with Asset.ACC.org" href="https://acc-style.github.io/BrainDump/work/acc/projects/_archived/syncing-cardiosmart-with-asset.acc.org.html" class="internal-link" target="_self" rel="noopener nofollow">Syncing CardioSmart with Asset.ACC.org</a><br>
-<a data-href="Component Library in Vue" href="https://acc-style.github.io/BrainDump/work/acc/paper-crane/component-library-in-vue.html" class="internal-link" target="_self" rel="noopener nofollow">Component Library in Vue</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/arches.html</link><guid isPermaLink="false">Work/ACC/Arches/Arches.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 16 Sep 2024 21:55:57 GMT</pubDate></item><item><title><![CDATA[Things are broken or funky list]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html</link><guid isPermaLink="false">Work/ACC/Arches/Conversion/Arches Conversion.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 16 Sep 2024 21:55:56 GMT</pubDate></item><item><title><![CDATA[Things are broken or funky list]]></title><description><![CDATA[ 
  <br>
 <br>from the create case there either shouldn't be top buttons or at least events should be removed.
 <br>Join Pages on SF are from November 2023. 
