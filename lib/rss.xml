@@ -1,4 +1,87 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 18:40:06 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 18:40:05 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Refactors]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Apr 2025 19:15:55 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Apr 2025 19:15:54 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Post Launch Checklist]]></title><description><![CDATA[ 
+ <br>During the window for Refactor Just Published the following elements should be looked at and checked of to confirm that the baseline of Quality Assurance against a new publication.<br>
+<br>Main Navigation &amp; Footer Link Navigation
+<br>Vanity Link Check
+<br>Content Check
+<br>Links in New Pages Check
+<br>Conversion Path Check
+<br>Inform Analytics of Jira Ticket Timing for After Refactor
+<br>Capture Screen Grabs and Save in Team Before After Collection
+<br>Check in with SMEs see if any corrections are needed.
+<br>Run through external Linkage report
+<br>Source View of html should search for author links
+<br>Check page in mobile &amp; tablet views
+<br>Do the above step on a phone :-)
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/post-launch-checklist.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Post Launch Checklist.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 03 Apr 2025 19:15:44 GMT</pubDate></item><item><title><![CDATA[CathSAP 5: Discover How To Use The Question Engine]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=OSJ9MNZdN_E" target="_blank">https://www.youtube.com/watch?v=OSJ9MNZdN_E</a><br><br><br>00:00:04.759 cats at 5:00 lets you use all 560<br>
+00:00:08.519 questions any way that meets your needs<br>
+00:00:10.860 each of the nine topics in the main<br>
+00:00:12.809 dashboard has associated questions<br>
+00:00:15.210 simply click on the questions button<br>
+00:00:17.670 next to the topic to begin you can build<br>
+00:00:21.510 a quiz to meet your individual needs by<br>
+00:00:23.970 customizing study or test mode study<br>
+00:00:27.359 topics and question types simulate a<br>
+00:00:32.070 board exam session by auto generating 60<br>
+00:00:35.219 random questions you have two hours to<br>
+00:00:37.860 complete and will receive a score sheet<br>
+00:00:39.750 with your results the quiz and exam<br>
+00:00:43.410 history allows you to resume attempts<br>
+00:00:45.960 not yet completed you may sort by date<br>
+00:00:48.829 mode and score as you answer questions<br>
+00:00:52.710 within the product the topic dashboard<br>
+00:00:55.320 and answer sheets update to reflect your<br>
+00:00:57.360 progress and within each topic you could<br>
+00:01:00.390 easily revisit questions you've got<br>
+00:01:02.010 wrong to see whether you can now answer<br>
+00:01:04.500 them correctly cats at five redesigned<br>
+00:01:08.939 to meet your needs<br>
+00:01:11.450 ACC education always learning<br>
+00:01:15.320 [Music]<br>
+00:01:17.330 you<br>
+00:01:19.430 [Music]]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/sub-content/how-to-use.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/How to use.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 02 Apr 2025 20:52:56 GMT</pubDate></item><item><title><![CDATA[Linkage Report]]></title><description><![CDATA[ 
+ <br><a data-href="CMP" href="https://acc-style.github.io/BrainDump/work/acc/projects/cmp.html" class="internal-link" target="_self" rel="noopener nofollow">CMP</a><br><br>Maintenance-of-Certification-Information-Hub&gt;Collaborative-Maintenance-Pathway<br><br>Maintenance-of-Certification-Information-Hub&gt;Collaborative-Maintenance-Pathway-RETIRED<br><br>
+<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED" target="_blank"> Root </a> -- Unpublished --  0 Live Linkages
+
+<br>All Sub Pages are -- Unpublished and 0 Live Linkages.
+<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/After-Enrolling" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/After-Enrolling" target="_blank">After-Enrolling</a> -- Unpublished -- 0 Live Linkages
+<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-ADA-Policy" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-ADA-Policy" target="_blank">CMP-ADA-Policy</a> -- Unpublished -- 0 Live Linkages 
+<br>(CMP-Podcasts)[https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-Podcast] -- Unpublished -- Multi Linkages All retired versions.
+<br><a data-tooltip-position="top" aria-label="https:/author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/Need-Help-with-the-CMP" rel="noopener nofollow" class="external-link" href="https:/author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/Need-Help-with-the-CMP" target="_blank">Need-Help-with-the-CMP</a>
+<br><a class="internal-link" data-href="You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements" href="https://acc-style.github.io/BrainDump/You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements" target="_self" rel="noopener nofollow">//author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements</a> -- Unpublished  - [https://www.acc.org/Latest-in-Cardiology/Articles/2020/07/14/02/10/ACC-ABIM-Extend-Deadlines-For-Completing-2020-CMP-Requirements](Linkage 1)
+
+<br>Featured
+
+<br>Vanity MOCExtension points to a retired content /Sites/ACC/Home/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/FEATURES/2022/07/MOCExtension
+
+
+
+
+
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp/linkage-report.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP/Linkage Report.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp/cmp-ada-policy.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP/CMP-ADA-Policy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ Refactor the Pages for the CMP Product.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ <br><br>CardioSource Plus does not include access to the program. A personal subscription is required.<br><br>Use the same account for both CardioSource Plus and your personal subscription to keep your progress in sync.<br><br>
+<br>Online: Enroll on the official website, where you'll be prompted to purchase the subscription.
+<br>By Phone: Call the support team at 800-253-4636, x5603, from 9:00 a.m. to 5:00 p.m. ET.
+<br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/untitled.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Refactors]]></title><description><![CDATA[ 
  <br>A Refactor project at ACC.org focuses on systematically restructuring, optimizing, or modernizing a specific area of our digital ecosystem without altering its core functionality. The goal is to improve maintainability, performance, accessibility, and long-term sustainability while aligning with best practices in development, content management, and user experience.<br>This process often involves:<br>
 <br>Code Optimization: Enhancing front-end and back-end code to improve efficiency, reduce technical debt, and ensure compliance with modern standards.
 <br>Content Restructuring: Reviewing and reorganizing digital content within Sitecore or Sitefinity to streamline navigation, improve searchability, and eliminate redundancies.
@@ -434,50 +517,7 @@ Thank you to our dedicated faculty for making this an unparalleled learning reso
 <br>Outline: 
 <br><br>
 <br>Additional Notes: 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/untitled.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 14:10:42 GMT</pubDate></item><item><title><![CDATA[How to use]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=OSJ9MNZdN_E" target="_blank">https://www.youtube.com/watch?v=OSJ9MNZdN_E</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/sub-content/how-to-use.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Sub Content/How to use.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 15:24:36 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- Refactor the Pages for the CMP Product.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Linkage Report]]></title><description><![CDATA[ 
- <br><a data-href="CMP" href="https://acc-style.github.io/BrainDump/work/acc/projects/cmp.html" class="internal-link" target="_self" rel="noopener nofollow">CMP</a><br><br>Maintenance-of-Certification-Information-Hub&gt;Collaborative-Maintenance-Pathway<br><br>Maintenance-of-Certification-Information-Hub&gt;Collaborative-Maintenance-Pathway-RETIRED<br><br>
-<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED" target="_blank"> Root </a> -- Unpublished --  0 Live Linkages
-
-<br>All Sub Pages are -- Unpublished and 0 Live Linkages.
-<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/After-Enrolling" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/After-Enrolling" target="_blank">After-Enrolling</a> -- Unpublished -- 0 Live Linkages
-<br><a data-tooltip-position="top" aria-label="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-ADA-Policy" rel="noopener nofollow" class="external-link" href="https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-ADA-Policy" target="_blank">CMP-ADA-Policy</a> -- Unpublished -- 0 Live Linkages 
-<br>(CMP-Podcasts)[https://author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/CMP-Podcast] -- Unpublished -- Multi Linkages All retired versions.
-<br><a data-tooltip-position="top" aria-label="https:/author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/Need-Help-with-the-CMP" rel="noopener nofollow" class="external-link" href="https:/author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/Need-Help-with-the-CMP" target="_blank">Need-Help-with-the-CMP</a>
-<br><a class="internal-link" data-href="You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements" href="https://acc-style.github.io/BrainDump/You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements" target="_self" rel="noopener nofollow">//author-www.acc.org/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/You-Have-Extra-Time-to-Complete-Your-2020-CMP-Requirements</a> -- Unpublished  - [https://www.acc.org/Latest-in-Cardiology/Articles/2020/07/14/02/10/ACC-ABIM-Extend-Deadlines-For-Completing-2020-CMP-Requirements](Linkage 1)
-
-<br>Featured
-
-<br>Vanity MOCExtension points to a retired content /Sites/ACC/Home/Education-and-Meetings/Maintenance-of-Certification-Information-Hub/Collaborative-Maintenance-Pathway-RETIRED/FEATURES/2022/07/MOCExtension
-
-
-
-
-
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp/linkage-report.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP/Linkage Report.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- <br><br>
-<br>Summary: 
-<br><br>
-<br>Hypothesis: 
-<br><br>
-<br>Outline: 
-<br><br>
-<br>Additional Notes: 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/cmp/cmp-ada-policy.html</link><guid isPermaLink="false">Work/ACC/Projects/CMP/CMP-ADA-Policy.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
- <br><br>CardioSource Plus does not include access to the program. A personal subscription is required.<br><br>Use the same account for both CardioSource Plus and your personal subscription to keep your progress in sync.<br><br>
-<br>Online: Enroll on the official website, where you'll be prompted to purchase the subscription.
-<br>By Phone: Call the support team at 800-253-4636, x5603, from 9:00 a.m. to 5:00 p.m. ET.
-<br><br>
-<br>Summary: 
-<br><br>
-<br>Hypothesis: 
-<br><br>
-<br>Outline: 
-<br><br>
-<br>Additional Notes: 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/untitled.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:40:06 GMT</pubDate></item><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/untitled.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/Untitled.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 14:10:42 GMT</pubDate></item><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
  <br><a data-href="Front End Design at the College" href="https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html" class="internal-link" target="_self" rel="noopener nofollow">Front End Design at the College</a><br>
 <a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
 <a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a><br>Arches is the foundational design system employed by the American College of Cardiology (ACC). Leveraging advanced compiler techniques, Arches generates a multitude of variations that integrate with different frameworks and product brands. These variations are utilized across an array of products developed by the ACC.<br>In its basic form, Arches serves as a set of utility classes. When incorporated into a project with an existing style sheet, it can introduce new, non-destructive styling features. Additionally, Arches offers variants that seamlessly build on two popular frameworks currently in use at the College: Twitter Bootstrap<br><br>(bgcolor|border|cellpadding|cellspacing|valign|hspace|vspace|noshade|nowrap|size|style|class)=""*"<br>(bgcolor|border|cellpadding|cellspacing|valign|hspace|vspace|noshade|nowrap|size|style)=""*"<br><br><a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
@@ -859,19 +899,7 @@ Audit Requirements:
 <br><br><br>
 <br>If any unexpected issues arise (e.g., restricted permissions, missing content, pages that are set to unpublishable), flag them for review.
 <br>The audit results will help guide the next steps in the refactor efforts.
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Existing Website Pages &amp; Content Inventory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 17:30:11 GMT</pubDate></item><item><title><![CDATA[Post Launch Checklist]]></title><description><![CDATA[ 
- <br>During the window for Refactor Just Published the following elements should be looked at and checked of to confirm that the baseline of Quality Assurance against a new publication.<br>
-<br>Main Navigation &amp; Footer Link Navigation
-<br>Vanity Link Check
-<br>Content Check
-<br>Links in New Pages Check
-<br>Conversion Path Check
-<br>Inform Analytics of Jira Ticket Timing for After Refactor
-<br>Capture Screen Grabs and Save in Team Before After Collection
-<br>Check in with SMEs see if any corrections are needed.
-<br>Run through external Linkage report
-<br>Source View of html should search for author links
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/post-launch-checklist.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Post Launch Checklist.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 17:15:07 GMT</pubDate></item><item><title><![CDATA[Process Flow for Refactors]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Existing Website Pages &amp; Content Inventory.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 17:30:11 GMT</pubDate></item><item><title><![CDATA[Process Flow for Refactors]]></title><description><![CDATA[ 
  <br><br><br>A refactor is an effort to apply enterprise design and strategic guidance to a small section of pages or a specific zone of the website. A refactor enforces:<br>
 <br>Goal setting<br>
 
