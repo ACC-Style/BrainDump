@@ -1,4 +1,63 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Apr 2025 19:15:55 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Apr 2025 19:15:54 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Post Launch Checklist]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Apr 2025 15:02:27 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Apr 2025 15:02:26 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Pre Kickoff Collection Checklist]]></title><description><![CDATA[ 
+ <br>At the start of all new project review this checklist to ensure a successful kickoff<br><br>
+<br> Completed Project Intake Form (submitted on the Monday Platform)
+<br>List of Key Stakeholders (Client SME, Marketing, EDSCx, Analytics, Web Production)
+
+<br>EDSCx - <a data-href="Jackie Pysarchuk" href="https://acc-style.github.io/BrainDump/_coworkers/jackie-pysarchuk.html" class="internal-link" target="_self" rel="noopener nofollow">Jackie Pysarchuk</a>, <a data-href="Rowena Enatsky" href="https://acc-style.github.io/BrainDump/_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener nofollow">Rowena Enatsky</a>, <a data-href="Matt Watier" href="https://acc-style.github.io/BrainDump/_coworkers/matt-watier.html" class="internal-link" target="_self" rel="noopener nofollow">Matt Watier</a>
+<br>SME - Defined at Project
+<br>Marketing - Defined at Project
+<br>Analytics - <a data-href="Carol Johnson" href="https://acc-style.github.io/BrainDump/_coworkers/carol-johnson.html" class="internal-link" target="_self" rel="noopener nofollow">Carol Johnson</a> or <a data-href="Xiaodong Hou" href="https://acc-style.github.io/BrainDump/_coworkers/xiaodong-hou.html" class="internal-link" target="_self" rel="noopener nofollow">Xiaodong Hou</a>
+<br>Web Production - <a data-href="Tatyana Kelmanson" href="https://acc-style.github.io/BrainDump/_coworkers/tatyana-kelmanson.html" class="internal-link" target="_self" rel="noopener nofollow">Tatyana Kelmanson</a>
+
+
+<br>Create all appropriate tickets for Analytics Reports, and Web Production Reports. 
+<br>Email to MarCom and SME with their responsible data points to be collected.
+<br><br><br>
+<br>Audience &amp; User Research Data (personas, analytics, behavior insights)
+
+<br>UX Impressions and audit of the exposed content UX
+<br>Mouseflow Recordings and Analysis
+
+
+<br>List of Enterprise Content Directed Alterations to current existing product.<br>
+More Direct, What, who, when, why....
+<br>Project Folder Creation
+
+<br>**NEW Content Collection Document
+<br>Process Flows &amp; User Journeys (if applicable)
+<br>Capture Screen Grabs of the pages effected place in <a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:f:/s/IT-HomePageRedesign/Evr-YE7OIa5PizUsyn6-qI8Bv-8ktUf2U9uawWLEbsEymQ?e=8MANPG" rel="noopener nofollow" class="external-link" href="https://accorg.sharepoint.com/:f:/s/IT-HomePageRedesign/Evr-YE7OIa5PizUsyn6-qI8Bv-8ktUf2U9uawWLEbsEymQ?e=8MANPG" target="_blank">Before-And-After</a>
+
+
+<br><br>
+<br> Business Goals &amp; Objectives
+
+<br>KPIs for Success Measurement
+
+
+<br>User Goals &amp; Objectives
+
+<br>Conversion Points/Success Moments for User
+
+
+<br> Project Timeline &amp; Deadlines<br>
+This will effect proposed solutions or require management override to clear the way.
+<br>Any and All Vanities to Project
+<br>Any and All Email Communications to users while on boarding and or using the product.
+<br><br>
+<br><a data-href="Current Analytics running on Project Scope" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/current-analytics-running-on-project-scope.html" class="internal-link" target="_self" rel="noopener nofollow">Current Analytics running on Project Scope</a><br>
+current analytics of the section being refactored
+<br>Collect any relevant Foresee quotes around the product.
+<br><br>
+<br> <a data-href="Existing Website Pages &amp; Content Inventory" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html" class="internal-link" target="_self" rel="noopener nofollow">Existing Website Pages &amp; Content Inventory</a><br>
+current content of the section being refactored
+<br><br>
+<br>Any and All Marketing Collateral that directs Users to or about the current project scope.
+<br>Any Marketing Publishing Schedules for email, social, print, in person, videos
+<br><br><br><br>
+<br> Wireframes &amp; Page Layouts (existing or new wireframes for page structure)
+<br> Branding &amp; UI Guidelines (standards from Arches)
+<br> Required Artwork &amp; Images (logos, banners, infographics, or other assets)
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Pre Kickoff Collection Checklist.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 04 Apr 2025 15:01:21 GMT</pubDate></item><item><title><![CDATA[Post Launch Checklist]]></title><description><![CDATA[ 
  <br>During the window for Refactor Just Published the following elements should be looked at and checked of to confirm that the baseline of Quality Assurance against a new publication.<br>
 <br>Main Navigation &amp; Footer Link Navigation
 <br>Vanity Link Check
@@ -94,65 +153,7 @@
 <br><a data-href="Pre Kickoff Collection Checklist" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html" class="internal-link" target="_self" rel="noopener nofollow">Pre Kickoff Collection Checklist</a>
 <br><a data-href="Refactor Process" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/refactor-process.html" class="internal-link" target="_self" rel="noopener nofollow">Refactor Process</a>
 <br><a data-href="Post Launch Checklist" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/post-launch-checklist.html" class="internal-link" target="_self" rel="noopener nofollow">Post Launch Checklist</a>
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/refactors.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Refactors.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:15:21 GMT</pubDate></item><item><title><![CDATA[Pre Kickoff Collection Checklist]]></title><description><![CDATA[ 
- <br>At the start of all new project review this checklist to ensure a successful kickoff<br><br>
-<br> Completed Project Intake Form (submitted on the Monday Platform)
-<br>List of Key Stakeholders (Client SME, Marketing, EDSCx, Analytics, Web Production)
-
-<br>EDSCx - <a data-href="Jackie Pysarchuk" href="https://acc-style.github.io/BrainDump/_coworkers/jackie-pysarchuk.html" class="internal-link" target="_self" rel="noopener nofollow">Jackie Pysarchuk</a>, <a data-href="Rowena Enatsky" href="https://acc-style.github.io/BrainDump/_coworkers/rowena-enatsky.html" class="internal-link" target="_self" rel="noopener nofollow">Rowena Enatsky</a>, <a data-href="Matt Watier" href="https://acc-style.github.io/BrainDump/_coworkers/matt-watier.html" class="internal-link" target="_self" rel="noopener nofollow">Matt Watier</a>
-<br>SME - Defined at Project
-<br>Marketing - Defined at Project
-<br>Analytics - <a data-href="Carol Johnson" href="https://acc-style.github.io/BrainDump/_coworkers/carol-johnson.html" class="internal-link" target="_self" rel="noopener nofollow">Carol Johnson</a> or <a data-href="Xiaodong Hou" href="https://acc-style.github.io/BrainDump/_coworkers/xiaodong-hou.html" class="internal-link" target="_self" rel="noopener nofollow">Xiaodong Hou</a>
-<br>Web Production - <a data-href="Tatyana Kelmanson" href="https://acc-style.github.io/BrainDump/_coworkers/tatyana-kelmanson.html" class="internal-link" target="_self" rel="noopener nofollow">Tatyana Kelmanson</a>
-
-
-<br>Create all appropriate tickets for Analytics Reports, and Web Production Reports. 
-<br>Email to MarCom and SME with their responsible data points to be collected.
-<br><br><br>
-<br>Audience &amp; User Research Data (personas, analytics, behavior insights)
-
-<br>UX Impressions and audit of the exposed content UX
-<br>Mouseflow Recordings and Analysis
-
-
-<br>List of Enterprise Content Directed Alterations to current existing product.<br>
-More Direct, What, who, when, why....
-<br>Project Folder Creation
-
-<br>**NEW Content Collection Document
-<br>Process Flows &amp; User Journeys (if applicable)
-<br>Capture Screen Grabs of the pages effected place in <a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:f:/s/IT-HomePageRedesign/Evr-YE7OIa5PizUsyn6-qI8Bv-8ktUf2U9uawWLEbsEymQ?e=8MANPG" rel="noopener nofollow" class="external-link" href="https://accorg.sharepoint.com/:f:/s/IT-HomePageRedesign/Evr-YE7OIa5PizUsyn6-qI8Bv-8ktUf2U9uawWLEbsEymQ?e=8MANPG" target="_blank">Before-And-After</a>
-
-
-<br><br>
-<br> Business Goals &amp; Objectives
-
-<br>KPIs for Success Measurement
-
-
-<br>User Goals &amp; Objectives
-
-<br>Conversion Points/Success Moments for User
-
-
-<br> Project Timeline &amp; Deadlines<br>
-This will effect proposed solutions or require management override to clear the way.
-<br>Any and All Vanities to Project
-<br>Any and All Email Communications to users while on boarding and or using the product.
-<br><br>
-<br><a data-href="Current Analytics running on Project Scope" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/current-analytics-running-on-project-scope.html" class="internal-link" target="_self" rel="noopener nofollow">Current Analytics running on Project Scope</a><br>
-current analytics of the section being refactored
-<br><br>
-<br> <a data-href="Existing Website Pages &amp; Content Inventory" href="https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/existing-website-pages-&amp;-content-inventory.html" class="internal-link" target="_self" rel="noopener nofollow">Existing Website Pages &amp; Content Inventory</a><br>
-current content of the section being refactored
-<br><br>
-<br>Any and All Marketing Collateral that directs Users to or about the current project scope.
-<br>Any Marketing Publishing Schedules for email, social, print, in person, videos
-<br><br><br><br>
-<br> Wireframes &amp; Page Layouts (existing or new wireframes for page structure)
-<br> Branding &amp; UI Guidelines (standards from Arches)
-<br> Required Artwork &amp; Images (logos, banners, infographics, or other assets)
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Pre Kickoff Collection Checklist.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 14 Mar 2025 12:36:38 GMT</pubDate></item><item><title><![CDATA[FAQ]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/structure-and-content-guidance/refactor/refactors.html</link><guid isPermaLink="false">Work/ACC/Structure and Content Guidance/Refactor/Refactors.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 13 Mar 2025 18:15:21 GMT</pubDate></item><item><title><![CDATA[FAQ]]></title><description><![CDATA[ 
  <br><br>The expiration date is the last date that you can claim credit for the current version of the topic. The day after the expiration date, ACC will publish a new version of the topic that will offer brand new credit. To claim the new credit, you simply have to answer the newly published practice questions for that topic.<br><br>Rolling. Each topic's Term of Approval/Date of CME &amp; MOC Expiration are displayed on the product's dashboard.<br><br>You may receive a full refund by canceling your order within 7 days of purchase. Claiming any type of credit for the product during that time will make you ineligible for a refund. No refunds or term adjustments will be permitted after the first 7 days of purchase.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/saps/faq.html</link><guid isPermaLink="false">Work/ACC/Projects/SAPS/FAQ.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 01 Apr 2025 18:38:36 GMT</pubDate></item><item><title><![CDATA[HFSAP -- Ultra Condensed]]></title><description><![CDATA[ 
  <br><br><br>HFSAP is the most comprehensive resource for advanced heart failure and transplant cardiology, designed to help you perfect your knowledge, earn credits, and maintain your certification—all in one place.<br>Available Credits:<br>
 CME | MOC<br>[Quick Purchase][Launch]<br><br>
