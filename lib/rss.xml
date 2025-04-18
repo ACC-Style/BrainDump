@@ -1,4 +1,170 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 18 Apr 2025 16:11:49 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 18 Apr 2025 16:11:46 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 18 Apr 2025 17:22:44 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 18 Apr 2025 17:22:43 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Strategic Glossary of Page Concepts in ACC.org]]></title><description><![CDATA[ 
+ <br><br>Page Concept Types<br>
+<br><a data-href="#① Home Page" href="https://acc-style.github.io/BrainDump/about:blank#①_Home_Page" class="internal-link" target="_self" rel="noopener nofollow">① Home Page</a>
+<br><a data-href="#② Concept Anchors" href="https://acc-style.github.io/BrainDump/about:blank#②_Concept_Anchors" class="internal-link" target="_self" rel="noopener nofollow">② Concept Anchors</a>
+<br><a data-href="#③ Initiatives (Goal-Oriented Modules)" href="https://acc-style.github.io/BrainDump/about:blank#③_Initiatives_(Goal-Oriented_Modules)" class="internal-link" target="_self" rel="noopener nofollow">③ Initiatives (Goal-Oriented Modules)</a>
+<br><a data-href="#④ Product Groupings" href="https://acc-style.github.io/BrainDump/about:blank#④_Product_Groupings" class="internal-link" target="_self" rel="noopener nofollow">④ Product Groupings</a>
+<br><a data-href="#⑤ Product Destinations (Transactional Pages)" href="https://acc-style.github.io/BrainDump/about:blank#⑤_Product_Destinations_(Transactional_Pages)" class="internal-link" target="_self" rel="noopener nofollow">⑤ Product Destinations (Transactional Pages)</a>
+<br><a data-href="#⑥ Standard Pages" href="https://acc-style.github.io/BrainDump/about:blank#⑥_Standard_Pages" class="internal-link" target="_self" rel="noopener nofollow">⑥ Standard Pages</a>
+<br><a data-href="#⑦ Listing Pages" href="https://acc-style.github.io/BrainDump/about:blank#⑦_Listing_Pages" class="internal-link" target="_self" rel="noopener nofollow">⑦ Listing Pages</a><br>
+Information Architecture
+<br><a data-href="#How These Pages Associate with Each Other" href="https://acc-style.github.io/BrainDump/about:blank#How_These_Pages_Associate_with_Each_Other" class="internal-link" target="_self" rel="noopener nofollow">How These Pages Associate with Each Other</a>
+<br><a data-href="#General I.A. Guidelines" href="https://acc-style.github.io/BrainDump/about:blank#General_I.A._Guidelines" class="internal-link" target="_self" rel="noopener nofollow">General I.A. Guidelines</a>
+<br><br><br><br>The main entry point of the website, designed to provide immediate orientation, highlight major initiatives, latest updates, and guide users quickly toward primary goals.<br>
+<br>Use Case: First-time visitors, returning users seeking major updates, initial brand impression.    
+<br>Why Used: Creates immediate clarity and positions organizational priorities upfront.    
+<br>Branding &amp; UI Elements: Take over, Hero Image, Feature Triptych...    
+<br>Role in IA:    
+
+<br>The central entry point.
+<br>Highest-level orientation, connecting users quickly and intuitively to key site sections.
+<br>Prioritizes major pathways, brand introduction, and timely highlights.
+
+
+<br>Rules &amp; Recommendations:    
+
+<br>Use clearly defined navigation to major Concept Anchors and prioritized user tasks.
+<br>Limit content to essential items for quick user orientation (less is more).
+<br>Regularly update to reflect organizational priorities and timely initiatives.
+
+
+<br>When to Use: Always present as the top-level entry page.    
+<br>Avoid: Do not overload with detailed content or overly transactional messaging.<br>
+
+<br><br><br><br>Pages offering high-level overviews of the organization's core concepts, primary service areas, or central offerings. They orient users by clearly presenting a broader narrative or theme.  Example Page:&nbsp;<a data-tooltip-position="top" aria-label="https://www.acc.org/About-ACC" rel="noopener nofollow" class="external-link" href="https://www.acc.org/About-ACC" target="_blank">About US</a><br>
+<br>Use Case: Navigation entry points for broad organizational topics, connecting various subpages and initiatives.    
+<br>Why Used: Humanizes the organization, reinforces brand values, and simplifies access to deeper content.    
+<br>Branding &amp; UI Elements:&nbsp;Concept Hero with Feature, Grid Bento,&nbsp;<a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-header+item/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-header+item/" target="_blank">UL Icon Text</a>&nbsp;<a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-lists/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-lists/" target="_blank">List of Icon ULs</a>, Grouping Zones, Section Shading 
+<br>Role in IA:    
+
+<br>Provide clear, user-friendly overviews for broad organizational pillars.
+<br>Anchor navigation to strategic themes.
+<br>Introduce voice, tone, and topic landscape.
+
+
+<br>Rules &amp; Recommendations:    
+
+<br>Connect to Initiatives, Product Groupings, and Standard Pages.
+<br>Reflect organization-wide narratives or verticals.
+<br>Avoid overwhelming detail—keep it narrative and directional.
+
+
+<br>When to Use: When multiple related initiatives or products are associated with a central idea.    
+<br>Avoid: Don’t use for deeply detailed or transactional content.<br>
+
+<br><br><br><br>Targeted microsites or sections devoted to specific organizational efforts or campaigns, often incorporating unique branding or visual differentiation. These modules are action-focused, with clearly defined user goals Example Page:&nbsp;<a data-tooltip-position="top" aria-label="https://www.acc.org/Tools-and-Practice-Support/Advocacy-at-the-ACC" rel="noopener nofollow" class="external-link" href="https://www.acc.org/Tools-and-Practice-Support/Advocacy-at-the-ACC" target="_blank">Advocacy</a>&nbsp;|&nbsp;<a data-tooltip-position="top" aria-label="https://www.acc.org/About-ACC/UX" rel="noopener nofollow" class="external-link" href="https://www.acc.org/About-ACC/UX" target="_blank">UX</a><br>
+<br>Use Case: Advocacy, fundraising, campaigns, accreditation explanation.    
+<br>Why Used: Enhances clarity of purpose, supports targeted user journeys, simplifies complex messaging.    
+<br>Branding &amp; UI Elements:&nbsp;<a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/hero-image/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/hero-image/" target="_blank">Microsite Hero Banner</a>, Secondary Action Card,&nbsp;<a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/card-basic/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/card-basic/" target="_blank">Cards</a>, Icon &amp; Content Grid List, Grouping Zones, Section Shading 
+<br>Role in IA:    
+
+<br>Specific journeys with clear purpose and outcome.
+<br>Often stand apart structurally or visually.
+
+
+<br>Internal navigation can be isolated from the main site to support clearer marketing language, simplified instructions, and more targeted messaging.    
+<br>Rules &amp; Recommendations:    
+
+<br>Must articulate the purpose and offer a focused action.
+<br>Allow for deviation in branding when needed.
+<br>Link from Concept Anchors or Home Page.
+
+
+<br>When to Use: When a program has a goal, outcome, and distinct message.    
+<br>Avoid: Avoid for purely informational content or where cohesion with parent content is critical.<br>
+
+<br><br><br><br>Pages that consolidate and categorize related products, services, or offerings into logical collections. &nbsp;These pages help users quickly explore and compare similar or complementary options.<br>
+<br>Use Case: Displaying grouped learning programs, events, or tools.    
+<br>Why Used: Improves usability and product discovery.    
+<br>Branding &amp; UI Elements:&nbsp;Product Banner, Icon &amp; Content Grid List, Cards, Grouping Zones  
+<br>Role in IA:    
+
+<br>Bridges between concepts and conversion.
+<br>Allows logical exploration.
+<br>Internal navigation can be separated from broader site structures to focus user attention on product discovery and purchase readiness.    
+
+
+<br>Rules &amp; Recommendations:    
+
+<br>Structure by audience, topic, or value.
+<br>Must clearly connect to Product Destinations.
+
+
+<br>When to Use: When users benefit from browsing options.    
+<br>Avoid: Avoid grouping unrelated offerings or overloading the page with decisions.<br>
+
+<br><br><br><br>Detail-rich pages meant to drive action—purchase, register, subscribe. Detailed, user-action oriented pages centered around specific products, events, or learning opportunities. These pages incorporate transaction-focused elements such as pricing, purchasing options, registration, personalization, and targeted marketing content. Example Page:&nbsp;<a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/acc/SAPs-ProductLine/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/acc/SAPs-ProductLine/" target="_blank">Prototype SAPs</a><br>
+<br>Use Case: Events, certification programs, subscription services.    
+<br>Why Used: Central to conversion.    
+<br>Branding &amp; UI Elements:&nbsp;Product Banner, Conversion Buttons, Price Bentos, Icon &amp; Content Grid List, Cards, Grouping Zones
+<br>Role in IA:    
+
+<br>The action endpoint for campaigns or marketing.
+
+
+<br>Rules &amp; Recommendations:    
+
+<br>Be persuasive and precise.
+<br>Avoid unrelated links—stay on message.
+
+
+<br>When to Use: Directly from emails, ads, or Product Groupings.    
+<br>Avoid: Avoid placing deep education or concept background content here.<br>
+
+<br><br><br><br>Informational pages that support other content areas but don’t need visual distinction.<br>
+<br>Use Case: About pages, FAQs, mission statements, technical explanations.    
+<br>Why Used: Provide clarity, institutional knowledge, or low-maintenance detail.    
+<br>Branding &amp; UI Elements: Default theme styling, minimal content modules.    
+<br>Role in IA:    
+
+<br>Reliable content support.
+<br>Inherited styling from parent Concept Anchor or Initiative.
+
+
+<br>Rules &amp; Recommendations:    
+
+<br>Maintain consistency in layout and tone.  
+<br>Link outward sparingly.
+
+
+<br>When to Use: For maintenance-friendly foundational content.    
+<br>Avoid: Don’t force these into deep journeys—keep simple.<br>
+
+<br><br><br><br>Pages that surface grouped or filterable content based on shared logic (e.g., date, topic, type).<br>
+<br>Use Case: Article archives, event calendars, directory listings.    
+<br>Why Used: Enables users to explore at their own pace.    
+<br>Branding &amp; UI Elements: Search/filter controls, cards or table view, consistent previews.  
+<br>Role in IA:    
+
+<br>Serve as content aggregators.
+<br>Often feed from CMS or tag-based logic.
+
+
+<br>Rules &amp; Recommendations:    
+
+<br>Label clearly and design for repeat use.
+<br>Allow exploration but keep structure rigid.
+
+
+<br>When to Use: For large, growing sets of content.    
+<br>Avoid: Avoid making them content endpoints—always lead to something richer.
+<br><br><br><br><br>Home Page → Concept Anchors → Initiatives/Product Groupings → Product Destinations or Standard Pages
+<br><br>Home Page → Product Groupings → Product Destinations → Conversion actions (e.g., purchase)
+<br><br>Home Page or Concept Anchors → Listing Pages → Standard Pages or Product Destinations
+<br><br><br>
+<br>Always connect broader, conceptual content (Concept Anchors) to detailed or goal-oriented content (Initiatives, Products, Listings).
+<br>Clearly define user goals on transactional pages; remove or minimize unrelated content.
+<br>Maintain consistent user expectations through predictable page structures and clear navigational relationships.
+<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/strategic-glossary-of-page-concepts-in-acc.org.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 18 Apr 2025 17:22:13 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>
+<br>Summary: 
+<br><br>
+<br>Hypothesis: 
+<br><br>
+<br>Outline: 
+<br><br>
+<br>Additional Notes: 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/definition.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Definition.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 18 Apr 2025 16:44:58 GMT</pubDate></item><item><title><![CDATA[Arches]]></title><description><![CDATA[ 
  <br><a data-href="Front End Design at the College" href="https://acc-style.github.io/BrainDump/work/acc/arches/front-end-design-at-the-college.html" class="internal-link" target="_self" rel="noopener nofollow">Front End Design at the College</a><br>
 <a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
 <a data-href="Arches Conversion" href="https://acc-style.github.io/BrainDump/work/acc/arches/conversion/arches-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">Arches Conversion</a><br>Arches is the foundational design system employed by the American College of Cardiology (ACC). Leveraging advanced compiler techniques, Arches generates a multitude of variations that integrate with different frameworks and product brands. These variations are utilized across an array of products developed by the ACC.<br>In its basic form, Arches serves as a set of utility classes. When incorporated into a project with an existing style sheet, it can introduce new, non-destructive styling features. Additionally, Arches offers variants that seamlessly build on two popular frameworks currently in use at the College: Twitter Bootstrap<br><br>(bgcolor|border|cellpadding|cellspacing|valign|hspace|vspace|noshade|nowrap|size|style|class)=""*"<br>(bgcolor|border|cellpadding|cellspacing|valign|hspace|vspace|noshade|nowrap|size|style)=""*"<br><br><a data-href="Design System" href="https://acc-style.github.io/BrainDump/work/acc/arches/design-system/design-system.html" class="internal-link" target="_self" rel="noopener nofollow">Design System</a><br>
@@ -103,195 +269,7 @@
 │   ├── News &amp; Articles (Listing Page)
 │   └── JACC Journals (Listing Page)
 
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/acc.org-concept-structure.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/ACC.org Concept Structure.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 18 Apr 2025 15:34:05 GMT</pubDate></item><item><title><![CDATA[Step 2: Concept Structure Glossary (with definitions)]]></title><description><![CDATA[ 
- <br><br><br>
-<br>Definition: The main entry point of the website, designed to provide immediate orientation, highlight major initiatives, latest updates, and guide users quickly toward primary goals.
-<br>Use Case: First-time visitors, returning users seeking major updates, initial brand impression.
-<br>Why Used: Creates immediate clarity and positions organizational priorities upfront.
-<br>Branding &amp; UI Elements: Take over, Hero Image, Feature Triptych...
-<br><br><br>
-<br>
-Definition: Pages offering high-level overviews of the organization's core concepts, primary service areas, or central offerings. They orient users by clearly presenting a broader narrative or theme.
-
-<br>
-Example Page: <a data-tooltip-position="top" aria-label="https://www.acc.org/About-ACC" rel="noopener nofollow" class="external-link" href="https://www.acc.org/About-ACC" target="_blank">About US</a>
-
-<br>
-Use Case: Navigation entry points for broad organizational topics, connecting various subpages and initiatives. 
-
-<br>
-Why Used: Humanizes the organization, reinforces brand values, and simplifies access to deeper content.    
-
-<br>
-Branding &amp; UI Elements: Concept Hero with Feature, Grid Bento, <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-header+item/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-header+item/" target="_blank">UL Icon Text</a> <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-lists/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/icon-lists/" target="_blank"> List of Icon ULs</a>, Grouping Zones, Section Shading
-
-<br><br><br>
-<br>Definition: Targeted microsites or sections devoted to specific organizational efforts or campaigns, often incorporating unique branding or visual differentiation. These modules are action-focused, with clearly defined user goals.<br>
-
-<br>Example Page: <a data-tooltip-position="top" aria-label="https://www.acc.org/Tools-and-Practice-Support/Advocacy-at-the-ACC" rel="noopener nofollow" class="external-link" href="https://www.acc.org/Tools-and-Practice-Support/Advocacy-at-the-ACC" target="_blank">Advocacy</a> | <a data-tooltip-position="top" aria-label="https://www.acc.org/About-ACC/UX" rel="noopener nofollow" class="external-link" href="https://www.acc.org/About-ACC/UX" target="_blank">UX</a>
-<br>Use Case: Ded. cated fundraising campaigns, advocacy efforts, specialized educational content, or strategic programs needing distinct identity and messaging.
-<br>Why Used: Enhances clarity of purpose, supports targeted user journeys, simplifies complex or strategic messaging.
-<br>Branding &amp; UI Elements:  <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/hero-image/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/hero-image/" target="_blank">Microsite Hero Banner</a>, Secondary Action Card, <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/ui-gold/card-basic/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/ui-gold/card-basic/" target="_blank">Cards</a>, Icon &amp; Content Grid List, Grouping Zones, Section Shading
-<br><br><br>
-<br>Definition: Pages that consolidate and categorize related products, services, or offerings into logical collections. These pages help users quickly explore and compare similar or complementary options.<br>
-
-<br>Example Page: <a data-tooltip-position="top" aria-label="https://acc-style.github.io/PrototypingACCorg/acc/SAPs-ProductLine/" rel="noopener nofollow" class="external-link" href="https://acc-style.github.io/PrototypingACCorg/acc/SAPs-ProductLine/" target="_blank">Prototype SAPs</a>
-<br>Use Case: Showcasing related educational programs, courses, events, or membership offerings to simplify discovery.
-<br>Why Used: Improves usability, encourages product exploration, and enhances contextual understanding of offerings.
-<br>Branding &amp; UI Elements: Product Banner,  Icon &amp; Content Grid List, Cards, Grouping Zones<br>
-
-<br><br><br>
-<br>Definition: Detailed, user-action oriented pages centered around specific products, events, or learning opportunities. These pages incorporate transaction-focused elements such as pricing, purchasing options, registration, personalization, and targeted marketing content.<br>
-
-<br>Use Case: Event registrations, online courses, digital product sales, personalized service subscriptions.
-<br>Why Used: Maximizes conversions, streamlines user actions, integrates closely with marketing and sales funnels.
-<br>Branding &amp; UI Elements: Product Banner, Conversion Buttons, Price Bentos, Icon &amp; Content Grid List, Cards, Grouping Zones
-<br><br><br>
-<br>Definition: Basic informational pages that deliver foundational content. These pages rely on simplicity, clarity, and consistency, typically inheriting brand or stylistic elements from parent sections.<br>
-
-<br>Use Case: General information pages, FAQ pages, policy statements, foundational details, or general descriptions.
-<br>Why Used: Ensures content consistency, simplifies content maintenance, provides informational clarity without complexity.
-<br>Branding &amp; UI Elements: Basic Html, Accordions, Inline Images
-<br><br><br>
-<br>Definition: Pages built around dynamically generated collections or search-driven lists, organized by shared attributes (such as product type, topic, date, popularity). They are designed for easy browsing and discovery.<br>
-
-<br>Use Case: News archives, galleries, event listings, search results, product catalogs.
-<br>Why Used: Supports user exploration, content discoverability, and facilitates easy navigation of large sets of information.
-<br>Branding &amp; UI Elements: Search Features, Result renderings, Group Zones
-<br><br><br><br>Role in IA:<br>
-<br>The central entry point.<br>
-
-<br>Highest-level orientation, connecting users quickly and intuitively to key site sections.<br>
-
-<br>Prioritizes major pathways, brand introduction, and timely highlights.<br>
-
-<br>Rules &amp; Recommendations:<br>
-<br>Use clearly defined navigation to major Concept Anchors and prioritized user tasks.<br>
-
-<br>Limit content to essential items for quick user orientation (less is more).<br>
-
-<br>Regularly update to reflect organizational priorities and timely initiatives.<br>
-
-<br>When to Use:<br>
-<br>Always present as the top-level entry page.<br>
-
-<br>When to Avoid:<br>
-<br>Do not overload with detailed content or overly transactional messaging.<br>
-
-<br><br><br>Role in IA:<br>
-<br>Provide clear, user-friendly overviews for broad organizational pillars or content areas.<br>
-
-<br>Act as foundational navigational gateways to deeper, focused content.<br>
-
-<br>Rules &amp; Recommendations:<br>
-<br>Clearly articulate the broader concept or brand narrative.<br>
-
-<br>Include links to associated Initiatives, Product Groupings, or deeper Standard Pages.<br>
-
-<br>Consistently reflect organizational brand and tone.<br>
-
-<br>When to Use:<br>
-<br>For core content areas users must quickly recognize and access.<br>
-
-<br>When multiple related initiatives or products are associated with a central idea.<br>
-
-<br>When to Avoid:<br>
-<br>Do not use for single-topic, transactional, or overly detailed content.<br>
-
-<br><br><br>Role in IA:<br>
-<br>Deeply focused content modules addressing specific user objectives.<br>
-
-<br>Clear calls to action, distinct messaging, and optionally unique branding.<br>
-
-<br>Rules &amp; Recommendations:<br>
-<br>Each initiative clearly states a purpose and expected user outcome.<br>
-
-<br>Can have unique visual branding, differentiating from standard organizational branding.<br>
-
-<br>May link directly from Concept Anchors or the Home Page for visibility.<br>
-
-<br>When to Use:<br>
-<br>Specific advocacy campaigns, fundraising, accreditation processes, or specialized content with unique user journeys.<br>
-
-<br>When to Avoid:<br>
-<br>Avoid if the content is purely informational or lacks a specific user goal or call to action.<br>
-
-<br><br><br>Role in IA:<br>
-<br>Organize related products or offerings to enhance discoverability.<br>
-
-<br>Act as a navigational aid to guide users toward relevant transactional or informational content.<br>
-
-<br>Rules &amp; Recommendations:<br>
-<br>Clearly grouped content based on user mental models or marketing strategy.<br>
-
-<br>Ensure clear, logical connections to detailed transactional pages (Product Destinations).<br>
-
-<br>Include brief summaries or value propositions to support product exploration.<br>
-
-<br>When to Use:<br>
-<br>Multiple offerings (courses, events, services) logically grouped by category, target audience, or usage.<br>
-
-<br>When to Avoid:<br>
-<br>Do not use for unrelated, singular, or heavily transactional content without logical groupings.<br>
-
-<br><br><br>Role in IA:<br>
-<br>Detail-focused pages directly supporting user conversion actions.
-<br>Facilitate seamless transactions (registration, purchase, enrollment).
-<br>Rules &amp; Recommendations:<br>
-<br>Must clearly articulate benefits, pricing, and actionable steps.<br>
-
-<br>Integrate branding and marketing language specific to the product or service.<br>
-
-<br>Maintain tight focus on conversion objectives—minimal distractions or unrelated links.<br>
-
-<br>When to Use:<br>
-<br>Directly linked from Product Groupings, marketing campaigns, or event promotions.<br>
-
-<br>When to Avoid:<br>
-<br>Do not use for general informational content lacking transactional intent.<br>
-
-<br><br><br>Role in IA:<br>
-<br>Provide straightforward informational content, leveraging clarity and simplicity.
-<br>Maintain cohesion with broader parent-section branding.
-<br>Rules &amp; Recommendations:<br>
-<br>Keep clear, concise, and structured consistently across the site.<br>
-
-<br>Use standardized navigation and minimalistic design approaches to avoid cognitive load.<br>
-
-<br>Primarily inherit visual elements from their parent (Concept Anchors, Initiatives, or Product Groupings).<br>
-
-<br>When to Use:<br>
-<br>Informational pages (FAQs, About Us, Terms, or Policy content) that do not require unique user journeys.<br>
-
-<br>When to Avoid:<br>
-<br>Avoid using for highly transactional or uniquely branded content that needs distinctive visual differentiation.<br>
-
-<br><br><br>Role in IA:<br>
-<br>Support exploration and discovery through dynamically generated or searchable lists.<br>
-
-<br>Facilitate user-driven browsing or filtering actions.<br>
-
-<br>Rules &amp; Recommendations:<br>
-<br>Clearly structured and sortable/searchable.<br>
-
-<br>Ensure consistency in content presentation (titles, thumbnails, brief descriptions).<br>
-
-<br>Provide clear pathways to deeper individual content items.<br>
-
-<br>When to Use:<br>
-<br>News feeds, galleries, product catalogs, resource libraries, event calendars, or any frequently updated content collections.<br>
-
-<br>When to Avoid:<br>
-<br>Do not use for single-instance content, detailed descriptions, or conversion-driven transactional content.<br>
-
-<br><br><br><br>Home Page → Concept Anchors → Initiatives/Product Groupings → Product Destinations or Standard Pages
-<br><br>Home Page → Product Groupings → Product Destinations → Conversion actions (e.g., purchase)
-<br><br>Home Page or Concept Anchors → Listing Pages → Standard Pages or Product Destinations
-<br><br><br>
-<br>Always connect broader, conceptual content (Concept Anchors) to detailed or goal-oriented content (Initiatives, Products, Listings).
-<br>Clearly define user goals on transactional pages; remove or minimize unrelated content.
-<br>Maintain consistent user expectations through predictable page structures and clear navigational relationships.
-<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/strategic-glossary-of-page-concepts-in-acc.org.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 18 Apr 2025 16:09:44 GMT</pubDate></item><item><title><![CDATA[CathSAP 5: Discover How To Use The Question Engine]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/acc.org-concept-structure.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/ACC.org Concept Structure.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 18 Apr 2025 15:34:05 GMT</pubDate></item><item><title><![CDATA[CathSAP 5: Discover How To Use The Question Engine]]></title><description><![CDATA[ 
  <br><a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=OSJ9MNZdN_E" target="_blank">https://www.youtube.com/watch?v=OSJ9MNZdN_E</a><br><br><br>00:00:04.759 cats at 5:00 lets you use all 560<br>
 00:00:08.519 questions any way that meets your needs<br>
 00:00:10.860 each of the nine topics in the main<br>
