@@ -1,6 +1,10 @@
 {
   "vaultName": "ObsidianSecondBrain",
+<<<<<<< Updated upstream
   "lastExport": 1745597596859,
+=======
+  "lastExport": 1745602894212,
+>>>>>>> Stashed changes
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -20,6 +24,10 @@
     "Work/ACC/Thoughts/Not Using UI but Word Documents.md",
     "Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md",
     "Work/ACC/Thoughts/Interviews..md",
+<<<<<<< Updated upstream
+=======
+    "Work/ACC/Structure and Content Guidance/html optimization.md",
+>>>>>>> Stashed changes
     "Work/ACC/Structure and Content Guidance/Untitled.md",
     "Work/ACC/Structure and Content Guidance/Structure & Guidance.md",
     "Work/ACC/Structure and Content Guidance/Story Writing/Story First Content.md",
@@ -43,6 +51,7 @@
     "Work/ACC/Structure and Content Guidance/html optimization.md",
     "Work/ACC/Structure and Content Guidance/Full Page Splashes/Full Page Splashes (Hubspot).md",
     "Work/ACC/Structure and Content Guidance/Facet Page.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/Tickets/Show Hide Text.md",
     "Work/ACC/Projects/Tickets/Jira Tickets notes.md",
     "Work/ACC/Projects/Tickets/Hero Banners & Micro Banner.md",
@@ -55,6 +64,12 @@
     "Work/ACC/Projects/_Archived/Virtual/Widgets/Widgets.md",
     "Work/ACC/Projects/_Archived/Virtual/Widgets/Button.md",
     "Work/ACC/Projects/_Archived/Virtual/Widgets/Basic HTML.md",
+=======
+    "Work/ACC/Projects/_Archived/Virtual/Widgets/Widgets.md",
+    "Work/ACC/Projects/_Archived/Virtual/Widgets/Button.md",
+    "Work/ACC/Projects/_Archived/Virtual/Widgets/Basic HTML.md",
+    "Work/ACC/Projects/_Archived/Virtual/Virtual System.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/_Archived/Virtual/System/System establishing data.md",
     "Work/ACC/Projects/_Archived/Virtual/System/Categories  & Tags.md",
     "Work/ACC/Projects/_Archived/Virtual/System/Short Codes.md",
@@ -66,6 +81,11 @@
     "Work/ACC/Projects/_Archived/Virtual/Collections/Collections.md",
     "Work/ACC/Projects/_Archived/Virtual/Collections/Channels.md",
     "Work/ACC/Projects/_Archived/Syncing CardioSmart with Asset.ACC.org.md",
+<<<<<<< Updated upstream
+=======
+    "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Engagement - Structured Data.md",
+    "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Current Member (Engaged Member).md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/_Archived/Join us.md",
     "Work/ACC/Projects/_Archived/Error Handling.md",
     "Work/ACC/Projects/_Archived/CV Board Website Brochureware.md",
@@ -75,6 +95,14 @@
     "Work/ACC/Projects/_Archived/Annual 2024/After Conference actions.md",
     "Work/ACC/Projects/_Archived/Annual 2024/Acc 24.md",
     "Work/ACC/Projects/_Archived/About Us & Support Us Pages.md",
+<<<<<<< Updated upstream
+=======
+    "Work/ACC/Projects/Tickets/Show Hide Text.md",
+    "Work/ACC/Projects/Tickets/Jira Tickets notes.md",
+    "Work/ACC/Projects/Tickets/Hero Banners & Micro Banner.md",
+    "Work/ACC/Projects/Tickets/Carousel.md",
+    "Work/ACC/Projects/Tickets/Article Children Rendering.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/State Chapters for BOG.md",
     "Work/ACC/Projects/SAPs.md",
     "Work/ACC/Projects/SAPS/Untitled.md",
@@ -83,6 +111,15 @@
     "Work/ACC/Projects/SAPS/Ultra Condensed/EPSAP-- Ultra Condensed.md",
     "Work/ACC/Projects/SAPS/Ultra Condensed/CATHSAP -- Ultra Condensed.md",
     "Work/ACC/Projects/SAPS/Ultra Condensed/ACCSAP -- Ultra Condensed.md",
+<<<<<<< Updated upstream
+=======
+    "Work/ACC/Projects/SAPS/Sub Content/eLearn Promo.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Made Possible By.md",
+    "Work/ACC/Projects/SAPS/Sub Content/How to use.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Features.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Additional Information.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/SAPS/HFSAP.md",
     "Work/ACC/Projects/SAPS/Sub Content/Made Possible By.md",
     "Work/ACC/Projects/SAPS/Sub Content/Features.md",
@@ -95,6 +132,7 @@
     "Work/ACC/Projects/SAPS/CATHSAP.md",
     "Work/ACC/Projects/SAPS/ACCSAP.md",
     "Work/ACC/Projects/NCD Academy.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/Member Sections.md",
     "Work/ACC/Projects/Member Sections/User Journey Prompt.md",
     "Work/ACC/Projects/Member Sections/Section Personas.md",
@@ -103,19 +141,40 @@
     "Work/ACC/Projects/Member Sections/Member Section Group Think.md",
     "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md",
     "Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md",
+=======
+    "Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md",
+    "Work/ACC/Projects/Member Sections.md",
+    "Work/ACC/Projects/Member Sections/User Journey Prompt.md",
+    "Work/ACC/Projects/Member Sections/Section Personas.md",
+    "Work/ACC/Projects/Member Sections/Project Build Outline.md",
+    "Work/ACC/Projects/Member Sections/Presentation Story.md",
+    "Work/ACC/Projects/Member Sections/Member Section Group Think.md",
+    "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/Jira Tickets Arches.md",
+    "Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md",
     "Work/ACC/Projects/Error Handling/Page List.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md",
     "Work/ACC/Projects/CMP.md",
     "Work/ACC/Projects/D&I.md",
     "Work/ACC/Projects/CCKE.md",
     "Work/ACC/Projects/CMP/Linkage Report.md",
     "Work/ACC/Projects/CMP/CMP-ADA-Policy.md",
+=======
+    "Work/ACC/Projects/D&I.md",
+    "Work/ACC/Projects/CardioSmart 2025 UX.md",
+    "Work/ACC/Projects/CMP.md",
+    "Work/ACC/Projects/CMP/Linkage Report.md",
+    "Work/ACC/Projects/CMP/CMP-ADA-Policy.md",
+    "Work/ACC/Projects/CCKE.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/CCKE/No Content Change Proposal.md",
     "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md",
     "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.excalidraw.md",
     "Work/ACC/Projects/CCKE/Content Rewrite.md",
     "Work/ACC/Projects/CCKE/CCKE Content Proposal.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/CardioSmart 2025 UX.md",
     "Work/ACC/Projects/Algorithm Design System.md",
     "Work/ACC/Projects/Algorithm/Color Test.md",
@@ -123,6 +182,21 @@
     "Work/ACC/Projects/AI and the ACC.md",
     "Work/ACC/Projects/ACC Redesign.md",
     "Work/ACC/Projects/Advocacy.md",
+=======
+    "Work/ACC/Projects/Algorithm Design System.md",
+    "Work/ACC/Projects/Algorithm/Color Test.md",
+    "Work/ACC/Projects/Algorithm/Algorithm Read Me.md",
+    "Work/ACC/Projects/Advocacy.md",
+    "Work/ACC/Projects/AI and the ACC.md",
+    "Work/ACC/Projects/ACC Redesign.md",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.md",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.svg",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.png",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.excalidraw",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.svg",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.png",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.canvas",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.md",
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.svg",
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.png",
@@ -130,22 +204,39 @@
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.svg",
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.png",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.excalidraw",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.svg",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.png",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.dark.svg",
     "Work/ACC/Projects/ACC Redesign/Untitled.canvas",
+=======
+    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.svg",
+    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.png",
+    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.excalidraw",
+    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.dark.svg",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.dark.png",
     "Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md",
     "Work/ACC/Projects/ACC Redesign/Member Sections Presentation Script.md",
     "Work/ACC/Projects/ACC Redesign/ESC Competitive Research.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/Competitive Analysis.md",
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.svg",
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.md",
+=======
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.md",
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.svg",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.png",
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.excalidraw",
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.svg",
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.png",
+<<<<<<< Updated upstream
+=======
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Readability Evaluation Checklist and Rating Scale.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.light.svg",
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.md",
@@ -159,25 +250,46 @@
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.light.png",
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.svg",
     "Work/ACC/Projects/ACC Redesign/Discovery/Pain Points.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.png",
+=======
+    "Work/ACC/Projects/ACC Redesign/Discovery/Matt's Notes Competitive Analysis.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/Discovery/Direct and Indirect Completive Landscape.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/Matt's Notes Competitive Analysis.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Research.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md",
+=======
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md",
+    "Work/ACC/Projects/ACC Redesign/Definition.md",
+    "Work/ACC/Projects/ACC Redesign/Competitive Analysis.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/ACC.org Concept Structure.md",
     "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/Children Rendering Rough Notes.md",
     "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/AI REQUEST for this Ticket.md",
     "Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md",
     "Work/ACC/Projects/ACC 75th Gala.md",
     "Work/ACC/Projects/A Full Project List.md",
+<<<<<<< Updated upstream
     "Work/ACC/Project Weekly Notes/2025 Week 2.md",
     "Work/ACC/Project Weekly Notes/2025 Week 9.md",
     "Work/ACC/Project Weekly Notes/2025 Week 5.md",
     "Work/ACC/Project Weekly Notes/2024 Week 50.md",
     "Work/ACC/Project Weekly Notes/2025 Week 17.md",
     "Work/ACC/Project Weekly Notes/2024 Week 51.md",
+=======
+    "Work/ACC/Project Weekly Notes/2025 Week 9.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 5.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 2.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 17.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 51.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 50.md",
+>>>>>>> Stashed changes
     "Work/ACC/Project Weekly Notes/2024 Week 47.md",
     "Work/ACC/Project Weekly Notes/2024 Week 46.md",
     "Work/ACC/Project Weekly Notes/2024 Week 45.md",
@@ -199,8 +311,13 @@
     "Work/ACC/Jira/ARCHES New Component.md",
     "Work/ACC/Jira/ARCHES Component Conversion.md",
     "Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md",
+<<<<<<< Updated upstream
     "Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md",
     "Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md",
+=======
+    "Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md",
+    "Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md",
+>>>>>>> Stashed changes
     "Work/ACC/Jira/AI Prompts/AI Prompt - Craft UX Ask.md",
     "Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets.md",
     "Work/ACC/JACC/JACC.md",
@@ -229,7 +346,10 @@
     "Work/ACC/Arches/Conversion/Editorial training/Phase 1.md",
     "Work/ACC/Arches/Conversion/Editorial training/Phase 2.md",
     "Work/ACC/Arches/Conversion/Editorial training/Editorial training.md",
+<<<<<<< Updated upstream
     "Work/ACC/Arches/Conversion/Editorial training/KT SESSIONS.md",
+=======
+>>>>>>> Stashed changes
     "Work/ACC/Arches/Conversion/Components/Quality of life configurations with Sitecore.md",
     "Work/ACC/Arches/Conversion/Components/Creating A New ACC.org Component.md",
     "Work/ACC/Arches/Conversion/Components/Component Conversion Approach.md",
@@ -250,8 +370,13 @@
     "Work/ACC/1CRM/1CRM/Shopping Cart.md",
     "Work/ACC/1CRM/1CRM/Profile Tour.md",
     "Work/ACC/1CRM/1CRM/Online Membership Application.md",
+<<<<<<< Updated upstream
     "Work/ACC/1CRM/1CRM/Member Directory.md",
     "Work/ACC/1CRM/1CRM/Membership Renewal.md",
+=======
+    "Work/ACC/1CRM/1CRM/Membership Renewal.md",
+    "Work/ACC/1CRM/1CRM/Member Directory.md",
+>>>>>>> Stashed changes
     "Work/ACC/1CRM/1CRM/Donations.md",
     "Work/ACC/1CRM/1CRM/Branding Controls.md",
     "index.md",
@@ -327,85 +452,141 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -417,68 +598,115 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
       "sourceSize": 139731,
+=======
+      "modifiedTime": 1745602894212,
+      "sourceSize": 143567,
+>>>>>>> Stashed changes
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
       "sourceSize": 21439,
+=======
+      "modifiedTime": 1745602894212,
+      "sourceSize": 22083,
+>>>>>>> Stashed changes
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
       "sourceSize": 138258,
+=======
+      "modifiedTime": 1745602894212,
+      "sourceSize": 137567,
+>>>>>>> Stashed changes
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
@@ -489,19 +717,31 @@
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
+=======
+      "modifiedTime": 1745602894212,
+>>>>>>> Stashed changes
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -1160,8 +1400,13 @@
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Research.md": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
       "sourceSize": 981,
+=======
+      "modifiedTime": 1745602894212,
+      "sourceSize": 1039,
+>>>>>>> Stashed changes
       "exportedPath": "work/acc/projects/acc-redesign/discovery/competitive-research.html",
       "dependencies": []
     },
@@ -2000,8 +2245,13 @@
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md": {
+<<<<<<< Updated upstream
       "modifiedTime": 1745597596859,
       "sourceSize": 11334,
+=======
+      "modifiedTime": 1745602894212,
+      "sourceSize": 9405,
+>>>>>>> Stashed changes
       "exportedPath": "work/acc/projects/acc-redesign/strategic-glossary-of-page-concepts-in-acc.org.html",
       "dependencies": []
     },
@@ -2091,6 +2341,90 @@
     },
     "Work/ACC/Project Weekly Notes/2025 Week 17.md": {
       "modifiedTime": 1745597596859,
+      "sourceSize": 603,
+      "exportedPath": "work/acc/project-weekly-notes/2025-week-17.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 18360,
+      "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.svg": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 35837,
+      "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.light.svg",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.png": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 143807,
+      "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.light.png",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.excalidraw": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 37855,
+      "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.svg": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 35877,
+      "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.dark.svg",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.png": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 143372,
+      "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.dark.png",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 4945,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-ama-american-medical-association.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/Readability Evaluation Checklist and Rating Scale.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 2393,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/readability-evaluation-checklist-and-rating-scale.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/Matt's Notes Competitive Analysis.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 914,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/matt's-notes-competitive-analysis.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 4451,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-european-society-of-cardiology.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 3803,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-american-heart-association.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 3107,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-acc-american-college-of-cardiology.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Competitive Analysis.md": {
+      "modifiedTime": 1745602894212,
+      "sourceSize": 609,
+      "exportedPath": "work/acc/projects/acc-redesign/competitive-analysis.html",
+      "dependencies": []
+    },
+    "Work/ACC/Project Weekly Notes/2025 Week 17.md": {
+      "modifiedTime": 1745602894212,
       "sourceSize": 603,
       "exportedPath": "work/acc/project-weekly-notes/2025-week-17.html",
       "dependencies": []
