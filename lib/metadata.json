@@ -1,6 +1,6 @@
 {
   "vaultName": "ObsidianSecondBrain",
-  "lastExport": 1745607223294,
+  "lastExport": 1745859353491,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -97,6 +97,8 @@
     "Work/ACC/Project Weekly Notes/2025 Week 5.md",
     "Work/ACC/Project Weekly Notes/2025 Week 9.md",
     "Work/ACC/Project Weekly Notes/2025 Week 17.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 18.md",
+    "Work/ACC/Project Weekly Notes/Untitled 1.md",
     "Work/ACC/Projects/_Archived/Annual 2024/Acc 24.md",
     "Work/ACC/Projects/_Archived/Annual 2024/After Conference actions.md",
     "Work/ACC/Projects/_Archived/Annual 2024/Annual Meeting 2024.md",
@@ -128,8 +130,8 @@
     "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/Children Rendering Rough Notes.md",
     "Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/CA -  HFSA Heart Failure Society of America.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACN American Academy of Neurology.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md",
@@ -268,6 +270,7 @@
     "Work/ACC/ACC Products.md",
     "Work/ACC/Goals 2025.md",
     "index.md",
+    "lib/media/pasted-image-20250428125145.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -1228,8 +1231,8 @@
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md": {
-      "modifiedTime": 1745602998673,
-      "sourceSize": 4929,
+      "modifiedTime": 1745859353491,
+      "sourceSize": 6317,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-ama-american-medical-association.html",
       "dependencies": []
     },
@@ -1336,14 +1339,14 @@
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md": {
-      "modifiedTime": 1745604426106,
-      "sourceSize": 4330,
+      "modifiedTime": 1745859353491,
+      "sourceSize": 5046,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-european-society-of-cardiology.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md": {
-      "modifiedTime": 1745604336373,
-      "sourceSize": 4352,
+      "modifiedTime": 1745859353491,
+      "sourceSize": 4795,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-american-heart-association.html",
       "dependencies": []
     },
@@ -1498,8 +1501,8 @@
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 37.md": {
-      "modifiedTime": 1745602998673,
-      "sourceSize": 1834,
+      "modifiedTime": 1745859353491,
+      "sourceSize": 1814,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-37.html",
       "dependencies": []
     },
@@ -1971,178 +1974,180 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1745607223294,
-      "sourceSize": 145160,
+      "modifiedTime": 1745859353491,
+      "sourceSize": 145850,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1745607223294,
-      "sourceSize": 22516,
+      "modifiedTime": 1745859353491,
+      "sourceSize": 22696,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1745607223294,
+      "modifiedTime": 1745859353491,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md": {
-      "modifiedTime": 1745607040863,
-      "sourceSize": 1004,
+      "modifiedTime": 1745859353491,
+      "sourceSize": 2787,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/competitive-analysis.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/pasted-image-20250428125145.png"
+      ]
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - HRS Heart Rhythm Society.md": {
       "modifiedTime": 1745607040863,
@@ -2156,16 +2161,34 @@
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-hfsa-heart-failure-society-of-america.html",
       "dependencies": []
     },
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACN American Academy of Neurology.md": {
-      "modifiedTime": 1745607113613,
-      "sourceSize": 2966,
-      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-acn-american-academy-of-neurology.html",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - FACS American College of Surgeons.md": {
+      "modifiedTime": 1745859353491,
+      "sourceSize": 4429,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-facs-american-college-of-surgeons.html",
       "dependencies": []
     },
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - FACS American College of Surgeons.md": {
-      "modifiedTime": 1745607040863,
-      "sourceSize": 3159,
-      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-facs-american-college-of-surgeons.html",
+    "Work/ACC/Project Weekly Notes/2025 Week 18.md": {
+      "modifiedTime": 1745859353491,
+      "sourceSize": 477,
+      "exportedPath": "work/acc/project-weekly-notes/2025-week-18.html",
+      "dependencies": []
+    },
+    "Work/ACC/Project Weekly Notes/Untitled 1.md": {
+      "modifiedTime": 1745859353491,
+      "sourceSize": 477,
+      "exportedPath": "work/acc/project-weekly-notes/untitled-1.html",
+      "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md": {
+      "modifiedTime": 1745859353491,
+      "sourceSize": 3721,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-aan-american-academy-of-neurology.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250428125145.png": {
+      "modifiedTime": 1745859353491,
+      "sourceSize": 165336,
+      "exportedPath": "lib/media/pasted-image-20250428125145.png",
       "dependencies": []
     }
   }
