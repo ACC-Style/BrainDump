@@ -1,281 +1,277 @@
 {
   "vaultName": "ObsidianSecondBrain",
-  "lastExport": 1745859902174,
+  "lastExport": 1745861230254,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "_PastedImages/Pasted image 20240412115026.png",
-    "_PastedImages/Pasted image 20240424073644.png",
-    "_PastedImages/Pasted image 20240424075131.png",
-    "_PastedImages/Pasted image 20240924173228.png",
-    "_PastedImages/Pasted image 20240924173258.png",
-    "_PastedImages/Pasted image 20240924173344.png",
-    "_PastedImages/Pasted image 20240924173411.png",
-    "_PastedImages/Pasted image 20240924173440.png",
-    "_PastedImages/Pasted image 20240924173458.png",
-    "_PastedImages/Pasted image 20240924173524.png",
-    "_PastedImages/Pasted image 20241030170446.png",
     "_PastedImages/readablity.png.png",
-    "Work/ACC/1CRM/1CRM/Branding Controls.md",
-    "Work/ACC/1CRM/1CRM/Donations.md",
-    "Work/ACC/1CRM/1CRM/Member Directory.md",
-    "Work/ACC/1CRM/1CRM/Membership Renewal.md",
-    "Work/ACC/1CRM/1CRM/Online Membership Application.md",
-    "Work/ACC/1CRM/1CRM/Profile Tour.md",
-    "Work/ACC/1CRM/1CRM/Shopping Cart.md",
-    "Work/ACC/1CRM/1CRM/Sign In.md",
-    "Work/ACC/1CRM/Efforts/Dynamic Header & Footer.md",
-    "Work/ACC/1CRM/Efforts/Invoices Pay for some one else.md",
-    "Work/ACC/1CRM/Efforts/My ACC.org Dropdown Menu.md",
-    "Work/ACC/1CRM/Efforts/OMA Replacement - Membership Join Us.md",
-    "Work/ACC/1CRM/1CRM.md",
-    "Work/ACC/1CRM/Blackout Week.md",
-    "Work/ACC/1CRM/First time entry tour.md",
-    "Work/ACC/1CRM/Front End.md",
-    "Work/ACC/1CRM/Hubspot.md",
-    "Work/ACC/1CRM/Things are broken or funky list.md",
-    "Work/ACC/Arches/Conversion/Components/Component Conversion Approach.md",
-    "Work/ACC/Arches/Conversion/Components/Creating A New ACC.org Component.md",
-    "Work/ACC/Arches/Conversion/Components/Quality of life configurations with Sitecore.md",
-    "Work/ACC/Arches/Conversion/Editorial training/Editorial training.md",
-    "Work/ACC/Arches/Conversion/Editorial training/KT SESSIONS.md",
-    "Work/ACC/Arches/Conversion/Editorial training/Phase 1.md",
-    "Work/ACC/Arches/Conversion/Editorial training/Phase 2.md",
-    "Work/ACC/Arches/Conversion/Editorial training/Phase 3.md",
-    "Work/ACC/Arches/Conversion/Editorial training/Phase 4.md",
-    "Work/ACC/Arches/Conversion/Process/Excel/Audit of Editorial UI.md",
-    "Work/ACC/Arches/Conversion/Process/Excel/Editorial Bulk Change Notice Excel.md",
-    "Work/ACC/Arches/Conversion/Process/Excel/Mapping of Converted Components.md",
-    "Work/ACC/Arches/Conversion/Process/Excel/Remediation.md",
-    "Work/ACC/Arches/Conversion/Process/Bulk Conversion Outline OLD.md",
-    "Work/ACC/Arches/Conversion/Process/Bulk Conversion Script Process.md",
-    "Work/ACC/Arches/Conversion/Process/Excel Tables.md",
-    "Work/ACC/Arches/Conversion/Process/Scripts.md",
-    "Work/ACC/Arches/Conversion/Process/SPRINT A - Define the Batch.md",
-    "Work/ACC/Arches/Conversion/Process/SPRINT B - Component Conversions.md",
-    "Work/ACC/Arches/Conversion/Process/SPRINT C - Editorial Created Remediation.md",
-    "Work/ACC/Arches/Conversion/Process/SPRINT D - Batch Conversion.md",
-    "Work/ACC/Arches/Conversion/Arches Conversion.md",
-    "Work/ACC/Arches/Conversion/New Component.md",
-    "Work/ACC/Arches/Conversion/Outstanding Tickets in ACC.org.md",
-    "Work/ACC/Arches/Design System/Container Query Sizing.md",
-    "Work/ACC/Arches/Design System/Design System.md",
-    "Work/ACC/Arches/Arches.md",
-    "Work/ACC/Arches/Front End Design at the College.md",
-    "Work/ACC/Arches/Golden Standards ACC Content UI.md",
-    "Work/ACC/JACC/JACC.md",
-    "Work/ACC/JACC/JACC Editors at ACC24.md",
-    "Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md",
-    "Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets.md",
-    "Work/ACC/Jira/AI Prompts/AI Prompt - Craft UX Ask.md",
-    "Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md",
-    "Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md",
-    "Work/ACC/Jira/Tickets/Home Page Hero Update.md",
-    "Work/ACC/Jira/ARCHES Component Conversion.md",
-    "Work/ACC/Jira/ARCHES New Component.md",
-    "Work/ACC/Jira/Bug Ticket Template.md",
-    "Work/ACC/Jira/JIRA Helpers.md",
-    "Work/ACC/Jira/Single Page Applications.md",
-    "Work/ACC/Paper Crane/Component Library in Vue.md",
-    "Work/ACC/Project Weekly Notes/+Weekly Notes.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 36.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 37.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 38.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 39.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 40.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 41.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 42.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 43.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 44.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 45.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 46.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 47.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 50.md",
-    "Work/ACC/Project Weekly Notes/2024 Week 51.md",
-    "Work/ACC/Project Weekly Notes/2025 Week 2.md",
-    "Work/ACC/Project Weekly Notes/2025 Week 5.md",
-    "Work/ACC/Project Weekly Notes/2025 Week 9.md",
-    "Work/ACC/Project Weekly Notes/2025 Week 17.md",
-    "Work/ACC/Project Weekly Notes/2025 Week 18.md",
-    "Work/ACC/Project Weekly Notes/Untitled 1.md",
-    "Work/ACC/Projects/_Archived/Annual 2024/Acc 24.md",
-    "Work/ACC/Projects/_Archived/Annual 2024/After Conference actions.md",
-    "Work/ACC/Projects/_Archived/Annual 2024/Annual Meeting 2024.md",
-    "Work/ACC/Projects/_Archived/Annual 2024/Lessons Learned.md",
-    "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Current Member (Engaged Member).md",
-    "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Engagement - Structured Data.md",
-    "Work/ACC/Projects/_Archived/Virtual/Collections/Channels.md",
-    "Work/ACC/Projects/_Archived/Virtual/Collections/Collections.md",
-    "Work/ACC/Projects/_Archived/Virtual/Pages/Layouts & Blocks.md",
-    "Work/ACC/Projects/_Archived/Virtual/Pages/Pages.md",
-    "Work/ACC/Projects/_Archived/Virtual/Structured Data Items/Session.md",
-    "Work/ACC/Projects/_Archived/Virtual/Structured Data Items/Structured Data Items.md",
-    "Work/ACC/Projects/_Archived/Virtual/System/Basic CRUD.md",
-    "Work/ACC/Projects/_Archived/Virtual/System/Categories  & Tags.md",
-    "Work/ACC/Projects/_Archived/Virtual/System/Short Codes.md",
-    "Work/ACC/Projects/_Archived/Virtual/System/System establishing data.md",
-    "Work/ACC/Projects/_Archived/Virtual/Widgets/Basic HTML.md",
-    "Work/ACC/Projects/_Archived/Virtual/Widgets/Button.md",
+    "_PastedImages/Pasted image 20241030170446.png",
+    "_PastedImages/Pasted image 20240924173524.png",
+    "_PastedImages/Pasted image 20240924173458.png",
+    "_PastedImages/Pasted image 20240924173440.png",
+    "_PastedImages/Pasted image 20240924173411.png",
+    "_PastedImages/Pasted image 20240924173344.png",
+    "_PastedImages/Pasted image 20240924173258.png",
+    "_PastedImages/Pasted image 20240924173228.png",
+    "_PastedImages/Pasted image 20240424075131.png",
+    "_PastedImages/Pasted image 20240424073644.png",
+    "_PastedImages/Pasted image 20240412115026.png",
+    "Work/ACC/Thoughts/Not Using UI but Word Documents.md",
+    "Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md",
+    "Work/ACC/Thoughts/Interviews..md",
+    "Work/ACC/Structure and Content Guidance/html optimization.md",
+    "Work/ACC/Structure and Content Guidance/Untitled.md",
+    "Work/ACC/Structure and Content Guidance/Structure & Guidance.md",
+    "Work/ACC/Structure and Content Guidance/Story Writing/Story First Content.md",
+    "Work/ACC/Structure and Content Guidance/SPA/Outline of Tickets for SPAs in Vue.md",
+    "Work/ACC/Structure and Content Guidance/Refactor/Refactors.md",
+    "Work/ACC/Structure and Content Guidance/Refactor/Refactor Process.md",
+    "Work/ACC/Structure and Content Guidance/Refactor/Pre Kickoff Collection Checklist.md",
+    "Work/ACC/Structure and Content Guidance/Refactor/Post Launch Checklist.md",
+    "Work/ACC/Structure and Content Guidance/Refactor/Existing Website Pages & Content Inventory.md",
+    "Work/ACC/Structure and Content Guidance/Refactor/Current Analytics running on Project Scope.md",
+    "Work/ACC/Structure and Content Guidance/Product Pages.md",
+    "Work/ACC/Structure and Content Guidance/Page Creation Guidance.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Strategic Threshold for a Microsite.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Pros & Cons.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Microsites.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Microsite Definition.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Components/Micro Branding with Page Title.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Components/Hero Image with CTA.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Checklist for a Viability.md",
+    "Work/ACC/Structure and Content Guidance/Microsites/Anatomy of a Microsite.md",
+    "Work/ACC/Structure and Content Guidance/Full Page Splashes/Full Page Splashes (Hubspot).md",
+    "Work/ACC/Structure and Content Guidance/Facet Page.md",
     "Work/ACC/Projects/_Archived/Virtual/Widgets/Widgets.md",
+    "Work/ACC/Projects/_Archived/Virtual/Widgets/Button.md",
+    "Work/ACC/Projects/_Archived/Virtual/Widgets/Basic HTML.md",
     "Work/ACC/Projects/_Archived/Virtual/Virtual System.md",
-    "Work/ACC/Projects/_Archived/About Us & Support Us Pages.md",
+    "Work/ACC/Projects/_Archived/Virtual/System/System establishing data.md",
+    "Work/ACC/Projects/_Archived/Virtual/System/Short Codes.md",
+    "Work/ACC/Projects/_Archived/Virtual/System/Categories  & Tags.md",
+    "Work/ACC/Projects/_Archived/Virtual/System/Basic CRUD.md",
+    "Work/ACC/Projects/_Archived/Virtual/Structured Data Items/Structured Data Items.md",
+    "Work/ACC/Projects/_Archived/Virtual/Structured Data Items/Session.md",
+    "Work/ACC/Projects/_Archived/Virtual/Pages/Pages.md",
+    "Work/ACC/Projects/_Archived/Virtual/Pages/Layouts & Blocks.md",
+    "Work/ACC/Projects/_Archived/Virtual/Collections/Collections.md",
+    "Work/ACC/Projects/_Archived/Virtual/Collections/Channels.md",
+    "Work/ACC/Projects/_Archived/Syncing CardioSmart with Asset.ACC.org.md",
+    "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Engagement - Structured Data.md",
+    "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Current Member (Engaged Member).md",
+    "Work/ACC/Projects/_Archived/Join us.md",
+    "Work/ACC/Projects/_Archived/Hub Spot Landing Pages.md",
+    "Work/ACC/Projects/_Archived/Error Handling.md",
     "Work/ACC/Projects/_Archived/CardioSmart 360.md",
     "Work/ACC/Projects/_Archived/CV Board Website Brochureware.md",
-    "Work/ACC/Projects/_Archived/Error Handling.md",
-    "Work/ACC/Projects/_Archived/Hub Spot Landing Pages.md",
-    "Work/ACC/Projects/_Archived/Join us.md",
-    "Work/ACC/Projects/_Archived/Syncing CardioSmart with Asset.ACC.org.md",
-    "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/AI REQUEST for this Ticket.md",
-    "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/Children Rendering Rough Notes.md",
-    "Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA -  HFSA Heart Failure Society of America.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - FACS American College of Surgeons.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/CA - HRS Heart Rhythm Society.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Research.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Direct and Indirect Completive Landscape.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Pain Points.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Readability Evaluation Checklist and Rating Scale.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.excalidraw",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.svg",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.png",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.light.svg",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.light.png",
-    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.md",
-    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.excalidraw",
-    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.dark.svg",
-    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.dark.png",
-    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.light.svg",
-    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.light.png",
-    "Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md",
-    "Work/ACC/Projects/ACC Redesign/ACC.org Concept Structure.md",
-    "Work/ACC/Projects/ACC Redesign/Competitive Analysis.md",
-    "Work/ACC/Projects/ACC Redesign/Definition.md",
-    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.md",
-    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.excalidraw",
-    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.svg",
-    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.png",
-    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.svg",
-    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.png",
-    "Work/ACC/Projects/ACC Redesign/ESC Competitive Research.md",
-    "Work/ACC/Projects/ACC Redesign/Member Sections Presentation Script.md",
-    "Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md",
+    "Work/ACC/Projects/_Archived/Annual 2024/Lessons Learned.md",
+    "Work/ACC/Projects/_Archived/Annual 2024/Annual Meeting 2024.md",
+    "Work/ACC/Projects/_Archived/Annual 2024/After Conference actions.md",
+    "Work/ACC/Projects/_Archived/Annual 2024/Acc 24.md",
+    "Work/ACC/Projects/_Archived/About Us & Support Us Pages.md",
+    "Work/ACC/Projects/Tickets/Show Hide Text.md",
+    "Work/ACC/Projects/Tickets/Jira Tickets notes.md",
+    "Work/ACC/Projects/Tickets/Hero Banners & Micro Banner.md",
+    "Work/ACC/Projects/Tickets/Carousel.md",
+    "Work/ACC/Projects/Tickets/Article Children Rendering.md",
+    "Work/ACC/Projects/State Chapters for BOG.md",
+    "Work/ACC/Projects/SAPs.md",
+    "Work/ACC/Projects/SAPS/Untitled.md",
+    "Work/ACC/Projects/SAPS/Ultra Condensed.md",
+    "Work/ACC/Projects/SAPS/Ultra Condensed/HFSAP -- Ultra Condensed.md",
+    "Work/ACC/Projects/SAPS/Ultra Condensed/EPSAP-- Ultra Condensed.md",
+    "Work/ACC/Projects/SAPS/Ultra Condensed/CATHSAP -- Ultra Condensed.md",
+    "Work/ACC/Projects/SAPS/Ultra Condensed/ACCSAP -- Ultra Condensed.md",
+    "Work/ACC/Projects/SAPS/Sub Content/eLearn Promo.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Made Possible By.md",
+    "Work/ACC/Projects/SAPS/Sub Content/How to use.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Features.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md",
+    "Work/ACC/Projects/SAPS/Sub Content/Additional Information.md",
+    "Work/ACC/Projects/SAPS/HFSAP.md",
+    "Work/ACC/Projects/SAPS/FAQ.md",
+    "Work/ACC/Projects/SAPS/EPSAP.md",
+    "Work/ACC/Projects/SAPS/CATHSAP.md",
+    "Work/ACC/Projects/SAPS/ACCSAP.md",
+    "Work/ACC/Projects/NCD Academy.md",
+    "Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md",
+    "Work/ACC/Projects/Member Sections.md",
+    "Work/ACC/Projects/Member Sections/User Journey Prompt.md",
+    "Work/ACC/Projects/Member Sections/Section Personas.md",
+    "Work/ACC/Projects/Member Sections/Project Build Outline.md",
+    "Work/ACC/Projects/Member Sections/Presentation Story.md",
+    "Work/ACC/Projects/Member Sections/Member Section Group Think.md",
+    "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md",
+    "Work/ACC/Projects/Jira Tickets Arches.md",
+    "Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md",
+    "Work/ACC/Projects/Error Handling/Page List.md",
+    "Work/ACC/Projects/D&I.md",
+    "Work/ACC/Projects/CardioSmart 2025 UX.md",
+    "Work/ACC/Projects/CMP.md",
+    "Work/ACC/Projects/CMP/Linkage Report.md",
+    "Work/ACC/Projects/CMP/CMP-ADA-Policy.md",
+    "Work/ACC/Projects/CCKE.md",
+    "Work/ACC/Projects/CCKE/No Content Change Proposal.md",
+    "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md",
+    "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.excalidraw.md",
+    "Work/ACC/Projects/CCKE/Content Rewrite.md",
+    "Work/ACC/Projects/CCKE/CCKE Content Proposal.md",
+    "Work/ACC/Projects/Algorithm Design System.md",
+    "Work/ACC/Projects/Algorithm/Color Test.md",
+    "Work/ACC/Projects/Algorithm/Algorithm Read Me.md",
+    "Work/ACC/Projects/Advocacy.md",
+    "Work/ACC/Projects/AI and the ACC.md",
+    "Work/ACC/Projects/ACC Redesign.md",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.md",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.svg",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.png",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.excalidraw",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.svg",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.png",
+    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.canvas",
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.md",
+    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.svg",
+    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.png",
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.excalidraw",
+    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.svg",
+    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.png",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.md",
+    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.svg",
+    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.png",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.excalidraw",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.dark.svg",
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.dark.png",
-    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.svg",
-    "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.png",
-    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.md",
-    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.excalidraw",
-    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.canvas",
-    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.svg",
-    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.png",
-    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.svg",
-    "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.png",
-    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.svg",
-    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.png",
-    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.svg",
-    "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.png",
-    "Work/ACC/Projects/Algorithm/Algorithm Read Me.md",
-    "Work/ACC/Projects/Algorithm/Color Test.md",
-    "Work/ACC/Projects/CCKE/CCKE Content Proposal.md",
-    "Work/ACC/Projects/CCKE/Content Rewrite.md",
-    "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md",
-    "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.excalidraw.md",
-    "Work/ACC/Projects/CCKE/No Content Change Proposal.md",
-    "Work/ACC/Projects/CMP/CMP-ADA-Policy.md",
-    "Work/ACC/Projects/CMP/Linkage Report.md",
-    "Work/ACC/Projects/Error Handling/Page List.md",
-    "Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md",
-    "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md",
-    "Work/ACC/Projects/Member Sections/Member Section Group Think.md",
-    "Work/ACC/Projects/Member Sections/Presentation Story.md",
-    "Work/ACC/Projects/Member Sections/Project Build Outline.md",
-    "Work/ACC/Projects/Member Sections/Section Personas.md",
-    "Work/ACC/Projects/Member Sections/User Journey Prompt.md",
-    "Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md",
-    "Work/ACC/Projects/SAPS/Sub Content/Additional Information.md",
-    "Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md",
-    "Work/ACC/Projects/SAPS/Sub Content/eLearn Promo.md",
-    "Work/ACC/Projects/SAPS/Sub Content/Features.md",
-    "Work/ACC/Projects/SAPS/Sub Content/How to use.md",
-    "Work/ACC/Projects/SAPS/Sub Content/Made Possible By.md",
-    "Work/ACC/Projects/SAPS/Ultra Condensed/ACCSAP -- Ultra Condensed.md",
-    "Work/ACC/Projects/SAPS/Ultra Condensed/CATHSAP -- Ultra Condensed.md",
-    "Work/ACC/Projects/SAPS/Ultra Condensed/EPSAP-- Ultra Condensed.md",
-    "Work/ACC/Projects/SAPS/Ultra Condensed/HFSAP -- Ultra Condensed.md",
-    "Work/ACC/Projects/SAPS/ACCSAP.md",
-    "Work/ACC/Projects/SAPS/CATHSAP.md",
-    "Work/ACC/Projects/SAPS/EPSAP.md",
-    "Work/ACC/Projects/SAPS/FAQ.md",
-    "Work/ACC/Projects/SAPS/HFSAP.md",
-    "Work/ACC/Projects/SAPS/Ultra Condensed.md",
-    "Work/ACC/Projects/SAPS/Untitled.md",
-    "Work/ACC/Projects/Tickets/Article Children Rendering.md",
-    "Work/ACC/Projects/Tickets/Carousel.md",
-    "Work/ACC/Projects/Tickets/Hero Banners & Micro Banner.md",
-    "Work/ACC/Projects/Tickets/Jira Tickets notes.md",
-    "Work/ACC/Projects/Tickets/Show Hide Text.md",
-    "Work/ACC/Projects/A Full Project List.md",
+    "Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md",
+    "Work/ACC/Projects/ACC Redesign/Member Sections Presentation Script.md",
+    "Work/ACC/Projects/ACC Redesign/ESC Competitive Research.md",
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.md",
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.svg",
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.png",
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.excalidraw",
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.svg",
+    "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.png",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Readability Comparison Scoring.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - FACS American College of Surgeons.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - HRS Heart Rhythm Society.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA -  HFSA Heart Failure Society of America.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Readability Evaluation Checklist and Rating Scale.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.light.svg",
+    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.light.png",
+    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.excalidraw",
+    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.dark.svg",
+    "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.dark.png",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.light.svg",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.light.png",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.excalidraw",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.svg",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.png",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Pain Points.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Direct and Indirect Completive Landscape.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Research.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md",
+    "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md",
+    "Work/ACC/Projects/ACC Redesign/Definition.md",
+    "Work/ACC/Projects/ACC Redesign/Competitive Analysis.md",
+    "Work/ACC/Projects/ACC Redesign/ACC.org Concept Structure.md",
+    "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/Children Rendering Rough Notes.md",
+    "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/AI REQUEST for this Ticket.md",
+    "Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md",
     "Work/ACC/Projects/ACC 75th Gala.md",
-    "Work/ACC/Projects/ACC Redesign.md",
-    "Work/ACC/Projects/Advocacy.md",
-    "Work/ACC/Projects/AI and the ACC.md",
-    "Work/ACC/Projects/Algorithm Design System.md",
-    "Work/ACC/Projects/CardioSmart 2025 UX.md",
-    "Work/ACC/Projects/CCKE.md",
-    "Work/ACC/Projects/CMP.md",
-    "Work/ACC/Projects/D&I.md",
-    "Work/ACC/Projects/Jira Tickets Arches.md",
-    "Work/ACC/Projects/Member Sections.md",
-    "Work/ACC/Projects/NCD Academy.md",
-    "Work/ACC/Projects/SAPs.md",
-    "Work/ACC/Projects/State Chapters for BOG.md",
-    "Work/ACC/Structure and Content Guidance/Full Page Splashes/Full Page Splashes (Hubspot).md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Components/Hero Image with CTA.md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Components/Micro Branding with Page Title.md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Anatomy of a Microsite.md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Checklist for a Viability.md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Microsite Definition.md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Microsites.md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Pros & Cons.md",
-    "Work/ACC/Structure and Content Guidance/Microsites/Strategic Threshold for a Microsite.md",
-    "Work/ACC/Structure and Content Guidance/Refactor/Current Analytics running on Project Scope.md",
-    "Work/ACC/Structure and Content Guidance/Refactor/Existing Website Pages & Content Inventory.md",
-    "Work/ACC/Structure and Content Guidance/Refactor/Post Launch Checklist.md",
-    "Work/ACC/Structure and Content Guidance/Refactor/Pre Kickoff Collection Checklist.md",
-    "Work/ACC/Structure and Content Guidance/Refactor/Refactor Process.md",
-    "Work/ACC/Structure and Content Guidance/Refactor/Refactors.md",
-    "Work/ACC/Structure and Content Guidance/SPA/Outline of Tickets for SPAs in Vue.md",
-    "Work/ACC/Structure and Content Guidance/Story Writing/Story First Content.md",
-    "Work/ACC/Structure and Content Guidance/Facet Page.md",
-    "Work/ACC/Structure and Content Guidance/html optimization.md",
-    "Work/ACC/Structure and Content Guidance/Page Creation Guidance.md",
-    "Work/ACC/Structure and Content Guidance/Product Pages.md",
-    "Work/ACC/Structure and Content Guidance/Structure & Guidance.md",
-    "Work/ACC/Structure and Content Guidance/Untitled.md",
-    "Work/ACC/Thoughts/Interviews..md",
-    "Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md",
-    "Work/ACC/Thoughts/Not Using UI but Word Documents.md",
-    "Work/ACC/ACC Products.md",
+    "Work/ACC/Projects/A Full Project List.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 18.md",
+    "Work/ACC/Project Weekly Notes/Untitled 1.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 9.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 5.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 2.md",
+    "Work/ACC/Project Weekly Notes/2025 Week 17.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 51.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 50.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 47.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 46.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 45.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 44.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 43.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 42.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 41.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 40.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 39.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 38.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 37.md",
+    "Work/ACC/Project Weekly Notes/2024 Week 36.md",
+    "Work/ACC/Project Weekly Notes/+Weekly Notes.md",
+    "Work/ACC/Paper Crane/Component Library in Vue.md",
+    "Work/ACC/Jira/Tickets/Home Page Hero Update.md",
+    "Work/ACC/Jira/Single Page Applications.md",
+    "Work/ACC/Jira/JIRA Helpers.md",
+    "Work/ACC/Jira/Bug Ticket Template.md",
+    "Work/ACC/Jira/ARCHES New Component.md",
+    "Work/ACC/Jira/ARCHES Component Conversion.md",
+    "Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md",
+    "Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md",
+    "Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md",
+    "Work/ACC/Jira/AI Prompts/AI Prompt - Craft UX Ask.md",
+    "Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets.md",
+    "Work/ACC/JACC/JACC.md",
+    "Work/ACC/JACC/JACC Editors at ACC24.md",
     "Work/ACC/Goals 2025.md",
+    "Work/ACC/Arches/Golden Standards ACC Content UI.md",
+    "Work/ACC/Arches/Front End Design at the College.md",
+    "Work/ACC/Arches/Design System/Design System.md",
+    "Work/ACC/Arches/Design System/Container Query Sizing.md",
+    "Work/ACC/Arches/Conversion/Process/Scripts.md",
+    "Work/ACC/Arches/Conversion/Process/SPRINT D - Batch Conversion.md",
+    "Work/ACC/Arches/Conversion/Process/SPRINT C - Editorial Created Remediation.md",
+    "Work/ACC/Arches/Conversion/Process/SPRINT B - Component Conversions.md",
+    "Work/ACC/Arches/Conversion/Process/SPRINT A - Define the Batch.md",
+    "Work/ACC/Arches/Conversion/Process/Excel Tables.md",
+    "Work/ACC/Arches/Conversion/Process/Excel/Remediation.md",
+    "Work/ACC/Arches/Conversion/Process/Excel/Mapping of Converted Components.md",
+    "Work/ACC/Arches/Conversion/Process/Excel/Editorial Bulk Change Notice Excel.md",
+    "Work/ACC/Arches/Conversion/Process/Excel/Audit of Editorial UI.md",
+    "Work/ACC/Arches/Conversion/Process/Bulk Conversion Script Process.md",
+    "Work/ACC/Arches/Conversion/Process/Bulk Conversion Outline OLD.md",
+    "Work/ACC/Arches/Conversion/Outstanding Tickets in ACC.org.md",
+    "Work/ACC/Arches/Conversion/New Component.md",
+    "Work/ACC/Arches/Conversion/Editorial training/Phase 4.md",
+    "Work/ACC/Arches/Conversion/Editorial training/Phase 3.md",
+    "Work/ACC/Arches/Conversion/Editorial training/Phase 2.md",
+    "Work/ACC/Arches/Conversion/Editorial training/Phase 1.md",
+    "Work/ACC/Arches/Conversion/Editorial training/KT SESSIONS.md",
+    "Work/ACC/Arches/Conversion/Editorial training/Editorial training.md",
+    "Work/ACC/Arches/Conversion/Components/Quality of life configurations with Sitecore.md",
+    "Work/ACC/Arches/Conversion/Components/Creating A New ACC.org Component.md",
+    "Work/ACC/Arches/Conversion/Components/Component Conversion Approach.md",
+    "Work/ACC/Arches/Conversion/Arches Conversion.md",
+    "Work/ACC/Arches/Arches.md",
+    "Work/ACC/ACC Products.md",
+    "Work/ACC/1CRM/Things are broken or funky list.md",
+    "Work/ACC/1CRM/Hubspot.md",
+    "Work/ACC/1CRM/Front End.md",
+    "Work/ACC/1CRM/First time entry tour.md",
+    "Work/ACC/1CRM/Efforts/OMA Replacement - Membership Join Us.md",
+    "Work/ACC/1CRM/Efforts/My ACC.org Dropdown Menu.md",
+    "Work/ACC/1CRM/Efforts/Invoices Pay for some one else.md",
+    "Work/ACC/1CRM/Efforts/Dynamic Header & Footer.md",
+    "Work/ACC/1CRM/Blackout Week.md",
+    "Work/ACC/1CRM/1CRM.md",
+    "Work/ACC/1CRM/1CRM/Sign In.md",
+    "Work/ACC/1CRM/1CRM/Shopping Cart.md",
+    "Work/ACC/1CRM/1CRM/Profile Tour.md",
+    "Work/ACC/1CRM/1CRM/Online Membership Application.md",
+    "Work/ACC/1CRM/1CRM/Membership Renewal.md",
+    "Work/ACC/1CRM/1CRM/Member Directory.md",
+    "Work/ACC/1CRM/1CRM/Donations.md",
+    "Work/ACC/1CRM/1CRM/Branding Controls.md",
     "index.md",
-    "lib/media/pasted-image-20240412115026.png",
-    "lib/media/pasted-image-20240424073644.png",
-    "lib/media/pasted-image-20240424075131.png",
-    "lib/media/readablity.png.png",
-    "lib/media/pasted-image-20241030170446.png",
     "lib/media/pasted-image-20240924173228.png",
     "lib/media/pasted-image-20240924173258.png",
     "lib/media/pasted-image-20240924173344.png",
@@ -283,6 +279,11 @@
     "lib/media/pasted-image-20240924173440.png",
     "lib/media/pasted-image-20240924173458.png",
     "lib/media/pasted-image-20240924173524.png",
+    "lib/media/pasted-image-20241030170446.png",
+    "lib/media/readablity.png.png",
+    "lib/media/pasted-image-20240424073644.png",
+    "lib/media/pasted-image-20240424075131.png",
+    "lib/media/pasted-image-20240412115026.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -344,79 +345,79 @@
   ],
   "fileInfo": {
     "_PastedImages/Pasted image 20241030170446.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 432155,
       "exportedPath": "_pastedimages/pasted-image-20241030170446.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240924173524.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 70715,
       "exportedPath": "_pastedimages/pasted-image-20240924173524.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240924173458.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 38833,
       "exportedPath": "_pastedimages/pasted-image-20240924173458.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240924173440.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 86004,
       "exportedPath": "_pastedimages/pasted-image-20240924173440.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240924173411.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 67369,
       "exportedPath": "_pastedimages/pasted-image-20240924173411.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240924173344.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 78523,
       "exportedPath": "_pastedimages/pasted-image-20240924173344.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240924173258.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 66295,
       "exportedPath": "_pastedimages/pasted-image-20240924173258.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240924173228.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 58952,
       "exportedPath": "_pastedimages/pasted-image-20240924173228.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240424075131.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 318503,
       "exportedPath": "_pastedimages/pasted-image-20240424075131.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240424073644.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 154715,
       "exportedPath": "_pastedimages/pasted-image-20240424073644.png",
       "dependencies": []
     },
     "_PastedImages/Pasted image 20240412115026.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 546979,
       "exportedPath": "_pastedimages/pasted-image-20240412115026.png",
       "dependencies": []
     },
     "Work/ACC/Thoughts/Not Using UI but Word Documents.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4805,
       "exportedPath": "work/acc/thoughts/not-using-ui-but-word-documents.html",
       "dependencies": []
     },
     "Work/ACC/Thoughts/Maximize Conversions with Integrated Marketing.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 5575,
       "exportedPath": "work/acc/thoughts/maximize-conversions-with-integrated-marketing.html",
       "dependencies": [
@@ -430,517 +431,517 @@
       ]
     },
     "Work/ACC/Thoughts/Interviews..md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 97,
       "exportedPath": "work/acc/thoughts/interviews..html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/html optimization.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 163,
       "exportedPath": "work/acc/structure-and-content-guidance/html-optimization.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Untitled.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 0,
       "exportedPath": "work/acc/structure-and-content-guidance/untitled.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Structure & Guidance.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 283,
       "exportedPath": "work/acc/structure-and-content-guidance/structure-&-guidance.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Story Writing/Story First Content.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1138,
       "exportedPath": "work/acc/structure-and-content-guidance/story-writing/story-first-content.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/SPA/Outline of Tickets for SPAs in Vue.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 8261,
       "exportedPath": "work/acc/structure-and-content-guidance/spa/outline-of-tickets-for-spas-in-vue.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Refactor/Refactors.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1915,
       "exportedPath": "work/acc/structure-and-content-guidance/refactor/refactors.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Refactor/Refactor Process.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4695,
       "exportedPath": "work/acc/structure-and-content-guidance/refactor/refactor-process.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Refactor/Pre Kickoff Collection Checklist.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2702,
       "exportedPath": "work/acc/structure-and-content-guidance/refactor/pre-kickoff-collection-checklist.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Refactor/Post Launch Checklist.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 704,
       "exportedPath": "work/acc/structure-and-content-guidance/refactor/post-launch-checklist.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Refactor/Existing Website Pages & Content Inventory.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2024,
       "exportedPath": "work/acc/structure-and-content-guidance/refactor/existing-website-pages-&-content-inventory.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Refactor/Current Analytics running on Project Scope.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3499,
       "exportedPath": "work/acc/structure-and-content-guidance/refactor/current-analytics-running-on-project-scope.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Product Pages.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1814,
       "exportedPath": "work/acc/structure-and-content-guidance/product-pages.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Page Creation Guidance.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 883,
       "exportedPath": "work/acc/structure-and-content-guidance/page-creation-guidance.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Strategic Threshold for a Microsite.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2871,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/strategic-threshold-for-a-microsite.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Pros & Cons.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3988,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/pros-&-cons.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Microsites.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1583,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/microsites.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Microsite Definition.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1764,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/microsite-definition.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Components/Micro Branding with Page Title.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1650,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/components/micro-branding-with-page-title.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Components/Hero Image with CTA.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1847,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/components/hero-image-with-cta.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Checklist for a Viability.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1122,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/checklist-for-a-viability.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Microsites/Anatomy of a Microsite.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2107,
       "exportedPath": "work/acc/structure-and-content-guidance/microsites/anatomy-of-a-microsite.html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Full Page Splashes/Full Page Splashes (Hubspot).md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2498,
       "exportedPath": "work/acc/structure-and-content-guidance/full-page-splashes/full-page-splashes-(hubspot).html",
       "dependencies": []
     },
     "Work/ACC/Structure and Content Guidance/Facet Page.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 87,
       "exportedPath": "work/acc/structure-and-content-guidance/facet-page.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Widgets/Widgets.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 863,
       "exportedPath": "work/acc/projects/_archived/virtual/widgets/widgets.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Widgets/Button.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 164,
       "exportedPath": "work/acc/projects/_archived/virtual/widgets/button.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Widgets/Basic HTML.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 56,
       "exportedPath": "work/acc/projects/_archived/virtual/widgets/basic-html.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Virtual System.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 365,
       "exportedPath": "work/acc/projects/_archived/virtual/virtual-system.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/System/System establishing data.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 215,
       "exportedPath": "work/acc/projects/_archived/virtual/system/system-establishing-data.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/System/Short Codes.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 250,
       "exportedPath": "work/acc/projects/_archived/virtual/system/short-codes.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/System/Categories  & Tags.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 750,
       "exportedPath": "work/acc/projects/_archived/virtual/system/categories-&-tags.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/System/Basic CRUD.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 327,
       "exportedPath": "work/acc/projects/_archived/virtual/system/basic-crud.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Structured Data Items/Structured Data Items.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 285,
       "exportedPath": "work/acc/projects/_archived/virtual/structured-data-items/structured-data-items.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Structured Data Items/Session.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 199,
       "exportedPath": "work/acc/projects/_archived/virtual/structured-data-items/session.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Pages/Pages.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 559,
       "exportedPath": "work/acc/projects/_archived/virtual/pages/pages.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Pages/Layouts & Blocks.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 943,
       "exportedPath": "work/acc/projects/_archived/virtual/pages/layouts-&-blocks.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Collections/Collections.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 441,
       "exportedPath": "work/acc/projects/_archived/virtual/collections/collections.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Virtual/Collections/Channels.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 542,
       "exportedPath": "work/acc/projects/_archived/virtual/collections/channels.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Syncing CardioSmart with Asset.ACC.org.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 940,
       "exportedPath": "work/acc/projects/_archived/syncing-cardiosmart-with-asset.acc.org.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Engagement - Structured Data.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 691,
       "exportedPath": "work/acc/projects/_archived/member-engage-(current-member)/engagement-structured-data.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Member Engage (Current Member)/Current Member (Engaged Member).md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 430,
       "exportedPath": "work/acc/projects/_archived/member-engage-(current-member)/current-member-(engaged-member).html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Join us.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 948,
       "exportedPath": "work/acc/projects/_archived/join-us.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Hub Spot Landing Pages.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1222,
       "exportedPath": "work/acc/projects/_archived/hub-spot-landing-pages.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Error Handling.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2116,
       "exportedPath": "work/acc/projects/_archived/error-handling.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/CardioSmart 360.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2985,
       "exportedPath": "work/acc/projects/_archived/cardiosmart-360.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/CV Board Website Brochureware.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 320,
       "exportedPath": "work/acc/projects/_archived/cv-board-website-brochureware.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Annual 2024/Lessons Learned.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1006,
       "exportedPath": "work/acc/projects/_archived/annual-2024/lessons-learned.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Annual 2024/Annual Meeting 2024.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 369,
       "exportedPath": "work/acc/projects/_archived/annual-2024/annual-meeting-2024.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Annual 2024/After Conference actions.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1878,
       "exportedPath": "work/acc/projects/_archived/annual-2024/after-conference-actions.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/Annual 2024/Acc 24.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 281,
       "exportedPath": "work/acc/projects/_archived/annual-2024/acc-24.html",
       "dependencies": []
     },
     "Work/ACC/Projects/_Archived/About Us & Support Us Pages.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1532,
       "exportedPath": "work/acc/projects/_archived/about-us-&-support-us-pages.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Tickets/Show Hide Text.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1131,
       "exportedPath": "work/acc/projects/tickets/show-hide-text.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Tickets/Jira Tickets notes.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 90,
       "exportedPath": "work/acc/projects/tickets/jira-tickets-notes.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Tickets/Hero Banners & Micro Banner.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2054,
       "exportedPath": "work/acc/projects/tickets/hero-banners-&-micro-banner.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Tickets/Carousel.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 135,
       "exportedPath": "work/acc/projects/tickets/carousel.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Tickets/Article Children Rendering.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2499,
       "exportedPath": "work/acc/projects/tickets/article-children-rendering.html",
       "dependencies": []
     },
     "Work/ACC/Projects/State Chapters for BOG.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3586,
       "exportedPath": "work/acc/projects/state-chapters-for-bog.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPs.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2514,
       "exportedPath": "work/acc/projects/saps.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Untitled.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 309,
       "exportedPath": "work/acc/projects/saps/untitled.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Ultra Condensed.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3101,
       "exportedPath": "work/acc/projects/saps/ultra-condensed.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Ultra Condensed/HFSAP -- Ultra Condensed.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 7448,
       "exportedPath": "work/acc/projects/saps/ultra-condensed/hfsap-ultra-condensed.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Ultra Condensed/EPSAP-- Ultra Condensed.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 6959,
       "exportedPath": "work/acc/projects/saps/ultra-condensed/epsap-ultra-condensed.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Ultra Condensed/CATHSAP -- Ultra Condensed.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 7595,
       "exportedPath": "work/acc/projects/saps/ultra-condensed/cathsap-ultra-condensed.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Ultra Condensed/ACCSAP -- Ultra Condensed.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 8485,
       "exportedPath": "work/acc/projects/saps/ultra-condensed/accsap-ultra-condensed.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Sub Content/eLearn Promo.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 234,
       "exportedPath": "work/acc/projects/saps/sub-content/elearn-promo.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Sub Content/Made Possible By.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 136,
       "exportedPath": "work/acc/projects/saps/sub-content/made-possible-by.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Sub Content/How to use.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1585,
       "exportedPath": "work/acc/projects/saps/sub-content/how-to-use.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Sub Content/Features.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1296,
       "exportedPath": "work/acc/projects/saps/sub-content/features.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3768,
       "exportedPath": "work/acc/projects/saps/sub-content/cardio-source-warning.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/Sub Content/Additional Information.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2958,
       "exportedPath": "work/acc/projects/saps/sub-content/additional-information.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/HFSAP.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 890,
       "exportedPath": "work/acc/projects/saps/hfsap.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/FAQ.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 891,
       "exportedPath": "work/acc/projects/saps/faq.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/EPSAP.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1207,
       "exportedPath": "work/acc/projects/saps/epsap.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/CATHSAP.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1288,
       "exportedPath": "work/acc/projects/saps/cathsap.html",
       "dependencies": []
     },
     "Work/ACC/Projects/SAPS/ACCSAP.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3310,
       "exportedPath": "work/acc/projects/saps/accsap.html",
       "dependencies": []
     },
     "Work/ACC/Projects/NCD Academy.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2486,
       "exportedPath": "work/acc/projects/ncd-academy.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 8140,
       "exportedPath": "work/acc/projects/members-sections/onboarding-dynamic-content.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1372,
       "exportedPath": "work/acc/projects/member-sections.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections/User Journey Prompt.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1678,
       "exportedPath": "work/acc/projects/member-sections/user-journey-prompt.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections/Section Personas.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 5927,
       "exportedPath": "work/acc/projects/member-sections/section-personas.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections/Project Build Outline.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3356,
       "exportedPath": "work/acc/projects/member-sections/project-build-outline.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections/Presentation Story.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2139,
       "exportedPath": "work/acc/projects/member-sections/presentation-story.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections/Member Section Group Think.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 321,
       "exportedPath": "work/acc/projects/member-sections/member-section-group-think.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3398,
       "exportedPath": "work/acc/projects/member-sections/intro-text-by-user-flow.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Jira Tickets Arches.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 528,
       "exportedPath": "work/acc/projects/jira-tickets-arches.html",
       "dependencies": []
     },
     "Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 5575,
       "exportedPath": "work/acc/projects/hubspot-landing-page/maximize-conversions-with-integrated-marketing.html",
       "dependencies": [
@@ -954,73 +955,73 @@
       ]
     },
     "Work/ACC/Projects/Error Handling/Page List.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 8123,
       "exportedPath": "work/acc/projects/error-handling/page-list.html",
       "dependencies": []
     },
     "Work/ACC/Projects/D&I.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1685,
       "exportedPath": "work/acc/projects/d&i.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CardioSmart 2025 UX.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2073,
       "exportedPath": "work/acc/projects/cardiosmart-2025-ux.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CMP.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 475,
       "exportedPath": "work/acc/projects/cmp.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CMP/Linkage Report.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2111,
       "exportedPath": "work/acc/projects/cmp/linkage-report.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CMP/CMP-ADA-Policy.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 309,
       "exportedPath": "work/acc/projects/cmp/cmp-ada-policy.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CCKE.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1898,
       "exportedPath": "work/acc/projects/ccke.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CCKE/No Content Change Proposal.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 7675,
       "exportedPath": "work/acc/projects/ccke/no-content-change-proposal.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 309,
       "exportedPath": "work/acc/projects/ccke/grey-box-ccke-ous.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.excalidraw.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 36034,
       "exportedPath": "work/acc/projects/ccke/grey-box-ccke-ous.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CCKE/Content Rewrite.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 751,
       "exportedPath": "work/acc/projects/ccke/content-rewrite.html",
       "dependencies": []
     },
     "Work/ACC/Projects/CCKE/CCKE Content Proposal.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 19120,
       "exportedPath": "work/acc/projects/ccke/ccke-content-proposal.html",
       "dependencies": [
@@ -1028,769 +1029,769 @@
       ]
     },
     "Work/ACC/Projects/Algorithm Design System.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2164,
       "exportedPath": "work/acc/projects/algorithm-design-system.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Algorithm/Color Test.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1237,
       "exportedPath": "work/acc/projects/algorithm/color-test.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Algorithm/Algorithm Read Me.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4341,
       "exportedPath": "work/acc/projects/algorithm/algorithm-read-me.html",
       "dependencies": []
     },
     "Work/ACC/Projects/Advocacy.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 363,
       "exportedPath": "work/acc/projects/advocacy.html",
       "dependencies": []
     },
     "Work/ACC/Projects/AI and the ACC.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 516,
       "exportedPath": "work/acc/projects/ai-and-the-acc.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 967,
       "exportedPath": "work/acc/projects/acc-redesign.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3117,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-acc.org-concept-map.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4271,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-acc.org-concept-map.excalidraw.light.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.light.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 9981,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-acc.org-concept-map.excalidraw.light.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.excalidraw": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3425,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-acc.org-concept-map.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4311,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-acc.org-concept-map.excalidraw.dark.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.excalidraw.dark.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 10003,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-acc.org-concept-map.excalidraw.dark.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Whatif-ACC.org-concept-map.canvas": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 361,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-acc.org-concept-map.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 73235,
       "exportedPath": "work/acc/projects/acc-redesign/whatif.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 269322,
       "exportedPath": "work/acc/projects/acc-redesign/whatif.excalidraw.light.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.light.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1502072,
       "exportedPath": "work/acc/projects/acc-redesign/whatif.excalidraw.light.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.excalidraw": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 192462,
       "exportedPath": "work/acc/projects/acc-redesign/whatif.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 269362,
       "exportedPath": "work/acc/projects/acc-redesign/whatif.excalidraw.dark.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf.excalidraw.dark.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1509044,
       "exportedPath": "work/acc/projects/acc-redesign/whatif.excalidraw.dark.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 43947,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-functions.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 89944,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-functions.light.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.light.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 740069,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-functions.light.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.excalidraw": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 106222,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-functions.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.dark.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 89984,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-functions.dark.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/WhatIf--Functions.dark.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 745883,
       "exportedPath": "work/acc/projects/acc-redesign/whatif-functions.dark.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 9405,
       "exportedPath": "work/acc/projects/acc-redesign/strategic-glossary-of-page-concepts-in-acc.org.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Member Sections Presentation Script.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3039,
       "exportedPath": "work/acc/projects/acc-redesign/member-sections-presentation-script.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/ESC Competitive Research.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 831,
       "exportedPath": "work/acc/projects/acc-redesign/esc-competitive-research.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 18360,
       "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 35837,
       "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.light.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.light.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 143807,
       "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.light.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.excalidraw": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 37855,
       "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 35877,
       "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.dark.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Drawing 2025-04-25 10.02.30.excalidraw.dark.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 143372,
       "exportedPath": "work/acc/projects/acc-redesign/drawing-2025-04-25-10.02.30.excalidraw.dark.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 6317,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-ama-american-medical-association.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Readability Evaluation Checklist and Rating Scale.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2393,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/readability-evaluation-checklist-and-rating-scale.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2338,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/web-based-heuristics.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 26830,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tagdashboardfigure.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.light.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 69838,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tagdashboardfigure.excalidraw.light.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.light.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 188336,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tagdashboardfigure.excalidraw.light.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.excalidraw": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 58983,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tagdashboardfigure.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.dark.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 69878,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tagdashboardfigure.excalidraw.dark.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/TagDashboardFigure.excalidraw.dark.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 188923,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tagdashboardfigure.excalidraw.dark.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 49345,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tag-interactions-structure.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.light.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 127066,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tag-interactions-structure.excalidraw.light.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.light.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 463980,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tag-interactions-structure.excalidraw.light.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.excalidraw": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 128031,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tag-interactions-structure.excalidraw.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 127106,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tag-interactions-structure.excalidraw.dark.svg",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Tag Interactions Structure.excalidraw.dark.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 458291,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/tag-interactions-structure.excalidraw.dark.png",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Pain Points.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4726,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/pain-points.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Direct and Indirect Completive Landscape.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4922,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/direct-and-indirect-completive-landscape.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Research.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1067,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/competitive-research.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - European Society of Cardiology.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 5046,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-european-society-of-cardiology.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - American Heart Association.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4795,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-american-heart-association.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4852,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-acc-american-college-of-cardiology.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Definition.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 309,
       "exportedPath": "work/acc/projects/acc-redesign/definition.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Competitive Analysis.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 609,
       "exportedPath": "work/acc/projects/acc-redesign/competitive-analysis.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/ACC.org Concept Structure.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1828,
       "exportedPath": "work/acc/projects/acc-redesign/acc.org-concept-structure.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/Children Rendering Rough Notes.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1167,
       "exportedPath": "work/acc/projects/acc-conversion-to-arches/children-rendering/children-rendering-rough-notes.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Conversion to Arches/Children Rendering/AI REQUEST for this Ticket.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 7194,
       "exportedPath": "work/acc/projects/acc-conversion-to-arches/children-rendering/ai-request-for-this-ticket.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Conversion to Arches/ACC.org Conversion.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1462,
       "exportedPath": "work/acc/projects/acc-conversion-to-arches/acc.org-conversion.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC 75th Gala.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 717,
       "exportedPath": "work/acc/projects/acc-75th-gala.html",
       "dependencies": []
     },
     "Work/ACC/Projects/A Full Project List.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 512,
       "exportedPath": "work/acc/projects/a-full-project-list.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2025 Week 9.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 489,
       "exportedPath": "work/acc/project-weekly-notes/2025-week-9.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2025 Week 5.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 451,
       "exportedPath": "work/acc/project-weekly-notes/2025-week-5.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2025 Week 2.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 924,
       "exportedPath": "work/acc/project-weekly-notes/2025-week-2.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2025 Week 17.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 603,
       "exportedPath": "work/acc/project-weekly-notes/2025-week-17.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 51.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1114,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-51.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 50.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 610,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-50.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 47.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 742,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-47.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 46.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 504,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-46.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 45.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 122,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-45.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 44.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 861,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-44.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 43.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1046,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-43.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 42.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 83,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-42.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 41.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1632,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-41.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 40.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1280,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-40.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 39.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1851,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-39.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 38.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1154,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-38.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 37.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1814,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-37.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2024 Week 36.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2868,
       "exportedPath": "work/acc/project-weekly-notes/2024-week-36.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/+Weekly Notes.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 140,
       "exportedPath": "work/acc/project-weekly-notes/+weekly-notes.html",
       "dependencies": []
     },
     "Work/ACC/Paper Crane/Component Library in Vue.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 212,
       "exportedPath": "work/acc/paper-crane/component-library-in-vue.html",
       "dependencies": []
     },
     "Work/ACC/Jira/Tickets/Home Page Hero Update.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4752,
       "exportedPath": "work/acc/jira/tickets/home-page-hero-update.html",
       "dependencies": []
     },
     "Work/ACC/Jira/Single Page Applications.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3778,
       "exportedPath": "work/acc/jira/single-page-applications.html",
       "dependencies": []
     },
     "Work/ACC/Jira/JIRA Helpers.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 179,
       "exportedPath": "work/acc/jira/jira-helpers.html",
       "dependencies": []
     },
     "Work/ACC/Jira/Bug Ticket Template.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1121,
       "exportedPath": "work/acc/jira/bug-ticket-template.html",
       "dependencies": []
     },
     "Work/ACC/Jira/ARCHES New Component.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1637,
       "exportedPath": "work/acc/jira/arches-new-component.html",
       "dependencies": []
     },
     "Work/ACC/Jira/ARCHES Component Conversion.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1625,
       "exportedPath": "work/acc/jira/arches-component-conversion.html",
       "dependencies": []
     },
     "Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2733,
       "exportedPath": "work/acc/jira/ai-prompts/knowledge-base/kss-documentation.html",
       "dependencies": []
     },
     "Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 486,
       "exportedPath": "work/acc/jira/ai-prompts/ai-prompt-writing-editing.html",
       "dependencies": []
     },
     "Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 6741,
       "exportedPath": "work/acc/jira/ai-prompts/ai-prompt-scrum-ticket.html",
       "dependencies": []
     },
     "Work/ACC/Jira/AI Prompts/AI Prompt - Craft UX Ask.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1468,
       "exportedPath": "work/acc/jira/ai-prompts/ai-prompt-craft-ux-ask.html",
       "dependencies": []
     },
     "Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 6187,
       "exportedPath": "work/acc/jira/ai-prompts/ai-prompt-conversion-tickets.html",
       "dependencies": []
     },
     "Work/ACC/JACC/JACC.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 25,
       "exportedPath": "work/acc/jacc/jacc.html",
       "dependencies": []
     },
     "Work/ACC/JACC/JACC Editors at ACC24.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 603,
       "exportedPath": "work/acc/jacc/jacc-editors-at-acc24.html",
       "dependencies": []
     },
     "Work/ACC/Goals 2025.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 262,
       "exportedPath": "work/acc/goals-2025.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Golden Standards ACC Content UI.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 913,
       "exportedPath": "work/acc/arches/golden-standards-acc-content-ui.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Front End Design at the College.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4133,
       "exportedPath": "work/acc/arches/front-end-design-at-the-college.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Design System/Design System.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1221,
       "exportedPath": "work/acc/arches/design-system/design-system.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Design System/Container Query Sizing.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 713,
       "exportedPath": "work/acc/arches/design-system/container-query-sizing.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Scripts.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1200,
       "exportedPath": "work/acc/arches/conversion/process/scripts.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/SPRINT D - Batch Conversion.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 889,
       "exportedPath": "work/acc/arches/conversion/process/sprint-d-batch-conversion.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/SPRINT C - Editorial Created Remediation.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 758,
       "exportedPath": "work/acc/arches/conversion/process/sprint-c-editorial-created-remediation.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/SPRINT B - Component Conversions.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 620,
       "exportedPath": "work/acc/arches/conversion/process/sprint-b-component-conversions.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/SPRINT A - Define the Batch.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1322,
       "exportedPath": "work/acc/arches/conversion/process/sprint-a-define-the-batch.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Excel Tables.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 377,
       "exportedPath": "work/acc/arches/conversion/process/excel-tables.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Excel/Remediation.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1948,
       "exportedPath": "work/acc/arches/conversion/process/excel/remediation.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Excel/Mapping of Converted Components.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1150,
       "exportedPath": "work/acc/arches/conversion/process/excel/mapping-of-converted-components.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Excel/Editorial Bulk Change Notice Excel.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1644,
       "exportedPath": "work/acc/arches/conversion/process/excel/editorial-bulk-change-notice-excel.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Excel/Audit of Editorial UI.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4162,
       "exportedPath": "work/acc/arches/conversion/process/excel/audit-of-editorial-ui.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Bulk Conversion Script Process.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1968,
       "exportedPath": "work/acc/arches/conversion/process/bulk-conversion-script-process.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Process/Bulk Conversion Outline OLD.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 7583,
       "exportedPath": "work/acc/arches/conversion/process/bulk-conversion-outline-old.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Outstanding Tickets in ACC.org.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4758,
       "exportedPath": "work/acc/arches/conversion/outstanding-tickets-in-acc.org.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/New Component.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 231,
       "exportedPath": "work/acc/arches/conversion/new-component.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Editorial training/Phase 4.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 595,
       "exportedPath": "work/acc/arches/conversion/editorial-training/phase-4.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Editorial training/Phase 3.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 837,
       "exportedPath": "work/acc/arches/conversion/editorial-training/phase-3.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Editorial training/Phase 2.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 599,
       "exportedPath": "work/acc/arches/conversion/editorial-training/phase-2.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Editorial training/Phase 1.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 573,
       "exportedPath": "work/acc/arches/conversion/editorial-training/phase-1.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Editorial training/KT SESSIONS.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2633,
       "exportedPath": "work/acc/arches/conversion/editorial-training/kt-sessions.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Editorial training/Editorial training.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 102,
       "exportedPath": "work/acc/arches/conversion/editorial-training/editorial-training.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Components/Quality of life configurations with Sitecore.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2396,
       "exportedPath": "work/acc/arches/conversion/components/quality-of-life-configurations-with-sitecore.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Components/Creating A New ACC.org Component.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 407,
       "exportedPath": "work/acc/arches/conversion/components/creating-a-new-acc.org-component.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Components/Component Conversion Approach.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 831,
       "exportedPath": "work/acc/arches/conversion/components/component-conversion-approach.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Conversion/Arches Conversion.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2448,
       "exportedPath": "work/acc/arches/conversion/arches-conversion.html",
       "dependencies": []
     },
     "Work/ACC/Arches/Arches.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1139,
       "exportedPath": "work/acc/arches/arches.html",
       "dependencies": []
     },
     "Work/ACC/ACC Products.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 609,
       "exportedPath": "work/acc/acc-products.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/Things are broken or funky list.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 917,
       "exportedPath": "work/acc/1crm/things-are-broken-or-funky-list.html",
       "dependencies": [
@@ -1799,73 +1800,73 @@
       ]
     },
     "Work/ACC/1CRM/Hubspot.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 802,
       "exportedPath": "work/acc/1crm/hubspot.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/Front End.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 2901,
       "exportedPath": "work/acc/1crm/front-end.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/First time entry tour.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 418,
       "exportedPath": "work/acc/1crm/first-time-entry-tour.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/Efforts/OMA Replacement - Membership Join Us.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3826,
       "exportedPath": "work/acc/1crm/efforts/oma-replacement-membership-join-us.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/Efforts/My ACC.org Dropdown Menu.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 105,
       "exportedPath": "work/acc/1crm/efforts/my-acc.org-dropdown-menu.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/Efforts/Invoices Pay for some one else.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 431,
       "exportedPath": "work/acc/1crm/efforts/invoices-pay-for-some-one-else.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/Efforts/Dynamic Header & Footer.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 202,
       "exportedPath": "work/acc/1crm/efforts/dynamic-header-&-footer.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/Blackout Week.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 355,
       "exportedPath": "work/acc/1crm/blackout-week.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 323,
       "exportedPath": "work/acc/1crm/1crm.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM/Sign In.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 0,
       "exportedPath": "work/acc/1crm/1crm/sign-in.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM/Shopping Cart.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 0,
       "exportedPath": "work/acc/1crm/1crm/shopping-cart.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM/Profile Tour.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1826,
       "exportedPath": "work/acc/1crm/1crm/profile-tour.html",
       "dependencies": [
@@ -1873,330 +1874,336 @@
       ]
     },
     "Work/ACC/1CRM/1CRM/Online Membership Application.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 0,
       "exportedPath": "work/acc/1crm/1crm/online-membership-application.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM/Membership Renewal.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 0,
       "exportedPath": "work/acc/1crm/1crm/membership-renewal.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM/Member Directory.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 0,
       "exportedPath": "work/acc/1crm/1crm/member-directory.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM/Donations.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 0,
       "exportedPath": "work/acc/1crm/1crm/donations.html",
       "dependencies": []
     },
     "Work/ACC/1CRM/1CRM/Branding Controls.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 37,
       "exportedPath": "work/acc/1crm/1crm/branding-controls.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 153,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/pasted-image-20240924173228.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 58952,
       "exportedPath": "lib/media/pasted-image-20240924173228.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240924173258.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 66295,
       "exportedPath": "lib/media/pasted-image-20240924173258.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240924173344.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 78523,
       "exportedPath": "lib/media/pasted-image-20240924173344.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240924173411.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 67369,
       "exportedPath": "lib/media/pasted-image-20240924173411.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240924173440.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 86004,
       "exportedPath": "lib/media/pasted-image-20240924173440.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240924173458.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 38833,
       "exportedPath": "lib/media/pasted-image-20240924173458.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240924173524.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 70715,
       "exportedPath": "lib/media/pasted-image-20240924173524.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241030170446.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 432155,
       "exportedPath": "lib/media/pasted-image-20241030170446.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240424073644.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 154715,
       "exportedPath": "lib/media/pasted-image-20240424073644.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240424075131.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 318503,
       "exportedPath": "lib/media/pasted-image-20240424075131.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240412115026.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 546979,
       "exportedPath": "lib/media/pasted-image-20240412115026.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1745859902174,
-      "sourceSize": 266076,
+      "modifiedTime": 1745861230254,
+      "sourceSize": 266836,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1745859902174,
-      "sourceSize": 22696,
+      "modifiedTime": 1745861230254,
+      "sourceSize": 22935,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md": {
-      "modifiedTime": 1745859902174,
-      "sourceSize": 2774,
+      "modifiedTime": 1745861230254,
+      "sourceSize": 1044,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/competitive-analysis.html",
-      "dependencies": [
-        "lib/media/readablity.png.png"
-      ]
+      "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - HRS Heart Rhythm Society.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3453,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-hrs-heart-rhythm-society.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA -  HFSA Heart Failure Society of America.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3110,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-hfsa-heart-failure-society-of-america.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - FACS American College of Surgeons.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 4429,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-facs-american-college-of-surgeons.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/2025 Week 18.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 477,
       "exportedPath": "work/acc/project-weekly-notes/2025-week-18.html",
       "dependencies": []
     },
     "Work/ACC/Project Weekly Notes/Untitled 1.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 477,
       "exportedPath": "work/acc/project-weekly-notes/untitled-1.html",
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 3721,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/ca-aan-american-academy-of-neurology.html",
       "dependencies": []
     },
     "_PastedImages/readablity.png.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 165336,
       "exportedPath": "_pastedimages/readablity.png.png",
       "dependencies": []
     },
     "lib/media/readablity.png.png": {
-      "modifiedTime": 1745859902174,
+      "modifiedTime": 1745861230254,
       "sourceSize": 165336,
       "exportedPath": "lib/media/readablity.png.png",
       "dependencies": []
+    },
+    "Work/ACC/Projects/ACC Redesign/Discovery/Readability Comparison Scoring.md": {
+      "modifiedTime": 1745861230254,
+      "sourceSize": 3171,
+      "exportedPath": "work/acc/projects/acc-redesign/discovery/readability-comparison-scoring.html",
+      "dependencies": [
+        "lib/media/readablity.png.png"
+      ]
     }
   }
 }
