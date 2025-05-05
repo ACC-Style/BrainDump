@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 05 May 2025 18:55:23 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 05 May 2025 18:55:04 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Wendy.]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 05 May 2025 19:14:54 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 05 May 2025 19:14:38 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Wendy.]]></title><description><![CDATA[ 
  <br><br>Process focused.<br>
 structure and establishment of change management.<br>
 BA - Governance]]></description><link>https://acc-style.github.io/BrainDump/work/acc/thoughts/interviews..html</link><guid isPermaLink="false">Work/ACC/Thoughts/Interviews..md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 15 Apr 2025 22:16:00 GMT</pubDate></item><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
@@ -2971,8 +2971,33 @@ AAN’s primary audience remains clinical neurologists and researchers, which gi
 <br>Education: ★★★★☆ (4/4)<br>
 
 <br>Explanation:<br>
-AAN is strong across education, latest science, and practice support. Member networking is solid but not dominant. Events and patient tools are present but slightly secondary to professional development initiatives.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-aan-american-academy-of-neurology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 05 May 2025 15:26:13 GMT</pubDate></item><item><title><![CDATA[Readability Comparison Scoring]]></title><description><![CDATA[ 
- Reviewing and Evalutation of the current state of the ACC.org site.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/readability-comparison-scoring.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Readability Comparison Scoring.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 28 Apr 2025 17:13:09 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/readablity.png.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/readablity.png.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Y-Axis Tone &amp; Expression]]></title><description><![CDATA[ 
+AAN is strong across education, latest science, and practice support. Member networking is solid but not dominant. Events and patient tools are present but slightly secondary to professional development initiatives.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-aan-american-academy-of-neurology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 05 May 2025 15:26:13 GMT</pubDate></item><item><title><![CDATA[Readability Evaluation Checklist and Rating Scale]]></title><description><![CDATA[ 
+ <br>Evaluate each page or section on a 1–5 scale:<br><br>Total Scores:<br>
+<br>7–14: Needs Significant Improvement  
+<br>15–21: Below Average; Requires Revision 
+<br>22–28: Average; Could Benefit from Minor Edits
+<br>29–35: Good; Minor Tweaks Only
+<br>35+ : Excellent; Highly Readable
+<br><br>
+<br>Run quantitative tests (e.g., Hemingway App, Readable.io).
+<br>Evaluate qualitative UX criteria listed above.
+<br>Score each criteria using the checklist above.
+<br>Provide actionable recommendations (e.g., simplify sentence structures, break paragraphs down, reduce jargon).
+<br>Present results clearly to stakeholders:
+
+<br>Summarize scores with a break down.
+
+
+<br><br>Establish clear criteria for readability. Typical dimensions include:<br>
+<br>Reading Level: Grade-level comprehension needed (e.g., 8th grade, 12th grade, college).   
+<br>Sentence Length: Average number of words per sentence (ideally 15-20 words for general audiences).
+<br>Paragraph Density: Number of sentences per paragraph (ideally 2-4 sentences per paragraph).
+<br>Vocabulary Complexity: Usage of simple, everyday words versus specialized or complex vocabulary.
+<br>Jargon and Acronyms: Frequency and necessity; clarity in defining specialized terms.
+<br>Sentence Structure: Use of active vs. passive voice (favor active).
+<br>Content Length: Total word count for sections or pages relative to user attention span.
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/readability-evaluation-checklist-and-rating-scale.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Rules/Readability Evaluation Checklist and Rating Scale.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 25 Apr 2025 17:24:31 GMT</pubDate></item><item><title><![CDATA[Readability Comparison Scoring]]></title><description><![CDATA[ 
+ Reviewing and Evalutation of the current state of the ACC.org site.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/readability-comparison-scoring.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Rules/Readability Comparison Scoring.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 28 Apr 2025 17:13:09 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/readablity.png.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/readablity.png.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Y-Axis Tone &amp; Expression]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="Matrix Chart Data" data-href="Matrix Chart Data" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/matrix-chart-data.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- Back to Data</a><br><br>(from Dull/Flat to Fully Expressive)<br>
 <br>-4: Dull and Clinical<br>
 Institutional, cold, and impersonal. Dense language and passive voice dominate. Little to no attempt at emotional connection.<br>
@@ -3134,19 +3159,16 @@ Designed to be understood by the general public regardless of background, with c
 <br>Ensure that users can quickly find help through FAQs, support articles, or a contact option, especially when they are having trouble with their membership, accessing courses, or reading content.
 ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/web-based-heuristics.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 10 Sep 2024 18:43:03 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="ACC Redesign" data-href="ACC Redesign" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign.html" class="internal-link" target="_self" rel="noopener nofollow">Back to ACC Redesign</a><br><br>Looking at the competition will give us insights on how we will can can shift our site to be competitive. <br><br>
-<br>Hypothesis: 
+<br><a data-tooltip-position="top" aria-label="Docs" data-href="#Docs" href="https://acc-style.github.io/BrainDump/about:blank#Docs" class="internal-link" target="_self" rel="noopener nofollow">Collect Associations</a> that Match to Up to Our Business Model or our content
+<br>Establish Matrix to compare the association against.
+<br><a data-tooltip-position="top" aria-label="Raw Collection Documents" data-href="#Raw Collection Documents" href="https://acc-style.github.io/BrainDump/about:blank#Raw_Collection_Documents" class="internal-link" target="_self" rel="noopener nofollow">Raw Data Collection</a> of the Associations
+<br><a data-tooltip-position="top" aria-label="Outputs of the Data Capture" data-href="#Outputs of the Data Capture" href="https://acc-style.github.io/BrainDump/about:blank#Outputs_of_the_Data_Capture" class="internal-link" target="_self" rel="noopener nofollow">View Trends</a> via data collections in tables or charts.
+<br>Capture things of note that improve 
 <br><br>
-<br>Over View Doc <a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:w:/r/sites/DOS/Shared%20Documents/General/Enterprise%20Content%20Strategy%20Team/ACC.org%20Redesign/Insights%20to%20Inform%20Evolution/CompetativeAnalysis.docx?d=w52750c74cdb4455abe1b9b361b093457&amp;csf=1&amp;web=1&amp;e=bCb99b" rel="noopener nofollow" class="external-link" href="https://accorg.sharepoint.com/:w:/r/sites/DOS/Shared%20Documents/General/Enterprise%20Content%20Strategy%20Team/ACC.org%20Redesign/Insights%20to%20Inform%20Evolution/CompetativeAnalysis.docx?d=w52750c74cdb4455abe1b9b361b093457&amp;csf=1&amp;web=1&amp;e=bCb99b" target="_blank">CompetativeAnalysis.docx</a><br>
-Create a Discovery Staff Survey <a data-href="Direct and Indirect Completive Landscape - Survey Questions" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/direct-and-indirect-completive-landscape-survey-questions.html" class="internal-link" target="_self" rel="noopener nofollow">Direct and Indirect Completive Landscape - Survey Questions</a>
-<br><a data-tooltip-position="top" aria-label="https://whimsical.com/competitive-analysis-PihnSB1MPZ6s8nL4Sn46zY" rel="noopener nofollow" class="external-link" href="https://whimsical.com/competitive-analysis-PihnSB1MPZ6s8nL4Sn46zY" target="_blank">Review Sheet - Blank</a>
-<br><a data-tooltip-position="top" aria-label="https://whimsical.com/competitive-analysis-DupqurYAqSo4gfDVRzKfp" rel="noopener nofollow" class="external-link" href="https://whimsical.com/competitive-analysis-DupqurYAqSo4gfDVRzKfp" target="_blank">Captured Review Sheet</a>
-
-<br>Association List
-
-
-<br><a data-href="Readability Evaluation Checklist and Rating Scale" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/readability-evaluation-checklist-and-rating-scale.html" class="internal-link" target="_self" rel="noopener nofollow">Readability Evaluation Checklist and Rating Scale</a>
-<br><br>
-<br>Additional Notes: 
+<br>Collection of Associations and the Metric we Want to Rate them on. <a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:w:/r/sites/DOS/Shared%20Documents/General/Enterprise%20Content%20Strategy%20Team/ACC.org%20Redesign/Insights%20to%20Inform%20Evolution/CompetativeAnalysis.docx?d=w52750c74cdb4455abe1b9b361b093457&amp;csf=1&amp;web=1&amp;e=bCb99b" rel="noopener nofollow" class="external-link" href="https://accorg.sharepoint.com/:w:/r/sites/DOS/Shared%20Documents/General/Enterprise%20Content%20Strategy%20Team/ACC.org%20Redesign/Insights%20to%20Inform%20Evolution/CompetativeAnalysis.docx?d=w52750c74cdb4455abe1b9b361b093457&amp;csf=1&amp;web=1&amp;e=bCb99b" target="_blank">Word Doc</a>
+<br><a data-href="Direct and Indirect Completive Landscape - Survey Questions" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/direct-and-indirect-completive-landscape-survey-questions.html" class="internal-link" target="_self" rel="noopener nofollow">Direct and Indirect Completive Landscape - Survey Questions</a>
+<br><a data-tooltip-position="top" aria-label="https://whimsical.com/competitive-analysis-PihnSB1MPZ6s8nL4Sn46zY" rel="noopener nofollow" class="external-link" href="https://whimsical.com/competitive-analysis-PihnSB1MPZ6s8nL4Sn46zY" target="_blank">Review Sheet - Blank</a><br>
+Additional Notes: 
 <br><a rel="noopener nofollow" class="external-link" href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" target="_blank">https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/</a>
 <br><a rel="noopener nofollow" class="external-link" href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a>
 <br><a data-href="Web Based Heuristics" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/web-based-heuristics.html" class="internal-link" target="_self" rel="noopener nofollow">Web Based Heuristics</a>
@@ -3159,32 +3181,7 @@ Create a Discovery Staff Survey <a data-href="Direct and Indirect Completive Lan
 <a data-href="CA - HRS Heart Rhythm Society" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-hrs-heart-rhythm-society.html" class="internal-link" target="_self" rel="noopener nofollow">CA - HRS Heart Rhythm Society</a><br>
 <a data-href="CA - FACS American College of Surgeons" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-facs-american-college-of-surgeons.html" class="internal-link" target="_self" rel="noopener nofollow">CA - FACS American College of Surgeons</a><br>
 <a data-href="CA - AAN American Academy of Neurology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-aan-american-academy-of-neurology.html" class="internal-link" target="_self" rel="noopener nofollow">CA - AAN American Academy of Neurology</a><br>
-<a data-href="CA - JACC Journal of American College of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-jacc-journal-of-american-college-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">CA - JACC Journal of American College of Cardiology</a><br><br><br><br><br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 05 May 2025 18:00:45 GMT</pubDate></item><item><title><![CDATA[Readability Evaluation Checklist and Rating Scale]]></title><description><![CDATA[ 
- <br>Evaluate each page or section on a 1–5 scale:<br><br>Total Scores:<br>
-<br>7–14: Needs Significant Improvement  
-<br>15–21: Below Average; Requires Revision 
-<br>22–28: Average; Could Benefit from Minor Edits
-<br>29–35: Good; Minor Tweaks Only
-<br>35+ : Excellent; Highly Readable
-<br><br>
-<br>Run quantitative tests (e.g., Hemingway App, Readable.io).
-<br>Evaluate qualitative UX criteria listed above.
-<br>Score each criteria using the checklist above.
-<br>Provide actionable recommendations (e.g., simplify sentence structures, break paragraphs down, reduce jargon).
-<br>Present results clearly to stakeholders:
-
-<br>Summarize scores with a break down.
-
-
-<br><br>Establish clear criteria for readability. Typical dimensions include:<br>
-<br>Reading Level: Grade-level comprehension needed (e.g., 8th grade, 12th grade, college).   
-<br>Sentence Length: Average number of words per sentence (ideally 15-20 words for general audiences).
-<br>Paragraph Density: Number of sentences per paragraph (ideally 2-4 sentences per paragraph).
-<br>Vocabulary Complexity: Usage of simple, everyday words versus specialized or complex vocabulary.
-<br>Jargon and Acronyms: Frequency and necessity; clarity in defining specialized terms.
-<br>Sentence Structure: Use of active vs. passive voice (favor active).
-<br>Content Length: Total word count for sections or pages relative to user attention span.
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/readability-evaluation-checklist-and-rating-scale.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Readability Evaluation Checklist and Rating Scale.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 25 Apr 2025 17:24:31 GMT</pubDate></item><item><title><![CDATA[Pain Points]]></title><description><![CDATA[ 
+<a data-href="CA - JACC Journal of American College of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-jacc-journal-of-american-college-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">CA - JACC Journal of American College of Cardiology</a><br><br> <a data-href="Matrix Chart Data" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/matrix-chart-data.html" class="internal-link" target="_self" rel="noopener nofollow">Matrix Chart Data</a><br><br><br><br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Mon, 05 May 2025 19:14:31 GMT</pubDate></item><item><title><![CDATA[Pain Points]]></title><description><![CDATA[ 
  <br><br>
 <br>Hard to find
 <br>Slow to load
