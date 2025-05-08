@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 08 May 2025 17:45:39 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 08 May 2025 17:45:19 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ObsidianSecondBrain]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://acc-style.github.io/BrainDump/</link><image><url>https://acc-style.github.io/BrainDump/lib/media/favicon.png</url><title>ObsidianSecondBrain</title><link>https://acc-style.github.io/BrainDump/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 08 May 2025 18:50:09 GMT</lastBuildDate><atom:link href="https://acc-style.github.io/BrainDump/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 08 May 2025 18:49:53 GMT</pubDate><copyright><![CDATA[Matt Watier]]></copyright><ttl>60</ttl><dc:creator>Matt Watier</dc:creator><item><title><![CDATA[Not Using UI but Word Documents]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/ux" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/ux</a> 
  <br><a href="https://acc-style.github.io/BrainDump?query=tag:acc/ux" class="tag" target="_blank" rel="noopener nofollow">#acc/ux</a><br>
 Before I start this, I want to ask you to "love this for 5 minutes," then you can react.<br>In the act of working with clients, we often take the content documents we are offered, and our reaction to doing IA is to take that content and shoehorn it into UI to satisfy the client.<br><br>For years and possibly decades, I have taken content documents and shaved off a word or two. However, I have come to realize the immense detriment I have been doing to the strategic approach to content creation by skipping to the UI answer. Instead of merely using 'Styled UI' to reshape, mutate, and hide content, we should focus on enhancing the content to bolster the user experience by solving the underlying issues that users might face with the content that was initially delivered.<br><br>I have a different opinion on why we shouldn't create wireframes this early in a project. For the sake of speed, we, myself included, often skip the IA step, rushing to return to the client with wireframes. We then cleverly force their content into blocks and hidden areas on the page. The downside of internalizing the IA within the team and applying layouts and UI to content is that it directs our conversations with business lines toward solutions, rather than focusing on improving the content on the site. This undermines the value that IA discussions can bring. Jumping straight to UI wires limits our ability to challenge how we receive and refine raw content. We should at least help them transform it before we start applying UI.<br>I want to ensure there is a moment when clients are encouraged and guided to evaluate the provided content. Content strategists can have the greatest impact by unlocking the potential for more effective and engaging content.<br><br>Here is an example of what happens when we skip straight to UI. The wireframes react to the content as it is provided. In the team's review of overwhelming content, we responded by using accordions in the UI to hide excess information. This was a superficial fix that masked the issue—that the content was too lengthy and not concise. No changes were made to the content itself because we had already hidden it.<br>Now we have introduced a situation where our users are forced into a discovery mode, and we haven't solved the problem that the content was too much or not aligned with the actual goals of the page.<br><br>To maximize the effectiveness of content, we need to change our approach. Instead of rushing into UI design, we should follow a structured process:<br>
 <br>Content Evaluation: Review the content before doing any design work. Understand the purpose of the content and whether it aligns with the project's goals.
@@ -2684,7 +2684,77 @@ Information Architecture
 <br>A MEMBER WHO DOESN'T HAVE ACCESS TO THE SECTION
 <br>A USER WITH FULL ACCESS.​
 <br>​<br>These personalization hooks give us the flexibility to craft the experience, allowing for better instructions and selling tactics.<br>Only users of a specific state are shown the&nbsp;next steps in their personalized journey. ​ This allows us to craft the upsell and instructions to Membership for example or the Member Section when the time is appropriate.<br><br>Now that the onboarding process has become simplified in messaging and action, we can discuss how our users are often part of more than one section. To reduce mental friction when moving from one section to another, we want to strongly enforce consistency.​  This consistency can been seen in the design pattern, the layouts and more importantly the labels and page structures. <br>​<br>
-This will allow our multifaceted members to experience an organized environment so they can focus on the content rather than where it was labeled or placed. An added benefit is that when new features are rolled out, they are easier to discover.​<br><br>Personalization will not be added to just the main page. The content zones of sections will also showcase content at different levels keyed to the user's access. This can showcase the quality of materials and enforce a desire to gain full access to this quality content.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/refactors/member-sections-presentation-script.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Refactors/Member Sections Presentation Script.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 13 Dec 2024 20:35:38 GMT</pubDate></item><item><title><![CDATA[CA - ESC  European Society of Cardiology]]></title><description><![CDATA[ 
+This will allow our multifaceted members to experience an organized environment so they can focus on the content rather than where it was labeled or placed. An added benefit is that when new features are rolled out, they are easier to discover.​<br><br>Personalization will not be added to just the main page. The content zones of sections will also showcase content at different levels keyed to the user's access. This can showcase the quality of materials and enforce a desire to gain full access to this quality content.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/refactors/member-sections-presentation-script.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Refactors/Member Sections Presentation Script.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 13 Dec 2024 20:35:38 GMT</pubDate></item><item><title><![CDATA[JACC -★- Journal of American College of Cardiology]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;- Back</a><br><br><br>
+<br>Membership &amp; Networking Opportunities: ★★☆☆☆&nbsp;
+<br>Donations &amp; Philanthropy: ★☆☆☆☆&nbsp;
+<br>Events: ★★★☆☆&nbsp;
+<br>Scientific Publications / Latest Science: ★★★★★&nbsp;
+<br>Practice Support Resources: ★☆☆☆☆&nbsp;
+<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆&nbsp;
+<br>Education: ★★★☆☆&nbsp;
+<br>Advocacy: ☆☆☆☆☆&nbsp;<br>
+
+<br><br>Membership &amp; Networking Opportunities: JACC.org includes limited information on membership engagement and networking, which can be difficult to find. Networking opportunities are typically tied to scientific conferences and may appear briefly in the homepage carousel. There's potential confusion between journal subscriptions and ACC membership — subscriptions are a type of membership and users can subscribe without being ACC members. There is no clear connection is made between JACC content and ACC member benefits. The site could better promote member value by linking to ACC membership.&nbsp;<br>Donations &amp; Philanthropy: JACC.org hosts very few articles that reference donations and philanthropy on the site, but no direct links or dedicated sections for donations.​ Search engine results return article links related to organ donation on JACC.org.&nbsp;&nbsp;<br>Events: Specific events are temporarily promoted on the website carousel, however users must access the Events section using the navigation menu. The Events section mainly provides simultaneous publications and research presented at large scale scientific.&nbsp;&nbsp;<br>Scientific Publications / Latest Science: Scientific publications are the core focus of JACC.org, with the latest research prominently displayed on the homepage and accessible through top-level navigation.&nbsp;&nbsp;<br>Practice Support Resources: The website offers practice guidelines and clinical documents, which are valuable resources for practitioners. However, there is no help and guidance on how to professionally run a practice.&nbsp;<br>Patient-Facing Tools &amp; Content: While some articles mention patient-facing tools, there is no dedicated section or prominent links for patient resources on the homepage or main navigation. Users would need to search extensively to find such content, indicating a low emphasis on patient-facing initiatives.&nbsp;<br>Education: Access to educational content (CME/MOC) is present on JACC.org, including articles on medical education. However, the page content directs users to Learn.acc.org.&nbsp;<br>Advocacy: JACC.org lacks a dedicated advocacy section. Policy topics may appear in articles, but formal advocacy efforts are not visible or accessible from the site.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/jacc-★-journal-of-american-college-of-cardiology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/JACC -★- Journal of American College of Cardiology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 May 2025 16:20:49 GMT</pubDate></item><item><title><![CDATA[fACS -- American College of Surgeons]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
+Score: 30 – Good; Minor Tweaks Only<br>Breakdown:<br><br><br>Estimated Visitors:<br>
+~400,000–500,000 monthly (based on SimilarWeb and verified public sources)<br>Estimated Membership Numbers:<br>
+~90,000 members (based on ACS official reports)<br><br><br><br>Explanation:<br>
+The Journal of the American College of Surgeons operates on a completely different platform (Lippincott Williams &amp; Wilkins / Wolters Kluwer) with its own domain and infrastructure.<br>
+<br>No shared navigation menus between the main ACS site and the journal
+<br>No visual branding alignment or consistent cross-site navigation.
+<br>Full content is managed separately under LWW's portal, not ACS’s membership login.
+<br>Content focus is distinct — original research and scientific publications without duplication of ACS's advocacy, education, or professional development content.<br>
+
+<br>Thus, the two sites are fully disconnected with very low/no content overlap.<br><br><br>Explanation:<br>
+Basic public content is freely available — news, advocacy, and patient-facing materials. However, guidelines, clinical resources, and career development tools are behind a login wall. Membership onboarding is solid: clear pathways to join, member benefits well articulated, and structured new member orientation available.<br><br><br>Explanation:<br>
+The primary audience remains surgical professionals, creating a somewhat exclusive environment. Patient resources exist but are secondary. Tone throughout the site is highly professional and formal — focused on credibility and rigor rather than emotional appeal or expressiveness.<br>Note: even though the content leans to longer their is a clear focus on priority of content so pages rarely get overly robust or dense. Cleanliness of UI an d structured displays handles a scope of content keeping the page organized and clean.<br><br><br>Scores:<br>
+<br>Member Networking Opportunities: ★★★☆☆ (3/4)
+<br>Donations &amp; Philanthropy: ★★★☆☆ (3/4)
+<br>Events: ★★★☆☆ (3/4)
+<br>Scientific Publications / Latest Science: ★★★★☆ (4/4)
+<br>Practice Support Resources: ★★★★☆ (4/4)
+<br>Patient-Facing Tools &amp; Content: ★★★☆☆ (3/4)
+<br>Education: ★★★★☆ (4/4)<br>
+
+<br>Explanation:<br>
+ACS is very strong on education, practice resources, and scientific updates. Networking and philanthropy are supported but not as dominant as their educational mission. Patient-facing content is present but takes a back seat to professional development.<br><br><br><br>One of the more interesting websites in relation to our direction is mostly around their shifting main NAV and hero image graphics. The impactful sweeping cut image doesn't always work perfectly because of content not constraining to the rules as much as they need to, but it does make a more visually impactful design. The rest of the site has a tight control on color, mostly a black to navy blue with small accents of red.<br><br>A surprising amount of images is across the site and though most likely stock it seems to be a professional grade. All images have the similar color, toning and keying, which allows all images to feel like they're from the same set. There is nothing that breaks from high contrast, a low contrast or saturated low saturation.<br><br>The site has an issue approach on main navigation with a three tiered separation of audience right off the bat from the homepage. This causes the main NAV to "personalize".   This is a great way for them to separate their concerns and focus their audiences. I'm curious what strategic documents they must have to make sure that content is placed in the right context and it is possible that they are just more accurate about dividing their audience use case because they only shift between (researcher, surgeon, patient), and do not have the nuanced audience platform that ACC has which is almost every medical profession level associated with cardiology.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/facs-american-college-of-surgeons.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/fACS -- American College of Surgeons.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:33:43 GMT</pubDate></item><item><title><![CDATA[HRS -- Heart Rhythm Society]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
+Score: 28 – Average; Could Benefit from Minor Edits<br>Breakdown:<br>
+<br>Reading Level: 3 – 10th–12th Grade
+<br>Sentence Length: 3 – 20–25 words avg.
+<br>Paragraph Density: 4 – Brief paragraphs
+<br>Vocabulary: 3 – Mixed
+<br>Jargon Usage: 3 – Occasional, defined
+<br>Sentence Structure: 4 – Mostly active
+<br>Scannability: 4 – Good
+<br>CTA Clarity: 4 – Clear<br>
+
+<br><br>Estimated Visitors:<br>
+~80,000–100,000 monthly (based on SimilarWeb and traffic intelligence)<br>Estimated Membership Numbers:<br>
+~8,000+ members (from HRS annual reports and public sources)<br><br><br><br>Explanation:<br>
+The Heart Rhythm Journal is completely separate from the HRS website:<br>
+<br>It operates on an entirely different domain (heartrhythmjournal.com), run through Elsevier.
+<br>Branding, navigation, and user journeys are completely siloed — there are no obvious cross-links back to the HRS main site, nor any integrated experience for HRS members.
+<br>Full journal access flows externally; it feels like an independent publishing platform rather than an extension of the HRS organization.
+<br>Content is distinctly scientific and does not overlap with HRS’s broader event, patient, or professional education materials.
+<br>The +.5 is because there is a decent amount of marketing effort on the pages to direct users to the journals.
+<br>+1 the branding of the journal site has echos and is very clear that the Journal is produced by the HRS.<br>
+Thus, this pairing is disconnected with connective DNA with very low/no overlap in content.
+<br><br><br>Explanation:<br>
+The majority of event summaries, patient tools, and basic professional resources are freely accessible. Deeper educational materials, full conference recordings, and certain guidelines are gated for members. There's a relatively friendly and proactive onboarding pathway — clear "Join Now" CTAs, member value propositions, and defined next steps post-registration.<br><br><br>The primary audience is still electrophysiologists and cardiac device professionals, making the experience somewhat insider-focused. However, the tone of writing is noticeably friendlier and more humanized compared to peers like HFSA. The voice is professional without being overly dry, especially in patient-facing pages and public health initiatives.<br><br><br>Scores:<br>
+<br>Member Networking Opportunities: ★★★★★ 
+<br>Donations &amp; Philanthropy: ★★★★★
+<br>Events: ★★★★☆ (4/4)
+<br>Scientific Publications / Latest Science: ★★★☆☆ (4/4)
+<br>Practice Support Resources: ★★★☆☆ (3/4)
+<br>Patient-Facing Tools &amp; Content: ☆☆☆☆☆ 
+<br>Education: ★★★☆☆ 
+<br>Advocacy: ★★★★★<br>
+
+<br>Explanation:<br>
+HRS places major emphasis on events (especially Heart Rhythm Annual Meeting), education, and scientific updates. Networking exists but is not hyper-prominent. Patient-facing initiatives are present but secondary. Philanthropic and fundraising efforts are smaller compared to core professional services.<br>Patient Facing tools, education , or even information is mostly missing from the site.<br><br><br><br>Mostly text based the design is highly polished with a usage of micro brand flair and animations. There are subtle soundwave detail is used without even has little micro animations with it a very beautiful touch that brings the site together in a cohesive way..<br><br>The site feels airy well dictated and high level of prioritization issues are their feels like there's not a large amount of pages which is untrue. I am sure they have user response of. I didn't know you did X because you would need to know it was there most Detailed pages contain multiple pieces of content.<br><br>listicle answer for micro navigation on a<br>
+<img alt="Pasted image 20250508103001.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250508103001.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/hrs-heart-rhythm-society.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/HRS -- Heart Rhythm Society.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 14:46:27 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250508103001.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250508103001.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ESC -- European Society of Cardiology]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
 Score: 35 – Good; Minor Tweaks Only<br>Breakdown:<br><br>Summary:<br>
 ESC’s website is structured cleanly for professional and academic users. The reading level suits clinicians and researchers, with technical vocabulary prevalent throughout. Some jargon appears without consistent definition, especially in professional news articles. Sentence structures are a bit formal and often lean passive, though the layout and design promote good scan-ability. CTAs could be stronger to drive user action more clearly.<br><br>Estimated Visitors: Approximately 1.2 million monthly visitors, according to Similarweb.​<br>
@@ -2714,7 +2784,250 @@ Explanation: The tone across ESC's platforms is professional yet accessible, aim
 <br>Advocacy: You can find note of advocacy deep with in the sections of the site but they are clearly connected with the iniatives and you would need to know they are there and more hidden then present on the site.
 
 
-<br><br><br><br>A remarkably polished site. There is use of both graphics and photos which does sometimes challenge the focus of the art direction, but UI standards across the site in such an expensive manner is well held together. Clearly there is a design system utilized, and this site being relatively young is not showing any markers of age or deviating from the strategic content alignment.  <br><br>The only negative I can really put against the ESC is even at their reduced focus of scope, comparative to the other associations in our review the produce a lot and the site is very expansive. They are pushing the edges of what can be easily discoverable, and I am sure there is more content that a user would have to dig for. I am curious how they deal with those constructs and limitations. <br><br>I do want to note their clinical documents page at first usage is not the greatest answer for there overwhelming content problem because more items are hidden than easily discoverable.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-esc-european-society-of-cardiology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - ESC  European Society of Cardiology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:30:26 GMT</pubDate></item><item><title><![CDATA[Web Based Heuristics]]></title><description><![CDATA[ 
+<br><br><br><br>A remarkably polished site. There is use of both graphics and photos which does sometimes challenge the focus of the art direction, but UI standards across the site in such an expensive manner is well held together. Clearly there is a design system utilized, and this site being relatively young is not showing any markers of age or deviating from the strategic content alignment.  <br><br>The only negative I can really put against the ESC is even at their reduced focus of scope, comparative to the other associations in our review the produce a lot and the site is very expansive. They are pushing the edges of what can be easily discoverable, and I am sure there is more content that a user would have to dig for. I am curious how they deal with those constructs and limitations. <br><br>I do want to note their clinical documents page at first usage is not the greatest answer for there overwhelming content problem because more items are hidden than easily discoverable.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/esc-european-society-of-cardiology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/ESC -- European Society of Cardiology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:30:26 GMT</pubDate></item><item><title><![CDATA[AMA -- American Medical Association]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
+Score: 36 – Good; Minor Tweaks Only<br>Breakdown:<br><br>Summary: The AMA's website exhibits a professional tone with clear calls to action and well-structured content. While the vocabulary is generally accessible, occasional medical jargon could be further simplified or defined to enhance understanding for a broader audience.​<br>Estimated Visitors: Approximately 847,000 site users, with over 952,000 site visits reported in a recent period. ​<a data-tooltip-position="top" aria-label="https://www.ama-assn.org/system/files/ama-advocacy-efforts.pdf?utm_source=chatgpt.com" rel="noopener nofollow" class="external-link" href="https://www.ama-assn.org/system/files/ama-advocacy-efforts.pdf?utm_source=chatgpt.com" target="_blank">American Medical Association</a><br>Estimated Membership Numbers: As of December 2023, the AMA reported 282,952 members, including physicians and medical students.<br><br><br><br>Rationale: The AMA's main site (ama-assn.org) and the JAMA Network (jamanetwork.com) operate on separate domains with distinct branding and navigation structures. Minimal links between the two—such as the AMA site directing users to the JAMA Network for publications—the user experience is disjointed. Users must navigate between different interfaces, and there is no unified account system or integrated search functionality across both platforms. This separation indicates a loosely connected integration of experience.​<br>
+<br>No logo Sharing
+<br>No Design Sharing
+<br>Barely Spells out JAMA
+<br>Science Only
+<br><br>Rationale: The content between the AMA main site and the JAMA Network is largely distinct. The AMA site focuses on advocacy, medical education, and professional resources, while the JAMA Network is dedicated to publishing peer-reviewed medical research. Although both platforms serve medical professionals and are under the AMA umbrella, their content offerings do not significantly overlap, indicating a low content overlap.​<br>
+<br>Links to the Journal
+<br>But Content is More business and "Policy" oriented and all "Science" is reserved for the Journal Site and it is true vice versa.
+<br><br>Rationale: The AMA offers certain resources, such as CME options and articles, to non-members, but full access to benefits like the JAMA Network and specific discounts requires membership. The onboarding process is streamlined, with clear pathways for different user groups (e.g., physicians, residents, students) to understand and access membership benefits.​<a data-tooltip-position="top" aria-label="https://www.ama-assn.org/amaone/membership?utm_source=chatgpt.com" rel="noopener nofollow" class="external-link" href="https://www.ama-assn.org/amaone/membership?utm_source=chatgpt.com" target="_blank">American Medical Association</a><br>
+<br>Awesome benefit for Car Discounts :-)
+<br><br>Rationale: The AMA's content is tailored to a wide range of medical professionals, including students, residents, and practicing physicians, indicating a broadly inclusive approach. The tone remains professional yet approachable, aiming to engage users effectively without excessive formality.​<a data-tooltip-position="top" aria-label="https://pmc.ncbi.nlm.nih.gov/articles/PMC3153537/?utm_source=chatgpt.com" rel="noopener nofollow" class="external-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3153537/?utm_source=chatgpt.com" target="_blank">PMC</a><br><br><br><br>
+<br>Membership &amp; Networking Opportunities: ★★★★☆
+<br>Donations &amp; Philanthropy: ★☆☆☆☆
+<br>Events: ★★★★☆
+<br>Scientific Publications / Latest Science: ★★★☆☆
+<br>Practice Support Resources: ★★★★★
+<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆
+<br>Education: ★★★★☆<br>
+
+<br>Rationale:<br>
+<br>Member Networking Opportunities: The AMA provides upfront member engagement and ask but unable to determine if there is a  platforms for members to connect, but there is room for enhancing interactive networking features.
+<br>Donations &amp; Philanthropy: While the AMA engages in philanthropic activities the pages are buried on  the main site.
+<br>Events: The organization annual meetings is located on the homepage but the other events that indicating a strong commitment to member engagement through events is hidden with in the long search bar. It is possible that behind membership walls this become more prominent or easier to find.
+<br>Scientific Publications / Latest Science: With access to the JAMA Network and other publications, the AMA offers substantial scientific resources, but on the main site it is reserved to news elements about public health, practice, advocacy and the practice reserving the latest science to live only on Jama.
+<br>Practice Support Resources: Resources are available articles are written to support medical practice management and an entire segment craft to multiple facets of practice support.
+<br>Patient-Facing Tools &amp; Content: The site primarily targets medical professionals, with limited content directly aimed at patients. this type of content is practically no where on the site.
+<br>Education: Educational resources, including CME opportunities and the AMA Ed Hub, are robust and well-integrated into the site.
+<br><br><br><br>AMA clearly has a design system library in place. The collection of UI pattern feels pretty high so there is a certain about of consistency degradation not because they aren't following the rules but because they have too many to really show a visual pattern. They have an extensive  collection of patterns makes the site feel a little clumsy and overwhelming high usage of images that hold content and text utilizing font treatments that are not matching.<br><br>They collapse away their main NAV into a burger menu even on desktop when you are not on the homepage this is an interesting choice. I find it slightly frustrating because I am trying to move around the site as much. Maybe it isn't as much of an issue when users are being directed by Google and cross discovery isn't as important. It does reduce the overall visual noise which is pretty high on their site.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/ama-american-medical-association.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/AMA -- American Medical Association.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:34:11 GMT</pubDate></item><item><title><![CDATA[AHA -- American Heart Association]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
+Score: 35 – Great; Could Benefit from Minor Edits<br>Breakdown:<br><br>Summary:<br>
+Heart.org performs reasonably well for an educated general audience. It offers a mix of technical and accessible vocabulary, and while sentence length and density are moderate, content is largely digestible. The tone is professional, and medical jargon is often defined, especially in patient-facing sections. The layout supports decent scannability, though CTA buttons could be clearer, more action-oriented, but using some great focused text for CTA.<br>Estimated Visitors: Approximately 3 million monthly visitors.<br>
+Estimated Membership Numbers: Over 33 million volunteers and supporters.<br><br><br>Explanation: The main site (heart.org) and the journal site (ahajournals.org) operate on separate domains with distinct branding and navigation. While there are links between them, the user experience is not seamless, indicating a loosely connected integration.<br>
+<br>Landing Page for the full list of publications not even on the main site but on the Professional Heart.
+<br>Minimal top 5 teaser articles<br>
+Explanation: The main site focuses on general public education, advocacy, and patient resources, whereas the journal site is dedicated to scientific publications. The content serves different audiences with minimal overlap.
+<br><br>Explanation: The main site offers the majority of its content—including patient education, healthy living resources, donation opportunities, and volunteer programs—freely available to the public. While professional tools and journal access may require membership or payment, these are not part of the main site’s public-facing content. <br>
+<br>Most of the content is on Proffesional.heart.org so much so the login doesn't show up until the user is on that subdomain.
+<br>Strong Brand holds the Subs together but the main nav is "Teased" on the main site but the entire nav swaps out when your in that experience.<br>
+Explanation: The site includes information on getting involved through volunteering, donations, and becoming a heart health advocate. However, there’s less emphasis on structured onboarding for new members or supporters—details are available but not spotlighted or guided with a welcoming narrative. It’s informative but not highly personalized or welcoming.  
+<br>There is a complete separate website for the professional where they ask people to become part of the org. 
+<br><br>Explanation: The AHA addresses both the general public and professionals, offering resources ranging from patient education to scientific research, reflecting a broad inclusivity.​ The content is designed to be accessible and relevant to a broad audience, including the general public, patients, and caregivers, without requiring specialized medical knowledge.<br>
+Explanation: The tone across AHA's platforms is professional yet accessible, aiming to engage a wide audience without compromising on scientific integrity.<br><br><br>Radar Chart Scores:<br>
+<br>
+Member Networking Opportunities: ★★☆☆☆  
+
+<br>
+Donations &amp; Philanthropy: ★★★★★  
+
+<br>
+Events: ★★☆☆☆  
+
+<br>
+Scientific Publications / Latest Science: ★☆☆☆☆  
+
+<br>
+Practice Support Resources: ★★★☆☆  
+
+<br>
+Patient-Facing Tools &amp; Content: ★★★★★  
+
+<br>
+Education: ★★☆☆☆  
+
+<br>
+Advocacy: ★☆☆☆☆<br>
+Rationale:
+
+<br>
+Membership &amp; Networking Opportunities:  Minimal presence on heart.org. Professional networking largely lives off-site or in conference contexts.
+
+<br>
+Donations &amp; Philanthropy: Highly visible and emphasized, with multiple calls to donate, fundraise, or give in honor of someone.
+
+<br>
+Events: Community events like Heart Walks and Go Red for Women are promoted, but less focus on large-scale scientific events or purchasable events.
+
+<br>
+Scientific Publications / Latest Science: Virtually absent from the main site; most science communication is generalized for lay audiences.
+
+<br>
+Practice Support Resources: Some tools for CPR, emergency response, and guidelines for laypersons exist, but not robust clinical tools unless you know where you are going and then you can find an equivalent to NCDR with <a data-tooltip-position="top" aria-label="https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines" data-href="https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines" href="https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines" class="internal-link" target="_self" rel="noopener nofollow">Get with the Guideline Registry</a>.
+
+<br>
+Patient-Facing Tools &amp; Content: Heart.org excels in this category, offering rich educational content, risk assessments, and interactive tools.
+
+<br>
+Education: Strong emphasis on public education, and awareness campaigns But limited training courses (like CPR), and no purchasable continuing education or modules for medical professionals. All reference to continuing learning is buried on the main site and is mostly hosted on its E-learning Sub Domain.  elearn.heart.org 
+
+<br>
+Advocacy: It is on the site but it is very hard to find but does exist.
+
+<br><br><br>
+<br>Art Direction strong visual branding with single color usage the red and white. High usage of photos because of their public facing mission that humanizes the site. 
+
+<br>Extra Care on all pages to reserve "button" for limited usage because of the single color branding.  
+<br>Red in the UI is dropped in tone in the UI so it has proper contrast. 
+
+
+<br>Structure of the content is spread across multiple sites where the main site is much more Advocacy, Public Education with pass offs to the sister sites. Clear focus of audience and cleaning away distractions. 
+<br>Cleanliness is a focus of all pages.
+
+<br>Dates only show up when referencing things that are "latest" 
+<br>Listed items are almost always reserved to less then 5 items.
+<br>Sub Domain-ing with altering Context and Main Nav
+
+<br>CPR.heart.org
+<br>Learn.heart.org
+<br>Professional.heart.org
+<br>....
+
+
+
+
+<br><br>The subduing is markable, interesting and allows for greater division of audience and improves focus, but it does impede discoverability, and only because this research has forced deep diving into their content. Did I discover some of the nuanced areas. It is very easy as an audience member or user to be confused about why the main is altering because the branding is so locked up the edges between the main site and CPR, for example, are minimal and a user might just be shocked that they may NAV item that they were utilizing disappears. ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/aha-american-heart-association.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/AHA -- American Heart Association.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:36:57 GMT</pubDate></item><item><title><![CDATA[ACC American College of Cardiology]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
+Score:  20<br>
+<br>Classification: Below Average; Requires Revision
+<br><br>Estimated Visitors: Approximately 1.1 million monthly visits.<br>
+Estimated Membership Numbers: Over 56,000 members, encompassing a diverse range of cardiovascular professionals. <br><br><br>The main site (ACC.org) and the journal site (JACC.org) are distinct in branding and navigation. While ACC.org provides a link to JACC.org, the journal site operates independently with its own navigation and content structure. The content overlap is moderate; ACC.org references JACC articles, but the journal content is primarily housed separately.<br><br>A very disjunctive experience between the two space but with all of the interconnected hand offs between the two sites and the non-descriptive branding the experience comes out muddled and users will often not understand they a have left one domain for the other.<br><br><br>ACC.org offers a mix of open-access and member-restricted content. Educational resources and certain tools require membership login. The onboarding process is streamlined, with clear pathways for different professional roles and an eligibility calculator for prospective members.<br><br>The site largely seems unlocked and most articles and site are unlocked thought it makes easy access to the site and the content produced by the org it lacks a certain presentation to the value of Membership or what a user might get to if the content was more locked down. <br><br><br>The site primarily targets cardiovascular professionals, with content tailored to their needs. The tone is formal and clinical, appropriate for a professional medical audience, but lacks broader inclusivity or expressive engagement visitors.  Most language lacks pro-nouns, and mostly proper nouns.  This language is professional but doesn't match to modern web language. <br>Effect on UX the tone can come across as overly wordy to cold. The text is to long to be skimmed and often just produces long unreadable blocks of text.<br><br><br><br>
+<br>Membership &amp; Networking Opportunities: ★★★☆☆
+<br>Donations &amp; Philanthropy: ★☆☆☆☆
+<br>Events: ★★★★☆
+<br>Scientific Publications / Latest Science: ★★★★★
+<br>Practice Support Resources: ★★★☆☆
+<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆
+<br>Education: ★★★★☆
+<br>Advocacy: ★☆☆☆☆
+<br>Explanation: ACC.org places a strong emphasis on scientific publications and educational resources, evident through its extensive guidelines and learning materials. Events, such as the ACC.25 conference, are prominently featured. While there are networking opportunities and patient-facing tools like CardioSmart, these areas are less emphasized compared to the organization's core focus on science and education.<br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/acc-american-college-of-cardiology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/ACC -- American College of Cardiology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 13:29:37 GMT</pubDate></item><item><title><![CDATA[AAN -- American Academy of Neurology]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
+Score: 37 – Good; Minor Tweaks Only<br>Breakdown:<br><br><br>Estimated Visitors:<br>
+~250,000–300,000 monthly (based on SimilarWeb and traffic data)<br>Estimated Membership Numbers:<br>
+~38,000 members (official AAN membership figures)<br><br><br><br>Explanation:<br>
+The Neurology® journal is operated under <a data-tooltip-position="top" aria-label="https://www.neurology.org/" rel="noopener nofollow" class="external-link" href="https://www.neurology.org/" target="_blank">neurology.org</a>, branded clearly as the AAN’s journal.<br>
+<br>Visual styling is separate and more typical of academic publishing, but there are cross-links back to AAN.com (e.g., navigation mentions AAN membership, benefits).
+<br>Content access is tied to AAN membership in some cases (members get full-text access for certain journals).
+<br>There is significant Marketing that is one way from AAN to the Neurology Journals but rarely in reverse.
+<br>The journal site’s focus is purely research articles, clinical trials, and scientific reviews — no duplication of AAN’s broader professional education, advocacy, or event content.
+<br><br>Explanation:<br>
+Many public resources — news, events, practice tools, advocacy — are open-access. Member-exclusive content includes guidelines, CME opportunities, and deeper clinical resources. New members are welcomed through clear onboarding steps, including member portals, community forums, and structured orientation emails.<br><br><br>Explanation:<br>
+AAN’s primary audience remains clinical neurologists and researchers, which gives it a somewhat professional insider focus. However, the tone is notably friendly, with conversational but authoritative messaging. Patient-facing content is present but secondary.<br><br><br>Scores:<br>
+<br>Member Networking Opportunities: ★★★☆☆ 
+<br>Donations &amp; Philanthropy: ★☆☆☆☆
+<br>Events: ★★★★★ 
+<br>Scientific Publications / Latest Science: ★★★★☆ 
+<br>Practice Support Resources: ★★★☆☆ 
+<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆ 
+<br>Education: ★★★★★ 
+<br>Advocacy: ★★★★☆ 
+<br>Explanation:<br>
+AAN is strong across education, latest science, and practice support. Member networking is solid but not dominant. Events and practice tools are present but slightly secondary to professional development initiatives.<br>Their home page successful balances multiple initiatives by only showcasing 1 element or just directing them deeper into the site to the content form the home page then showing examples of the each.<br>Donation is very hard to discover on the site.<br><br><br>
+<br>AAN like HFSA they organize their top tier as "Research" and place publication below.
+<br>Art Direction is 100% textual and it is almost impossible to find photos on the main site. Very un "JAZZY"
+<br><img alt="Pasted image 20250506073829.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250506073829.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/aan-american-academy-of-neurology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/AAN -- American Academy of Neurology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 13:26:27 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250506073829.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250506073829.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[HFSA -- Heart Failure Society of America]]></title><description><![CDATA[ 
+ <br><br>Readability:<br>
+Score: 24 – Average; Could Benefit from Minor Edits<br>
+Breakdown:<br>
+<br>Reading Level: 3 – 10th–12th Grade  
+<br>Sentence Length: 3 – 20–25 words avg. 
+<br>Paragraph Density: 3 – Moderate density
+<br>Vocabulary: 3 – Mixed
+<br>Jargon Usage: 3 – Occasional, defined
+<br>Sentence Structure: 2 – Mostly passive
+<br>Scannability: 4 – Good
+<br>CTA Clarity: 3 – Somewhat clear<br>
+
+<br><br>Estimated Visitors:<br>
+~30,000–50,000 monthly (estimated from SimilarWeb and other traffic sources)<br>Estimated Membership Numbers:<br>
+~2,500–3,000 members (from HFSA reports and third-party sources)<br><br><br><br>(For HFSA: <a data-tooltip-position="top" aria-label="https://www.hfsa.org" rel="noopener nofollow" class="external-link" href="https://www.hfsa.org" target="_blank">hfsa.org</a> vs <a data-tooltip-position="top" aria-label="https://hfsa.org/journal-cardiac-failure" rel="noopener nofollow" class="external-link" href="https://hfsa.org/journal-cardiac-failure" target="_blank">hfsa.org/journal-cardiac-failure</a> and <a data-tooltip-position="top" aria-label="https://onlinejcf.com/" data-href="https://onlinejcf.com/" href="https://onlinejcf.com/" class="internal-link" target="_self" rel="noopener nofollow">jcf</a>)<br><br>Explanation:<br>
+A journal section that outlines the journal product lives on the main site but the Journal is outside HFSA domain and lacks any visual or navigational unity with the main site. There are plenty of content that is derivative of the journal on the main site but most full-content links redirect users away from HFSA.org. There are minimal cross-links or integrated member pathways between the journal back to the main site, but plenty that go from the main site to the journal. <br>
+<br>Creates Derivates of major Docs from the site as Supportive Materials.
+<br><br><br>Explanation:<br>
+Most educational and patient content is accessible without membership. Some professional-level webinars and event materials are locked behind a login. Onboarding remains sufficient: you can join, but there’s the  structured welcome flow is mostly trapped in a PDF.<br><br><br>Explanation:<br>
+The site’s tone caters mostly to professionals but includes patient sections to broaden reach, making it somewhat inclusive. However, the tone across most of the site is flat, formal, and mildly expressive at best — not very lively or welcoming.  The content of the site is some what longer with complicated sentence structure with minimal chunking. <br><br><br>Scores:<br>
+<br>Membership &amp; Networking Opportunities: ★★★★★
+<br>Donations &amp; Philanthropy: ☆☆☆☆☆
+<br>Events: ★★★★★
+<br>Scientific Publications / Latest Science: ★★☆☆☆
+<br>Practice Support Resources: ★★☆☆☆
+<br>Patient-Facing Tools &amp; Content: ★★★★★
+<br>Education: ★★★☆☆
+<br>
+<br>Advocacy: ★★★☆☆
+<br>Explanation:  <br>
+<br>Membership &amp; Networking Opportunities: Easy to find, the pitch for becoming a member is cross medium with some on the web referencing pdfs with a great(but with too many stock photos) introduction video. Enhance Your Heart Failure Career with HFSA Membership <a rel="noopener nofollow" class="external-link" href="https://youtu.be/LOh75iLOEHs" target="_blank">https://youtu.be/LOh75iLOEHs</a> 
+<br>Donations: Mostly missing from the site there is some reference to becoming a sponsor from a corporate level but their finances seem to come from other streams of revenue.
+<br>Events: There are events sponsored from the HFS with an ongoing calendar with a co-mingle of external events showing a delegation technique that makes their events seem more robust then what they can personally produce.
+<br>Scientific Publications / Latest Science:. The main site does have some medical news but mostly in the view point of Industry.  All other science is point away to their disconnected journal.
+<br>Practice Support Resources:  This seems to be their most lacking area of the site. Most practice support is more in the tone of Patient collaboration tools and practically nothing around the business.
+<br>Patient-Facing Tools &amp; Content:  A full suite of content: Events, Webinars, and articles.
+<br>Education: Though education is clearly a focus for this organization is a supportive mechanism for them and is not segmented out so it is dispersed under membership, professional development, and patients.
+<br>Advocacy:  Clearly important as a benefit and why users want to be a part of this org.
+<br><br><br>
+<br>SPONSORSHIP INTEGRATIONS: Donations come from Sponsorship and this reflects in other spaces like events, and education.  The small organization utilizes these 3rd Party production sources to enrich their calendar and educational spaces making those areas much more robust then what they could produce on their own. 
+<br>Derivatives are page items on the main site vs the journal area. 
+
+<br>Top 10 Takeaways
+<br>Press Release - Teaser
+<br>Full Press Release Link
+
+
+<br>Art Direction the site has very little photos has simple but effective art direction flair that makes the simple use of text feel "designed"
+
+<br>Corner register marks
+<br>little heart rhythm notes.
+<br>two color branding based from logo.
+<br>image frame overlays
+
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/hfsa-heart-failure-society-of-america.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Associations/HFSA -- Heart Failure Society of America.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 14:53:13 GMT</pubDate></item><item><title><![CDATA[What do we want to learn from Redesign Planning]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>A|B Testing with content and design
+<br>Back End/ Editing
+<br>Loading Times
+<br>Dev Time
+<br>Personalization
+<br><br>
+<br>Duplicative
+<br>Writing Style
+<br>Accessibility
+<br><br>
+<br>Personalization
+<br>Member Benefits
+<br>Guided Experience based on Purchase Life Cycle.
+<br><br>
+<br>Changes are are jarring
+<br>Consistency is good
+<br>New experience is always hated by someone
+<br>What is the scope of the Redesign. Are we just starting over? are we keeping with best patterns and applying consistency? Are we just removing the dead weight and fixing problems?
+<br><br>
+<br>Duplicity
+<br>SEO/SEM
+<br><br>
+<br>interviews with staff (member care, IT, etc.)
+<br>MI surveys
+<br>Foresee
+<br>interviews with non member users
+<br><br>Change management historically is weak at the ACC<br>
+<br>Silos are real and we are not a flat organization!
+<br>Push back from Silos, Stakeholders, Members
+<br>Traditions are hard to break
+<br>ACC is not an enforcer - how you need to work
+<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/research-frameworks/what-do-we-want-to-learn-from-redesign-planning.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Research Frameworks/What do we want to learn from Redesign Planning.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 18:48:46 GMT</pubDate></item><item><title><![CDATA[Web Based Heuristics]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Ensure the site provides immediate feedback for user actions, such as logging in, submitting forms, or loading pages, so users know their actions are being processed.
 <br><br>
@@ -2735,12 +3048,161 @@ Explanation: The tone across ESC's platforms is professional yet accessible, aim
 <br>If something goes wrong, provide a clear explanation and actionable steps to resolve the issue, such as payment problems or content loading errors.
 <br><br>
 <br>Ensure that users can quickly find help through FAQs, support articles, or a contact option, especially when they are having trouble with their membership, accessing courses, or reading content.
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/web-based-heuristics.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Web Based Heuristics.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 10 Sep 2024 18:43:03 GMT</pubDate></item><item><title><![CDATA[UI Notes]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/research-frameworks/web-based-heuristics.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Research Frameworks/Web Based Heuristics.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Tue, 10 Sep 2024 18:43:03 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+ <br><br>To effectively explore our competitive landscape, this survey aimed to uncover both direct and indirect competition regarding features and benefits offered by ACC.org. While direct comparison against our field is valuable, we should also consider how we compete on features and user experience beyond the cardiovascular care space. Users are multifaceted, interacting daily with experiences related to education, membership, events, reading articles, and news across various industries. Understanding how these elements are presented on the best platforms across the web will provide insights into expectations and best practices that can elevate ACC.org. This survey will help reveal which competitors are challenging ACC.org regarding user experience across offerings like education, certifications, membership, events, and news engagement.<br><br><br>
+<br>Which organizations come to mind when you think of ACC's direct competitors in cardiovascular care and education?
+
+<br>Text Input    
+
+
+<br>Which websites or platforms do you use to stay informed, get inspiration from, or see what is an industry standard for education and professional development in cardiovascular care?
+
+<br>Text Input    
+
+
+<br>For the platforms you use to "stay informed" what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+
+
+
+
+<br>For the platforms you use to "stay informed" what does ACC.org do better?
+
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>
+
+<br>Performance &amp; Page Speed
+
+
+
+
+
+
+<br>Leave any other comments.- Other (please specify)
+<br><br>
+<br>Education: How do you interact with educational content on different platforms in your daily life, and what is the best example of a platform or website that provides educational content effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Education,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+<br>Maintaining Certification: How do you interact with platforms for maintaining certifications or credentials, and what is the best example of a platform or website that supports maintaining certifications effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Maintaining Certification,' what do they do better than ACC.org?
+
+<br>Checkbox Select All:
+<br>Checkbox Select All
+
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+
+
+<br>Standards &amp; Best Practices Repository: How do you interact with repositories of standards and best practices on different platforms, and what is the best example of a platform or website that serves as a standards and best practices repository?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Standards &amp; Best Practices Repository,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+<br>User experience (UX)
+<br>Design
+<br>Navigation
+<br>Content quality
+<br>Personalization
+<br>Mobile Experience
+<br>Search functionality
+<br>Performance &amp; Page Speed
+<br>Other (please specify)
+
+
+<br>Membership Organization: How do you interact with membership organizations on different platforms, and what is the best example of a platform or website that provides a great membership experience?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Membership Organization,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+
+<br>Event &amp; Conference Hub: How do you interact with platforms for discovering and registering for events or conferences, and what is the best example of a platform or website that effectively manages events and conferences?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Event &amp; Conference Hub,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+
+<br>Staying Up-to-Date on News: How do you interact with news platforms to stay up-to-date, and what is the best example of a platform or website that provides timely and relevant news effectively?
+
+<br>Text Input
+
+
+<br>For the platform you stated as the best for 'Staying Up-to-Date on News,' what do they do better than ACC.org?
+
+<br>Checkbox Select All
+
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/research-frameworks/direct-and-indirect-completive-landscape-survey-questions.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Research Frameworks/Direct and Indirect Completive Landscape - Survey Questions.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[UI Notes]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;- Back</a><br><br><br>✅  Always (&gt; 50%)<br>
 ➕ Used in some occasions (&lt;50%)<br>
-❌  Rare or never (&lt;20%)<br><br>It shouldn't be surprising that most of the associations deal with their search results differently than the page results, but ACC showcases the most meta-data around the article teaser comparative to its competitors.<br>
-<br>HFSA -- probably has the most confusing search results across the board hard to tell where articles begin and end multiple levels of text hierarchies use of multiple colors. They're doing some form of grouping, but it doesn't come across how I think they intended it to.
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/ui-notes.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Rules/UI Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 14:57:12 GMT</pubDate></item><item><title><![CDATA[Y-Axis Tone &amp; Expression]]></title><description><![CDATA[ 
+❌  Rare or never (&lt;20%)<br><br>
+<br>ACC showcases the most meta-data around the article teaser comparative to its competitors.
+<br>Most of the associations deal with their search result teasers differently than the embedded page teasers. 
+<br>HFSA --  probably has the most confusing search results across the board. They're doing some form of grouping, but it doesn't come across how I think they intended it to.
+
+<br>Hard distinguished articles
+<br>Multiple levels of text hierarchies and use of multiple colors. 
+<br>hard to distinguish what is interactive versus headline
+
+
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/ui-notes.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Rules/UI Notes.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 18:33:38 GMT</pubDate></item><item><title><![CDATA[Y-Axis Tone &amp; Expression]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="Matrix Chart Data" data-href="Matrix Chart Data" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/matrix-chart-data.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- Back to Data</a><br><br>(from Dull/Flat to Fully Expressive)<br>
 <br>-4: Dull and Clinical<br>
 Institutional, cold, and impersonal. Dense language and passive voice dominate. Little to no attempt at emotional connection.<br>
@@ -2905,7 +3367,7 @@ Designed to be understood by the general public regardless of background, with c
  <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;- Back</a><br><br><br><br><a data-href="X-Axis Unique Content" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/x-axis-unique-content.html" class="internal-link" target="_self" rel="noopener nofollow">X-Axis Unique Content</a><br>
 <a data-href="Y- Axis Unified Experience" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/y-axis-unified-experience.html" class="internal-link" target="_self" rel="noopener nofollow">Y- Axis Unified Experience</a><br><br><a data-href="X-Axis Content Locking" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/x-axis-content-locking.html" class="internal-link" target="_self" rel="noopener nofollow">X-Axis Content Locking</a><br>
 <a data-href="Y-Axis Onboarding Experience" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/y-axis-onboarding-experience.html" class="internal-link" target="_self" rel="noopener nofollow">Y-Axis Onboarding Experience</a><br><br><a data-href="X-Axis Audience Focus" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/x-axis-audience-focus.html" class="internal-link" target="_self" rel="noopener nofollow">X-Axis Audience Focus</a><br>
-<a data-href="Y-Axis Tone &amp; Expression" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/y-axis-tone-&amp;-expression.html" class="internal-link" target="_self" rel="noopener nofollow">Y-Axis Tone &amp; Expression</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/matrix-chart-data.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Rules/Matrix Chart Data.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 13:10:23 GMT</pubDate></item><item><title><![CDATA[Pain Points]]></title><description><![CDATA[ 
+<a data-href="Y-Axis Tone &amp; Expression" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/y-axis-tone-&amp;-expression.html" class="internal-link" target="_self" rel="noopener nofollow">Y-Axis Tone &amp; Expression</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/matrix-chart-data.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Rules/Matrix Chart Data.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 18:36:38 GMT</pubDate></item><item><title><![CDATA[Pain Points]]></title><description><![CDATA[ 
  <br><br>
 <br>Hard to find
 <br>Slow to load
@@ -3020,180 +3482,7 @@ Designed to be understood by the general public regardless of background, with c
 <br>Orphan Pages from the site experience
 <br>FIX All Foresee Bugs
 <br>Phase 2 and Maintenance is a Unicorn.
-<br>Out of the list above what is a Content, Design, Process, Technical issues?<br><br><br>
-<br>A|B Testing with content and design
-<br>Back End/ Editing
-<br>Loading Times
-<br>Dev Time
-<br>Personalization
-<br><br>
-<br>Duplicative
-<br>Writing Style
-<br>Accessibility
-<br><br>
-<br>Personalization
-<br>Member Benefits
-<br>Guided Experience based on Purchase Life Cycle.
-<br><br>
-<br>Changes are are jarring
-<br>Consistency is good
-<br>New experience is always hated by someone
-<br>What is the scope of the Redesign. Are we just starting over? are we keeping with best patterns and applying consistency? Are we just removing the dead weight and fixing problems?
-<br><br>
-<br>Duplicity
-<br>SEO/SEM
-<br><br>
-<br>interviews with staff (member care, IT, etc.)
-<br>MI surveys
-<br>Foresee
-<br>interviews with non member users
-<br><br>Change management historically is weak at the ACC<br>
-<br>Silos are real and we are not a flat organization!
-<br>Push back from Silos, Stakeholders, Members
-<br>Traditions are hard to break
-<br>ACC is not an enforcer - how you need to work
-<br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/pain-points.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Pain Points.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Wed, 25 Sep 2024 02:10:07 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
- <br><br>To effectively explore our competitive landscape, this survey aimed to uncover both direct and indirect competition regarding features and benefits offered by ACC.org. While direct comparison against our field is valuable, we should also consider how we compete on features and user experience beyond the cardiovascular care space. Users are multifaceted, interacting daily with experiences related to education, membership, events, reading articles, and news across various industries. Understanding how these elements are presented on the best platforms across the web will provide insights into expectations and best practices that can elevate ACC.org. This survey will help reveal which competitors are challenging ACC.org regarding user experience across offerings like education, certifications, membership, events, and news engagement.<br><br><br>
-<br>Which organizations come to mind when you think of ACC's direct competitors in cardiovascular care and education?
-
-<br>Text Input    
-
-
-<br>Which websites or platforms do you use to stay informed, get inspiration from, or see what is an industry standard for education and professional development in cardiovascular care?
-
-<br>Text Input    
-
-
-<br>For the platforms you use to "stay informed" what do they do better than ACC.org?
-
-<br>Checkbox Select All
-
-<br>User experience (UX)
-<br>Design
-<br>Navigation
-<br>Content quality
-<br>Personalization
-<br>Mobile Experience
-<br>Search functionality
-<br>Performance &amp; Page Speed
-
-
-
-
-<br>For the platforms you use to "stay informed" what does ACC.org do better?
-
-<br>Checkbox Select All
-
-<br>User experience (UX)
-<br>Design
-<br>Navigation
-<br>Content quality
-<br>Personalization
-<br>Mobile Experience
-<br>Search functionality
-<br>
-
-<br>Performance &amp; Page Speed
-
-
-
-
-
-
-<br>Leave any other comments.- Other (please specify)
-<br><br>
-<br>Education: How do you interact with educational content on different platforms in your daily life, and what is the best example of a platform or website that provides educational content effectively?
-
-<br>Text Input
-
-
-<br>For the platform you stated as the best for 'Education,' what do they do better than ACC.org?
-
-<br>Checkbox Select All
-<br>User experience (UX)
-<br>Design
-<br>Navigation
-<br>Content quality
-<br>Personalization
-<br>Mobile Experience
-<br>Search functionality
-<br>Performance &amp; Page Speed
-<br>Other (please specify)
-
-
-<br>Maintaining Certification: How do you interact with platforms for maintaining certifications or credentials, and what is the best example of a platform or website that supports maintaining certifications effectively?
-
-<br>Text Input
-
-
-<br>For the platform you stated as the best for 'Maintaining Certification,' what do they do better than ACC.org?
-
-<br>Checkbox Select All:
-<br>Checkbox Select All
-
-<br>User experience (UX)
-<br>Design
-<br>Navigation
-<br>Content quality
-<br>Personalization
-<br>Mobile Experience
-<br>Search functionality
-<br>Performance &amp; Page Speed
-<br>Other (please specify)
-
-
-
-
-<br>Standards &amp; Best Practices Repository: How do you interact with repositories of standards and best practices on different platforms, and what is the best example of a platform or website that serves as a standards and best practices repository?
-
-<br>Text Input
-
-
-<br>For the platform you stated as the best for 'Standards &amp; Best Practices Repository,' what do they do better than ACC.org?
-
-<br>Checkbox Select All
-<br>User experience (UX)
-<br>Design
-<br>Navigation
-<br>Content quality
-<br>Personalization
-<br>Mobile Experience
-<br>Search functionality
-<br>Performance &amp; Page Speed
-<br>Other (please specify)
-
-
-<br>Membership Organization: How do you interact with membership organizations on different platforms, and what is the best example of a platform or website that provides a great membership experience?
-
-<br>Text Input
-
-
-<br>For the platform you stated as the best for 'Membership Organization,' what do they do better than ACC.org?
-
-<br>Checkbox Select All
-
-
-<br>Event &amp; Conference Hub: How do you interact with platforms for discovering and registering for events or conferences, and what is the best example of a platform or website that effectively manages events and conferences?
-
-<br>Text Input
-
-
-<br>For the platform you stated as the best for 'Event &amp; Conference Hub,' what do they do better than ACC.org?
-
-<br>Checkbox Select All
-
-
-<br>Staying Up-to-Date on News: How do you interact with news platforms to stay up-to-date, and what is the best example of a platform or website that provides timely and relevant news effectively?
-
-<br>Text Input
-
-
-<br>For the platform you stated as the best for 'Staying Up-to-Date on News,' what do they do better than ACC.org?
-
-<br>Checkbox Select All
-
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/direct-and-indirect-completive-landscape-survey-questions.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Direct and Indirect Completive Landscape - Survey Questions.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 01 Nov 2024 19:02:25 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
+<br>Out of the list above what is a Content, Design, Process, Technical issues?]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/pain-points.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Pain Points.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 18:48:04 GMT</pubDate></item><item><title><![CDATA[Project Summary]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="ACC Redesign" data-href="ACC Redesign" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign.html" class="internal-link" target="_self" rel="noopener nofollow">Back to ACC Redesign</a><br><br>Looking at the competition will give us insights on how we will can can shift our site to be competitive. <br><br>
 <br><a data-tooltip-position="top" aria-label="Docs" data-href="#Docs" href="https://acc-style.github.io/BrainDump/about:blank#Docs" class="internal-link" target="_self" rel="noopener nofollow">Collect Associations</a> that Match to Up to Our Business Model or our content
 <br>Establish Matrix to compare the association against.
@@ -3202,304 +3491,28 @@ Designed to be understood by the general public regardless of background, with c
 <br>Capture things of note that improve 
 <br><br>
 <br>Collection of Associations and the Metric we Want to Rate them on. <a data-tooltip-position="top" aria-label="https://accorg.sharepoint.com/:w:/r/sites/DOS/Shared%20Documents/General/Enterprise%20Content%20Strategy%20Team/ACC.org%20Redesign/Insights%20to%20Inform%20Evolution/CompetativeAnalysis.docx?d=w52750c74cdb4455abe1b9b361b093457&amp;csf=1&amp;web=1&amp;e=bCb99b" rel="noopener nofollow" class="external-link" href="https://accorg.sharepoint.com/:w:/r/sites/DOS/Shared%20Documents/General/Enterprise%20Content%20Strategy%20Team/ACC.org%20Redesign/Insights%20to%20Inform%20Evolution/CompetativeAnalysis.docx?d=w52750c74cdb4455abe1b9b361b093457&amp;csf=1&amp;web=1&amp;e=bCb99b" target="_blank">Word Doc</a>
-<br><a data-href="Direct and Indirect Completive Landscape - Survey Questions" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/direct-and-indirect-completive-landscape-survey-questions.html" class="internal-link" target="_self" rel="noopener nofollow">Direct and Indirect Completive Landscape - Survey Questions</a>
+<br><a data-href="Direct and Indirect Completive Landscape - Survey Questions" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/research-frameworks/direct-and-indirect-completive-landscape-survey-questions.html" class="internal-link" target="_self" rel="noopener nofollow">Direct and Indirect Completive Landscape - Survey Questions</a>
 <br><a data-tooltip-position="top" aria-label="https://whimsical.com/competitive-analysis-PihnSB1MPZ6s8nL4Sn46zY" rel="noopener nofollow" class="external-link" href="https://whimsical.com/competitive-analysis-PihnSB1MPZ6s8nL4Sn46zY" target="_blank">Review Sheet - Blank</a><br>
 Additional Notes: 
 <br><a rel="noopener nofollow" class="external-link" href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/" target="_blank">https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/</a>
 <br><a rel="noopener nofollow" class="external-link" href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a>
-<br><a data-href="Web Based Heuristics" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/web-based-heuristics.html" class="internal-link" target="_self" rel="noopener nofollow">Web Based Heuristics</a>
+<br><a data-href="Web Based Heuristics" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/research-frameworks/web-based-heuristics.html" class="internal-link" target="_self" rel="noopener nofollow">Web Based Heuristics</a>
 <br><a data-tooltip-position="top" aria-label="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" rel="noopener nofollow" class="external-link" href="https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf" target="_blank">Evaluation WorkBook</a>
-<br><br><a data-href="CA - ACC American College of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-acc-american-college-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">CA - ACC American College of Cardiology</a><br>
-<a data-href="CA - AHA American Heart Association" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-aha-american-heart-association.html" class="internal-link" target="_self" rel="noopener nofollow">CA - AHA American Heart Association</a><br>
-<a data-href="CA - ESC  European Society of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-esc-european-society-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">CA - ESC  European Society of Cardiology</a><br>
-<a data-href="CA - AMA American Medical Association" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-ama-american-medical-association.html" class="internal-link" target="_self" rel="noopener nofollow">CA - AMA American Medical Association</a><br>
-<a data-href="CA -  HFSA Heart Failure Society of America" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-hfsa-heart-failure-society-of-america.html" class="internal-link" target="_self" rel="noopener nofollow">CA -  HFSA Heart Failure Society of America</a><br>
-<a data-href="CA - HRS Heart Rhythm Society" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-hrs-heart-rhythm-society.html" class="internal-link" target="_self" rel="noopener nofollow">CA - HRS Heart Rhythm Society</a><br>
-<a data-href="CA - FACS American College of Surgeons" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-facs-american-college-of-surgeons.html" class="internal-link" target="_self" rel="noopener nofollow">CA - FACS American College of Surgeons</a><br>
-<a data-href="CA - AAN American Academy of Neurology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-aan-american-academy-of-neurology.html" class="internal-link" target="_self" rel="noopener nofollow">CA - AAN American Academy of Neurology</a><br>
-<a data-href="CA - JACC Journal of American College of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-jacc-journal-of-american-college-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">CA - JACC Journal of American College of Cardiology</a><br><br> <a data-href="Matrix Chart Data" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/matrix-chart-data.html" class="internal-link" target="_self" rel="noopener nofollow">Matrix Chart Data</a><br><br><br><br><br><br><br><br>
+<br><a data-href="What do we want to learn from Redesign Planning" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/research-frameworks/what-do-we-want-to-learn-from-redesign-planning.html" class="internal-link" target="_self" rel="noopener nofollow">What do we want to learn from Redesign Planning</a>
+<br><br><br><a data-href="ACC -- American College of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/acc-american-college-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">ACC -- American College of Cardiology</a> |  <a data-href="Pain Points" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/pain-points.html" class="internal-link" target="_self" rel="noopener nofollow">Pain Points</a><br><br>Organizations that directly compete for our membership.<br>
+<a data-href="AHA -- American Heart Association" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/aha-american-heart-association.html" class="internal-link" target="_self" rel="noopener nofollow">AHA -- American Heart Association</a><br>
+<a data-href="ESC -- European Society of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/esc-european-society-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">ESC -- European Society of Cardiology</a><br>
+<a data-href="AMA -- American Medical Association" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/ama-american-medical-association.html" class="internal-link" target="_self" rel="noopener nofollow">AMA -- American Medical Association</a><br>
+<a data-href="HFSA -- Heart Failure Society of America" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/hfsa-heart-failure-society-of-america.html" class="internal-link" target="_self" rel="noopener nofollow">HFSA -- Heart Failure Society of America</a><br>
+<a data-href="HRS -- Heart Rhythm Society" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/hrs-heart-rhythm-society.html" class="internal-link" target="_self" rel="noopener nofollow">HRS -- Heart Rhythm Society</a><br><br>Other organizations with similar offerings, though not necessarily in direct competition for Cardiology.<br>
+<a data-href="AAN -- American Academy of Neurology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/aan-american-academy-of-neurology.html" class="internal-link" target="_self" rel="noopener nofollow">AAN -- American Academy of Neurology</a><br>
+<a data-href="fACS -- American College of Surgeons" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/facs-american-college-of-surgeons.html" class="internal-link" target="_self" rel="noopener nofollow">fACS -- American College of Surgeons</a><br><br><a data-href="JACC -★- Journal of American College of Cardiology" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/associations/jacc-★-journal-of-american-college-of-cardiology.html" class="internal-link" target="_self" rel="noopener nofollow">JACC -★- Journal of American College of Cardiology</a><br><br>ABIM -- American Board of Internal Medicine [https://www.abim.org/]<br>
+APA -- American Psychological Association  <a rel="noopener nofollow" class="external-link" href="https://www.apa.org/" target="_blank">https://www.apa.org/</a><br>
+ASH -- American Society of Hematology  <a rel="noopener nofollow" class="external-link" href="https://www.hematology.org/" target="_blank">https://www.hematology.org/</a><br>
+ASCO -- American Society of Clinical Oncology <a rel="noopener nofollow" class="external-link" href="https://www.asco.org/" target="_blank">https://www.asco.org/</a><br>
+ISHLT -- International Society for Heart and Lung Transplantation - <a rel="noopener nofollow" class="external-link" href="https://www.ishlt.org/" target="_blank">https://www.ishlt.org/</a><br><br><br> <a data-href="Matrix Chart Data" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/rules/matrix-chart-data.html" class="internal-link" target="_self" rel="noopener nofollow">Matrix Chart Data</a><br><br><br><br><br><br><br><br><br>
 <br>Login is often very connected to membership where some even label it is as member login.
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 13:10:23 GMT</pubDate></item><item><title><![CDATA[CA - JACC Journal of American College of Cardiology]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;- Back</a><br><br><br>
-<br>Membership &amp; Networking Opportunities: ★★☆☆☆&nbsp;
-<br>Donations &amp; Philanthropy: ★☆☆☆☆&nbsp;
-<br>Events: ★★★☆☆&nbsp;
-<br>Scientific Publications / Latest Science: ★★★★★&nbsp;
-<br>Practice Support Resources: ★☆☆☆☆&nbsp;
-<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆&nbsp;
-<br>Education: ★★★☆☆&nbsp;
-<br>Advocacy: ☆☆☆☆☆&nbsp;<br>
-
-<br><br>Membership &amp; Networking Opportunities: JACC.org includes limited information on membership engagement and networking, which can be difficult to find. Networking opportunities are typically tied to scientific conferences and may appear briefly in the homepage carousel. There's potential confusion between journal subscriptions and ACC membership — subscriptions are a type of membership and users can subscribe without being ACC members. There is no clear connection is made between JACC content and ACC member benefits. The site could better promote member value by linking to ACC membership.&nbsp;<br>Donations &amp; Philanthropy: JACC.org hosts very few articles that reference donations and philanthropy on the site, but no direct links or dedicated sections for donations.​ Search engine results return article links related to organ donation on JACC.org.&nbsp;&nbsp;<br>Events: Specific events are temporarily promoted on the website carousel, however users must access the Events section using the navigation menu. The Events section mainly provides simultaneous publications and research presented at large scale scientific.&nbsp;&nbsp;<br>Scientific Publications / Latest Science: Scientific publications are the core focus of JACC.org, with the latest research prominently displayed on the homepage and accessible through top-level navigation.&nbsp;&nbsp;<br>Practice Support Resources: The website offers practice guidelines and clinical documents, which are valuable resources for practitioners. However, there is no help and guidance on how to professionally run a practice.&nbsp;<br>Patient-Facing Tools &amp; Content: While some articles mention patient-facing tools, there is no dedicated section or prominent links for patient resources on the homepage or main navigation. Users would need to search extensively to find such content, indicating a low emphasis on patient-facing initiatives.&nbsp;<br>Education: Access to educational content (CME/MOC) is present on JACC.org, including articles on medical education. However, the page content directs users to Learn.acc.org.&nbsp;<br>Advocacy: JACC.org lacks a dedicated advocacy section. Policy topics may appear in articles, but formal advocacy efforts are not visible or accessible from the site.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-jacc-journal-of-american-college-of-cardiology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - JACC Journal of American College of Cardiology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 02 May 2025 16:20:49 GMT</pubDate></item><item><title><![CDATA[CA - HRS Heart Rhythm Society]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
-Score: 28 – Average; Could Benefit from Minor Edits<br>Breakdown:<br>
-<br>Reading Level: 3 – 10th–12th Grade
-<br>Sentence Length: 3 – 20–25 words avg.
-<br>Paragraph Density: 4 – Brief paragraphs
-<br>Vocabulary: 3 – Mixed
-<br>Jargon Usage: 3 – Occasional, defined
-<br>Sentence Structure: 4 – Mostly active
-<br>Scannability: 4 – Good
-<br>CTA Clarity: 4 – Clear<br>
-
-<br><br>Estimated Visitors:<br>
-~80,000–100,000 monthly (based on SimilarWeb and traffic intelligence)<br>Estimated Membership Numbers:<br>
-~8,000+ members (from HRS annual reports and public sources)<br><br><br><br>Explanation:<br>
-The Heart Rhythm Journal is completely separate from the HRS website:<br>
-<br>It operates on an entirely different domain (heartrhythmjournal.com), run through Elsevier.
-<br>Branding, navigation, and user journeys are completely siloed — there are no obvious cross-links back to the HRS main site, nor any integrated experience for HRS members.
-<br>Full journal access flows externally; it feels like an independent publishing platform rather than an extension of the HRS organization.
-<br>Content is distinctly scientific and does not overlap with HRS’s broader event, patient, or professional education materials.
-<br>The +.5 is because there is a decent amount of marketing effort on the pages to direct users to the journals.
-<br>+1 the branding of the journal site has echos and is very clear that the Journal is produced by the HRS.<br>
-Thus, this pairing is disconnected with connective DNA with very low/no overlap in content.
-<br><br><br>Explanation:<br>
-The majority of event summaries, patient tools, and basic professional resources are freely accessible. Deeper educational materials, full conference recordings, and certain guidelines are gated for members. There's a relatively friendly and proactive onboarding pathway — clear "Join Now" CTAs, member value propositions, and defined next steps post-registration.<br><br><br>The primary audience is still electrophysiologists and cardiac device professionals, making the experience somewhat insider-focused. However, the tone of writing is noticeably friendlier and more humanized compared to peers like HFSA. The voice is professional without being overly dry, especially in patient-facing pages and public health initiatives.<br><br><br>Scores:<br>
-<br>Member Networking Opportunities: ★★★★★ 
-<br>Donations &amp; Philanthropy: ★★★★★
-<br>Events: ★★★★☆ (4/4)
-<br>Scientific Publications / Latest Science: ★★★☆☆ (4/4)
-<br>Practice Support Resources: ★★★☆☆ (3/4)
-<br>Patient-Facing Tools &amp; Content: ☆☆☆☆☆ 
-<br>Education: ★★★☆☆ 
-<br>Advocacy: ★★★★★<br>
-
-<br>Explanation:<br>
-HRS places major emphasis on events (especially Heart Rhythm Annual Meeting), education, and scientific updates. Networking exists but is not hyper-prominent. Patient-facing initiatives are present but secondary. Philanthropic and fundraising efforts are smaller compared to core professional services.<br>Patient Facing tools, education , or even information is mostly missing from the site.<br><br><br><br>Mostly text based the design is highly polished with a usage of micro brand flair and animations. There are subtle soundwave detail is used without even has little micro animations with it a very beautiful touch that brings the site together in a cohesive way..<br><br>The site feels airy well dictated and high level of prioritization issues are their feels like there's not a large amount of pages which is untrue. I am sure they have user response of. I didn't know you did X because you would need to know it was there most Detailed pages contain multiple pieces of content.<br><br>listicle answer for micro navigation on a<br>
-<img alt="Pasted image 20250508103001.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250508103001.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-hrs-heart-rhythm-society.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - HRS Heart Rhythm Society.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 14:46:27 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250508103001.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250508103001.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[CA - FACS American College of Surgeons]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
-Score: 30 – Good; Minor Tweaks Only<br>Breakdown:<br><br><br>Estimated Visitors:<br>
-~400,000–500,000 monthly (based on SimilarWeb and verified public sources)<br>Estimated Membership Numbers:<br>
-~90,000 members (based on ACS official reports)<br><br><br><br>Explanation:<br>
-The Journal of the American College of Surgeons operates on a completely different platform (Lippincott Williams &amp; Wilkins / Wolters Kluwer) with its own domain and infrastructure.<br>
-<br>No shared navigation menus between the main ACS site and the journal
-<br>No visual branding alignment or consistent cross-site navigation.
-<br>Full content is managed separately under LWW's portal, not ACS’s membership login.
-<br>Content focus is distinct — original research and scientific publications without duplication of ACS's advocacy, education, or professional development content.<br>
-
-<br>Thus, the two sites are fully disconnected with very low/no content overlap.<br><br><br>Explanation:<br>
-Basic public content is freely available — news, advocacy, and patient-facing materials. However, guidelines, clinical resources, and career development tools are behind a login wall. Membership onboarding is solid: clear pathways to join, member benefits well articulated, and structured new member orientation available.<br><br><br>Explanation:<br>
-The primary audience remains surgical professionals, creating a somewhat exclusive environment. Patient resources exist but are secondary. Tone throughout the site is highly professional and formal — focused on credibility and rigor rather than emotional appeal or expressiveness.<br>Note: even though the content leans to longer their is a clear focus on priority of content so pages rarely get overly robust or dense. Cleanliness of UI an d structured displays handles a scope of content keeping the page organized and clean.<br><br><br>Scores:<br>
-<br>Member Networking Opportunities: ★★★☆☆ (3/4)
-<br>Donations &amp; Philanthropy: ★★★☆☆ (3/4)
-<br>Events: ★★★☆☆ (3/4)
-<br>Scientific Publications / Latest Science: ★★★★☆ (4/4)
-<br>Practice Support Resources: ★★★★☆ (4/4)
-<br>Patient-Facing Tools &amp; Content: ★★★☆☆ (3/4)
-<br>Education: ★★★★☆ (4/4)<br>
-
-<br>Explanation:<br>
-ACS is very strong on education, practice resources, and scientific updates. Networking and philanthropy are supported but not as dominant as their educational mission. Patient-facing content is present but takes a back seat to professional development.<br><br><br><br>One of the more interesting websites in relation to our direction is mostly around their shifting main NAV and hero image graphics. The impactful sweeping cut image doesn't always work perfectly because of content not constraining to the rules as much as they need to, but it does make a more visually impactful design. The rest of the site has a tight control on color, mostly a black to navy blue with small accents of red.<br><br>A surprising amount of images is across the site and though most likely stock it seems to be a professional grade. All images have the similar color, toning and keying, which allows all images to feel like they're from the same set. There is nothing that breaks from high contrast, a low contrast or saturated low saturation.<br><br>The site has an issue approach on main navigation with a three tiered separation of audience right off the bat from the homepage. This causes the main NAV to "personalize".   This is a great way for them to separate their concerns and focus their audiences. I'm curious what strategic documents they must have to make sure that content is placed in the right context and it is possible that they are just more accurate about dividing their audience use case because they only shift between (researcher, surgeon, patient), and do not have the nuanced audience platform that ACC has which is almost every medical profession level associated with cardiology.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-facs-american-college-of-surgeons.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - FACS American College of Surgeons.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:33:43 GMT</pubDate></item><item><title><![CDATA[CA - AMA American Medical Association]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
-Score: 36 – Good; Minor Tweaks Only<br>Breakdown:<br><br>Summary: The AMA's website exhibits a professional tone with clear calls to action and well-structured content. While the vocabulary is generally accessible, occasional medical jargon could be further simplified or defined to enhance understanding for a broader audience.​<br>Estimated Visitors: Approximately 847,000 site users, with over 952,000 site visits reported in a recent period. ​<a data-tooltip-position="top" aria-label="https://www.ama-assn.org/system/files/ama-advocacy-efforts.pdf?utm_source=chatgpt.com" rel="noopener nofollow" class="external-link" href="https://www.ama-assn.org/system/files/ama-advocacy-efforts.pdf?utm_source=chatgpt.com" target="_blank">American Medical Association</a><br>Estimated Membership Numbers: As of December 2023, the AMA reported 282,952 members, including physicians and medical students.<br><br><br><br>Rationale: The AMA's main site (ama-assn.org) and the JAMA Network (jamanetwork.com) operate on separate domains with distinct branding and navigation structures. Minimal links between the two—such as the AMA site directing users to the JAMA Network for publications—the user experience is disjointed. Users must navigate between different interfaces, and there is no unified account system or integrated search functionality across both platforms. This separation indicates a loosely connected integration of experience.​<br>
-<br>No logo Sharing
-<br>No Design Sharing
-<br>Barely Spells out JAMA
-<br>Science Only
-<br><br>Rationale: The content between the AMA main site and the JAMA Network is largely distinct. The AMA site focuses on advocacy, medical education, and professional resources, while the JAMA Network is dedicated to publishing peer-reviewed medical research. Although both platforms serve medical professionals and are under the AMA umbrella, their content offerings do not significantly overlap, indicating a low content overlap.​<br>
-<br>Links to the Journal
-<br>But Content is More business and "Policy" oriented and all "Science" is reserved for the Journal Site and it is true vice versa.
-<br><br>Rationale: The AMA offers certain resources, such as CME options and articles, to non-members, but full access to benefits like the JAMA Network and specific discounts requires membership. The onboarding process is streamlined, with clear pathways for different user groups (e.g., physicians, residents, students) to understand and access membership benefits.​<a data-tooltip-position="top" aria-label="https://www.ama-assn.org/amaone/membership?utm_source=chatgpt.com" rel="noopener nofollow" class="external-link" href="https://www.ama-assn.org/amaone/membership?utm_source=chatgpt.com" target="_blank">American Medical Association</a><br>
-<br>Awesome benefit for Car Discounts :-)
-<br><br>Rationale: The AMA's content is tailored to a wide range of medical professionals, including students, residents, and practicing physicians, indicating a broadly inclusive approach. The tone remains professional yet approachable, aiming to engage users effectively without excessive formality.​<a data-tooltip-position="top" aria-label="https://pmc.ncbi.nlm.nih.gov/articles/PMC3153537/?utm_source=chatgpt.com" rel="noopener nofollow" class="external-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3153537/?utm_source=chatgpt.com" target="_blank">PMC</a><br><br><br><br>
-<br>Membership &amp; Networking Opportunities: ★★★★☆
-<br>Donations &amp; Philanthropy: ★☆☆☆☆
-<br>Events: ★★★★☆
-<br>Scientific Publications / Latest Science: ★★★☆☆
-<br>Practice Support Resources: ★★★★★
-<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆
-<br>Education: ★★★★☆<br>
-
-<br>Rationale:<br>
-<br>Member Networking Opportunities: The AMA provides upfront member engagement and ask but unable to determine if there is a  platforms for members to connect, but there is room for enhancing interactive networking features.
-<br>Donations &amp; Philanthropy: While the AMA engages in philanthropic activities the pages are buried on  the main site.
-<br>Events: The organization annual meetings is located on the homepage but the other events that indicating a strong commitment to member engagement through events is hidden with in the long search bar. It is possible that behind membership walls this become more prominent or easier to find.
-<br>Scientific Publications / Latest Science: With access to the JAMA Network and other publications, the AMA offers substantial scientific resources, but on the main site it is reserved to news elements about public health, practice, advocacy and the practice reserving the latest science to live only on Jama.
-<br>Practice Support Resources: Resources are available articles are written to support medical practice management and an entire segment craft to multiple facets of practice support.
-<br>Patient-Facing Tools &amp; Content: The site primarily targets medical professionals, with limited content directly aimed at patients. this type of content is practically no where on the site.
-<br>Education: Educational resources, including CME opportunities and the AMA Ed Hub, are robust and well-integrated into the site.
-<br><br><br><br>AMA clearly has a design system library in place. The collection of UI pattern feels pretty high so there is a certain about of consistency degradation not because they aren't following the rules but because they have too many to really show a visual pattern. They have an extensive  collection of patterns makes the site feel a little clumsy and overwhelming high usage of images that hold content and text utilizing font treatments that are not matching.<br><br>They collapse away their main NAV into a burger menu even on desktop when you are not on the homepage this is an interesting choice. I find it slightly frustrating because I am trying to move around the site as much. Maybe it isn't as much of an issue when users are being directed by Google and cross discovery isn't as important. It does reduce the overall visual noise which is pretty high on their site.]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-ama-american-medical-association.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - AMA American Medical Association.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:34:11 GMT</pubDate></item><item><title><![CDATA[CA - AHA American Heart Association]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
-Score: 35 – Great; Could Benefit from Minor Edits<br>Breakdown:<br><br>Summary:<br>
-Heart.org performs reasonably well for an educated general audience. It offers a mix of technical and accessible vocabulary, and while sentence length and density are moderate, content is largely digestible. The tone is professional, and medical jargon is often defined, especially in patient-facing sections. The layout supports decent scannability, though CTA buttons could be clearer, more action-oriented, but using some great focused text for CTA.<br>Estimated Visitors: Approximately 3 million monthly visitors.<br>
-Estimated Membership Numbers: Over 33 million volunteers and supporters.<br><br><br>Explanation: The main site (heart.org) and the journal site (ahajournals.org) operate on separate domains with distinct branding and navigation. While there are links between them, the user experience is not seamless, indicating a loosely connected integration.<br>
-<br>Landing Page for the full list of publications not even on the main site but on the Professional Heart.
-<br>Minimal top 5 teaser articles<br>
-Explanation: The main site focuses on general public education, advocacy, and patient resources, whereas the journal site is dedicated to scientific publications. The content serves different audiences with minimal overlap.
-<br><br>Explanation: The main site offers the majority of its content—including patient education, healthy living resources, donation opportunities, and volunteer programs—freely available to the public. While professional tools and journal access may require membership or payment, these are not part of the main site’s public-facing content. <br>
-<br>Most of the content is on Proffesional.heart.org so much so the login doesn't show up until the user is on that subdomain.
-<br>Strong Brand holds the Subs together but the main nav is "Teased" on the main site but the entire nav swaps out when your in that experience.<br>
-Explanation: The site includes information on getting involved through volunteering, donations, and becoming a heart health advocate. However, there’s less emphasis on structured onboarding for new members or supporters—details are available but not spotlighted or guided with a welcoming narrative. It’s informative but not highly personalized or welcoming.  
-<br>There is a complete separate website for the professional where they ask people to become part of the org. 
-<br><br>Explanation: The AHA addresses both the general public and professionals, offering resources ranging from patient education to scientific research, reflecting a broad inclusivity.​ The content is designed to be accessible and relevant to a broad audience, including the general public, patients, and caregivers, without requiring specialized medical knowledge.<br>
-Explanation: The tone across AHA's platforms is professional yet accessible, aiming to engage a wide audience without compromising on scientific integrity.<br><br><br>Radar Chart Scores:<br>
-<br>
-Member Networking Opportunities: ★★☆☆☆  
-
-<br>
-Donations &amp; Philanthropy: ★★★★★  
-
-<br>
-Events: ★★☆☆☆  
-
-<br>
-Scientific Publications / Latest Science: ★☆☆☆☆  
-
-<br>
-Practice Support Resources: ★★★☆☆  
-
-<br>
-Patient-Facing Tools &amp; Content: ★★★★★  
-
-<br>
-Education: ★★☆☆☆  
-
-<br>
-Advocacy: ★☆☆☆☆<br>
-Rationale:
-
-<br>
-Membership &amp; Networking Opportunities:  Minimal presence on heart.org. Professional networking largely lives off-site or in conference contexts.
-
-<br>
-Donations &amp; Philanthropy: Highly visible and emphasized, with multiple calls to donate, fundraise, or give in honor of someone.
-
-<br>
-Events: Community events like Heart Walks and Go Red for Women are promoted, but less focus on large-scale scientific events or purchasable events.
-
-<br>
-Scientific Publications / Latest Science: Virtually absent from the main site; most science communication is generalized for lay audiences.
-
-<br>
-Practice Support Resources: Some tools for CPR, emergency response, and guidelines for laypersons exist, but not robust clinical tools unless you know where you are going and then you can find an equivalent to NCDR with <a data-tooltip-position="top" aria-label="https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines" data-href="https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines" href="https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines" class="internal-link" target="_self" rel="noopener nofollow">Get with the Guideline Registry</a>.
-
-<br>
-Patient-Facing Tools &amp; Content: Heart.org excels in this category, offering rich educational content, risk assessments, and interactive tools.
-
-<br>
-Education: Strong emphasis on public education, and awareness campaigns But limited training courses (like CPR), and no purchasable continuing education or modules for medical professionals. All reference to continuing learning is buried on the main site and is mostly hosted on its E-learning Sub Domain.  elearn.heart.org 
-
-<br>
-Advocacy: It is on the site but it is very hard to find but does exist.
-
-<br><br><br>
-<br>Art Direction strong visual branding with single color usage the red and white. High usage of photos because of their public facing mission that humanizes the site. 
-
-<br>Extra Care on all pages to reserve "button" for limited usage because of the single color branding.  
-<br>Red in the UI is dropped in tone in the UI so it has proper contrast. 
-
-
-<br>Structure of the content is spread across multiple sites where the main site is much more Advocacy, Public Education with pass offs to the sister sites. Clear focus of audience and cleaning away distractions. 
-<br>Cleanliness is a focus of all pages.
-
-<br>Dates only show up when referencing things that are "latest" 
-<br>Listed items are almost always reserved to less then 5 items.
-<br>Sub Domain-ing with altering Context and Main Nav
-
-<br>CPR.heart.org
-<br>Learn.heart.org
-<br>Professional.heart.org
-<br>....
-
-
-
-
-<br><br>The subduing is markable, interesting and allows for greater division of audience and improves focus, but it does impede discoverability, and only because this research has forced deep diving into their content. Did I discover some of the nuanced areas. It is very easy as an audience member or user to be confused about why the main is altering because the branding is so locked up the edges between the main site and CPR, for example, are minimal and a user might just be shocked that they may NAV item that they were utilizing disappears. ]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-aha-american-heart-association.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - AHA American Heart Association.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 17:36:57 GMT</pubDate></item><item><title><![CDATA[CA - ACC American College of Cardiology]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
-Score:  20<br>
-<br>Classification: Below Average; Requires Revision
-<br><br>Estimated Visitors: Approximately 1.1 million monthly visits.<br>
-Estimated Membership Numbers: Over 56,000 members, encompassing a diverse range of cardiovascular professionals. <br><br><br>The main site (ACC.org) and the journal site (JACC.org) are distinct in branding and navigation. While ACC.org provides a link to JACC.org, the journal site operates independently with its own navigation and content structure. The content overlap is moderate; ACC.org references JACC articles, but the journal content is primarily housed separately.<br><br>A very disjunctive experience between the two space but with all of the interconnected hand offs between the two sites and the non-descriptive branding the experience comes out muddled and users will often not understand they a have left one domain for the other.<br><br><br>ACC.org offers a mix of open-access and member-restricted content. Educational resources and certain tools require membership login. The onboarding process is streamlined, with clear pathways for different professional roles and an eligibility calculator for prospective members.<br><br>The site largely seems unlocked and most articles and site are unlocked thought it makes easy access to the site and the content produced by the org it lacks a certain presentation to the value of Membership or what a user might get to if the content was more locked down. <br><br><br>The site primarily targets cardiovascular professionals, with content tailored to their needs. The tone is formal and clinical, appropriate for a professional medical audience, but lacks broader inclusivity or expressive engagement visitors.  Most language lacks pro-nouns, and mostly proper nouns.  This language is professional but doesn't match to modern web language. <br>Effect on UX the tone can come across as overly wordy to cold. The text is to long to be skimmed and often just produces long unreadable blocks of text.<br><br><br><br>
-<br>Membership &amp; Networking Opportunities: ★★★☆☆
-<br>Donations &amp; Philanthropy: ★☆☆☆☆
-<br>Events: ★★★★☆
-<br>Scientific Publications / Latest Science: ★★★★★
-<br>Practice Support Resources: ★★★☆☆
-<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆
-<br>Education: ★★★★☆
-<br>Advocacy: ★☆☆☆☆
-<br>Explanation: ACC.org places a strong emphasis on scientific publications and educational resources, evident through its extensive guidelines and learning materials. Events, such as the ACC.25 conference, are prominently featured. While there are networking opportunities and patient-facing tools like CardioSmart, these areas are less emphasized compared to the organization's core focus on science and education.<br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-acc-american-college-of-cardiology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - ACC American College of Cardiology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 13:29:37 GMT</pubDate></item><item><title><![CDATA[CA - AAN American Academy of Neurology]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="Competitive Analysis" data-href="Competitive Analysis" href="https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html" class="internal-link" target="_self" rel="noopener nofollow">&lt;-- back to competitive analysis</a><br><br>Readability:<br>
-Score: 37 – Good; Minor Tweaks Only<br>Breakdown:<br><br><br>Estimated Visitors:<br>
-~250,000–300,000 monthly (based on SimilarWeb and traffic data)<br>Estimated Membership Numbers:<br>
-~38,000 members (official AAN membership figures)<br><br><br><br>Explanation:<br>
-The Neurology® journal is operated under <a data-tooltip-position="top" aria-label="https://www.neurology.org/" rel="noopener nofollow" class="external-link" href="https://www.neurology.org/" target="_blank">neurology.org</a>, branded clearly as the AAN’s journal.<br>
-<br>Visual styling is separate and more typical of academic publishing, but there are cross-links back to AAN.com (e.g., navigation mentions AAN membership, benefits).
-<br>Content access is tied to AAN membership in some cases (members get full-text access for certain journals).
-<br>There is significant Marketing that is one way from AAN to the Neurology Journals but rarely in reverse.
-<br>The journal site’s focus is purely research articles, clinical trials, and scientific reviews — no duplication of AAN’s broader professional education, advocacy, or event content.
-<br><br>Explanation:<br>
-Many public resources — news, events, practice tools, advocacy — are open-access. Member-exclusive content includes guidelines, CME opportunities, and deeper clinical resources. New members are welcomed through clear onboarding steps, including member portals, community forums, and structured orientation emails.<br><br><br>Explanation:<br>
-AAN’s primary audience remains clinical neurologists and researchers, which gives it a somewhat professional insider focus. However, the tone is notably friendly, with conversational but authoritative messaging. Patient-facing content is present but secondary.<br><br><br>Scores:<br>
-<br>Member Networking Opportunities: ★★★☆☆ 
-<br>Donations &amp; Philanthropy: ★☆☆☆☆
-<br>Events: ★★★★★ 
-<br>Scientific Publications / Latest Science: ★★★★☆ 
-<br>Practice Support Resources: ★★★☆☆ 
-<br>Patient-Facing Tools &amp; Content: ★☆☆☆☆ 
-<br>Education: ★★★★★ 
-<br>Advocacy: ★★★★☆ 
-<br>Explanation:<br>
-AAN is strong across education, latest science, and practice support. Member networking is solid but not dominant. Events and practice tools are present but slightly secondary to professional development initiatives.<br>Their home page successful balances multiple initiatives by only showcasing 1 element or just directing them deeper into the site to the content form the home page then showing examples of the each.<br>Donation is very hard to discover on the site.<br><br><br>
-<br>AAN like HFSA they organize their top tier as "Research" and place publication below.
-<br>Art Direction is 100% textual and it is almost impossible to find photos on the main site. Very un "JAZZY"
-<br><img alt="Pasted image 20250506073829.png" src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250506073829.png">]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-aan-american-academy-of-neurology.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA - AAN American Academy of Neurology.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 13:26:27 GMT</pubDate><enclosure url="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250506073829.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://acc-style.github.io/BrainDump/lib/media/pasted-image-20250506073829.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[CA -  HFSA Heart Failure Society of America]]></title><description><![CDATA[ 
- <br><br>Readability:<br>
-Score: 24 – Average; Could Benefit from Minor Edits<br>
-Breakdown:<br>
-<br>Reading Level: 3 – 10th–12th Grade  
-<br>Sentence Length: 3 – 20–25 words avg. 
-<br>Paragraph Density: 3 – Moderate density
-<br>Vocabulary: 3 – Mixed
-<br>Jargon Usage: 3 – Occasional, defined
-<br>Sentence Structure: 2 – Mostly passive
-<br>Scannability: 4 – Good
-<br>CTA Clarity: 3 – Somewhat clear<br>
-
-<br><br>Estimated Visitors:<br>
-~30,000–50,000 monthly (estimated from SimilarWeb and other traffic sources)<br>Estimated Membership Numbers:<br>
-~2,500–3,000 members (from HFSA reports and third-party sources)<br><br><br><br>(For HFSA: <a data-tooltip-position="top" aria-label="https://www.hfsa.org" rel="noopener nofollow" class="external-link" href="https://www.hfsa.org" target="_blank">hfsa.org</a> vs <a data-tooltip-position="top" aria-label="https://hfsa.org/journal-cardiac-failure" rel="noopener nofollow" class="external-link" href="https://hfsa.org/journal-cardiac-failure" target="_blank">hfsa.org/journal-cardiac-failure</a> and <a data-tooltip-position="top" aria-label="https://onlinejcf.com/" data-href="https://onlinejcf.com/" href="https://onlinejcf.com/" class="internal-link" target="_self" rel="noopener nofollow">jcf</a>)<br><br>Explanation:<br>
-A journal section that outlines the journal product lives on the main site but the Journal is outside HFSA domain and lacks any visual or navigational unity with the main site. There are plenty of content that is derivative of the journal on the main site but most full-content links redirect users away from HFSA.org. There are minimal cross-links or integrated member pathways between the journal back to the main site, but plenty that go from the main site to the journal. <br>
-<br>Creates Derivates of major Docs from the site as Supportive Materials.
-<br><br><br>Explanation:<br>
-Most educational and patient content is accessible without membership. Some professional-level webinars and event materials are locked behind a login. Onboarding remains sufficient: you can join, but there’s the  structured welcome flow is mostly trapped in a PDF.<br><br><br>Explanation:<br>
-The site’s tone caters mostly to professionals but includes patient sections to broaden reach, making it somewhat inclusive. However, the tone across most of the site is flat, formal, and mildly expressive at best — not very lively or welcoming.  The content of the site is some what longer with complicated sentence structure with minimal chunking. <br><br><br>Scores:<br>
-<br>Membership &amp; Networking Opportunities: ★★★★★
-<br>Donations &amp; Philanthropy: ☆☆☆☆☆
-<br>Events: ★★★★★
-<br>Scientific Publications / Latest Science: ★★☆☆☆
-<br>Practice Support Resources: ★★☆☆☆
-<br>Patient-Facing Tools &amp; Content: ★★★★★
-<br>Education: ★★★☆☆
-<br>
-<br>Advocacy: ★★★☆☆
-<br>Explanation:  <br>
-<br>Membership &amp; Networking Opportunities: Easy to find, the pitch for becoming a member is cross medium with some on the web referencing pdfs with a great(but with too many stock photos) introduction video. Enhance Your Heart Failure Career with HFSA Membership <a rel="noopener nofollow" class="external-link" href="https://youtu.be/LOh75iLOEHs" target="_blank">https://youtu.be/LOh75iLOEHs</a> 
-<br>Donations: Mostly missing from the site there is some reference to becoming a sponsor from a corporate level but their finances seem to come from other streams of revenue.
-<br>Events: There are events sponsored from the HFS with an ongoing calendar with a co-mingle of external events showing a delegation technique that makes their events seem more robust then what they can personally produce.
-<br>Scientific Publications / Latest Science:. The main site does have some medical news but mostly in the view point of Industry.  All other science is point away to their disconnected journal.
-<br>Practice Support Resources:  This seems to be their most lacking area of the site. Most practice support is more in the tone of Patient collaboration tools and practically nothing around the business.
-<br>Patient-Facing Tools &amp; Content:  A full suite of content: Events, Webinars, and articles.
-<br>Education: Though education is clearly a focus for this organization is a supportive mechanism for them and is not segmented out so it is dispersed under membership, professional development, and patients.
-<br>Advocacy:  Clearly important as a benefit and why users want to be a part of this org.
-<br><br><br>
-<br>SPONSORSHIP INTEGRATIONS: Donations come from Sponsorship and this reflects in other spaces like events, and education.  The small organization utilizes these 3rd Party production sources to enrich their calendar and educational spaces making those areas much more robust then what they could produce on their own. 
-<br>Derivatives are page items on the main site vs the journal area. 
-
-<br>Top 10 Takeaways
-<br>Press Release - Teaser
-<br>Full Press Release Link
-
-
-<br>Art Direction the site has very little photos has simple but effective art direction flair that makes the simple use of text feel "designed"
-
-<br>Corner register marks
-<br>little heart rhythm notes.
-<br>two color branding based from logo.
-<br>image frame overlays
-
-
-]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/ca-hfsa-heart-failure-society-of-america.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/CA -  HFSA Heart Failure Society of America.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 14:53:13 GMT</pubDate></item><item><title><![CDATA[ACC.org Concept Structure]]></title><description><![CDATA[ 
+]]></description><link>https://acc-style.github.io/BrainDump/work/acc/projects/acc-redesign/discovery/competitive-analysis.html</link><guid isPermaLink="false">Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Thu, 08 May 2025 18:49:36 GMT</pubDate></item><item><title><![CDATA[ACC.org Concept Structure]]></title><description><![CDATA[ 
  <br>ACC.org (Home Page)
 │
 ├── Clinical Topics (Concept Anchor)
@@ -4141,7 +4154,7 @@ summary:: last week was lost to meetings<br><br>&lt;&lt; <a data-tooltip-positio
  <br><a data-href="Single Page Applications" href="https://acc-style.github.io/BrainDump/work/acc/jira/single-page-applications.html" class="internal-link" target="_self" rel="noopener nofollow">Single Page Applications</a><br>
 <a data-href="Bug Ticket Template" href="https://acc-style.github.io/BrainDump/work/acc/jira/bug-ticket-template.html" class="internal-link" target="_self" rel="noopener nofollow">Bug Ticket Template</a><br>
 <a data-href="ARCHES New Component" href="https://acc-style.github.io/BrainDump/work/acc/jira/arches-new-component.html" class="internal-link" target="_self" rel="noopener nofollow">ARCHES New Component</a><br>
-<a data-href="ARCHES Component Conversion" href="https://acc-style.github.io/BrainDump/work/acc/jira/arches-component-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">ARCHES Component Conversion</a><br><br><br><a data-tooltip-position="top" aria-label="Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets.md" data-href="Work/ACC/Jira/AI Prompts/AI Prompt - Conversion Tickets.md" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-conversion-tickets.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - Conversion Tickets</a><br><a data-tooltip-position="top" aria-label="Work/ACC/Jira/AI Prompts/AI Prompt - Craft UX Ask.md" data-href="Work/ACC/Jira/AI Prompts/AI Prompt - Craft UX Ask.md" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-craft-ux-ask.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - Craft UX Ask</a><br><a data-tooltip-position="top" aria-label="Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md" data-href="Work/ACC/Jira/AI Prompts/AI Prompt - SCRUM TICKET.md" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-scrum-ticket.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - SCRUM TICKET</a><br><a data-tooltip-position="top" aria-label="Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md" data-href="Work/ACC/Jira/AI Prompts/AI Prompt - Writing Editing.md" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/ai-prompt-writing-editing.html" class="internal-link" target="_self" rel="noopener nofollow">AI Prompt - Writing Editing</a><br><a data-tooltip-position="top" aria-label="Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md" data-href="Work/ACC/Jira/AI Prompts/knowledge base/KSS Documentation.md" href="https://acc-style.github.io/BrainDump/work/acc/jira/ai-prompts/knowledge-base/kss-documentation.html" class="internal-link" target="_self" rel="noopener nofollow">KSS Documentation</a>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/jira-helpers.html</link><guid isPermaLink="false">Work/ACC/Jira/JIRA Helpers.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 14 Mar 2025 17:32:17 GMT</pubDate></item><item><title><![CDATA[Bug Ticket Template]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> 
+<a data-href="ARCHES Component Conversion" href="https://acc-style.github.io/BrainDump/work/acc/jira/arches-component-conversion.html" class="internal-link" target="_self" rel="noopener nofollow">ARCHES Component Conversion</a><br><br><br><br><br><br><br>]]></description><link>https://acc-style.github.io/BrainDump/work/acc/jira/jira-helpers.html</link><guid isPermaLink="false">Work/ACC/Jira/JIRA Helpers.md</guid><dc:creator><![CDATA[Matt Watier]]></dc:creator><pubDate>Fri, 14 Mar 2025 17:32:17 GMT</pubDate></item><item><title><![CDATA[Bug Ticket Template]]></title><description><![CDATA[<a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc/jira" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc/jira</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:acc" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#acc</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:work" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#work</a> <a class="tag" href="https://acc-style.github.io/BrainDump/?query=tag:requirements" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#requirements</a> 
  <br>Title: [Brief, concise summary of the bug]<br>Ticket ID: #12345<br>Reported By: [Your Name]<br>Date Reported: [Date]<br>Assigned To: [Assignee's name]<br>Priority: [Low/Medium/High/Critical]<br>Severity: [Low/Medium/High/Critical]<br>Environment: [e.g. Production/Staging/Test]<br>Browser/Device: [e.g. Google Chrome v90, iPhone X]<br>Description:<br>Provide a detailed explanation of the bug. Include what the expected behavior is and how the actual behavior differs. If the bug is intermittent, mention this and provide any known steps to reproduce.<br>Steps to Reproduce:<br>
 <br>Step 1
 <br>Step 2
