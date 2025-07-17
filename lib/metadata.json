@@ -1,6 +1,10 @@
 {
   "vaultName": "ObsidianSecondBrain",
+<<<<<<< Updated upstream
   "lastExport": 1752248859528,
+=======
+  "lastExport": 1752768037262,
+>>>>>>> Stashed changes
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -161,7 +165,10 @@
     "Work/ACC/Projects/ACC Redesign/Discovery/Rules/Y-Axis Onboarding Experience.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/Rules/Y-Axis Tone & Expression.md",
     "Work/ACC/Projects/ACC Redesign/Discovery/Competitive Analysis.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/Discovery/Metric Responses to Word Doc.md",
+=======
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/Discovery/Pain Points.md",
     "Work/ACC/Projects/ACC Redesign/What IF/Sitemap -- Support Fund.excalidraw",
     "Work/ACC/Projects/ACC Redesign/What IF/Sitemap -- Support Fund.dark.svg",
@@ -169,8 +176,13 @@
     "Work/ACC/Projects/ACC Redesign/What IF/Sitemap -- Support Fund.light.svg",
     "Work/ACC/Projects/ACC Redesign/What IF/Sitemap -- Support Fund.light.png",
     "Work/ACC/Projects/ACC Redesign/What IF/Tag Interactions Structure.excalidraw.excalidraw",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/What IF/Tag Interactions Structure.excalidraw.light.svg",
     "Work/ACC/Projects/ACC Redesign/What IF/Tag Interactions Structure.excalidraw.light.png",
+=======
+    "Work/ACC/Projects/ACC Redesign/What IF/Tag Interactions Structure.excalidraw.light.png",
+    "Work/ACC/Projects/ACC Redesign/What IF/Tag Interactions Structure.excalidraw.light.svg",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/What IF/TagDashboardFigure.excalidraw.excalidraw",
     "Work/ACC/Projects/ACC Redesign/What IF/TagDashboardFigure.excalidraw.dark.svg",
     "Work/ACC/Projects/ACC Redesign/What IF/TagDashboardFigure.excalidraw.dark.png",
@@ -181,18 +193,27 @@
     "Work/ACC/Projects/ACC Redesign/What IF/WhatIf -- Interaction Model Break Down.excalidraw.light.png",
     "Work/ACC/Projects/ACC Redesign/What IF/WhatIf--Main Nav By Personalization.excalidraw",
     "Work/ACC/Projects/ACC Redesign/ACC.org Concept Structure.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/Future of UX Presentation.md",
+=======
+>>>>>>> Stashed changes
     "Work/ACC/Projects/ACC Redesign/Strategic Glossary of Page Concepts in ACC.org.md",
     "Work/ACC/Projects/Algorithm/Algorithm Read Me.md",
     "Work/ACC/Projects/Algorithm/Color Test.md",
     "Work/ACC/Projects/CCKE/CCKE Content Proposal.md",
     "Work/ACC/Projects/CCKE/Content Rewrite.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.excalidraw.md",
     "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md",
+=======
+    "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.md",
+    "Work/ACC/Projects/CCKE/GREY BOX -- CCKE- OUS.excalidraw.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/CCKE/No Content Change Proposal.md",
     "Work/ACC/Projects/CMP/CMP-ADA-Policy.md",
     "Work/ACC/Projects/CMP/Linkage Report.md",
     "Work/ACC/Projects/HubSpot Landing Page/Maximize Conversions with Integrated Marketing.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/Member Sections/Content Docs/Onboarding Dynamic Content.md",
     "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md",
     "Work/ACC/Projects/Member Sections/Presentation Story.md",
@@ -200,6 +221,16 @@
     "Work/ACC/Projects/Member Sections/Section Personas.md",
     "Work/ACC/Projects/Member Sections/UI List of Objects.md",
     "Work/ACC/Projects/Member Sections/User Journey Prompt.md",
+=======
+    "Work/ACC/Projects/Member Sections/Content Doc Blue Print.md",
+    "Work/ACC/Projects/Member Sections/Intro Text by User Flow.md",
+    "Work/ACC/Projects/Member Sections/Member Section Group Think.md",
+    "Work/ACC/Projects/Member Sections/Presentation Story.md",
+    "Work/ACC/Projects/Member Sections/Project Build Outline.md",
+    "Work/ACC/Projects/Member Sections/Section Personas.md",
+    "Work/ACC/Projects/Member Sections/User Journey Prompt.md",
+    "Work/ACC/Projects/Members Sections/Onboarding Dynamic Content.md",
+>>>>>>> Stashed changes
     "Work/ACC/Projects/SAPS/Sub Content/Additional Information.md",
     "Work/ACC/Projects/SAPS/Sub Content/Cardio Source Warning.md",
     "Work/ACC/Projects/SAPS/Sub Content/eLearn Promo.md",
@@ -211,7 +242,10 @@
     "Work/ACC/Projects/SAPS/Ultra Condensed/EPSAP-- Ultra Condensed.md",
     "Work/ACC/Projects/SAPS/Ultra Condensed/HFSAP -- Ultra Condensed.md",
     "Work/ACC/Projects/SAPS/ACCSAP.md",
+<<<<<<< Updated upstream
     "Work/ACC/Projects/SAPS/ACCSAP Content Comparison.md",
+=======
+>>>>>>> Stashed changes
     "Work/ACC/Projects/SAPS/CATHSAP.md",
     "Work/ACC/Projects/SAPS/EPSAP.md",
     "Work/ACC/Projects/SAPS/FAQ.md",
@@ -268,6 +302,7 @@
     "Work/ACC/ACC Products.md",
     "Work/ACC/Goals 2025.md",
     "index.md",
+<<<<<<< Updated upstream
     "lib/media/pasted-image-20240412115026.png",
     "lib/media/pasted-image-20240424073644.png",
     "lib/media/pasted-image-20240424075131.png",
@@ -283,6 +318,8 @@
     "lib/media/pasted-image-20240924173440.png",
     "lib/media/pasted-image-20240924173458.png",
     "lib/media/pasted-image-20240924173524.png",
+=======
+>>>>>>> Stashed changes
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -310,7 +347,26 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
+<<<<<<< Updated upstream
     "lib/styles/main-styles.css"
+=======
+    "lib/styles/main-styles.css",
+    "lib/media/pasted-image-20240412115026.png",
+    "lib/media/pasted-image-20240424073644.png",
+    "lib/media/pasted-image-20240424075131.png",
+    "lib/media/pasted-image-20250506073829.png",
+    "lib/media/pasted-image-20250508103001.png",
+    "lib/media/readablity.png.png",
+    "lib/media/pasted-image-20250514093947.png",
+    "lib/media/pasted-image-20241030170446.png",
+    "lib/media/pasted-image-20240924173228.png",
+    "lib/media/pasted-image-20240924173258.png",
+    "lib/media/pasted-image-20240924173344.png",
+    "lib/media/pasted-image-20240924173411.png",
+    "lib/media/pasted-image-20240924173440.png",
+    "lib/media/pasted-image-20240924173458.png",
+    "lib/media/pasted-image-20240924173524.png"
+>>>>>>> Stashed changes
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -1193,7 +1249,11 @@
       "dependencies": []
     },
     "Work/ACC/Projects/ACC Redesign/Discovery/Data/Matrix Chart Data.md": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 5109,
       "exportedPath": "work/acc/projects/acc-redesign/discovery/data/matrix-chart-data.html",
       "dependencies": []
@@ -1699,8 +1759,13 @@
       "dependencies": []
     },
     "Work/ACC/Projects/Member Sections.md": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
       "sourceSize": 1372,
+=======
+      "modifiedTime": 1752768037262,
+      "sourceSize": 1401,
+>>>>>>> Stashed changes
       "exportedPath": "work/acc/projects/member-sections.html",
       "dependencies": []
     },
@@ -2001,169 +2066,285 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
       "sourceSize": 269776,
+=======
+      "modifiedTime": 1752768037262,
+      "sourceSize": 268293,
+>>>>>>> Stashed changes
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
       "sourceSize": 26533,
+=======
+      "modifiedTime": 1752768037262,
+      "sourceSize": 26315,
+>>>>>>> Stashed changes
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
       "sourceSize": 138359,
+=======
+      "modifiedTime": 1752768037262,
+      "sourceSize": 138258,
+>>>>>>> Stashed changes
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
       "sourceSize": 279,
+=======
+      "modifiedTime": 1752768037262,
+      "sourceSize": 262,
+>>>>>>> Stashed changes
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
+<<<<<<< Updated upstream
       "modifiedTime": 1752248859528,
+=======
+      "modifiedTime": 1752768037262,
+>>>>>>> Stashed changes
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -2174,6 +2355,7 @@
       "exportedPath": "work/acc/projects/acc-redesign/discovery/data/ad-usage.html",
       "dependencies": []
     },
+<<<<<<< Updated upstream
     "Work/ACC/Projects/ACC Redesign/Discovery/Metric Responses to Word Doc.md": {
       "modifiedTime": 1752248859528,
       "sourceSize": 4843,
@@ -2202,6 +2384,12 @@
       "modifiedTime": 1752248859528,
       "sourceSize": 25260,
       "exportedPath": "work/acc/projects/saps/accsap-content-comparison.html",
+=======
+    "Work/ACC/Projects/Member Sections/Content Doc Blue Print.md": {
+      "modifiedTime": 1752768037262,
+      "sourceSize": 8870,
+      "exportedPath": "work/acc/projects/member-sections/content-doc-blue-print.html",
+>>>>>>> Stashed changes
       "dependencies": []
     }
   }
